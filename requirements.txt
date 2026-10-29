@@ -1,0 +1,7 @@
+pymupdf
+yomitoku
+cv2
+pandas
+json
+anthropic
+dotenv
