@@ -1,0 +1,2 @@
+# Omitting the venv and relying on requirements.txt for the librairies
+venv
