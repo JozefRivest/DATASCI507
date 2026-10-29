@@ -1,2 +1,5 @@
 # Omitting the venv and relying on requirements.txt for the librairies
 venv
+
+# Remove unecessary files
+output
