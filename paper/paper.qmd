@@ -1,0 +1,71 @@
+---
+title: "DATASCI507: Proposal"
+author: Jozef Rivest
+date: today
+date-format: long
+
+format:
+  pdf:
+    documentclass: article
+    fontsize: 12pt
+    number-sections: true
+    geometry:
+      - margin=1in
+    pdf-engine: pdflatex
+    cite-method: biblatex
+    linkcolor: Maroon
+    urlcolor: Maroon
+    citecolor: Maroon
+    template-partials:
+      - biblio-config.tex
+    include-in-header:
+      - text: |
+          \newcommand{\trace}{\text{trace}}
+          \newcommand{\rank}{\text{rank}}
+          \newcommand{\diag}{\text{diag}}
+          \newcommand{\cov}{\text{cov}}
+          \newcommand{\var}{\text{var}}
+          \newcommand{\V}{\mathbb{V}}
+          \newcommand{\E}{\mathbb{E}}
+          \newcommand{\e}{\varepsilon}
+          \newcommand{\N}{\mathcal{N}}
+          \newcommand{\indep}{\perp \! \! \! \perp}
+
+#bibliography: refs.bib
+execute:
+  freeze: true
+  message: false
+  error: false
+  warning: false
+
+abstract: |
+  **Placeholder**
+---
+
+# Introduction
+
+Can political bulletins tell us something about party's level of centralization?
+
+# Theory
+
+The setup goes as follow. A national party $i$ seeks to gain as much
+votes as possible in order to win an election. To achieve this, it has
+to convince the local population across the whole country to i) turnout
+on the day of the election, and ii) vote for party $i$. To do this, the
+party dispose of resources which it can allocates across the different
+constituencies to help promote certain candidates. The party $i$ also needs
+to decide how *discretionary* its candidates can be in their campaign.
+For simplicity, we will treat the allocation of resources as fixed for this
+model, and focus exclusively on the *centralization* choice of party $i$.
+
+The problem about centralization goes as follow. The leader of party $i$
+does not know about the local needs and issues of all the constituencies.
+Therefore, by imposing a low discretionary power to the candidates running
+for its party, he runs the risk to alineate part of the electorate. His 
+priorities might be situated far from those of the local population in 
+constituency $d$.
+
+# Data
+
+This project collects an original data set using political bulletins in
+Japan for the 2021, 2024, 2026 lower house elections.
