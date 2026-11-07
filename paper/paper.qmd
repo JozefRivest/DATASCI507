@@ -67,5 +67,23 @@ constituency $d$.
 
 # Data
 
-This project collects an original data set using political bulletins in
-Japan for the 2021, 2024, 2026 lower house elections.
+This project collects an original dataset using political bulletins in
+Japan for the 2024, 2025, and 2026 lower house elections. The pipeline goes
+as follow. We first developped a webscrapper to retrieve the election
+bulletins from [go2senkyo.com](https://go2senkyo.com/). The website
+compiles all the election bulletins across all districts retrieved from
+each prefecture's electoral commission. The scrapper gets all the PDFs
+files and store them locally. Once the files are downloaded, another 
+script uses Claude API to segment all the PDFs into the candidates 
+running inside district $d$. This approach is to facilitate the following
+step, which is to use PDF parsing and OCR, and to increase the precision
+of the information retrieved. About the parsing and the OCR, we used the
+[Yomitoku](https://kotaro-kinoshita.github.io/yomitoku/en/) Python librairy
+that is optimized for Japanese text and documents.
+
+Once the parsing is done, we can store the information into a Pandas dataframe.
+Each candidates (rows) have the following information attached to them: 
+1) text from their election bulletin, 2) the number of paragraphs,
+3) the number of headings, 4) the total number of characters (including both
+Kanji and Kana).
+
