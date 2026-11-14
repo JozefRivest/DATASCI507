@@ -1,0 +1,31 @@
+---
+config:
+  theme: base
+  look: classic
+  themeVariables:
+    fontFamily: 'Latin Modern Roman, serif'
+    fontSize: '16px'
+    primaryColor: '#e3f2fd'
+    primaryTextColor: '#0d2a4a'
+    primaryBorderColor: '#1565c0'
+    lineColor: '#546e7a'
+    edgeLabelBackground: '#ffffff'
+  flowchart:
+    curve: basis
+    nodeSpacing: 40
+    rankSpacing: 50
+---
+flowchart LR
+    A[(Raw electoral<br/>bulletins · PDF)] -->|Claude API| B[Segment by<br/>candidate]
+    B -->|Yomitoku OCR| C[Extract metadata<br/>and text]
+    C --> D[(Pandas<br/>dataframe)]
+    D --> E([Text complexity<br/>measures])
+    D --> F([Structural topic<br/>model])
+    D --> G([Party centrality<br/> measure])
+
+    classDef data fill:#fff8e1,stroke:#f9a825,color:#4e342e
+    classDef process fill:#e3f2fd,stroke:#1565c0,color:#0d2a4a
+    classDef analysis fill:#e8f5e9,stroke:#2e7d32,color:#1b3d1f
+    class A,D data
+    class B,C process
+    class E,F,G analysis
