@@ -48,22 +48,57 @@ Can political bulletins tell us something about party's level of centralization?
 
 # Theory
 
-The setup goes as follow. A national party $i$ seeks to gain as much
+## Model
+
+The setup goes as follows. A national party $P$ seeks to gain as many
 votes as possible in order to win an election. To achieve this, it has
-to convince the local population across the whole country to i) turnout
-on the day of the election, and ii) vote for party $i$. To do this, the
-party dispose of resources which it can allocates across the different
-constituencies to help promote certain candidates. The party $i$ also needs
+to convince the local population across the whole country to i) turn out
+on the day of the election, and ii) vote for party $P$. To do this, the
+party has resources that it can allocate across the different
+constituencies to help promote certain candidates. The party $P$ also needs
 to decide how *discretionary* its candidates can be in their campaign.
 For simplicity, we will treat the allocation of resources as fixed for this
-model, and focus exclusively on the *centralization* choice of party $i$.
+model, and focus exclusively on the *centralization* choice of party $P$.
 
-The problem about centralization goes as follow. The leader of party $i$
-does not know about the local needs and issues of all the constituencies.
-Therefore, by imposing a low discretionary power to the candidates running
-for its party, he runs the risk to alineate part of the electorate. His 
-priorities might be situated far from those of the local population in 
-constituency $d$.
+The problem of centralization goes as follows. The leader ($L$) of
+party $P$ does not know about the local needs and issues of all the
+constituencies.  Therefore, by granting little discretionary power to
+the candidates ($C$) running for its party, he runs the risk of alienating
+part of the electorate. His priorities might be situated far from those
+of the local population in constituency $d$.
+
+On the other hand, the party leader can't delegate all the power and
+discretionary choices to the candidates. Doing so would be
+suboptimal, as his preferences might not be aligned with
+those of all the candidates. Therefore, delegating all of his power to
+the local candidates runs the risk of leaving these candidates to run on
+"unwanted platforms". The party still wants to campaign on a relatively
+similar platform. Therefore, the choice is to decide how far from the
+party's national platform candidates can run.
+
+The formalization goes as follows. In this game, we have one party leader
+$L$ and $N$ candidates, one per constituency $d \in \{1, \dots, N\}$.
+The party leader $L$ has utility preferences represented by
+$u_L(\mathbf{x}, \boldsymbol{\theta}) = -\sum_{d=1}^{N} (x_d - \theta_d)^2$.
+Here, $x_d$ represents the platform chosen by the candidate in
+constituency $d$, and $\theta_d$ is the optimal point of constituency $d$.
+Each constituency's optimal point is drawn i.i.d. from a distribution $F$,
+$\theta_d \sim F$. The party leader doesn't observe the realization of
+$\theta_d$, but he does know the distribution $F$.
+
+The candidate in constituency $d$ has utility preferences represented by
+$u_{C_d}(x_d, \theta_d, b) = -(x_d - \theta_d - b)^2$, where $x_d$ is
+the candidate's platform, $\theta_d$ is the local optimal point, and $b$
+is the bias, or disagreement, of the candidates with the party leader,
+assumed common to all candidates.
+Each candidate gets to observe $\theta_d$ before choosing their own 
+platform $x_d$.
+
+The game follows this timing: $L$ commits to a set of permitted
+platforms $\mathcal{D}$; Nature draws $\theta_d$; candidate $d$ observes $\theta_d$; candidate $d$
+chooses $x_d \in \mathcal{D}$.
+
+## Literature
 
 # Data
 
@@ -87,3 +122,17 @@ Each candidates (rows) have the following information attached to them:
 3) the number of headings, 4) the total number of characters (including both
 Kanji and Kana).
 
+@fig-bulletin-example present an example of an electoral bulletin for one 
+candidate.
+
+![Political candidate in Aichi prefecture](../data/cleaned_bulletins/test/01_大西雅人_社民党.pdf){#fig-bulletin-example}
+
+@fig-pipeline presents the pipeline of the project, and the future extension
+that can be made from the data generated.
+
+```{mermaid}
+%%| fig-width: 80%
+%%| fig-cap: Pipeline of the project and future extension
+%%| label: fig-pipeline 
+%%| file: flowchart.mmd
+```
