@@ -94,9 +94,9 @@ assumed common to all candidates.
 Each candidate gets to observe $\theta_d$ before choosing their own 
 platform $x_d$.
 
-The game follows this timing: $L$ commits to a set of permitted
-platforms $\mathcal{D}$; Nature draws $\theta_d$; candidate $d$ observes $\theta_d$; candidate $d$
-chooses $x_d \in \mathcal{D}$.
+The game follows this timing: $L$ commits to a set of permitted platforms
+$\mathcal{D}$; Nature draws $\theta_d$; candidate $d$ observes $\theta_d$;
+candidate $d$ chooses $x_d \in \mathcal{D}$.
 
 ## Literature
 
