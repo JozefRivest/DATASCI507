@@ -4,3 +4,6 @@ venv
 # Remove unecessary files
 output
 notes/websites.md
+
+/.quarto/
+**/*.quarto_ipynb
