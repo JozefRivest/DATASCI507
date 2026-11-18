@@ -1,6 +1,6 @@
 # DATASCI507
 
-The paper for the final project is located in `paper` directory.
+The paper for the final project is located in `_output/paper` directory.
 
 ## Dependencies
 
