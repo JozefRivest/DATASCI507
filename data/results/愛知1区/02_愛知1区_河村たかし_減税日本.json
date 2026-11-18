@@ -1,0 +1,3093 @@
+{
+    "figures": [
+        {
+            "box": [
+                195,
+                149,
+                245,
+                211
+            ],
+            "direction": "horizontal",
+            "order": 4,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                259,
+                119,
+                374,
+                381
+            ],
+            "direction": "vertical",
+            "order": 8,
+            "paragraphs": [
+                {
+                    "box": [
+                        280,
+                        120,
+                        361,
+                        259
+                    ],
+                    "contents": "絶対やり遂げてみせるで\n引き続き応援したってちょ!\nたのんます !\n話題さむらう場アケイン!",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1068,
+                8,
+                1173,
+                142
+            ],
+            "direction": "horizontal",
+            "order": 30,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                0,
+                12,
+                1032,
+                110
+            ],
+            "contents": "ナゴヤの減税なと実績を日本に !!",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                45,
+                131,
+                192,
+                147
+            ],
+            "contents": "河村たかし プロフィール",
+            "direction": "horizontal",
+            "order": 1,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                0,
+                151,
+                177,
+                186
+            ],
+            "contents": "■生年月日\n昭和23年生まれ\n名古屋市東区古出来、古紙業の家に生まれる",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                0,
+                189,
+                32,
+                203
+            ],
+            "contents": "■経歴",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                0,
+                203,
+                205,
+                277
+            ],
+            "contents": "旭丘小,桜丘中,旭丘高校 一橋大学商学部,卒\n昭和47年4月~家業の河村森恵(株)に従集する\n平成5年7月~21年4月、茨城家族員(5期)\n平成22年4月~地域独券「減税日本」旗揚げ\n平成21年4月~令和6年10月 名古屋市長(4期:5週)\n令和6年10月一衆議院議員(6期目",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                0,
+                295,
+                157,
+                326
+            ],
+            "contents": "河村たかし公式ウェブサイト\ntakashi-kawamura.com",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                0,
+                346,
+                175,
+                377
+            ],
+            "contents": "河村たかし公式X(旧Twitter)\n@kawamura758",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                407,
+                177,
+                423,
+                319
+            ],
+            "contents": "歴史的建造物を復元!!",
+            "direction": "vertical",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                427,
+                177,
+                444,
+                332
+            ],
+            "contents": "憲法に文化保護を明記し",
+            "direction": "vertical",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                470,
+                177,
+                487,
+                263
+            ],
+            "contents": "専守防衛明記",
+            "direction": "vertical",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                492,
+                177,
+                508,
+                343
+            ],
+            "contents": "日本国憲法第9条の改正と",
+            "direction": "vertical",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                528,
+                123,
+                581,
+                135
+            ],
+            "contents": "環境エネルギー",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                544,
+                144,
+                562,
+                175
+            ],
+            "contents": "7",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                536,
+                177,
+                552,
+                286
+            ],
+            "contents": "脱CO2再検討 !!",
+            "direction": "vertical",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                555,
+                177,
+                572,
+                358
+            ],
+            "contents": "火力発電の技術革新大促進と",
+            "direction": "vertical",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                599,
+                176,
+                617,
+                326
+            ],
+            "contents": "ワンコイン500円に !",
+            "direction": "vertical",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                620,
+                177,
+                636,
+                276
+            ],
+            "contents": "高速道路定額制",
+            "direction": "vertical",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                664,
+                177,
+                680,
+                261
+            ],
+            "contents": "技術立国へ!!",
+            "direction": "vertical",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                685,
+                177,
+                700,
+                315
+            ],
+            "contents": "官民合同の資金運用で",
+            "direction": "vertical",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                729,
+                177,
+                744,
+                302
+            ],
+            "contents": "国民の福祉を充実 !",
+            "direction": "vertical",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                747,
+                176,
+                767,
+                310
+            ],
+            "contents": "減税で税収を増やし、",
+            "direction": "vertical",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                792,
+                177,
+                810,
+                304
+            ],
+            "contents": "子どもの命を守る !",
+            "direction": "vertical",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                812,
+                177,
+                830,
+                371
+            ],
+            "contents": "1人の子どもも死なせない日本",
+            "direction": "vertical",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                857,
+                177,
+                872,
+                317
+            ],
+            "contents": "政治の家業化を廃止 !!",
+            "direction": "vertical",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                878,
+                177,
+                893,
+                371
+            ],
+            "contents": "地方議員の市民並み給与を実現",
+            "direction": "vertical",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                922,
+                177,
+                937,
+                340
+            ],
+            "contents": "食料品、生活費、酒類セロへ",
+            "direction": "vertical",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                942,
+                177,
+                958,
+                348
+            ],
+            "contents": "消費税恒久減税10%→5%",
+            "direction": "vertical",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                979,
+                121,
+                1188,
+                381
+            ],
+            "contents": "減税日本公認\n(2)\n河村たかし\n9つの絶対約束",
+            "direction": "vertical",
+            "order": 31,
+            "role": null
+        }
+    ],
+    "tables": [
+        {
+            "box": [
+                397,
+                121,
+                969,
+                380
+            ],
+            "cells": [
+                {
+                    "box": [
+                        397,
+                        121,
+                        456,
+                        136
+                    ],
+                    "col": 1,
+                    "col_span": 2,
+                    "contents": "文化",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        121,
+                        522,
+                        136
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "外交·安保",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        121,
+                        652,
+                        136
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "交通インフラ",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        122,
+                        712,
+                        136
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "産業",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        121,
+                        780,
+                        136
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "福祉",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        121,
+                        841,
+                        136
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "教育子ども",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        121,
+                        908,
+                        136
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "地方自治",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        906,
+                        121,
+                        969,
+                        136
+                    ],
+                    "col": 9,
+                    "col_span": 2,
+                    "contents": "消費税減税",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        136,
+                        454,
+                        173
+                    ],
+                    "col": 1,
+                    "col_span": 2,
+                    "contents": "9",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        136,
+                        523,
+                        173
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "8",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        136,
+                        653,
+                        174
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "6",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        136,
+                        712,
+                        173
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "5",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        136,
+                        780,
+                        173
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "4",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        136,
+                        841,
+                        173
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "3",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        841,
+                        136,
+                        908,
+                        173
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "2",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        907,
+                        136,
+                        968,
+                        173
+                    ],
+                    "col": 9,
+                    "col_span": 2,
+                    "contents": "1",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        173,
+                        424,
+                        191
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        173,
+                        454,
+                        191
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        173,
+                        522,
+                        191
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        173,
+                        652,
+                        191
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        173,
+                        712,
+                        191
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        173,
+                        780,
+                        191
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        173,
+                        841,
+                        191
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        173,
+                        908,
+                        191
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        173,
+                        939,
+                        191
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        173,
+                        969,
+                        191
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        191,
+                        424,
+                        205
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        191,
+                        454,
+                        205
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        191,
+                        522,
+                        205
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        191,
+                        652,
+                        205
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        191,
+                        712,
+                        205
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        191,
+                        780,
+                        205
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        191,
+                        841,
+                        205
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        191,
+                        908,
+                        205
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        191,
+                        939,
+                        205
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        191,
+                        969,
+                        205
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 4,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        205,
+                        424,
+                        218
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        205,
+                        454,
+                        218
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        205,
+                        522,
+                        218
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        205,
+                        652,
+                        218
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        205,
+                        712,
+                        218
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        205,
+                        780,
+                        218
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        205,
+                        841,
+                        218
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        205,
+                        908,
+                        218
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        205,
+                        939,
+                        218
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        205,
+                        969,
+                        218
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 5,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        218,
+                        424,
+                        232
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        218,
+                        454,
+                        232
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        218,
+                        522,
+                        232
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        218,
+                        652,
+                        232
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        218,
+                        712,
+                        232
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        218,
+                        780,
+                        232
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        218,
+                        841,
+                        232
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        218,
+                        908,
+                        232
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        218,
+                        939,
+                        232
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        218,
+                        969,
+                        232
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 6,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        232,
+                        424,
+                        245
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        232,
+                        454,
+                        245
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        232,
+                        522,
+                        245
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        232,
+                        652,
+                        245
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        232,
+                        712,
+                        245
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        232,
+                        780,
+                        245
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        232,
+                        841,
+                        245
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        232,
+                        908,
+                        245
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        232,
+                        939,
+                        245
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        232,
+                        968,
+                        245
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 7,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        246,
+                        424,
+                        259
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        246,
+                        454,
+                        259
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        246,
+                        522,
+                        259
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        246,
+                        652,
+                        259
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        246,
+                        712,
+                        259
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        246,
+                        780,
+                        259
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        246,
+                        841,
+                        259
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        246,
+                        908,
+                        259
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        246,
+                        939,
+                        259
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        246,
+                        968,
+                        259
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 8,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        260,
+                        424,
+                        273
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        260,
+                        454,
+                        273
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        260,
+                        522,
+                        273
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        260,
+                        652,
+                        273
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        260,
+                        712,
+                        273
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        260,
+                        780,
+                        273
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        260,
+                        841,
+                        273
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        260,
+                        908,
+                        273
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        260,
+                        939,
+                        273
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        260,
+                        968,
+                        273
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 9,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        397,
+                        274,
+                        424,
+                        379
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        423,
+                        274,
+                        454,
+                        379
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        454,
+                        274,
+                        522,
+                        379
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        583,
+                        274,
+                        652,
+                        379
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        679,
+                        274,
+                        712,
+                        379
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        711,
+                        274,
+                        780,
+                        379
+                    ],
+                    "col": 6,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        780,
+                        274,
+                        841,
+                        379
+                    ],
+                    "col": 7,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        840,
+                        274,
+                        908,
+                        379
+                    ],
+                    "col": 8,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        909,
+                        274,
+                        939,
+                        379
+                    ],
+                    "col": 9,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        939,
+                        274,
+                        969,
+                        379
+                    ],
+                    "col": 10,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 10,
+                    "row_span": 1
+                }
+            ],
+            "n_col": 10,
+            "n_row": 10,
+            "order": 9
+        }
+    ],
+    "words": [
+        {
+            "content": "@kawamura758",
+            "det_score": 0.7971313646015449,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    363
+                ],
+                [
+                    95,
+                    363
+                ],
+                [
+                    95,
+                    377
+                ],
+                [
+                    0,
+                    377
+                ]
+            ],
+            "rec_score": 0.9542822241783142
+        },
+        {
+            "content": "減税日本公認",
+            "det_score": 0.8518888810649514,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1047,
+                    356
+                ],
+                [
+                    1191,
+                    356
+                ],
+                [
+                    1191,
+                    380
+                ],
+                [
+                    1047,
+                    380
+                ]
+            ],
+            "rec_score": 0.9892279505729675
+        },
+        {
+            "content": "河村たかし公式X(旧Twitter)",
+            "det_score": 0.8102879024166716,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    347
+                ],
+                [
+                    173,
+                    347
+                ],
+                [
+                    173,
+                    360
+                ],
+                [
+                    1,
+                    360
+                ]
+            ],
+            "rec_score": 0.936455488204956
+        },
+        {
+            "content": "takashi-kawamura.com",
+            "det_score": 0.8451370974862612,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    312
+                ],
+                [
+                    133,
+                    313
+                ],
+                [
+                    133,
+                    327
+                ],
+                [
+                    0,
+                    326
+                ]
+            ],
+            "rec_score": 0.7420425415039062
+        },
+        {
+            "content": "河村たかし公式ウェブサイト",
+            "det_score": 0.8064885300696328,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    296
+                ],
+                [
+                    157,
+                    296
+                ],
+                [
+                    157,
+                    309
+                ],
+                [
+                    1,
+                    309
+                ]
+            ],
+            "rec_score": 0.9461071491241455
+        },
+        {
+            "content": "令和6年10月一衆議院議員(6期目",
+            "det_score": 0.8466763437132944,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    267
+                ],
+                [
+                    137,
+                    267
+                ],
+                [
+                    137,
+                    277
+                ],
+                [
+                    1,
+                    277
+                ]
+            ],
+            "rec_score": 0.19086316227912903
+        },
+        {
+            "content": "平成21年4月~令和6年10月 名古屋市長(4期:5週)",
+            "det_score": 0.7996108396507188,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    254
+                ],
+                [
+                    204,
+                    254
+                ],
+                [
+                    204,
+                    264
+                ],
+                [
+                    1,
+                    264
+                ]
+            ],
+            "rec_score": 0.46436578035354614
+        },
+        {
+            "content": "平成22年4月~地域独券「減税日本」旗揚げ",
+            "det_score": 0.8515189101169247,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    240
+                ],
+                [
+                    171,
+                    241
+                ],
+                [
+                    171,
+                    252
+                ],
+                [
+                    0,
+                    251
+                ]
+            ],
+            "rec_score": 0.014061052352190018
+        },
+        {
+            "content": "平成5年7月~21年4月、茨城家族員(5期)",
+            "det_score": 0.8364318938038345,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    229
+                ],
+                [
+                    162,
+                    229
+                ],
+                [
+                    162,
+                    238
+                ],
+                [
+                    1,
+                    238
+                ]
+            ],
+            "rec_score": 0.06286648660898209
+        },
+        {
+            "content": "昭和47年4月~家業の河村森恵(株)に従集する",
+            "det_score": 0.806991754111134,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    216
+                ],
+                [
+                    188,
+                    216
+                ],
+                [
+                    188,
+                    225
+                ],
+                [
+                    0,
+                    225
+                ]
+            ],
+            "rec_score": 0.17097988724708557
+        },
+        {
+            "content": "旭丘小,桜丘中,旭丘高校 一橋大学商学部,卒",
+            "det_score": 0.8420515148289814,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    204
+                ],
+                [
+                    188,
+                    204
+                ],
+                [
+                    188,
+                    213
+                ],
+                [
+                    1,
+                    213
+                ]
+            ],
+            "rec_score": 0.07652527093887329
+        },
+        {
+            "content": "■経歴",
+            "det_score": 0.8263064977668582,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    189
+                ],
+                [
+                    32,
+                    189
+                ],
+                [
+                    32,
+                    203
+                ],
+                [
+                    0,
+                    203
+                ]
+            ],
+            "rec_score": 0.9898456335067749
+        },
+        {
+            "content": "消費税恒久減税10%→5%",
+            "det_score": 0.8110400580484932,
+            "direction": "vertical",
+            "points": [
+                [
+                    942,
+                    177
+                ],
+                [
+                    958,
+                    177
+                ],
+                [
+                    958,
+                    348
+                ],
+                [
+                    942,
+                    348
+                ]
+            ],
+            "rec_score": 0.8497138023376465
+        },
+        {
+            "content": "地方議員の市民並み給与を実現",
+            "det_score": 0.8237823069728611,
+            "direction": "vertical",
+            "points": [
+                [
+                    878,
+                    177
+                ],
+                [
+                    893,
+                    177
+                ],
+                [
+                    893,
+                    371
+                ],
+                [
+                    878,
+                    371
+                ]
+            ],
+            "rec_score": 0.9923433661460876
+        },
+        {
+            "content": "政治の家業化を廃止 !!",
+            "det_score": 0.8427735225983464,
+            "direction": "vertical",
+            "points": [
+                [
+                    857,
+                    177
+                ],
+                [
+                    872,
+                    177
+                ],
+                [
+                    872,
+                    317
+                ],
+                [
+                    857,
+                    317
+                ]
+            ],
+            "rec_score": 0.7124986052513123
+        },
+        {
+            "content": "1人の子どもも死なせない日本",
+            "det_score": 0.8442445013441006,
+            "direction": "vertical",
+            "points": [
+                [
+                    812,
+                    177
+                ],
+                [
+                    830,
+                    177
+                ],
+                [
+                    830,
+                    371
+                ],
+                [
+                    812,
+                    371
+                ]
+            ],
+            "rec_score": 0.9997445344924927
+        },
+        {
+            "content": "子どもの命を守る !",
+            "det_score": 0.8625386363944633,
+            "direction": "vertical",
+            "points": [
+                [
+                    792,
+                    177
+                ],
+                [
+                    810,
+                    177
+                ],
+                [
+                    810,
+                    304
+                ],
+                [
+                    792,
+                    304
+                ]
+            ],
+            "rec_score": 0.5202960968017578
+        },
+        {
+            "content": "減税で税収を増やし、",
+            "det_score": 0.8301951798299949,
+            "direction": "vertical",
+            "points": [
+                [
+                    747,
+                    176
+                ],
+                [
+                    767,
+                    176
+                ],
+                [
+                    767,
+                    310
+                ],
+                [
+                    747,
+                    310
+                ]
+            ],
+            "rec_score": 0.9802246689796448
+        },
+        {
+            "content": "国民の福祉を充実 !",
+            "det_score": 0.8151000979255634,
+            "direction": "vertical",
+            "points": [
+                [
+                    729,
+                    177
+                ],
+                [
+                    744,
+                    177
+                ],
+                [
+                    744,
+                    302
+                ],
+                [
+                    729,
+                    302
+                ]
+            ],
+            "rec_score": 0.3521004617214203
+        },
+        {
+            "content": "高速道路定額制",
+            "det_score": 0.8700388555514051,
+            "direction": "vertical",
+            "points": [
+                [
+                    620,
+                    177
+                ],
+                [
+                    636,
+                    177
+                ],
+                [
+                    636,
+                    276
+                ],
+                [
+                    620,
+                    276
+                ]
+            ],
+            "rec_score": 0.9873303174972534
+        },
+        {
+            "content": "火力発電の技術革新大促進と",
+            "det_score": 0.8417403300131974,
+            "direction": "vertical",
+            "points": [
+                [
+                    555,
+                    177
+                ],
+                [
+                    572,
+                    177
+                ],
+                [
+                    572,
+                    358
+                ],
+                [
+                    556,
+                    358
+                ]
+            ],
+            "rec_score": 0.9987331032752991
+        },
+        {
+            "content": "脱CO2再検討 !!",
+            "det_score": 0.8413033391097708,
+            "direction": "vertical",
+            "points": [
+                [
+                    536,
+                    177
+                ],
+                [
+                    552,
+                    177
+                ],
+                [
+                    552,
+                    286
+                ],
+                [
+                    536,
+                    286
+                ]
+            ],
+            "rec_score": 0.8077983260154724
+        },
+        {
+            "content": "日本国憲法第9条の改正と",
+            "det_score": 0.8699999990027997,
+            "direction": "vertical",
+            "points": [
+                [
+                    492,
+                    177
+                ],
+                [
+                    508,
+                    177
+                ],
+                [
+                    508,
+                    343
+                ],
+                [
+                    492,
+                    343
+                ]
+            ],
+            "rec_score": 0.9978049397468567
+        },
+        {
+            "content": "憲法に文化保護を明記し",
+            "det_score": 0.8601099621587329,
+            "direction": "vertical",
+            "points": [
+                [
+                    427,
+                    177
+                ],
+                [
+                    444,
+                    177
+                ],
+                [
+                    444,
+                    332
+                ],
+                [
+                    427,
+                    332
+                ]
+            ],
+            "rec_score": 0.9984685778617859
+        },
+        {
+            "content": "食料品、生活費、酒類セロへ",
+            "det_score": 0.8135209093803507,
+            "direction": "vertical",
+            "points": [
+                [
+                    922,
+                    177
+                ],
+                [
+                    937,
+                    177
+                ],
+                [
+                    937,
+                    340
+                ],
+                [
+                    922,
+                    340
+                ]
+            ],
+            "rec_score": 0.9558572173118591
+        },
+        {
+            "content": "官民合同の資金運用で",
+            "det_score": 0.8349774432739592,
+            "direction": "vertical",
+            "points": [
+                [
+                    685,
+                    177
+                ],
+                [
+                    700,
+                    177
+                ],
+                [
+                    700,
+                    315
+                ],
+                [
+                    685,
+                    315
+                ]
+            ],
+            "rec_score": 0.9899137616157532
+        },
+        {
+            "content": "技術立国へ!!",
+            "det_score": 0.8471371574724003,
+            "direction": "vertical",
+            "points": [
+                [
+                    664,
+                    177
+                ],
+                [
+                    680,
+                    177
+                ],
+                [
+                    680,
+                    261
+                ],
+                [
+                    664,
+                    261
+                ]
+            ],
+            "rec_score": 0.38580986857414246
+        },
+        {
+            "content": "ワンコイン500円に !",
+            "det_score": 0.8541329579002249,
+            "direction": "vertical",
+            "points": [
+                [
+                    599,
+                    176
+                ],
+                [
+                    617,
+                    176
+                ],
+                [
+                    617,
+                    326
+                ],
+                [
+                    599,
+                    326
+                ]
+            ],
+            "rec_score": 0.6252402663230896
+        },
+        {
+            "content": "専守防衛明記",
+            "det_score": 0.8247397355606696,
+            "direction": "vertical",
+            "points": [
+                [
+                    470,
+                    177
+                ],
+                [
+                    487,
+                    177
+                ],
+                [
+                    487,
+                    263
+                ],
+                [
+                    470,
+                    263
+                ]
+            ],
+            "rec_score": 0.9756439328193665
+        },
+        {
+            "content": "歴史的建造物を復元!!",
+            "det_score": 0.8249843670991049,
+            "direction": "vertical",
+            "points": [
+                [
+                    407,
+                    177
+                ],
+                [
+                    423,
+                    177
+                ],
+                [
+                    423,
+                    319
+                ],
+                [
+                    407,
+                    319
+                ]
+            ],
+            "rec_score": 0.5247763991355896
+        },
+        {
+            "content": "名古屋市東区古出来、古紙業の家に生まれる",
+            "det_score": 0.8057550262202297,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1,
+                    176
+                ],
+                [
+                    176,
+                    176
+                ],
+                [
+                    176,
+                    185
+                ],
+                [
+                    1,
+                    185
+                ]
+            ],
+            "rec_score": 0.16109314560890198
+        },
+        {
+            "content": "(2)",
+            "det_score": 0.7086640565201293,
+            "direction": "horizontal",
+            "points": [
+                [
+                    988,
+                    107
+                ],
+                [
+                    1191,
+                    99
+                ],
+                [
+                    1191,
+                    382
+                ],
+                [
+                    997,
+                    390
+                ]
+            ],
+            "rec_score": 0.09812266379594803
+        },
+        {
+            "content": "昭和23年生まれ",
+            "det_score": 0.8324843869561155,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    165
+                ],
+                [
+                    64,
+                    165
+                ],
+                [
+                    64,
+                    174
+                ],
+                [
+                    0,
+                    174
+                ]
+            ],
+            "rec_score": 0.9984055161476135
+        },
+        {
+            "content": "■生年月日",
+            "det_score": 0.7512646562316938,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    151
+                ],
+                [
+                    48,
+                    151
+                ],
+                [
+                    48,
+                    163
+                ],
+                [
+                    0,
+                    163
+                ]
+            ],
+            "rec_score": 0.9808896780014038
+        },
+        {
+            "content": "3",
+            "det_score": 0.8116822295759354,
+            "direction": "horizontal",
+            "points": [
+                [
+                    799,
+                    143
+                ],
+                [
+                    823,
+                    143
+                ],
+                [
+                    823,
+                    176
+                ],
+                [
+                    799,
+                    176
+                ]
+            ],
+            "rec_score": 0.9988104104995728
+        },
+        {
+            "content": "4",
+            "det_score": 0.7744305715556966,
+            "direction": "horizontal",
+            "points": [
+                [
+                    737,
+                    144
+                ],
+                [
+                    758,
+                    144
+                ],
+                [
+                    758,
+                    177
+                ],
+                [
+                    737,
+                    177
+                ]
+            ],
+            "rec_score": 0.999788761138916
+        },
+        {
+            "content": "8",
+            "det_score": 0.8011259532680637,
+            "direction": "horizontal",
+            "points": [
+                [
+                    479,
+                    144
+                ],
+                [
+                    499,
+                    144
+                ],
+                [
+                    499,
+                    175
+                ],
+                [
+                    479,
+                    175
+                ]
+            ],
+            "rec_score": 0.9992989301681519
+        },
+        {
+            "content": "1",
+            "det_score": 0.6282317661890039,
+            "direction": "horizontal",
+            "points": [
+                [
+                    930,
+                    144
+                ],
+                [
+                    948,
+                    144
+                ],
+                [
+                    948,
+                    176
+                ],
+                [
+                    930,
+                    176
+                ]
+            ],
+            "rec_score": 0.9999431371688843
+        },
+        {
+            "content": "2",
+            "det_score": 0.8256493066423035,
+            "direction": "horizontal",
+            "points": [
+                [
+                    865,
+                    143
+                ],
+                [
+                    886,
+                    143
+                ],
+                [
+                    886,
+                    176
+                ],
+                [
+                    865,
+                    176
+                ]
+            ],
+            "rec_score": 0.9997273683547974
+        },
+        {
+            "content": "5",
+            "det_score": 0.8387270111675016,
+            "direction": "horizontal",
+            "points": [
+                [
+                    672,
+                    143
+                ],
+                [
+                    693,
+                    143
+                ],
+                [
+                    693,
+                    175
+                ],
+                [
+                    672,
+                    175
+                ]
+            ],
+            "rec_score": 0.9984531402587891
+        },
+        {
+            "content": "6",
+            "det_score": 0.7785811301510213,
+            "direction": "horizontal",
+            "points": [
+                [
+                    608,
+                    143
+                ],
+                [
+                    628,
+                    143
+                ],
+                [
+                    628,
+                    176
+                ],
+                [
+                    608,
+                    176
+                ]
+            ],
+            "rec_score": 0.9877156019210815
+        },
+        {
+            "content": "7",
+            "det_score": 0.7548932261900468,
+            "direction": "horizontal",
+            "points": [
+                [
+                    544,
+                    144
+                ],
+                [
+                    562,
+                    144
+                ],
+                [
+                    562,
+                    175
+                ],
+                [
+                    544,
+                    175
+                ]
+            ],
+            "rec_score": 0.9848300218582153
+        },
+        {
+            "content": "9",
+            "det_score": 0.7654548255574236,
+            "direction": "horizontal",
+            "points": [
+                [
+                    415,
+                    143
+                ],
+                [
+                    435,
+                    143
+                ],
+                [
+                    435,
+                    176
+                ],
+                [
+                    415,
+                    176
+                ]
+            ],
+            "rec_score": 0.9304617047309875
+        },
+        {
+            "content": "河村たかし プロフィール",
+            "det_score": 0.8738496947039361,
+            "direction": "horizontal",
+            "points": [
+                [
+                    46,
+                    131
+                ],
+                [
+                    191,
+                    131
+                ],
+                [
+                    191,
+                    147
+                ],
+                [
+                    46,
+                    147
+                ]
+            ],
+            "rec_score": 0.9801872968673706
+        },
+        {
+            "content": "9つの絶対約束",
+            "det_score": 0.8473289017614566,
+            "direction": "vertical",
+            "points": [
+                [
+                    978,
+                    117
+                ],
+                [
+                    1024,
+                    117
+                ],
+                [
+                    1024,
+                    382
+                ],
+                [
+                    978,
+                    382
+                ]
+            ],
+            "rec_score": 0.36611661314964294
+        },
+        {
+            "content": "話題さむらう場アケイン!",
+            "det_score": 0.6762245053022374,
+            "direction": "vertical",
+            "points": [
+                [
+                    269,
+                    126
+                ],
+                [
+                    295,
+                    122
+                ],
+                [
+                    320,
+                    261
+                ],
+                [
+                    294,
+                    265
+                ]
+            ],
+            "rec_score": 0.08260349184274673
+        },
+        {
+            "content": "消費税減税",
+            "det_score": 0.7947572352488835,
+            "direction": "horizontal",
+            "points": [
+                [
+                    912,
+                    123
+                ],
+                [
+                    967,
+                    123
+                ],
+                [
+                    967,
+                    135
+                ],
+                [
+                    912,
+                    135
+                ]
+            ],
+            "rec_score": 0.964532196521759
+        },
+        {
+            "content": "地方自治",
+            "det_score": 0.8257616279189459,
+            "direction": "horizontal",
+            "points": [
+                [
+                    854,
+                    123
+                ],
+                [
+                    896,
+                    123
+                ],
+                [
+                    896,
+                    135
+                ],
+                [
+                    854,
+                    135
+                ]
+            ],
+            "rec_score": 0.9969521760940552
+        },
+        {
+            "content": "教育子ども",
+            "det_score": 0.8274771995526596,
+            "direction": "horizontal",
+            "points": [
+                [
+                    786,
+                    123
+                ],
+                [
+                    836,
+                    123
+                ],
+                [
+                    836,
+                    135
+                ],
+                [
+                    786,
+                    135
+                ]
+            ],
+            "rec_score": 0.9988353252410889
+        },
+        {
+            "content": "交通インフラ",
+            "det_score": 0.8207806859884346,
+            "direction": "horizontal",
+            "points": [
+                [
+                    590,
+                    123
+                ],
+                [
+                    646,
+                    123
+                ],
+                [
+                    646,
+                    135
+                ],
+                [
+                    590,
+                    135
+                ]
+            ],
+            "rec_score": 0.9952268600463867
+        },
+        {
+            "content": "環境エネルギー",
+            "det_score": 0.765054632702145,
+            "direction": "horizontal",
+            "points": [
+                [
+                    528,
+                    123
+                ],
+                [
+                    581,
+                    123
+                ],
+                [
+                    581,
+                    135
+                ],
+                [
+                    528,
+                    135
+                ]
+            ],
+            "rec_score": 0.9351427555084229
+        },
+        {
+            "content": "外交·安保",
+            "det_score": 0.8329247258517933,
+            "direction": "horizontal",
+            "points": [
+                [
+                    467,
+                    123
+                ],
+                [
+                    512,
+                    123
+                ],
+                [
+                    512,
+                    135
+                ],
+                [
+                    467,
+                    135
+                ]
+            ],
+            "rec_score": 0.7080627083778381
+        },
+        {
+            "content": "文化",
+            "det_score": 0.8459997043880836,
+            "direction": "horizontal",
+            "points": [
+                [
+                    412,
+                    123
+                ],
+                [
+                    438,
+                    123
+                ],
+                [
+                    438,
+                    136
+                ],
+                [
+                    412,
+                    136
+                ]
+            ],
+            "rec_score": 0.9847957491874695
+        },
+        {
+            "content": "絶対やり遂げてみせるで",
+            "det_score": 0.7983552335484179,
+            "direction": "vertical",
+            "points": [
+                [
+                    348,
+                    120
+                ],
+                [
+                    364,
+                    121
+                ],
+                [
+                    355,
+                    240
+                ],
+                [
+                    340,
+                    238
+                ]
+            ],
+            "rec_score": 0.9541606903076172
+        },
+        {
+            "content": "福祉",
+            "det_score": 0.829538318119487,
+            "direction": "horizontal",
+            "points": [
+                [
+                    733,
+                    121
+                ],
+                [
+                    759,
+                    121
+                ],
+                [
+                    759,
+                    136
+                ],
+                [
+                    733,
+                    136
+                ]
+            ],
+            "rec_score": 0.9946445226669312
+        },
+        {
+            "content": "産業",
+            "det_score": 0.8226301100084691,
+            "direction": "horizontal",
+            "points": [
+                [
+                    670,
+                    121
+                ],
+                [
+                    695,
+                    121
+                ],
+                [
+                    695,
+                    136
+                ],
+                [
+                    670,
+                    136
+                ]
+            ],
+            "rec_score": 0.9850113391876221
+        },
+        {
+            "content": "河村たかし",
+            "det_score": 0.760438660127029,
+            "direction": "vertical",
+            "points": [
+                [
+                    1021,
+                    120
+                ],
+                [
+                    1037,
+                    120
+                ],
+                [
+                    1037,
+                    191
+                ],
+                [
+                    1021,
+                    191
+                ]
+            ],
+            "rec_score": 0.9986206293106079
+        },
+        {
+            "content": "引き続き応援したってちょ!",
+            "det_score": 0.7722817092190464,
+            "direction": "vertical",
+            "points": [
+                [
+                    329,
+                    118
+                ],
+                [
+                    346,
+                    119
+                ],
+                [
+                    338,
+                    259
+                ],
+                [
+                    321,
+                    258
+                ]
+            ],
+            "rec_score": 0.9854323863983154
+        },
+        {
+            "content": "たのんます !",
+            "det_score": 0.7852664376095256,
+            "direction": "vertical",
+            "points": [
+                [
+                    311,
+                    119
+                ],
+                [
+                    328,
+                    119
+                ],
+                [
+                    324,
+                    187
+                ],
+                [
+                    308,
+                    186
+                ]
+            ],
+            "rec_score": 0.5530079007148743
+        },
+        {
+            "content": "ナゴヤの減税なと実績を日本に !!",
+            "det_score": 0.8800226003199096,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    1050,
+                    0
+                ],
+                [
+                    1050,
+                    126
+                ],
+                [
+                    0,
+                    126
+                ]
+            ],
+            "rec_score": 0.5302982926368713
+        }
+    ]
+}

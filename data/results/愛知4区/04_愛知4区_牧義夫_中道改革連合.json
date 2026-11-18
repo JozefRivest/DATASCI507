@@ -1,0 +1,2312 @@
+{
+    "figures": [
+        {
+            "box": [
+                11,
+                6,
+                341,
+                383
+            ],
+            "direction": "horizontal",
+            "order": 0,
+            "paragraphs": [
+                {
+                    "box": [
+                        203,
+                        11,
+                        286,
+                        70
+                    ],
+                    "contents": "牧義夫\n約束",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        192,
+                        82,
+                        339,
+                        145
+                    ],
+                    "contents": "牧義夫\nまき\nよし\nお",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": "section_headings"
+                },
+                {
+                    "box": [
+                        193,
+                        159,
+                        212,
+                        223
+                    ],
+                    "contents": "フロフィール",
+                    "direction": "vertical",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        215,
+                        162,
+                        338,
+                        178
+                    ],
+                    "contents": "元厚生労働副大臣",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": "section_headings"
+                },
+                {
+                    "box": [
+                        213,
+                        183,
+                        338,
+                        245
+                    ],
+                    "contents": "昭和33年名古屋市生まれ\n陽明小·汐路中·\n昭和高校(28回)卒業\n上智大学文学部中退",
+                    "direction": "horizontal",
+                    "order": 4,
+                    "role": null
+                },
+                {
+                    "box": [
+                        175,
+                        292,
+                        334,
+                        372
+                    ],
+                    "contents": "·防府向広報配記者\n·岡山知夫東議院議員秘書を経て\n2000年未病院株式初再年1(既在8月\n· 決議院場協委員長伊生労働委員長\n伊政問題特別委員長など専任",
+                    "direction": "horizontal",
+                    "order": 5,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                626,
+                165,
+                749,
+                241
+            ],
+            "direction": "vertical",
+            "order": 10,
+            "paragraphs": [
+                {
+                    "box": [
+                        719,
+                        184,
+                        731,
+                        226
+                    ],
+                    "contents": "定半減税",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        659,
+                        187,
+                        669,
+                        222
+                    ],
+                    "contents": "型体費税",
+                    "direction": "vertical",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        695,
+                        229,
+                        737,
+                        239
+                    ],
+                    "contents": "5%",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        630,
+                        229,
+                        671,
+                        239
+                    ],
+                    "contents": "10% 8%",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                624,
+                272,
+                799,
+                373
+            ],
+            "direction": "horizontal",
+            "order": 13,
+            "paragraphs": [
+                {
+                    "box": [
+                        628,
+                        288,
+                        651,
+                        304
+                    ],
+                    "contents": "現在の\n京都府",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        635,
+                        318,
+                        646,
+                        344
+                    ],
+                    "contents": "相談型",
+                    "direction": "vertical",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        630,
+                        356,
+                        646,
+                        366
+                    ],
+                    "contents": "8%",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        669,
+                        287,
+                        697,
+                        304
+                    ],
+                    "contents": "日本的\n税制改革",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                },
+                {
+                    "box": [
+                        676,
+                        310,
+                        691,
+                        351
+                    ],
+                    "contents": "定率減税",
+                    "direction": "vertical",
+                    "order": 4,
+                    "role": null
+                },
+                {
+                    "box": [
+                        668,
+                        353,
+                        699,
+                        368
+                    ],
+                    "contents": "セロ%",
+                    "direction": "horizontal",
+                    "order": 5,
+                    "role": null
+                },
+                {
+                    "box": [
+                        652,
+                        316,
+                        665,
+                        333
+                    ],
+                    "contents": ">",
+                    "direction": "horizontal",
+                    "order": 6,
+                    "role": null
+                },
+                {
+                    "box": [
+                        739,
+                        282,
+                        765,
+                        297
+                    ],
+                    "contents": "北海",
+                    "direction": "horizontal",
+                    "order": 7,
+                    "role": null
+                },
+                {
+                    "box": [
+                        712,
+                        302,
+                        789,
+                        362
+                    ],
+                    "contents": "大企業/富裕層の\n法人税·所得税·\n金融所得課税の\n見直しで捻出",
+                    "direction": "horizontal",
+                    "order": 8,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                824,
+                320,
+                1041,
+                378
+            ],
+            "direction": "horizontal",
+            "order": 19,
+            "paragraphs": [
+                {
+                    "box": [
+                        883,
+                        327,
+                        986,
+                        374
+                    ],
+                    "contents": "こちらから\n詳しい政策は\nmakiyoshio.jp",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1070,
+                12,
+                1194,
+                144
+            ],
+            "direction": "horizontal",
+            "order": 20,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                313,
+                11,
+                772,
+                69
+            ],
+            "contents": "いのちを守る政治。",
+            "direction": "horizontal",
+            "order": 1,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                355,
+                90,
+                602,
+                138
+            ],
+            "contents": "歪んだ税制を見直す\n「税金一探!」",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                359,
+                144,
+                578,
+                178
+            ],
+            "contents": "自民党利権政治がもたらした\n不公平税制の抜本的見直し",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                359,
+                185,
+                603,
+                230
+            ],
+            "contents": "大企業、超富裕層への超優遇規制を見直せば、傷に\n減税分の財源と今後益々増大する社会保障費の財源\nを捻出することができます。",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                359,
+                238,
+                602,
+                336
+            ],
+            "contents": "消費税を当分の幅5%に引き下げ、国際に軽減税率\n8%とインポイス制度を廃止し、物価を確実に引き下\nげ、消費を拡大、景気を浮揚させ経済を成長させます。\n8%の食料品の消費税を0%にするには、4兆円の\n財源が必要です。しかしあの「定額減税」に必要な財\n源も4兆円だったのです。",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                359,
+                344,
+                602,
+                373
+            ],
+            "contents": "物価高対策として食料品の消費税ゼロが実現で\nきたんです。",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                618,
+                86,
+                773,
+                142
+            ],
+            "contents": "消費税5%減税\nインボイスは「廃止!",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                631,
+                156,
+                676,
+                165
+            ],
+            "contents": "現在の消費税",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                689,
+                155,
+                742,
+                164
+            ],
+            "contents": "基本的開歴改革",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                764,
+                175,
+                793,
+                227
+            ],
+            "contents": "経済成長\n消費拡大",
+            "direction": "vertical",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                618,
+                250,
+                790,
+                273
+            ],
+            "contents": "食料品税率 2回にし",
+            "direction": "horizontal",
+            "order": 12,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                796,
+                8,
+                1053,
+                75
+            ],
+            "contents": "暮らしの安心を\n政策の真ん中へ",
+            "direction": "horizontal",
+            "order": 14,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                822,
+                84,
+                1032,
+                121
+            ],
+            "contents": "イ真の少子化対策\n一産みたいをあきらめない社会へ一",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                823,
+                126,
+                1020,
+                168
+            ],
+            "contents": "日本の主権回復\n食糧安全保障の確立と",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                822,
+                173,
+                1007,
+                214
+            ],
+            "contents": "高等教育無償化\n給付型奨学金の拡充",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                821,
+                221,
+                1035,
+                317
+            ],
+            "contents": "国民の命を守る·災害対策\n紙の健康保険証の復活\nエネルギーと環境対策\n政治への信頼を取り戻す",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                1065,
+                154,
+                1208,
+                385
+            ],
+            "contents": "中道改革連合公認\n牧義夫",
+            "direction": "vertical",
+            "order": 21,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "きたんです。",
+            "det_score": 0.8616028697750684,
+            "direction": "horizontal",
+            "points": [
+                [
+                    360,
+                    360
+                ],
+                [
+                    416,
+                    360
+                ],
+                [
+                    416,
+                    373
+                ],
+                [
+                    360,
+                    373
+                ]
+            ],
+            "rec_score": 0.9999145269393921
+        },
+        {
+            "content": "伊政問題特別委員長など専任",
+            "det_score": 0.8689635913890562,
+            "direction": "horizontal",
+            "points": [
+                [
+                    183,
+                    360
+                ],
+                [
+                    310,
+                    360
+                ],
+                [
+                    310,
+                    371
+                ],
+                [
+                    183,
+                    371
+                ]
+            ],
+            "rec_score": 0.014408380724489689
+        },
+        {
+            "content": "makiyoshio.jp",
+            "det_score": 0.8544602663120517,
+            "direction": "horizontal",
+            "points": [
+                [
+                    883,
+                    357
+                ],
+                [
+                    988,
+                    357
+                ],
+                [
+                    988,
+                    374
+                ],
+                [
+                    883,
+                    374
+                ]
+            ],
+            "rec_score": 0.9995517730712891
+        },
+        {
+            "content": "8%",
+            "det_score": 0.8365094959735871,
+            "direction": "horizontal",
+            "points": [
+                [
+                    630,
+                    356
+                ],
+                [
+                    647,
+                    356
+                ],
+                [
+                    647,
+                    367
+                ],
+                [
+                    630,
+                    367
+                ]
+            ],
+            "rec_score": 0.9585072994232178
+        },
+        {
+            "content": "セロ%",
+            "det_score": 0.6031369873083354,
+            "direction": "horizontal",
+            "points": [
+                [
+                    669,
+                    353
+                ],
+                [
+                    699,
+                    355
+                ],
+                [
+                    698,
+                    368
+                ],
+                [
+                    668,
+                    366
+                ]
+            ],
+            "rec_score": 0.370183527469635
+        },
+        {
+            "content": "見直しで捻出",
+            "det_score": 0.8558840104787918,
+            "direction": "horizontal",
+            "points": [
+                [
+                    720,
+                    349
+                ],
+                [
+                    783,
+                    349
+                ],
+                [
+                    783,
+                    363
+                ],
+                [
+                    720,
+                    363
+                ]
+            ],
+            "rec_score": 0.9673941135406494
+        },
+        {
+            "content": "物価高対策として食料品の消費税ゼロが実現で",
+            "det_score": 0.865407382740694,
+            "direction": "horizontal",
+            "points": [
+                [
+                    371,
+                    344
+                ],
+                [
+                    601,
+                    344
+                ],
+                [
+                    601,
+                    356
+                ],
+                [
+                    371,
+                    356
+                ]
+            ],
+            "rec_score": 0.9087358713150024
+        },
+        {
+            "content": "· 決議院場協委員長伊生労働委員長",
+            "det_score": 0.8402595928849876,
+            "direction": "horizontal",
+            "points": [
+                [
+                    173,
+                    342
+                ],
+                [
+                    334,
+                    341
+                ],
+                [
+                    334,
+                    355
+                ],
+                [
+                    173,
+                    356
+                ]
+            ],
+            "rec_score": 0.007496976293623447
+        },
+        {
+            "content": "こちらから",
+            "det_score": 0.8251002176733645,
+            "direction": "horizontal",
+            "points": [
+                [
+                    882,
+                    339
+                ],
+                [
+                    953,
+                    339
+                ],
+                [
+                    953,
+                    358
+                ],
+                [
+                    882,
+                    358
+                ]
+            ],
+            "rec_score": 0.997189462184906
+        },
+        {
+            "content": "金融所得課税の",
+            "det_score": 0.8888671327788332,
+            "direction": "horizontal",
+            "points": [
+                [
+                    714,
+                    334
+                ],
+                [
+                    788,
+                    334
+                ],
+                [
+                    788,
+                    346
+                ],
+                [
+                    714,
+                    346
+                ]
+            ],
+            "rec_score": 0.9992696642875671
+        },
+        {
+            "content": "詳しい政策は",
+            "det_score": 0.8554777404138614,
+            "direction": "horizontal",
+            "points": [
+                [
+                    882,
+                    324
+                ],
+                [
+                    969,
+                    326
+                ],
+                [
+                    969,
+                    343
+                ],
+                [
+                    882,
+                    341
+                ]
+            ],
+            "rec_score": 0.997239351272583
+        },
+        {
+            "content": "2000年未病院株式初再年1(既在8月",
+            "det_score": 0.785380144334282,
+            "direction": "horizontal",
+            "points": [
+                [
+                    182,
+                    326
+                ],
+                [
+                    336,
+                    326
+                ],
+                [
+                    336,
+                    338
+                ],
+                [
+                    182,
+                    338
+                ]
+            ],
+            "rec_score": 0.0003112041740678251
+        },
+        {
+            "content": "源も4兆円だったのです。",
+            "det_score": 0.8729589787969187,
+            "direction": "horizontal",
+            "points": [
+                [
+                    359,
+                    323
+                ],
+                [
+                    475,
+                    323
+                ],
+                [
+                    475,
+                    337
+                ],
+                [
+                    359,
+                    337
+                ]
+            ],
+            "rec_score": 0.969477117061615
+        },
+        {
+            "content": "法人税·所得税·",
+            "det_score": 0.7985668651190311,
+            "direction": "horizontal",
+            "points": [
+                [
+                    713,
+                    317
+                ],
+                [
+                    788,
+                    317
+                ],
+                [
+                    788,
+                    331
+                ],
+                [
+                    713,
+                    331
+                ]
+            ],
+            "rec_score": 0.8105669021606445
+        },
+        {
+            "content": "相談型",
+            "det_score": 0.700591138791089,
+            "direction": "vertical",
+            "points": [
+                [
+                    634,
+                    316
+                ],
+                [
+                    646,
+                    316
+                ],
+                [
+                    646,
+                    346
+                ],
+                [
+                    634,
+                    346
+                ]
+            ],
+            "rec_score": 0.15024018287658691
+        },
+        {
+            "content": ">",
+            "det_score": 0.5525269171705952,
+            "direction": "horizontal",
+            "points": [
+                [
+                    652,
+                    316
+                ],
+                [
+                    665,
+                    316
+                ],
+                [
+                    665,
+                    333
+                ],
+                [
+                    652,
+                    333
+                ]
+            ],
+            "rec_score": 0.9900646209716797
+        },
+        {
+            "content": "定率減税",
+            "det_score": 0.6843672253214826,
+            "direction": "vertical",
+            "points": [
+                [
+                    676,
+                    310
+                ],
+                [
+                    691,
+                    310
+                ],
+                [
+                    691,
+                    351
+                ],
+                [
+                    676,
+                    351
+                ]
+            ],
+            "rec_score": 0.4364020824432373
+        },
+        {
+            "content": "·岡山知夫東議院議員秘書を経て",
+            "det_score": 0.8447505394830315,
+            "direction": "horizontal",
+            "points": [
+                [
+                    176,
+                    310
+                ],
+                [
+                    321,
+                    310
+                ],
+                [
+                    321,
+                    322
+                ],
+                [
+                    176,
+                    322
+                ]
+            ],
+            "rec_score": 0.030838493257761
+        },
+        {
+            "content": "財源が必要です。しかしあの「定額減税」に必要な財",
+            "det_score": 0.7516366674672833,
+            "direction": "horizontal",
+            "points": [
+                [
+                    359,
+                    308
+                ],
+                [
+                    601,
+                    308
+                ],
+                [
+                    601,
+                    319
+                ],
+                [
+                    359,
+                    319
+                ]
+            ],
+            "rec_score": 0.5567383170127869
+        },
+        {
+            "content": "大企業/富裕層の",
+            "det_score": 0.8778019419176059,
+            "direction": "horizontal",
+            "points": [
+                [
+                    711,
+                    302
+                ],
+                [
+                    791,
+                    302
+                ],
+                [
+                    791,
+                    314
+                ],
+                [
+                    711,
+                    314
+                ]
+            ],
+            "rec_score": 0.9637196660041809
+        },
+        {
+            "content": "政治への信頼を取り戻す",
+            "det_score": 0.866768837837491,
+            "direction": "horizontal",
+            "points": [
+                [
+                    842,
+                    297
+                ],
+                [
+                    1031,
+                    297
+                ],
+                [
+                    1031,
+                    316
+                ],
+                [
+                    842,
+                    316
+                ]
+            ],
+            "rec_score": 0.9998692274093628
+        },
+        {
+            "content": "京都府",
+            "det_score": 0.8269649964946133,
+            "direction": "horizontal",
+            "points": [
+                [
+                    627,
+                    295
+                ],
+                [
+                    651,
+                    295
+                ],
+                [
+                    651,
+                    306
+                ],
+                [
+                    627,
+                    306
+                ]
+            ],
+            "rec_score": 0.3271712064743042
+        },
+        {
+            "content": "税制改革",
+            "det_score": 0.75152610468806,
+            "direction": "horizontal",
+            "points": [
+                [
+                    667,
+                    295
+                ],
+                [
+                    699,
+                    295
+                ],
+                [
+                    699,
+                    305
+                ],
+                [
+                    667,
+                    305
+                ]
+            ],
+            "rec_score": 0.5983492732048035
+        },
+        {
+            "content": "·防府向広報配記者",
+            "det_score": 0.791688714632791,
+            "direction": "horizontal",
+            "points": [
+                [
+                    175,
+                    292
+                ],
+                [
+                    264,
+                    292
+                ],
+                [
+                    264,
+                    306
+                ],
+                [
+                    175,
+                    306
+                ]
+            ],
+            "rec_score": 0.03571367636322975
+        },
+        {
+            "content": "8%の食料品の消費税を0%にするには、4兆円の",
+            "det_score": 0.8169032998310238,
+            "direction": "horizontal",
+            "points": [
+                [
+                    371,
+                    292
+                ],
+                [
+                    601,
+                    292
+                ],
+                [
+                    601,
+                    303
+                ],
+                [
+                    371,
+                    303
+                ]
+            ],
+            "rec_score": 0.8972041606903076
+        },
+        {
+            "content": "現在の",
+            "det_score": 0.8232210167249044,
+            "direction": "horizontal",
+            "points": [
+                [
+                    626,
+                    286
+                ],
+                [
+                    652,
+                    286
+                ],
+                [
+                    652,
+                    299
+                ],
+                [
+                    626,
+                    299
+                ]
+            ],
+            "rec_score": 0.7858881950378418
+        },
+        {
+            "content": "日本的",
+            "det_score": 0.7947154657988899,
+            "direction": "horizontal",
+            "points": [
+                [
+                    668,
+                    285
+                ],
+                [
+                    697,
+                    285
+                ],
+                [
+                    697,
+                    297
+                ],
+                [
+                    668,
+                    297
+                ]
+            ],
+            "rec_score": 0.7704942226409912
+        },
+        {
+            "content": "北海",
+            "det_score": 0.7886880783825458,
+            "direction": "horizontal",
+            "points": [
+                [
+                    735,
+                    278
+                ],
+                [
+                    768,
+                    278
+                ],
+                [
+                    768,
+                    300
+                ],
+                [
+                    735,
+                    300
+                ]
+            ],
+            "rec_score": 0.5816847681999207
+        },
+        {
+            "content": "エネルギーと環境対策",
+            "det_score": 0.8682228834717868,
+            "direction": "horizontal",
+            "points": [
+                [
+                    844,
+                    270
+                ],
+                [
+                    1016,
+                    270
+                ],
+                [
+                    1016,
+                    288
+                ],
+                [
+                    844,
+                    288
+                ]
+            ],
+            "rec_score": 0.9999527931213379
+        },
+        {
+            "content": "げ、消費を拡大、景気を浮揚させ経済を成長させます。",
+            "det_score": 0.8217119120721811,
+            "direction": "horizontal",
+            "points": [
+                [
+                    360,
+                    271
+                ],
+                [
+                    600,
+                    271
+                ],
+                [
+                    600,
+                    283
+                ],
+                [
+                    360,
+                    283
+                ]
+            ],
+            "rec_score": 0.4494693875312805
+        },
+        {
+            "content": "8%とインポイス制度を廃止し、物価を確実に引き下",
+            "det_score": 0.8128368801387477,
+            "direction": "horizontal",
+            "points": [
+                [
+                    360,
+                    254
+                ],
+                [
+                    601,
+                    254
+                ],
+                [
+                    601,
+                    266
+                ],
+                [
+                    360,
+                    266
+                ]
+            ],
+            "rec_score": 0.87933748960495
+        },
+        {
+            "content": "食料品税率 2回にし",
+            "det_score": 0.7911232500930891,
+            "direction": "horizontal",
+            "points": [
+                [
+                    617,
+                    251
+                ],
+                [
+                    788,
+                    249
+                ],
+                [
+                    788,
+                    273
+                ],
+                [
+                    617,
+                    275
+                ]
+            ],
+            "rec_score": 0.021782781928777695
+        },
+        {
+            "content": "紙の健康保険証の復活",
+            "det_score": 0.8588642003655165,
+            "direction": "horizontal",
+            "points": [
+                [
+                    845,
+                    242
+                ],
+                [
+                    1024,
+                    242
+                ],
+                [
+                    1024,
+                    261
+                ],
+                [
+                    845,
+                    261
+                ]
+            ],
+            "rec_score": 0.9982786178588867
+        },
+        {
+            "content": "消費税を当分の幅5%に引き下げ、国際に軽減税率",
+            "det_score": 0.8813493636045592,
+            "direction": "horizontal",
+            "points": [
+                [
+                    371,
+                    240
+                ],
+                [
+                    601,
+                    240
+                ],
+                [
+                    601,
+                    249
+                ],
+                [
+                    371,
+                    249
+                ]
+            ],
+            "rec_score": 0.15702201426029205
+        },
+        {
+            "content": "上智大学文学部中退",
+            "det_score": 0.8450081140661028,
+            "direction": "horizontal",
+            "points": [
+                [
+                    216,
+                    230
+                ],
+                [
+                    325,
+                    230
+                ],
+                [
+                    325,
+                    246
+                ],
+                [
+                    216,
+                    246
+                ]
+            ],
+            "rec_score": 0.9645410180091858
+        },
+        {
+            "content": "5%",
+            "det_score": 0.6062065519175482,
+            "direction": "horizontal",
+            "points": [
+                [
+                    695,
+                    228
+                ],
+                [
+                    714,
+                    228
+                ],
+                [
+                    714,
+                    239
+                ],
+                [
+                    695,
+                    239
+                ]
+            ],
+            "rec_score": 0.9867667555809021
+        },
+        {
+            "content": "10% 8%",
+            "det_score": 0.7928113970958012,
+            "direction": "horizontal",
+            "points": [
+                [
+                    629,
+                    227
+                ],
+                [
+                    672,
+                    227
+                ],
+                [
+                    672,
+                    240
+                ],
+                [
+                    629,
+                    240
+                ]
+            ],
+            "rec_score": 0.9925795197486877
+        },
+        {
+            "content": "国民の命を守る·災害対策",
+            "det_score": 0.8568913558784351,
+            "direction": "horizontal",
+            "points": [
+                [
+                    845,
+                    221
+                ],
+                [
+                    1034,
+                    221
+                ],
+                [
+                    1034,
+                    240
+                ],
+                [
+                    845,
+                    240
+                ]
+            ],
+            "rec_score": 0.9965060353279114
+        },
+        {
+            "content": "を捻出することができます。",
+            "det_score": 0.8711997460595445,
+            "direction": "horizontal",
+            "points": [
+                [
+                    359,
+                    217
+                ],
+                [
+                    485,
+                    217
+                ],
+                [
+                    485,
+                    231
+                ],
+                [
+                    359,
+                    231
+                ]
+            ],
+            "rec_score": 0.8676316142082214
+        },
+        {
+            "content": "昭和高校(28回)卒業",
+            "det_score": 0.824171330140439,
+            "direction": "horizontal",
+            "points": [
+                [
+                    214,
+                    213
+                ],
+                [
+                    321,
+                    213
+                ],
+                [
+                    321,
+                    230
+                ],
+                [
+                    214,
+                    230
+                ]
+            ],
+            "rec_score": 0.9979107975959778
+        },
+        {
+            "content": "減税分の財源と今後益々増大する社会保障費の財源",
+            "det_score": 0.8476372336659899,
+            "direction": "horizontal",
+            "points": [
+                [
+                    359,
+                    202
+                ],
+                [
+                    601,
+                    202
+                ],
+                [
+                    601,
+                    213
+                ],
+                [
+                    359,
+                    213
+                ]
+            ],
+            "rec_score": 0.7879756093025208
+        },
+        {
+            "content": "陽明小·汐路中·",
+            "det_score": 0.8852018665577938,
+            "direction": "horizontal",
+            "points": [
+                [
+                    215,
+                    198
+                ],
+                [
+                    311,
+                    198
+                ],
+                [
+                    311,
+                    212
+                ],
+                [
+                    215,
+                    212
+                ]
+            ],
+            "rec_score": 0.9394307732582092
+        },
+        {
+            "content": "給付型奨学金の拡充",
+            "det_score": 0.8536055455024426,
+            "direction": "horizontal",
+            "points": [
+                [
+                    845,
+                    195
+                ],
+                [
+                    1005,
+                    195
+                ],
+                [
+                    1005,
+                    213
+                ],
+                [
+                    845,
+                    213
+                ]
+            ],
+            "rec_score": 0.9975544810295105
+        },
+        {
+            "content": "大企業、超富裕層への超優遇規制を見直せば、傷に",
+            "det_score": 0.7657205312258144,
+            "direction": "horizontal",
+            "points": [
+                [
+                    370,
+                    186
+                ],
+                [
+                    601,
+                    186
+                ],
+                [
+                    601,
+                    197
+                ],
+                [
+                    370,
+                    197
+                ]
+            ],
+            "rec_score": 0.2361658364534378
+        },
+        {
+            "content": "定半減税",
+            "det_score": 0.7564761694143658,
+            "direction": "vertical",
+            "points": [
+                [
+                    719,
+                    184
+                ],
+                [
+                    731,
+                    184
+                ],
+                [
+                    731,
+                    226
+                ],
+                [
+                    719,
+                    226
+                ]
+            ],
+            "rec_score": 0.1912694126367569
+        },
+        {
+            "content": "型体費税",
+            "det_score": 0.7531479437549207,
+            "direction": "vertical",
+            "points": [
+                [
+                    658,
+                    184
+                ],
+                [
+                    670,
+                    184
+                ],
+                [
+                    670,
+                    224
+                ],
+                [
+                    658,
+                    224
+                ]
+            ],
+            "rec_score": 0.12479604035615921
+        },
+        {
+            "content": "昭和33年名古屋市生まれ",
+            "det_score": 0.8542621507016618,
+            "direction": "horizontal",
+            "points": [
+                [
+                    214,
+                    183
+                ],
+                [
+                    339,
+                    183
+                ],
+                [
+                    339,
+                    196
+                ],
+                [
+                    214,
+                    196
+                ]
+            ],
+            "rec_score": 0.9996680021286011
+        },
+        {
+            "content": "高等教育無償化",
+            "det_score": 0.8607878663571755,
+            "direction": "horizontal",
+            "points": [
+                [
+                    845,
+                    175
+                ],
+                [
+                    971,
+                    175
+                ],
+                [
+                    971,
+                    194
+                ],
+                [
+                    845,
+                    194
+                ]
+            ],
+            "rec_score": 0.9996472597122192
+        },
+        {
+            "content": "経済成長",
+            "det_score": 0.7940911005044581,
+            "direction": "vertical",
+            "points": [
+                [
+                    762,
+                    172
+                ],
+                [
+                    781,
+                    173
+                ],
+                [
+                    779,
+                    231
+                ],
+                [
+                    760,
+                    230
+                ]
+            ],
+            "rec_score": 0.9991276264190674
+        },
+        {
+            "content": "消費拡大",
+            "det_score": 0.8087104414199272,
+            "direction": "vertical",
+            "points": [
+                [
+                    777,
+                    173
+                ],
+                [
+                    794,
+                    173
+                ],
+                [
+                    794,
+                    229
+                ],
+                [
+                    777,
+                    229
+                ]
+            ],
+            "rec_score": 0.9996549487113953
+        },
+        {
+            "content": "牧義夫",
+            "det_score": 0.8240693579849161,
+            "direction": "vertical",
+            "points": [
+                [
+                    1051,
+                    139
+                ],
+                [
+                    1170,
+                    139
+                ],
+                [
+                    1170,
+                    396
+                ],
+                [
+                    1051,
+                    396
+                ]
+            ],
+            "rec_score": 0.9413945078849792
+        },
+        {
+            "content": "不公平税制の抜本的見直し",
+            "det_score": 0.8638471394644449,
+            "direction": "horizontal",
+            "points": [
+                [
+                    412,
+                    163
+                ],
+                [
+                    579,
+                    163
+                ],
+                [
+                    579,
+                    177
+                ],
+                [
+                    412,
+                    177
+                ]
+            ],
+            "rec_score": 0.9889916181564331
+        },
+        {
+            "content": "元厚生労働副大臣",
+            "det_score": 0.909057956491729,
+            "direction": "horizontal",
+            "points": [
+                [
+                    214,
+                    161
+                ],
+                [
+                    338,
+                    162
+                ],
+                [
+                    338,
+                    179
+                ],
+                [
+                    214,
+                    178
+                ]
+            ],
+            "rec_score": 0.999038577079773
+        },
+        {
+            "content": "中道改革連合公認",
+            "det_score": 0.8629999967512445,
+            "direction": "vertical",
+            "points": [
+                [
+                    1172,
+                    154
+                ],
+                [
+                    1210,
+                    154
+                ],
+                [
+                    1210,
+                    387
+                ],
+                [
+                    1172,
+                    387
+                ]
+            ],
+            "rec_score": 0.9977782368659973
+        },
+        {
+            "content": "フロフィール",
+            "det_score": 0.6985010386581915,
+            "direction": "vertical",
+            "points": [
+                [
+                    193,
+                    160
+                ],
+                [
+                    210,
+                    159
+                ],
+                [
+                    212,
+                    222
+                ],
+                [
+                    195,
+                    223
+                ]
+            ],
+            "rec_score": 0.28469061851501465
+        },
+        {
+            "content": "現在の消費税",
+            "det_score": 0.7759214612304187,
+            "direction": "horizontal",
+            "points": [
+                [
+                    630,
+                    155
+                ],
+                [
+                    678,
+                    155
+                ],
+                [
+                    678,
+                    166
+                ],
+                [
+                    630,
+                    166
+                ]
+            ],
+            "rec_score": 0.9508925676345825
+        },
+        {
+            "content": "基本的開歴改革",
+            "det_score": 0.8473767244185393,
+            "direction": "horizontal",
+            "points": [
+                [
+                    689,
+                    155
+                ],
+                [
+                    743,
+                    155
+                ],
+                [
+                    743,
+                    164
+                ],
+                [
+                    689,
+                    164
+                ]
+            ],
+            "rec_score": 0.3323105275630951
+        },
+        {
+            "content": "日本の主権回復",
+            "det_score": 0.8769611932331414,
+            "direction": "horizontal",
+            "points": [
+                [
+                    843,
+                    146
+                ],
+                [
+                    967,
+                    148
+                ],
+                [
+                    967,
+                    169
+                ],
+                [
+                    842,
+                    168
+                ]
+            ],
+            "rec_score": 0.9996557235717773
+        },
+        {
+            "content": "自民党利権政治がもたらした",
+            "det_score": 0.8705522447337578,
+            "direction": "horizontal",
+            "points": [
+                [
+                    358,
+                    144
+                ],
+                [
+                    537,
+                    144
+                ],
+                [
+                    537,
+                    160
+                ],
+                [
+                    358,
+                    160
+                ]
+            ],
+            "rec_score": 0.994266152381897
+        },
+        {
+            "content": "食糧安全保障の確立と",
+            "det_score": 0.873088236677522,
+            "direction": "horizontal",
+            "points": [
+                [
+                    844,
+                    129
+                ],
+                [
+                    1018,
+                    129
+                ],
+                [
+                    1018,
+                    148
+                ],
+                [
+                    844,
+                    148
+                ]
+            ],
+            "rec_score": 0.9994044303894043
+        },
+        {
+            "content": "インボイスは「廃止!",
+            "det_score": 0.8365378784440191,
+            "direction": "horizontal",
+            "points": [
+                [
+                    618,
+                    119
+                ],
+                [
+                    745,
+                    119
+                ],
+                [
+                    745,
+                    141
+                ],
+                [
+                    618,
+                    141
+                ]
+            ],
+            "rec_score": 0.18709003925323486
+        },
+        {
+            "content": "「税金一探!」",
+            "det_score": 0.8896549294002556,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    115
+                ],
+                [
+                    602,
+                    114
+                ],
+                [
+                    602,
+                    138
+                ],
+                [
+                    483,
+                    139
+                ]
+            ],
+            "rec_score": 0.43537628650665283
+        },
+        {
+            "content": "一産みたいをあきらめない社会へ一",
+            "det_score": 0.8218046756600732,
+            "direction": "horizontal",
+            "points": [
+                [
+                    842,
+                    107
+                ],
+                [
+                    1033,
+                    107
+                ],
+                [
+                    1033,
+                    121
+                ],
+                [
+                    842,
+                    121
+                ]
+            ],
+            "rec_score": 0.5650904774665833
+        },
+        {
+            "content": "牧義夫",
+            "det_score": 0.9219819104696096,
+            "direction": "horizontal",
+            "points": [
+                [
+                    189,
+                    93
+                ],
+                [
+                    341,
+                    93
+                ],
+                [
+                    341,
+                    147
+                ],
+                [
+                    189,
+                    147
+                ]
+            ],
+            "rec_score": 0.9846886992454529
+        },
+        {
+            "content": "歪んだ税制を見直す",
+            "det_score": 0.8465180918156153,
+            "direction": "horizontal",
+            "points": [
+                [
+                    379,
+                    93
+                ],
+                [
+                    561,
+                    93
+                ],
+                [
+                    561,
+                    114
+                ],
+                [
+                    379,
+                    114
+                ]
+            ],
+            "rec_score": 0.995157778263092
+        },
+        {
+            "content": "消費税5%減税",
+            "det_score": 0.8306458649520403,
+            "direction": "horizontal",
+            "points": [
+                [
+                    616,
+                    86
+                ],
+                [
+                    773,
+                    86
+                ],
+                [
+                    773,
+                    119
+                ],
+                [
+                    616,
+                    119
+                ]
+            ],
+            "rec_score": 0.9577728509902954
+        },
+        {
+            "content": "イ真の少子化対策",
+            "det_score": 0.8434962759056676,
+            "direction": "horizontal",
+            "points": [
+                [
+                    826,
+                    85
+                ],
+                [
+                    971,
+                    85
+                ],
+                [
+                    971,
+                    106
+                ],
+                [
+                    826,
+                    106
+                ]
+            ],
+            "rec_score": 0.9639744162559509
+        },
+        {
+            "content": "まき",
+            "det_score": 0.8201841688469836,
+            "direction": "horizontal",
+            "points": [
+                [
+                    201,
+                    81
+                ],
+                [
+                    230,
+                    81
+                ],
+                [
+                    230,
+                    97
+                ],
+                [
+                    201,
+                    97
+                ]
+            ],
+            "rec_score": 0.8136336803436279
+        },
+        {
+            "content": "よし",
+            "det_score": 0.800816626350085,
+            "direction": "horizontal",
+            "points": [
+                [
+                    253,
+                    80
+                ],
+                [
+                    282,
+                    80
+                ],
+                [
+                    282,
+                    96
+                ],
+                [
+                    253,
+                    96
+                ]
+            ],
+            "rec_score": 0.9955248832702637
+        },
+        {
+            "content": "お",
+            "det_score": 0.7415843157605692,
+            "direction": "horizontal",
+            "points": [
+                [
+                    309,
+                    80
+                ],
+                [
+                    324,
+                    80
+                ],
+                [
+                    324,
+                    96
+                ],
+                [
+                    309,
+                    96
+                ]
+            ],
+            "rec_score": 0.9835913181304932
+        },
+        {
+            "content": "政策の真ん中へ",
+            "det_score": 0.8757456027646776,
+            "direction": "horizontal",
+            "points": [
+                [
+                    830,
+                    44
+                ],
+                [
+                    1049,
+                    44
+                ],
+                [
+                    1049,
+                    73
+                ],
+                [
+                    830,
+                    73
+                ]
+            ],
+            "rec_score": 0.998655378818512
+        },
+        {
+            "content": "約束",
+            "det_score": 0.8670778012645168,
+            "direction": "horizontal",
+            "points": [
+                [
+                    209,
+                    37
+                ],
+                [
+                    275,
+                    34
+                ],
+                [
+                    277,
+                    71
+                ],
+                [
+                    210,
+                    73
+                ]
+            ],
+            "rec_score": 0.7693037390708923
+        },
+        {
+            "content": "いのちを守る政治。",
+            "det_score": 0.8617233471315433,
+            "direction": "horizontal",
+            "points": [
+                [
+                    304,
+                    7
+                ],
+                [
+                    778,
+                    5
+                ],
+                [
+                    779,
+                    71
+                ],
+                [
+                    304,
+                    74
+                ]
+            ],
+            "rec_score": 0.9552570581436157
+        },
+        {
+            "content": "牧義夫",
+            "det_score": 0.8830965061687254,
+            "direction": "horizontal",
+            "points": [
+                [
+                    200,
+                    9
+                ],
+                [
+                    287,
+                    9
+                ],
+                [
+                    287,
+                    46
+                ],
+                [
+                    200,
+                    46
+                ]
+            ],
+            "rec_score": 0.582800567150116
+        },
+        {
+            "content": "暮らしの安心を",
+            "det_score": 0.8849918253497556,
+            "direction": "horizontal",
+            "points": [
+                [
+                    797,
+                    8
+                ],
+                [
+                    1014,
+                    8
+                ],
+                [
+                    1014,
+                    41
+                ],
+                [
+                    797,
+                    41
+                ]
+            ],
+            "rec_score": 0.999962329864502
+        }
+    ]
+}

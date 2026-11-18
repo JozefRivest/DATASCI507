@@ -1,0 +1,3064 @@
+{
+    "figures": [
+        {
+            "box": [
+                340,
+                87,
+                581,
+                197
+            ],
+            "direction": "horizontal",
+            "order": 29,
+            "paragraphs": [
+                {
+                    "box": [
+                        344,
+                        91,
+                        531,
+                        146
+                    ],
+                    "contents": "物価高対策\n生活に寄り添う!\n家計負担の軽減を推進。",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        344,
+                        150,
+                        551,
+                        192
+                    ],
+                    "contents": "電気·ガス代支援をはじめ、子育て応援手当、ガソリン\n岩盤定税率廃止、所得税流財など、幅広い家\n計負担軽減政策を推進。今後も必要に応じた\n対策を迅速に、積極的に実行していきます。",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                530,
+                267,
+                583,
+                317
+            ],
+            "direction": "horizontal",
+            "order": 32,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                781,
+                146,
+                834,
+                198
+            ],
+            "direction": "horizontal",
+            "order": 36,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                739,
+                292,
+                833,
+                317
+            ],
+            "direction": "horizontal",
+            "order": 39,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                763,
+                346,
+                833,
+                381
+            ],
+            "direction": "horizontal",
+            "order": 42,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                850,
+                85,
+                1051,
+                383
+            ],
+            "direction": "vertical",
+            "order": 43,
+            "paragraphs": [
+                {
+                    "box": [
+                        1020,
+                        94,
+                        1047,
+                        285
+                    ],
+                    "contents": "いとう忠彦の決意",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1000,
+                        134,
+                        1017,
+                        310
+                    ],
+                    "contents": "念踊の「中部国際空港第2滑走路」を",
+                    "direction": "vertical",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1008,
+                        360,
+                        1047,
+                        381
+                    ],
+                    "contents": "...",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        987,
+                        134,
+                        1004,
+                        379
+                    ],
+                    "contents": "早期実現。完全4時間運用の空港を目指し、知多半",
+                    "direction": "vertical",
+                    "order": 3,
+                    "role": null
+                },
+                {
+                    "box": [
+                        976,
+                        135,
+                        990,
+                        379
+                    ],
+                    "contents": "島の農産品や水産品、工業製品の輸出拡大、そして",
+                    "direction": "vertical",
+                    "order": 4,
+                    "role": null
+                },
+                {
+                    "box": [
+                        961,
+                        134,
+                        977,
+                        280
+                    ],
+                    "contents": "観光集客力向上につなげます。",
+                    "direction": "vertical",
+                    "order": 5,
+                    "role": null
+                },
+                {
+                    "box": [
+                        945,
+                        134,
+                        962,
+                        380
+                    ],
+                    "contents": "中部国際空港と名古屋駅の連携強化に不可欠な",
+                    "direction": "vertical",
+                    "order": 6,
+                    "role": null
+                },
+                {
+                    "box": [
+                        933,
+                        136,
+                        947,
+                        380
+                    ],
+                    "contents": "「西知多道路」。地域経済の活性化、災害時の緊急",
+                    "direction": "vertical",
+                    "order": 7,
+                    "role": null
+                },
+                {
+                    "box": [
+                        919,
+                        135,
+                        935,
+                        381
+                    ],
+                    "contents": "輸送路確保など、広域交通網の要として早期の全",
+                    "direction": "vertical",
+                    "order": 8,
+                    "role": null
+                },
+                {
+                    "box": [
+                        903,
+                        134,
+                        924,
+                        243
+                    ],
+                    "contents": "線開通に尽力します。",
+                    "direction": "vertical",
+                    "order": 9,
+                    "role": null
+                },
+                {
+                    "box": [
+                        890,
+                        135,
+                        904,
+                        380
+                    ],
+                    "contents": "農業や漁業、観光はもちろん、自動車や飛行機などの",
+                    "direction": "vertical",
+                    "order": 10,
+                    "role": null
+                },
+                {
+                    "box": [
+                        876,
+                        135,
+                        890,
+                        379
+                    ],
+                    "contents": "生産拠点が日本経済の活力の源です。だからこそ各政",
+                    "direction": "vertical",
+                    "order": 11,
+                    "role": null
+                },
+                {
+                    "box": [
+                        862,
+                        134,
+                        878,
+                        380
+                    ],
+                    "contents": "策を発展させ、すべてのみなさまが豊かになるように",
+                    "direction": "vertical",
+                    "order": 12,
+                    "role": null
+                },
+                {
+                    "box": [
+                        848,
+                        134,
+                        865,
+                        224
+                    ],
+                    "contents": "進めてまいります。",
+                    "direction": "vertical",
+                    "order": 13,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1070,
+                12,
+                1193,
+                145
+            ],
+            "direction": "horizontal",
+            "order": 44,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                131,
+                10,
+                201,
+                22
+            ],
+            "contents": "プロフィール",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "page_header"
+        },
+        {
+            "box": [
+                13,
+                26,
+                230,
+                63
+            ],
+            "contents": "○昭和39年7月11日(辰年)、名古屋市で生まれる\n○趣味は旅行(飛行場を見学する事)、絵画鑑賞,水泳\n○座右の銘は「天下為公」",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                144,
+                66,
+                188,
+                77
+            ],
+            "contents": "学歴",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                79,
+                163,
+                102
+            ],
+            "contents": "昭和52年 名古屋市立御園小学校卒業\n昭和55年 東海学園 東海中学校卒業",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                176,
+                79,
+                318,
+                102
+            ],
+            "contents": "昭和58年 早稲田大学高等学院卒業\n昭和63年 早稲田大学法学部卒業",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                141,
+                100,
+                191,
+                121
+            ],
+            "contents": "職 店",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                13,
+                119,
+                199,
+                130
+            ],
+            "contents": "○株式会社電通入社、平成6年3月同社を退社",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                13,
+                131,
+                224,
+                142
+            ],
+            "contents": "○平成 6年 4月 衆議院議員 武村正義秘書となる",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                13,
+                143,
+                224,
+                154
+            ],
+            "contents": "○平成 9年10月 衆議院議員 小渕恵三秘書となる",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                13,
+                155,
+                189,
+                166
+            ],
+            "contents": "○平成11年 4月 愛知県議会議員初当選",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                167,
+                205,
+                178
+            ],
+            "contents": "○平成15年 4月 愛知県議会議員 2期目当選",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                179,
+                170,
+                190
+            ],
+            "contents": "○平成17年 9月 衆議院議員 初当選",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                191,
+                195,
+                202
+            ],
+            "contents": "○平成19年\n自民党国会対策副委員長",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                203,
+                187,
+                214
+            ],
+            "contents": "○平成24年12月 1\n衆議院議員 2期目当選",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                215,
+                313,
+                226
+            ],
+            "contents": "○平成25年\n自民党国十:津野関係団体委員長:県林水産委員会理事",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                227,
+                270,
+                238
+            ],
+            "contents": "○平成25年\n総務大臣政務官鬼内閣府大臣政務官に就任",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                239,
+                186,
+                249
+            ],
+            "contents": "○平成26年12月\n衆議院議員 3期目当選",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                251,
+                266,
+                262
+            ],
+            "contents": "○平成28年 1月\n第87代衆議院議事進行係(第190回国会)",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                263,
+                238,
+                273
+            ],
+            "contents": "○平成28年 8月\n環境耐大臣 兼 内閣府副大臣に就任",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                275,
+                186,
+                285
+            ],
+            "contents": "○平成29年10月\n衆議院議員 4期目当選",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                13,
+                287,
+                239,
+                297
+            ],
+            "contents": "○平成29年11月\n環境副大臣 兼 内閣府副大臣に再任",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                299,
+                282,
+                309
+            ],
+            "contents": "○平成30年10月\n自由民主党政務調査会 国土交通部会長に就任",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                310,
+                282,
+                321
+            ],
+            "contents": "○令和元年 9月\n自由民主党 別幹事長/幹事長特別補佐に就任",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                323,
+                186,
+                333
+            ],
+            "contents": "○令和 3年10月\n衆議院議員 5期目当選",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                334,
+                273,
+                345
+            ],
+            "contents": "○令和 3年11月 東日本大震災復興時別委員会 委員長に就任",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                13,
+                346,
+                199,
+                357
+            ],
+            "contents": "○令和 4年10月 法務委員会 委員長に就任",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                358,
+                261,
+                369
+            ],
+            "contents": "○令和 6年10月 復興大臣に就任/衆議院議員 6期目当選",
+            "direction": "horizontal",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                370,
+                157,
+                381
+            ],
+            "contents": "○令和 6年11月 復興大型に再任",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                335,
+                11,
+                1055,
+                79
+            ],
+            "contents": "共に、強く、豊かな知多半島へ。",
+            "direction": "horizontal",
+            "order": 28,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                344,
+                210,
+                538,
+                266
+            ],
+            "contents": "人生100年以上\n医療·福祉·教育|\n優しい社会の基盤整備。",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                344,
+                269,
+                527,
+                311
+            ],
+            "contents": "医療や介護における人材確保を促すため、処理\n改善・経営改善支援を実施、教育では、高校医療\n料無償化·学校給食費の負担軽減を実現。安心\nして暮らせる社会づくりをさらに強化します。",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                602,
+                91,
+                662,
+                102
+            ],
+            "contents": "事前防災性化",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                595,
+                104,
+                763,
+                147
+            ],
+            "contents": "『災害に強い街』\n命を守る備えを加速。",
+            "direction": "horizontal",
+            "order": 34,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                596,
+                150,
+                776,
+                192
+            ],
+            "contents": "南海トラフロ大治療はもちろん、意用による大\n規模な被害も深刻化している近年、美し迫る勢\n威に対処するため、知多半島全域の防災·減災\n対策、富士強制化を速やかに進めていきます。",
+            "direction": "horizontal",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                596,
+                210,
+                795,
+                266
+            ],
+            "contents": "地方創生\n『4市5町に活力を」\n賃上げ、生産性向上を支援。",
+            "direction": "horizontal",
+            "order": 37,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                596,
+                269,
+                832,
+                315
+            ],
+            "contents": "授上げ促進税制の解続をはじめ、省力化·生産性向上のための\n設備投資など、中小·小規模事業者の成長投資支援などを実\n能、働きやすい、働きがいのある環境\n整備を力強く推進します。",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                349,
+                330,
+                762,
+                358
+            ],
+            "contents": "群馬県\n次世代への責任」\n技術革新で経済成長を牽引。\n社会",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                343,
+                360,
+                761,
+                381
+            ],
+            "contents": "カーボンニュートラルの実現に向け、グリーントランスフォーメーション(GX)やフュージョンエネルギーなどの\n技術革新を支援:次世代に誇れる設炭素化と経済成長の両立を目指します。",
+            "direction": "horizontal",
+            "order": 41,
+            "role": null
+        },
+        {
+            "box": [
+                1084,
+                151,
+                1189,
+                379
+            ],
+            "contents": "自民党公認\nいとう忠彦",
+            "direction": "vertical",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                1056,
+                363,
+                1089,
+                380
+            ],
+            "contents": "61歳",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "技術革新を支援:次世代に誇れる設炭素化と経済成長の両立を目指します。",
+            "det_score": 0.7373399888764823,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    371
+                ],
+                [
+                    630,
+                    371
+                ],
+                [
+                    630,
+                    381
+                ],
+                [
+                    345,
+                    381
+                ]
+            ],
+            "rec_score": 0.283268004655838
+        },
+        {
+            "content": "○令和 6年11月 復興大型に再任",
+            "det_score": 0.7804895643612523,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    370
+                ],
+                [
+                    157,
+                    370
+                ],
+                [
+                    157,
+                    382
+                ],
+                [
+                    11,
+                    382
+                ]
+            ],
+            "rec_score": 0.4774235785007477
+        },
+        {
+            "content": "61歳",
+            "det_score": 0.8229203036059858,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1053,
+                    359
+                ],
+                [
+                    1091,
+                    359
+                ],
+                [
+                    1091,
+                    384
+                ],
+                [
+                    1053,
+                    384
+                ]
+            ],
+            "rec_score": 0.9907367825508118
+        },
+        {
+            "content": "...",
+            "det_score": 0.5145890945646943,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1008,
+                    360
+                ],
+                [
+                    1047,
+                    360
+                ],
+                [
+                    1047,
+                    381
+                ],
+                [
+                    1008,
+                    381
+                ]
+            ],
+            "rec_score": 0.3478837013244629
+        },
+        {
+            "content": "カーボンニュートラルの実現に向け、グリーントランスフォーメーション(GX)やフュージョンエネルギーなどの",
+            "det_score": 0.735063383263988,
+            "direction": "horizontal",
+            "points": [
+                [
+                    346,
+                    360
+                ],
+                [
+                    761,
+                    360
+                ],
+                [
+                    761,
+                    370
+                ],
+                [
+                    346,
+                    370
+                ]
+            ],
+            "rec_score": 0.4056190252304077
+        },
+        {
+            "content": "○令和 6年10月 復興大臣に就任/衆議院議員 6期目当選",
+            "det_score": 0.7774408756742907,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    359
+                ],
+                [
+                    260,
+                    359
+                ],
+                [
+                    260,
+                    369
+                ],
+                [
+                    12,
+                    369
+                ]
+            ],
+            "rec_score": 0.7812528610229492
+        },
+        {
+            "content": "○令和 4年10月 法務委員会 委員長に就任",
+            "det_score": 0.7565370306744211,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    347
+                ],
+                [
+                    197,
+                    347
+                ],
+                [
+                    197,
+                    357
+                ],
+                [
+                    12,
+                    357
+                ]
+            ],
+            "rec_score": 0.7545455694198608
+        },
+        {
+            "content": "社会",
+            "det_score": 0.7491753379980178,
+            "direction": "horizontal",
+            "points": [
+                [
+                    351,
+                    341
+                ],
+                [
+                    375,
+                    341
+                ],
+                [
+                    375,
+                    354
+                ],
+                [
+                    351,
+                    354
+                ]
+            ],
+            "rec_score": 0.954228401184082
+        },
+        {
+            "content": "技術革新で経済成長を牽引。",
+            "det_score": 0.8494895584881306,
+            "direction": "horizontal",
+            "points": [
+                [
+                    582,
+                    335
+                ],
+                [
+                    760,
+                    335
+                ],
+                [
+                    760,
+                    352
+                ],
+                [
+                    582,
+                    352
+                ]
+            ],
+            "rec_score": 0.9962588548660278
+        },
+        {
+            "content": "次世代への責任」",
+            "det_score": 0.8689971475185203,
+            "direction": "horizontal",
+            "points": [
+                [
+                    393,
+                    331
+                ],
+                [
+                    577,
+                    331
+                ],
+                [
+                    577,
+                    356
+                ],
+                [
+                    393,
+                    356
+                ]
+            ],
+            "rec_score": 0.6345522999763489
+        },
+        {
+            "content": "○令和 3年11月 東日本大震災復興時別委員会 委員長に就任",
+            "det_score": 0.7813608490963991,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    335
+                ],
+                [
+                    272,
+                    335
+                ],
+                [
+                    272,
+                    344
+                ],
+                [
+                    12,
+                    344
+                ]
+            ],
+            "rec_score": 0.3288552761077881
+        },
+        {
+            "content": "群馬県",
+            "det_score": 0.7593376174006822,
+            "direction": "horizontal",
+            "points": [
+                [
+                    346,
+                    331
+                ],
+                [
+                    380,
+                    331
+                ],
+                [
+                    380,
+                    346
+                ],
+                [
+                    346,
+                    346
+                ]
+            ],
+            "rec_score": 0.471316397190094
+        },
+        {
+            "content": "衆議院議員 5期目当選",
+            "det_score": 0.8056016624433916,
+            "direction": "horizontal",
+            "points": [
+                [
+                    89,
+                    322
+                ],
+                [
+                    187,
+                    322
+                ],
+                [
+                    187,
+                    334
+                ],
+                [
+                    89,
+                    334
+                ]
+            ],
+            "rec_score": 0.7904307246208191
+        },
+        {
+            "content": "○令和 3年10月",
+            "det_score": 0.7445997736743979,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    322
+                ],
+                [
+                    89,
+                    322
+                ],
+                [
+                    89,
+                    334
+                ],
+                [
+                    11,
+                    334
+                ]
+            ],
+            "rec_score": 0.9335309267044067
+        },
+        {
+            "content": "自由民主党 別幹事長/幹事長特別補佐に就任",
+            "det_score": 0.7371324747431072,
+            "direction": "horizontal",
+            "points": [
+                [
+                    91,
+                    311
+                ],
+                [
+                    281,
+                    311
+                ],
+                [
+                    281,
+                    321
+                ],
+                [
+                    91,
+                    321
+                ]
+            ],
+            "rec_score": 0.06633400917053223
+        },
+        {
+            "content": "○令和元年 9月",
+            "det_score": 0.7890664987315624,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    311
+                ],
+                [
+                    86,
+                    311
+                ],
+                [
+                    86,
+                    321
+                ],
+                [
+                    11,
+                    321
+                ]
+            ],
+            "rec_score": 0.8006584644317627
+        },
+        {
+            "content": "整備を力強く推進します。",
+            "det_score": 0.7888058150096043,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    301
+                ],
+                [
+                    692,
+                    301
+                ],
+                [
+                    692,
+                    311
+                ],
+                [
+                    596,
+                    311
+                ]
+            ],
+            "rec_score": 0.9313444495201111
+        },
+        {
+            "content": "して暮らせる社会づくりをさらに強化します。",
+            "det_score": 0.7895277780544072,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    301
+                ],
+                [
+                    514,
+                    301
+                ],
+                [
+                    514,
+                    311
+                ],
+                [
+                    345,
+                    311
+                ]
+            ],
+            "rec_score": 0.8304339647293091
+        },
+        {
+            "content": "自由民主党政務調査会 国土交通部会長に就任",
+            "det_score": 0.7751027440287923,
+            "direction": "horizontal",
+            "points": [
+                [
+                    90,
+                    299
+                ],
+                [
+                    282,
+                    299
+                ],
+                [
+                    282,
+                    309
+                ],
+                [
+                    90,
+                    309
+                ]
+            ],
+            "rec_score": 0.5795827507972717
+        },
+        {
+            "content": "○平成30年10月",
+            "det_score": 0.8008939726768355,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    299
+                ],
+                [
+                    87,
+                    299
+                ],
+                [
+                    87,
+                    309
+                ],
+                [
+                    11,
+                    309
+                ]
+            ],
+            "rec_score": 0.8218790888786316
+        },
+        {
+            "content": "能、働きやすい、働きがいのある環境",
+            "det_score": 0.809696025276547,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    291
+                ],
+                [
+                    736,
+                    291
+                ],
+                [
+                    736,
+                    301
+                ],
+                [
+                    596,
+                    301
+                ]
+            ],
+            "rec_score": 0.14480844140052795
+        },
+        {
+            "content": "料無償化·学校給食費の負担軽減を実現。安心",
+            "det_score": 0.7804514430877235,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    291
+                ],
+                [
+                    527,
+                    291
+                ],
+                [
+                    527,
+                    301
+                ],
+                [
+                    345,
+                    301
+                ]
+            ],
+            "rec_score": 0.18092282116413116
+        },
+        {
+            "content": "環境副大臣 兼 内閣府副大臣に再任",
+            "det_score": 0.8342088680463711,
+            "direction": "horizontal",
+            "points": [
+                [
+                    90,
+                    286
+                ],
+                [
+                    239,
+                    286
+                ],
+                [
+                    239,
+                    298
+                ],
+                [
+                    90,
+                    298
+                ]
+            ],
+            "rec_score": 0.7695823311805725
+        },
+        {
+            "content": "○平成29年11月",
+            "det_score": 0.7524997754501893,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    286
+                ],
+                [
+                    89,
+                    286
+                ],
+                [
+                    89,
+                    298
+                ],
+                [
+                    11,
+                    298
+                ]
+            ],
+            "rec_score": 0.8747086524963379
+        },
+        {
+            "content": "設備投資など、中小·小規模事業者の成長投資支援などを実",
+            "det_score": 0.777994785497964,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    280
+                ],
+                [
+                    833,
+                    280
+                ],
+                [
+                    833,
+                    289
+                ],
+                [
+                    596,
+                    289
+                ]
+            ],
+            "rec_score": 0.6354596018791199
+        },
+        {
+            "content": "改善・経営改善支援を実施、教育では、高校医療",
+            "det_score": 0.7691730724727445,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    280
+                ],
+                [
+                    527,
+                    280
+                ],
+                [
+                    527,
+                    289
+                ],
+                [
+                    345,
+                    289
+                ]
+            ],
+            "rec_score": 0.3948817849159241
+        },
+        {
+            "content": "衆議院議員 4期目当選",
+            "det_score": 0.8048452359156978,
+            "direction": "horizontal",
+            "points": [
+                [
+                    90,
+                    274
+                ],
+                [
+                    187,
+                    274
+                ],
+                [
+                    187,
+                    286
+                ],
+                [
+                    90,
+                    286
+                ]
+            ],
+            "rec_score": 0.9683485627174377
+        },
+        {
+            "content": "○平成29年10月",
+            "det_score": 0.7908702674802843,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    274
+                ],
+                [
+                    88,
+                    274
+                ],
+                [
+                    88,
+                    286
+                ],
+                [
+                    11,
+                    286
+                ]
+            ],
+            "rec_score": 0.8965445160865784
+        },
+        {
+            "content": "医療や介護における人材確保を促すため、処理",
+            "det_score": 0.8457767480611801,
+            "direction": "horizontal",
+            "points": [
+                [
+                    346,
+                    269
+                ],
+                [
+                    527,
+                    269
+                ],
+                [
+                    527,
+                    279
+                ],
+                [
+                    346,
+                    279
+                ]
+            ],
+            "rec_score": 0.9093479514122009
+        },
+        {
+            "content": "授上げ促進税制の解続をはじめ、省力化·生産性向上のための",
+            "det_score": 0.8620883191353917,
+            "direction": "horizontal",
+            "points": [
+                [
+                    595,
+                    267
+                ],
+                [
+                    832,
+                    268
+                ],
+                [
+                    832,
+                    279
+                ],
+                [
+                    595,
+                    278
+                ]
+            ],
+            "rec_score": 0.01848459430038929
+        },
+        {
+            "content": "環境耐大臣 兼 内閣府副大臣に就任",
+            "det_score": 0.7828928274859396,
+            "direction": "horizontal",
+            "points": [
+                [
+                    91,
+                    263
+                ],
+                [
+                    238,
+                    263
+                ],
+                [
+                    238,
+                    273
+                ],
+                [
+                    91,
+                    273
+                ]
+            ],
+            "rec_score": 0.25716033577919006
+        },
+        {
+            "content": "○平成28年 8月",
+            "det_score": 0.7732067718091657,
+            "direction": "horizontal",
+            "points": [
+                [
+                    9,
+                    260
+                ],
+                [
+                    89,
+                    261
+                ],
+                [
+                    88,
+                    276
+                ],
+                [
+                    9,
+                    275
+                ]
+            ],
+            "rec_score": 0.6574404835700989
+        },
+        {
+            "content": "優しい社会の基盤整備。",
+            "det_score": 0.8021079987898609,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    251
+                ],
+                [
+                    493,
+                    251
+                ],
+                [
+                    493,
+                    266
+                ],
+                [
+                    345,
+                    266
+                ]
+            ],
+            "rec_score": 0.9862183332443237
+        },
+        {
+            "content": "賃上げ、生産性向上を支援。",
+            "det_score": 0.8497623170175517,
+            "direction": "horizontal",
+            "points": [
+                [
+                    595,
+                    249
+                ],
+                [
+                    764,
+                    250
+                ],
+                [
+                    764,
+                    267
+                ],
+                [
+                    595,
+                    266
+                ]
+            ],
+            "rec_score": 0.8560264110565186
+        },
+        {
+            "content": "第87代衆議院議事進行係(第190回国会)",
+            "det_score": 0.8018923464076251,
+            "direction": "horizontal",
+            "points": [
+                [
+                    91,
+                    251
+                ],
+                [
+                    267,
+                    251
+                ],
+                [
+                    267,
+                    261
+                ],
+                [
+                    91,
+                    261
+                ]
+            ],
+            "rec_score": 0.2976548671722412
+        },
+        {
+            "content": "○平成28年 1月",
+            "det_score": 0.7431349255983403,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    250
+                ],
+                [
+                    88,
+                    250
+                ],
+                [
+                    88,
+                    263
+                ],
+                [
+                    11,
+                    263
+                ]
+            ],
+            "rec_score": 0.9327552318572998
+        },
+        {
+            "content": "衆議院議員 3期目当選",
+            "det_score": 0.765397756287734,
+            "direction": "horizontal",
+            "points": [
+                [
+                    90,
+                    238
+                ],
+                [
+                    187,
+                    238
+                ],
+                [
+                    187,
+                    250
+                ],
+                [
+                    90,
+                    250
+                ]
+            ],
+            "rec_score": 0.8976309299468994
+        },
+        {
+            "content": "○平成26年12月",
+            "det_score": 0.7252559508338119,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    238
+                ],
+                [
+                    88,
+                    238
+                ],
+                [
+                    88,
+                    250
+                ],
+                [
+                    11,
+                    250
+                ]
+            ],
+            "rec_score": 0.7409077286720276
+        },
+        {
+            "content": "医療·福祉·教育|",
+            "det_score": 0.8859886453872252,
+            "direction": "horizontal",
+            "points": [
+                [
+                    354,
+                    224
+                ],
+                [
+                    537,
+                    224
+                ],
+                [
+                    537,
+                    249
+                ],
+                [
+                    354,
+                    249
+                ]
+            ],
+            "rec_score": 0.4257892072200775
+        },
+        {
+            "content": "『4市5町に活力を」",
+            "det_score": 0.8511109548007723,
+            "direction": "horizontal",
+            "points": [
+                [
+                    598,
+                    224
+                ],
+                [
+                    794,
+                    224
+                ],
+                [
+                    794,
+                    248
+                ],
+                [
+                    598,
+                    248
+                ]
+            ],
+            "rec_score": 0.2873562276363373
+        },
+        {
+            "content": "総務大臣政務官鬼内閣府大臣政務官に就任",
+            "det_score": 0.7919624569510945,
+            "direction": "horizontal",
+            "points": [
+                [
+                    91,
+                    228
+                ],
+                [
+                    269,
+                    228
+                ],
+                [
+                    269,
+                    237
+                ],
+                [
+                    91,
+                    237
+                ]
+            ],
+            "rec_score": 0.05365917086601257
+        },
+        {
+            "content": "○平成25年",
+            "det_score": 0.7968285643834282,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    226
+                ],
+                [
+                    63,
+                    226
+                ],
+                [
+                    63,
+                    238
+                ],
+                [
+                    11,
+                    238
+                ]
+            ],
+            "rec_score": 0.7751600742340088
+        },
+        {
+            "content": "自民党国十:津野関係団体委員長:県林水産委員会理事",
+            "det_score": 0.7913914478752251,
+            "direction": "horizontal",
+            "points": [
+                [
+                    92,
+                    215
+                ],
+                [
+                    312,
+                    215
+                ],
+                [
+                    312,
+                    224
+                ],
+                [
+                    92,
+                    224
+                ]
+            ],
+            "rec_score": 0.02148401364684105
+        },
+        {
+            "content": "○平成25年",
+            "det_score": 0.7985105777737762,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    214
+                ],
+                [
+                    63,
+                    214
+                ],
+                [
+                    63,
+                    226
+                ],
+                [
+                    11,
+                    226
+                ]
+            ],
+            "rec_score": 0.8181865811347961
+        },
+        {
+            "content": "地方創生",
+            "det_score": 0.8500803911298621,
+            "direction": "horizontal",
+            "points": [
+                [
+                    610,
+                    210
+                ],
+                [
+                    652,
+                    210
+                ],
+                [
+                    652,
+                    223
+                ],
+                [
+                    610,
+                    223
+                ]
+            ],
+            "rec_score": 0.8988714814186096
+        },
+        {
+            "content": "人生100年以上",
+            "det_score": 0.7624043791278731,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    208
+                ],
+                [
+                    416,
+                    208
+                ],
+                [
+                    416,
+                    223
+                ],
+                [
+                    345,
+                    223
+                ]
+            ],
+            "rec_score": 0.11638370901346207
+        },
+        {
+            "content": "衆議院議員 2期目当選",
+            "det_score": 0.8026237453295103,
+            "direction": "horizontal",
+            "points": [
+                [
+                    89,
+                    203
+                ],
+                [
+                    187,
+                    203
+                ],
+                [
+                    187,
+                    215
+                ],
+                [
+                    89,
+                    215
+                ]
+            ],
+            "rec_score": 0.6963418126106262
+        },
+        {
+            "content": "○平成24年12月 1",
+            "det_score": 0.8095572143191039,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    203
+                ],
+                [
+                    95,
+                    203
+                ],
+                [
+                    95,
+                    215
+                ],
+                [
+                    11,
+                    215
+                ]
+            ],
+            "rec_score": 0.37040644884109497
+        },
+        {
+            "content": "自民党国会対策副委員長",
+            "det_score": 0.8198097382800947,
+            "direction": "horizontal",
+            "points": [
+                [
+                    91,
+                    190
+                ],
+                [
+                    195,
+                    190
+                ],
+                [
+                    195,
+                    203
+                ],
+                [
+                    91,
+                    203
+                ]
+            ],
+            "rec_score": 0.9847586750984192
+        },
+        {
+            "content": "○平成19年",
+            "det_score": 0.7623982435283239,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    190
+                ],
+                [
+                    64,
+                    190
+                ],
+                [
+                    64,
+                    203
+                ],
+                [
+                    11,
+                    203
+                ]
+            ],
+            "rec_score": 0.9589825868606567
+        },
+        {
+            "content": "対策、富士強制化を速やかに進めていきます。",
+            "det_score": 0.8084165034067892,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    182
+                ],
+                [
+                    768,
+                    182
+                ],
+                [
+                    768,
+                    192
+                ],
+                [
+                    596,
+                    192
+                ]
+            ],
+            "rec_score": 0.3522745370864868
+        },
+        {
+            "content": "対策を迅速に、積極的に実行していきます。",
+            "det_score": 0.8638183309806888,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    182
+                ],
+                [
+                    507,
+                    182
+                ],
+                [
+                    507,
+                    192
+                ],
+                [
+                    345,
+                    192
+                ]
+            ],
+            "rec_score": 0.9919528365135193
+        },
+        {
+            "content": "○平成17年 9月 衆議院議員 初当選",
+            "det_score": 0.7884076819835343,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    180
+                ],
+                [
+                    170,
+                    180
+                ],
+                [
+                    170,
+                    190
+                ],
+                [
+                    12,
+                    190
+                ]
+            ],
+            "rec_score": 0.718454897403717
+        },
+        {
+            "content": "威に対処するため、知多半島全域の防災·減災",
+            "det_score": 0.7664105608356193,
+            "direction": "horizontal",
+            "points": [
+                [
+                    597,
+                    171
+                ],
+                [
+                    776,
+                    171
+                ],
+                [
+                    776,
+                    181
+                ],
+                [
+                    597,
+                    181
+                ]
+            ],
+            "rec_score": 0.2721236050128937
+        },
+        {
+            "content": "計負担軽減政策を推進。今後も必要に応じた",
+            "det_score": 0.7656245931026039,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    171
+                ],
+                [
+                    521,
+                    171
+                ],
+                [
+                    521,
+                    181
+                ],
+                [
+                    345,
+                    181
+                ]
+            ],
+            "rec_score": 0.4493454694747925
+        },
+        {
+            "content": "○平成15年 4月 愛知県議会議員 2期目当選",
+            "det_score": 0.7763134614063115,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    168
+                ],
+                [
+                    204,
+                    168
+                ],
+                [
+                    204,
+                    177
+                ],
+                [
+                    12,
+                    177
+                ]
+            ],
+            "rec_score": 0.7473884224891663
+        },
+        {
+            "content": "いとう忠彦",
+            "det_score": 0.8257285886451664,
+            "direction": "vertical",
+            "points": [
+                [
+                    1079,
+                    138
+                ],
+                [
+                    1167,
+                    138
+                ],
+                [
+                    1167,
+                    385
+                ],
+                [
+                    1079,
+                    385
+                ]
+            ],
+            "rec_score": 0.9828712344169617
+        },
+        {
+            "content": "規模な被害も深刻化している近年、美し迫る勢",
+            "det_score": 0.8382307999061815,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    160
+                ],
+                [
+                    776,
+                    160
+                ],
+                [
+                    776,
+                    170
+                ],
+                [
+                    596,
+                    170
+                ]
+            ],
+            "rec_score": 0.13793513178825378
+        },
+        {
+            "content": "岩盤定税率廃止、所得税流財など、幅広い家",
+            "det_score": 0.8633942459288396,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    160
+                ],
+                [
+                    521,
+                    160
+                ],
+                [
+                    521,
+                    170
+                ],
+                [
+                    345,
+                    170
+                ]
+            ],
+            "rec_score": 0.006598156876862049
+        },
+        {
+            "content": "自民党公認",
+            "det_score": 0.8456258558299721,
+            "direction": "vertical",
+            "points": [
+                [
+                    1162,
+                    150
+                ],
+                [
+                    1190,
+                    150
+                ],
+                [
+                    1190,
+                    264
+                ],
+                [
+                    1162,
+                    264
+                ]
+            ],
+            "rec_score": 0.9995967745780945
+        },
+        {
+            "content": "○平成11年 4月 愛知県議会議員初当選",
+            "det_score": 0.757432735243835,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    156
+                ],
+                [
+                    188,
+                    156
+                ],
+                [
+                    188,
+                    165
+                ],
+                [
+                    12,
+                    165
+                ]
+            ],
+            "rec_score": 0.6132083535194397
+        },
+        {
+            "content": "南海トラフロ大治療はもちろん、意用による大",
+            "det_score": 0.8226954865987705,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    148
+                ],
+                [
+                    776,
+                    148
+                ],
+                [
+                    776,
+                    158
+                ],
+                [
+                    596,
+                    158
+                ]
+            ],
+            "rec_score": 0.12611086666584015
+        },
+        {
+            "content": "電気·ガス代支援をはじめ、子育て応援手当、ガソリン",
+            "det_score": 0.8114757900107271,
+            "direction": "horizontal",
+            "points": [
+                [
+                    346,
+                    149
+                ],
+                [
+                    551,
+                    149
+                ],
+                [
+                    551,
+                    159
+                ],
+                [
+                    346,
+                    159
+                ]
+            ],
+            "rec_score": 0.7309905886650085
+        },
+        {
+            "content": "○平成 9年10月 衆議院議員 小渕恵三秘書となる",
+            "det_score": 0.8588134543375766,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    143
+                ],
+                [
+                    224,
+                    143
+                ],
+                [
+                    224,
+                    155
+                ],
+                [
+                    11,
+                    155
+                ]
+            ],
+            "rec_score": 0.7575123310089111
+        },
+        {
+            "content": "念踊の「中部国際空港第2滑走路」を",
+            "det_score": 0.7204225269095585,
+            "direction": "vertical",
+            "points": [
+                [
+                    1000,
+                    135
+                ],
+                [
+                    1016,
+                    134
+                ],
+                [
+                    1017,
+                    310
+                ],
+                [
+                    1001,
+                    310
+                ]
+            ],
+            "rec_score": 0.15908858180046082
+        },
+        {
+            "content": "「西知多道路」。地域経済の活性化、災害時の緊急",
+            "det_score": 0.7400722399575237,
+            "direction": "vertical",
+            "points": [
+                [
+                    933,
+                    136
+                ],
+                [
+                    947,
+                    136
+                ],
+                [
+                    947,
+                    380
+                ],
+                [
+                    933,
+                    380
+                ]
+            ],
+            "rec_score": 0.8178642988204956
+        },
+        {
+            "content": "観光集客力向上につなげます。",
+            "det_score": 0.7254254198249649,
+            "direction": "vertical",
+            "points": [
+                [
+                    961,
+                    134
+                ],
+                [
+                    977,
+                    134
+                ],
+                [
+                    977,
+                    280
+                ],
+                [
+                    961,
+                    280
+                ]
+            ],
+            "rec_score": 0.9818605184555054
+        },
+        {
+            "content": "中部国際空港と名古屋駅の連携強化に不可欠な",
+            "det_score": 0.7520923585477239,
+            "direction": "vertical",
+            "points": [
+                [
+                    945,
+                    134
+                ],
+                [
+                    961,
+                    134
+                ],
+                [
+                    962,
+                    380
+                ],
+                [
+                    946,
+                    380
+                ]
+            ],
+            "rec_score": 0.9964353442192078
+        },
+        {
+            "content": "輸送路確保など、広域交通網の要として早期の全",
+            "det_score": 0.724608095833948,
+            "direction": "vertical",
+            "points": [
+                [
+                    919,
+                    135
+                ],
+                [
+                    935,
+                    135
+                ],
+                [
+                    935,
+                    381
+                ],
+                [
+                    919,
+                    381
+                ]
+            ],
+            "rec_score": 0.955226480960846
+        },
+        {
+            "content": "線開通に尽力します。",
+            "det_score": 0.7233674362322211,
+            "direction": "vertical",
+            "points": [
+                [
+                    903,
+                    134
+                ],
+                [
+                    920,
+                    134
+                ],
+                [
+                    924,
+                    243
+                ],
+                [
+                    907,
+                    243
+                ]
+            ],
+            "rec_score": 0.7260668873786926
+        },
+        {
+            "content": "農業や漁業、観光はもちろん、自動車や飛行機などの",
+            "det_score": 0.7617096864706396,
+            "direction": "vertical",
+            "points": [
+                [
+                    890,
+                    135
+                ],
+                [
+                    904,
+                    135
+                ],
+                [
+                    904,
+                    380
+                ],
+                [
+                    890,
+                    380
+                ]
+            ],
+            "rec_score": 0.9929026961326599
+        },
+        {
+            "content": "生産拠点が日本経済の活力の源です。だからこそ各政",
+            "det_score": 0.7408948390790556,
+            "direction": "vertical",
+            "points": [
+                [
+                    876,
+                    135
+                ],
+                [
+                    890,
+                    135
+                ],
+                [
+                    890,
+                    379
+                ],
+                [
+                    876,
+                    379
+                ]
+            ],
+            "rec_score": 0.8385897874832153
+        },
+        {
+            "content": "進めてまいります。",
+            "det_score": 0.7875168795304441,
+            "direction": "vertical",
+            "points": [
+                [
+                    848,
+                    135
+                ],
+                [
+                    863,
+                    134
+                ],
+                [
+                    865,
+                    223
+                ],
+                [
+                    850,
+                    224
+                ]
+            ],
+            "rec_score": 0.9888991713523865
+        },
+        {
+            "content": "早期実現。完全4時間運用の空港を目指し、知多半",
+            "det_score": 0.7481095663493589,
+            "direction": "vertical",
+            "points": [
+                [
+                    987,
+                    134
+                ],
+                [
+                    1003,
+                    134
+                ],
+                [
+                    1004,
+                    379
+                ],
+                [
+                    988,
+                    379
+                ]
+            ],
+            "rec_score": 0.6851921677589417
+        },
+        {
+            "content": "島の農産品や水産品、工業製品の輸出拡大、そして",
+            "det_score": 0.7509486437849472,
+            "direction": "vertical",
+            "points": [
+                [
+                    976,
+                    135
+                ],
+                [
+                    990,
+                    135
+                ],
+                [
+                    990,
+                    379
+                ],
+                [
+                    976,
+                    379
+                ]
+            ],
+            "rec_score": 0.8041425347328186
+        },
+        {
+            "content": "策を発展させ、すべてのみなさまが豊かになるように",
+            "det_score": 0.7825296706100439,
+            "direction": "vertical",
+            "points": [
+                [
+                    862,
+                    134
+                ],
+                [
+                    877,
+                    134
+                ],
+                [
+                    878,
+                    380
+                ],
+                [
+                    863,
+                    380
+                ]
+            ],
+            "rec_score": 0.9341020584106445
+        },
+        {
+            "content": "命を守る備えを加速。",
+            "det_score": 0.895157391650761,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    130
+                ],
+                [
+                    727,
+                    130
+                ],
+                [
+                    727,
+                    145
+                ],
+                [
+                    596,
+                    145
+                ]
+            ],
+            "rec_score": 0.9703837037086487
+        },
+        {
+            "content": "家計負担の軽減を推進。",
+            "det_score": 0.8761107590150189,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    131
+                ],
+                [
+                    494,
+                    131
+                ],
+                [
+                    494,
+                    146
+                ],
+                [
+                    345,
+                    146
+                ]
+            ],
+            "rec_score": 0.9993311762809753
+        },
+        {
+            "content": "○平成 6年 4月 衆議院議員 武村正義秘書となる",
+            "det_score": 0.7727856436923698,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    132
+                ],
+                [
+                    224,
+                    132
+                ],
+                [
+                    224,
+                    142
+                ],
+                [
+                    11,
+                    142
+                ]
+            ],
+            "rec_score": 0.6872974038124084
+        },
+        {
+            "content": "○株式会社電通入社、平成6年3月同社を退社",
+            "det_score": 0.8944452360072495,
+            "direction": "horizontal",
+            "points": [
+                [
+                    10,
+                    118
+                ],
+                [
+                    199,
+                    117
+                ],
+                [
+                    199,
+                    130
+                ],
+                [
+                    10,
+                    130
+                ]
+            ],
+            "rec_score": 0.24105453491210938
+        },
+        {
+            "content": "『災害に強い街』",
+            "det_score": 0.8507413325471774,
+            "direction": "horizontal",
+            "points": [
+                [
+                    598,
+                    105
+                ],
+                [
+                    763,
+                    105
+                ],
+                [
+                    763,
+                    129
+                ],
+                [
+                    598,
+                    129
+                ]
+            ],
+            "rec_score": 0.878521740436554
+        },
+        {
+            "content": "生活に寄り添う!",
+            "det_score": 0.8538236749265021,
+            "direction": "horizontal",
+            "points": [
+                [
+                    349,
+                    105
+                ],
+                [
+                    530,
+                    105
+                ],
+                [
+                    530,
+                    129
+                ],
+                [
+                    349,
+                    129
+                ]
+            ],
+            "rec_score": 0.4623347520828247
+        },
+        {
+            "content": "職 店",
+            "det_score": 0.5123517616741681,
+            "direction": "horizontal",
+            "points": [
+                [
+                    141,
+                    100
+                ],
+                [
+                    191,
+                    100
+                ],
+                [
+                    191,
+                    121
+                ],
+                [
+                    141,
+                    121
+                ]
+            ],
+            "rec_score": 0.028961550444364548
+        },
+        {
+            "content": "いとう忠彦の決意",
+            "det_score": 0.8503146904277268,
+            "direction": "vertical",
+            "points": [
+                [
+                    1019,
+                    92
+                ],
+                [
+                    1047,
+                    92
+                ],
+                [
+                    1047,
+                    287
+                ],
+                [
+                    1019,
+                    287
+                ]
+            ],
+            "rec_score": 0.9938651323318481
+        },
+        {
+            "content": "昭和63年 早稲田大学法学部卒業",
+            "det_score": 0.8132088161756902,
+            "direction": "horizontal",
+            "points": [
+                [
+                    176,
+                    91
+                ],
+                [
+                    313,
+                    91
+                ],
+                [
+                    313,
+                    103
+                ],
+                [
+                    176,
+                    103
+                ]
+            ],
+            "rec_score": 0.9945511221885681
+        },
+        {
+            "content": "昭和55年 東海学園 東海中学校卒業",
+            "det_score": 0.7959603329179108,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    91
+                ],
+                [
+                    161,
+                    91
+                ],
+                [
+                    161,
+                    103
+                ],
+                [
+                    12,
+                    103
+                ]
+            ],
+            "rec_score": 0.9803319573402405
+        },
+        {
+            "content": "事前防災性化",
+            "det_score": 0.7992404895393471,
+            "direction": "horizontal",
+            "points": [
+                [
+                    597,
+                    89
+                ],
+                [
+                    667,
+                    89
+                ],
+                [
+                    667,
+                    104
+                ],
+                [
+                    597,
+                    104
+                ]
+            ],
+            "rec_score": 0.02948770858347416
+        },
+        {
+            "content": "物価高対策",
+            "det_score": 0.7861348915285835,
+            "direction": "horizontal",
+            "points": [
+                [
+                    354,
+                    90
+                ],
+                [
+                    405,
+                    90
+                ],
+                [
+                    405,
+                    103
+                ],
+                [
+                    354,
+                    103
+                ]
+            ],
+            "rec_score": 0.6954081654548645
+        },
+        {
+            "content": "昭和58年 早稲田大学高等学院卒業",
+            "det_score": 0.8051792920460751,
+            "direction": "horizontal",
+            "points": [
+                [
+                    176,
+                    79
+                ],
+                [
+                    322,
+                    79
+                ],
+                [
+                    322,
+                    91
+                ],
+                [
+                    176,
+                    91
+                ]
+            ],
+            "rec_score": 0.963300883769989
+        },
+        {
+            "content": "昭和52年 名古屋市立御園小学校卒業",
+            "det_score": 0.8203540179686791,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    79
+                ],
+                [
+                    166,
+                    79
+                ],
+                [
+                    166,
+                    91
+                ],
+                [
+                    12,
+                    91
+                ]
+            ],
+            "rec_score": 0.780760645866394
+        },
+        {
+            "content": "学歴",
+            "det_score": 0.7337603104130773,
+            "direction": "horizontal",
+            "points": [
+                [
+                    142,
+                    62
+                ],
+                [
+                    189,
+                    62
+                ],
+                [
+                    189,
+                    80
+                ],
+                [
+                    142,
+                    80
+                ]
+            ],
+            "rec_score": 0.4539420008659363
+        },
+        {
+            "content": "○座右の銘は「天下為公」",
+            "det_score": 0.7380993808218456,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    52
+                ],
+                [
+                    118,
+                    52
+                ],
+                [
+                    118,
+                    64
+                ],
+                [
+                    11,
+                    64
+                ]
+            ],
+            "rec_score": 0.6193329095840454
+        },
+        {
+            "content": "○趣味は旅行(飛行場を見学する事)、絵画鑑賞,水泳",
+            "det_score": 0.7723944716323019,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    41
+                ],
+                [
+                    230,
+                    41
+                ],
+                [
+                    230,
+                    50
+                ],
+                [
+                    12,
+                    50
+                ]
+            ],
+            "rec_score": 0.21334674954414368
+        },
+        {
+            "content": "○昭和39年7月11日(辰年)、名古屋市で生まれる",
+            "det_score": 0.8300000469978541,
+            "direction": "horizontal",
+            "points": [
+                [
+                    11,
+                    27
+                ],
+                [
+                    219,
+                    27
+                ],
+                [
+                    219,
+                    39
+                ],
+                [
+                    11,
+                    39
+                ]
+            ],
+            "rec_score": 0.7069217562675476
+        },
+        {
+            "content": "共に、強く、豊かな知多半島へ。",
+            "det_score": 0.9088233435314089,
+            "direction": "horizontal",
+            "points": [
+                [
+                    330,
+                    3
+                ],
+                [
+                    1061,
+                    3
+                ],
+                [
+                    1061,
+                    84
+                ],
+                [
+                    330,
+                    84
+                ]
+            ],
+            "rec_score": 0.9953815340995789
+        },
+        {
+            "content": "プロフィール",
+            "det_score": 0.8121511309120292,
+            "direction": "horizontal",
+            "points": [
+                [
+                    131,
+                    9
+                ],
+                [
+                    201,
+                    9
+                ],
+                [
+                    201,
+                    24
+                ],
+                [
+                    131,
+                    24
+                ]
+            ],
+            "rec_score": 0.993577778339386
+        }
+    ]
+}

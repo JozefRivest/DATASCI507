@@ -1,0 +1,2397 @@
+{
+    "figures": [
+        {
+            "box": [
+                36,
+                319,
+                138,
+                372
+            ],
+            "direction": "horizontal",
+            "order": 26,
+            "paragraphs": [
+                {
+                    "box": [
+                        44,
+                        337,
+                        116,
+                        366
+                    ],
+                    "contents": "あなたの\n声を国政に",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                844,
+                319,
+                1049,
+                377
+            ],
+            "direction": "horizontal",
+            "order": 44,
+            "paragraphs": [
+                {
+                    "box": [
+                        849,
+                        324,
+                        1044,
+                        373
+                    ],
+                    "contents": "減税日本",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1095,
+                3,
+                1204,
+                386
+            ],
+            "direction": "vertical",
+            "order": 55,
+            "paragraphs": [
+                {
+                    "box": [
+                        1108,
+                        152,
+                        1199,
+                        381
+                    ],
+                    "contents": "減税日本公認\n平岩まさき\nひらいわ",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                13,
+                27,
+                973,
+                115
+            ],
+            "contents": "減税で手取り増!名古屋から実績ある改革を!",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                28,
+                128,
+                52,
+                163
+            ],
+            "contents": "1",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                75,
+                132,
+                120,
+                158
+            ],
+            "contents": "減税",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                149,
+                128,
+                182,
+                163
+            ],
+            "contents": "2",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                183,
+                133,
+                259,
+                157
+            ],
+            "contents": "現役世代",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                272,
+                128,
+                304,
+                163
+            ],
+            "contents": "3",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                306,
+                133,
+                381,
+                158
+            ],
+            "contents": "教育投資",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                393,
+                128,
+                431,
+                163
+            ],
+            "contents": "4l",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                424,
+                133,
+                512,
+                157
+            ],
+            "contents": "子ども若者",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                518,
+                128,
+                551,
+                163
+            ],
+            "contents": "5",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                556,
+                135,
+                627,
+                156
+            ],
+            "contents": "安全保障",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                26,
+                167,
+                635,
+                188
+            ],
+            "contents": "手取りを増やす 頑張る人を応援 教育に投資倍増 子供を守り抜く 自分~国を守る",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                22,
+                193,
+                643,
+                209
+            ],
+            "contents": "名古屋で実証された減税 頑張る人が報われる公 未来への投資で日本の競 子どもや若者を誰一人と 現実的な外交と防衛で日",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                23,
+                208,
+                98,
+                222
+            ],
+            "contents": "モデルを推進!",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                27,
+                230,
+                138,
+                242
+            ],
+            "contents": "●消費税減税(一律 5%)",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                268,
+                209,
+                355,
+                223
+            ],
+            "contents": "争力を高めます!",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                275,
+                230,
+                378,
+                242
+            ],
+            "contents": "●教育·研究予算倍増",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                274,
+                244,
+                357,
+                256
+            ],
+            "contents": "●奨学金返済免除",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                274,
+                258,
+                376,
+                270
+            ],
+            "contents": "●学び直し·リスキリ",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                274,
+                271,
+                317,
+                284
+            ],
+            "contents": "ング支援",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                519,
+                209,
+                574,
+                224
+            ],
+            "contents": "本を守る!",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                149,
+                206,
+                215,
+                223
+            ],
+            "contents": "平な制度に!",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                149,
+                230,
+                262,
+                242
+            ],
+            "contents": "●子育てにかかるあらゆ",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                27,
+                244,
+                222,
+                256
+            ],
+            "contents": "●食料品消費税ゼロ\nる費用を無償化",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                26,
+                257,
+                243,
+                270
+            ],
+            "contents": "●インボイス廃止\n●各種所得制限撤廃",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                26,
+                271,
+                253,
+                284
+            ],
+            "contents": "●社会保険料の引き下げ\n●年少扶養控除の復活",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                233,
+                328,
+                357,
+                345
+            ],
+            "contents": "政策詳細はこちら!",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                396,
+                209,
+                482,
+                223
+            ],
+            "contents": "して死なせない!",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                398,
+                230,
+                450,
+                242
+            ],
+            "contents": "●孤独対策",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                397,
+                244,
+                511,
+                256
+            ],
+            "contents": "●虐待·いじめ対策の強",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                396,
+                256,
+                411,
+                271
+            ],
+            "contents": "化",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                398,
+                271,
+                512,
+                284
+            ],
+            "contents": "●困窮家庭への早期支援",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                646,
+                128,
+                675,
+                162
+            ],
+            "contents": "6",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                683,
+                135,
+                767,
+                155
+            ],
+            "contents": "名古屋市と",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                661,
+                168,
+                756,
+                187
+            ],
+            "contents": "国政との連携",
+            "direction": "horizontal",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                651,
+                196,
+                771,
+                223
+            ],
+            "contents": "広沢市長と共に名古屋の\n発展を全面的に後押し!",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                806,
+                98,
+                1034,
+                125
+            ],
+            "contents": "名古屋から日本再生!",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                812,
+                134,
+                1032,
+                160
+            ],
+            "contents": "京都大院卒 社会起業家",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                816,
+                167,
+                1030,
+                185
+            ],
+            "contents": "行政と企業経営の経験を国政に",
+            "direction": "horizontal",
+            "order": 39,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                800,
+                193,
+                1038,
+                231
+            ],
+            "contents": "1979年/昭和54年)12月25日生。\n京都大学大学院公共政策教育部公共政策専攻修了\n同志社大学文学部英文学科卒業",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                590,
+                214,
+                832,
+                396
+            ],
+            "contents": "(2)",
+            "direction": "horizontal",
+            "order": 41,
+            "role": null
+        },
+        {
+            "box": [
+                759,
+                242,
+                790,
+                339
+            ],
+            "contents": "応援したって",
+            "direction": "vertical",
+            "order": 42,
+            "role": null
+        },
+        {
+            "box": [
+                801,
+                232,
+                1045,
+                296
+            ],
+            "contents": "株式会社三省堂、衆議院議員秘書を経て、貝塚市議\n会議員を3期務める。官民連携事業を行うコンサル会\n社を立ち上げ、全国数々の自治体と共に事業を行い地\n方創生に貢献。京丹後市政策アドバイザー等自治体\nへの政策助言も行う。2024年、衆議院議員初当選。",
+            "direction": "horizontal",
+            "order": 43,
+            "role": null
+        },
+        {
+            "box": [
+                653,
+                233,
+                752,
+                245
+            ],
+            "contents": "●減税と税収増を両立",
+            "direction": "horizontal",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                653,
+                247,
+                765,
+                259
+            ],
+            "contents": "●アジア·バラ競技大会",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        },
+        {
+            "box": [
+                651,
+                261,
+                713,
+                272
+            ],
+            "contents": "を全面後押し",
+            "direction": "horizontal",
+            "order": 47,
+            "role": null
+        },
+        {
+            "box": [
+                652,
+                274,
+                746,
+                286
+            ],
+            "contents": "●名古屋モデル展開",
+            "direction": "horizontal",
+            "order": 48,
+            "role": null
+        },
+        {
+            "box": [
+                637,
+                315,
+                772,
+                377
+            ],
+            "contents": "(減税日本代表/前名古屋市長)\n全力応援!",
+            "direction": "horizontal",
+            "order": 49,
+            "role": null
+        },
+        {
+            "box": [
+                521,
+                232,
+                643,
+                245
+            ],
+            "contents": "●エネルギー·食料·医患",
+            "direction": "horizontal",
+            "order": 50,
+            "role": null
+        },
+        {
+            "box": [
+                520,
+                246,
+                632,
+                258
+            ],
+            "contents": "品·半導体等の国内調達",
+            "direction": "horizontal",
+            "order": 51,
+            "role": null
+        },
+        {
+            "box": [
+                522,
+                260,
+                635,
+                272
+            ],
+            "contents": "●防衛産業の育成·強化",
+            "direction": "horizontal",
+            "order": 52,
+            "role": null
+        },
+        {
+            "box": [
+                521,
+                274,
+                634,
+                286
+            ],
+            "contents": "●外国人の土地取得規制",
+            "direction": "horizontal",
+            "order": 53,
+            "role": null
+        },
+        {
+            "box": [
+                440,
+                328,
+                595,
+                345
+            ],
+            "contents": "あなたも一緒に政策議論!",
+            "direction": "horizontal",
+            "order": 54,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "全力応援!",
+            "det_score": 0.8531082137786624,
+            "direction": "horizontal",
+            "points": [
+                [
+                    681,
+                    356
+                ],
+                [
+                    765,
+                    356
+                ],
+                [
+                    765,
+                    377
+                ],
+                [
+                    681,
+                    377
+                ]
+            ],
+            "rec_score": 0.9986638426780701
+        },
+        {
+            "content": "声を国政に",
+            "det_score": 0.8598326122924074,
+            "direction": "horizontal",
+            "points": [
+                [
+                    41,
+                    348
+                ],
+                [
+                    116,
+                    348
+                ],
+                [
+                    116,
+                    367
+                ],
+                [
+                    41,
+                    367
+                ]
+            ],
+            "rec_score": 0.9892401695251465
+        },
+        {
+            "content": "(減税日本代表/前名古屋市長)",
+            "det_score": 0.8609237958240453,
+            "direction": "horizontal",
+            "points": [
+                [
+                    642,
+                    341
+                ],
+                [
+                    771,
+                    341
+                ],
+                [
+                    771,
+                    353
+                ],
+                [
+                    642,
+                    353
+                ]
+            ],
+            "rec_score": 0.5206161141395569
+        },
+        {
+            "content": "あなたの",
+            "det_score": 0.8561139628804963,
+            "direction": "horizontal",
+            "points": [
+                [
+                    42,
+                    336
+                ],
+                [
+                    83,
+                    334
+                ],
+                [
+                    84,
+                    349
+                ],
+                [
+                    43,
+                    351
+                ]
+            ],
+            "rec_score": 0.999623715877533
+        },
+        {
+            "content": "減税日本",
+            "det_score": 0.8851094314760691,
+            "direction": "horizontal",
+            "points": [
+                [
+                    848,
+                    322
+                ],
+                [
+                    1044,
+                    322
+                ],
+                [
+                    1044,
+                    375
+                ],
+                [
+                    848,
+                    375
+                ]
+            ],
+            "rec_score": 0.8833035230636597
+        },
+        {
+            "content": "あなたも一緒に政策議論!",
+            "det_score": 0.8548418817848995,
+            "direction": "horizontal",
+            "points": [
+                [
+                    440,
+                    328
+                ],
+                [
+                    595,
+                    328
+                ],
+                [
+                    595,
+                    344
+                ],
+                [
+                    440,
+                    344
+                ]
+            ],
+            "rec_score": 0.9433039426803589
+        },
+        {
+            "content": "政策詳細はこちら!",
+            "det_score": 0.9029059965856951,
+            "direction": "horizontal",
+            "points": [
+                [
+                    233,
+                    328
+                ],
+                [
+                    357,
+                    328
+                ],
+                [
+                    357,
+                    344
+                ],
+                [
+                    233,
+                    344
+                ]
+            ],
+            "rec_score": 0.9995887279510498
+        },
+        {
+            "content": "への政策助言も行う。2024年、衆議院議員初当選。",
+            "det_score": 0.8443671244642008,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    285
+                ],
+                [
+                    1035,
+                    285
+                ],
+                [
+                    1035,
+                    296
+                ],
+                [
+                    801,
+                    296
+                ]
+            ],
+            "rec_score": 0.4841066896915436
+        },
+        {
+            "content": "●名古屋モデル展開",
+            "det_score": 0.8091550690556004,
+            "direction": "horizontal",
+            "points": [
+                [
+                    652,
+                    274
+                ],
+                [
+                    745,
+                    274
+                ],
+                [
+                    745,
+                    285
+                ],
+                [
+                    652,
+                    285
+                ]
+            ],
+            "rec_score": 0.9626754522323608
+        },
+        {
+            "content": "●外国人の土地取得規制",
+            "det_score": 0.8588495951300484,
+            "direction": "horizontal",
+            "points": [
+                [
+                    521,
+                    274
+                ],
+                [
+                    634,
+                    274
+                ],
+                [
+                    634,
+                    285
+                ],
+                [
+                    521,
+                    285
+                ]
+            ],
+            "rec_score": 0.9723157286643982
+        },
+        {
+            "content": "方創生に貢献。京丹後市政策アドバイザー等自治体",
+            "det_score": 0.8392658234543858,
+            "direction": "horizontal",
+            "points": [
+                [
+                    802,
+                    272
+                ],
+                [
+                    1036,
+                    272
+                ],
+                [
+                    1036,
+                    282
+                ],
+                [
+                    802,
+                    282
+                ]
+            ],
+            "rec_score": 0.8952276706695557
+        },
+        {
+            "content": "●困窮家庭への早期支援",
+            "det_score": 0.802052293102639,
+            "direction": "horizontal",
+            "points": [
+                [
+                    400,
+                    271
+                ],
+                [
+                    512,
+                    271
+                ],
+                [
+                    512,
+                    283
+                ],
+                [
+                    400,
+                    283
+                ]
+            ],
+            "rec_score": 0.5540437698364258
+        },
+        {
+            "content": "ング支援",
+            "det_score": 0.8813993524669147,
+            "direction": "horizontal",
+            "points": [
+                [
+                    274,
+                    271
+                ],
+                [
+                    317,
+                    271
+                ],
+                [
+                    317,
+                    284
+                ],
+                [
+                    274,
+                    284
+                ]
+            ],
+            "rec_score": 0.9991690516471863
+        },
+        {
+            "content": "●年少扶養控除の復活",
+            "det_score": 0.8889221001475577,
+            "direction": "horizontal",
+            "points": [
+                [
+                    150,
+                    271
+                ],
+                [
+                    252,
+                    271
+                ],
+                [
+                    252,
+                    282
+                ],
+                [
+                    150,
+                    282
+                ]
+            ],
+            "rec_score": 0.6499391794204712
+        },
+        {
+            "content": "●社会保険料の引き下げ",
+            "det_score": 0.8660653295362887,
+            "direction": "horizontal",
+            "points": [
+                [
+                    26,
+                    271
+                ],
+                [
+                    140,
+                    271
+                ],
+                [
+                    140,
+                    283
+                ],
+                [
+                    26,
+                    284
+                ]
+            ],
+            "rec_score": 0.992368757724762
+        },
+        {
+            "content": "(2)",
+            "det_score": 0.73644737980442,
+            "direction": "horizontal",
+            "points": [
+                [
+                    590,
+                    307
+                ],
+                [
+                    769,
+                    214
+                ],
+                [
+                    832,
+                    337
+                ],
+                [
+                    653,
+                    396
+                ]
+            ],
+            "rec_score": 0.028895551338791847
+        },
+        {
+            "content": "を全面後押し",
+            "det_score": 0.9086302403137431,
+            "direction": "horizontal",
+            "points": [
+                [
+                    650,
+                    259
+                ],
+                [
+                    714,
+                    259
+                ],
+                [
+                    714,
+                    273
+                ],
+                [
+                    650,
+                    273
+                ]
+            ],
+            "rec_score": 0.9984189867973328
+        },
+        {
+            "content": "●防衛産業の育成·強化",
+            "det_score": 0.8619944427722419,
+            "direction": "horizontal",
+            "points": [
+                [
+                    520,
+                    259
+                ],
+                [
+                    635,
+                    259
+                ],
+                [
+                    635,
+                    273
+                ],
+                [
+                    520,
+                    273
+                ]
+            ],
+            "rec_score": 0.9986437559127808
+        },
+        {
+            "content": "社を立ち上げ、全国数々の自治体と共に事業を行い地",
+            "det_score": 0.8540159126232597,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    258
+                ],
+                [
+                    1044,
+                    258
+                ],
+                [
+                    1044,
+                    270
+                ],
+                [
+                    801,
+                    270
+                ]
+            ],
+            "rec_score": 0.984437108039856
+        },
+        {
+            "content": "●学び直し·リスキリ",
+            "det_score": 0.8206828731410909,
+            "direction": "horizontal",
+            "points": [
+                [
+                    274,
+                    257
+                ],
+                [
+                    376,
+                    257
+                ],
+                [
+                    376,
+                    268
+                ],
+                [
+                    274,
+                    268
+                ]
+            ],
+            "rec_score": 0.5610285401344299
+        },
+        {
+            "content": "●各種所得制限撤廃",
+            "det_score": 0.8745489125140011,
+            "direction": "horizontal",
+            "points": [
+                [
+                    148,
+                    258
+                ],
+                [
+                    242,
+                    257
+                ],
+                [
+                    242,
+                    269
+                ],
+                [
+                    148,
+                    270
+                ]
+            ],
+            "rec_score": 0.9280551671981812
+        },
+        {
+            "content": "●インボイス廃止",
+            "det_score": 0.8180810570863187,
+            "direction": "horizontal",
+            "points": [
+                [
+                    25,
+                    257
+                ],
+                [
+                    110,
+                    257
+                ],
+                [
+                    110,
+                    271
+                ],
+                [
+                    25,
+                    271
+                ]
+            ],
+            "rec_score": 0.8496258854866028
+        },
+        {
+            "content": "化",
+            "det_score": 0.7526962370203252,
+            "direction": "horizontal",
+            "points": [
+                [
+                    396,
+                    256
+                ],
+                [
+                    411,
+                    256
+                ],
+                [
+                    411,
+                    271
+                ],
+                [
+                    396,
+                    271
+                ]
+            ],
+            "rec_score": 0.9932737350463867
+        },
+        {
+            "content": "応援したって",
+            "det_score": 0.7078271281398549,
+            "direction": "vertical",
+            "points": [
+                [
+                    764,
+                    242
+                ],
+                [
+                    790,
+                    244
+                ],
+                [
+                    785,
+                    339
+                ],
+                [
+                    759,
+                    338
+                ]
+            ],
+            "rec_score": 0.8938280940055847
+        },
+        {
+            "content": "●アジア·バラ競技大会",
+            "det_score": 0.8154272164612016,
+            "direction": "horizontal",
+            "points": [
+                [
+                    650,
+                    245
+                ],
+                [
+                    770,
+                    245
+                ],
+                [
+                    770,
+                    261
+                ],
+                [
+                    650,
+                    261
+                ]
+            ],
+            "rec_score": 0.8847601413726807
+        },
+        {
+            "content": "品·半導体等の国内調達",
+            "det_score": 0.8063872414745594,
+            "direction": "horizontal",
+            "points": [
+                [
+                    521,
+                    247
+                ],
+                [
+                    633,
+                    247
+                ],
+                [
+                    633,
+                    258
+                ],
+                [
+                    521,
+                    258
+                ]
+            ],
+            "rec_score": 0.8395677804946899
+        },
+        {
+            "content": "会議員を3期務める。官民連携事業を行うコンサル会",
+            "det_score": 0.8262528095261327,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    245
+                ],
+                [
+                    1042,
+                    245
+                ],
+                [
+                    1042,
+                    257
+                ],
+                [
+                    801,
+                    257
+                ]
+            ],
+            "rec_score": 0.9408928751945496
+        },
+        {
+            "content": "る費用を無償化",
+            "det_score": 0.8469090939615853,
+            "direction": "horizontal",
+            "points": [
+                [
+                    150,
+                    244
+                ],
+                [
+                    222,
+                    244
+                ],
+                [
+                    222,
+                    256
+                ],
+                [
+                    150,
+                    256
+                ]
+            ],
+            "rec_score": 0.9924681782722473
+        },
+        {
+            "content": "●食料品消費税ゼロ",
+            "det_score": 0.8431188811184235,
+            "direction": "horizontal",
+            "points": [
+                [
+                    26,
+                    244
+                ],
+                [
+                    118,
+                    244
+                ],
+                [
+                    118,
+                    256
+                ],
+                [
+                    26,
+                    256
+                ]
+            ],
+            "rec_score": 0.9937426447868347
+        },
+        {
+            "content": "●虐待·いじめ対策の強",
+            "det_score": 0.8761138989394108,
+            "direction": "horizontal",
+            "points": [
+                [
+                    397,
+                    243
+                ],
+                [
+                    512,
+                    243
+                ],
+                [
+                    512,
+                    257
+                ],
+                [
+                    397,
+                    257
+                ]
+            ],
+            "rec_score": 0.9842681884765625
+        },
+        {
+            "content": "●奨学金返済免除",
+            "det_score": 0.8334147102109166,
+            "direction": "horizontal",
+            "points": [
+                [
+                    274,
+                    243
+                ],
+                [
+                    358,
+                    243
+                ],
+                [
+                    358,
+                    257
+                ],
+                [
+                    274,
+                    257
+                ]
+            ],
+            "rec_score": 0.9953696727752686
+        },
+        {
+            "content": "●減税と税収増を両立",
+            "det_score": 0.8141649365425109,
+            "direction": "horizontal",
+            "points": [
+                [
+                    651,
+                    232
+                ],
+                [
+                    752,
+                    232
+                ],
+                [
+                    752,
+                    244
+                ],
+                [
+                    651,
+                    244
+                ]
+            ],
+            "rec_score": 0.8019235134124756
+        },
+        {
+            "content": "●エネルギー·食料·医患",
+            "det_score": 0.7959660293380603,
+            "direction": "horizontal",
+            "points": [
+                [
+                    521,
+                    233
+                ],
+                [
+                    643,
+                    233
+                ],
+                [
+                    643,
+                    244
+                ],
+                [
+                    521,
+                    244
+                ]
+            ],
+            "rec_score": 0.19999819993972778
+        },
+        {
+            "content": "株式会社三省堂、衆議院議員秘書を経て、貝塚市議",
+            "det_score": 0.7973413241733692,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    232
+                ],
+                [
+                    1036,
+                    232
+                ],
+                [
+                    1036,
+                    244
+                ],
+                [
+                    801,
+                    244
+                ]
+            ],
+            "rec_score": 0.4517153799533844
+        },
+        {
+            "content": "●教育·研究予算倍増",
+            "det_score": 0.8216021447616784,
+            "direction": "horizontal",
+            "points": [
+                [
+                    274,
+                    230
+                ],
+                [
+                    377,
+                    230
+                ],
+                [
+                    377,
+                    241
+                ],
+                [
+                    274,
+                    241
+                ]
+            ],
+            "rec_score": 0.9545872211456299
+        },
+        {
+            "content": "●子育てにかかるあらゆ",
+            "det_score": 0.7759072867243788,
+            "direction": "horizontal",
+            "points": [
+                [
+                    149,
+                    230
+                ],
+                [
+                    262,
+                    230
+                ],
+                [
+                    262,
+                    242
+                ],
+                [
+                    149,
+                    242
+                ]
+            ],
+            "rec_score": 0.9830219745635986
+        },
+        {
+            "content": "●消費税減税(一律 5%)",
+            "det_score": 0.840147308472431,
+            "direction": "horizontal",
+            "points": [
+                [
+                    26,
+                    230
+                ],
+                [
+                    139,
+                    230
+                ],
+                [
+                    139,
+                    242
+                ],
+                [
+                    26,
+                    242
+                ]
+            ],
+            "rec_score": 0.8171713352203369
+        },
+        {
+            "content": "●孤独対策",
+            "det_score": 0.8200709857404805,
+            "direction": "horizontal",
+            "points": [
+                [
+                    397,
+                    230
+                ],
+                [
+                    450,
+                    230
+                ],
+                [
+                    450,
+                    242
+                ],
+                [
+                    397,
+                    242
+                ]
+            ],
+            "rec_score": 0.6819896101951599
+        },
+        {
+            "content": "同志社大学文学部英文学科卒業",
+            "det_score": 0.8119332840614583,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    219
+                ],
+                [
+                    953,
+                    219
+                ],
+                [
+                    953,
+                    230
+                ],
+                [
+                    801,
+                    230
+                ]
+            ],
+            "rec_score": 0.8400676250457764
+        },
+        {
+            "content": "発展を全面的に後押し!",
+            "det_score": 0.8368434721892205,
+            "direction": "horizontal",
+            "points": [
+                [
+                    651,
+                    211
+                ],
+                [
+                    769,
+                    211
+                ],
+                [
+                    769,
+                    223
+                ],
+                [
+                    651,
+                    223
+                ]
+            ],
+            "rec_score": 0.7456676363945007
+        },
+        {
+            "content": "本を守る!",
+            "det_score": 0.8687701602302604,
+            "direction": "horizontal",
+            "points": [
+                [
+                    519,
+                    209
+                ],
+                [
+                    574,
+                    209
+                ],
+                [
+                    574,
+                    224
+                ],
+                [
+                    519,
+                    224
+                ]
+            ],
+            "rec_score": 0.9972637295722961
+        },
+        {
+            "content": "して死なせない!",
+            "det_score": 0.8538567290984486,
+            "direction": "horizontal",
+            "points": [
+                [
+                    396,
+                    209
+                ],
+                [
+                    482,
+                    209
+                ],
+                [
+                    482,
+                    223
+                ],
+                [
+                    396,
+                    223
+                ]
+            ],
+            "rec_score": 0.9974371790885925
+        },
+        {
+            "content": "争力を高めます!",
+            "det_score": 0.8472041299059185,
+            "direction": "horizontal",
+            "points": [
+                [
+                    268,
+                    209
+                ],
+                [
+                    355,
+                    209
+                ],
+                [
+                    355,
+                    223
+                ],
+                [
+                    268,
+                    223
+                ]
+            ],
+            "rec_score": 0.9369588494300842
+        },
+        {
+            "content": "平な制度に!",
+            "det_score": 0.8882320219507585,
+            "direction": "horizontal",
+            "points": [
+                [
+                    149,
+                    206
+                ],
+                [
+                    215,
+                    208
+                ],
+                [
+                    214,
+                    223
+                ],
+                [
+                    149,
+                    221
+                ]
+            ],
+            "rec_score": 0.6829405426979065
+        },
+        {
+            "content": "モデルを推進!",
+            "det_score": 0.8232165626188119,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    208
+                ],
+                [
+                    98,
+                    208
+                ],
+                [
+                    98,
+                    222
+                ],
+                [
+                    23,
+                    222
+                ]
+            ],
+            "rec_score": 0.9970441460609436
+        },
+        {
+            "content": "京都大学大学院公共政策教育部公共政策専攻修了",
+            "det_score": 0.8514447939899268,
+            "direction": "horizontal",
+            "points": [
+                [
+                    802,
+                    207
+                ],
+                [
+                    1037,
+                    207
+                ],
+                [
+                    1037,
+                    217
+                ],
+                [
+                    802,
+                    217
+                ]
+            ],
+            "rec_score": 0.6463552117347717
+        },
+        {
+            "content": "広沢市長と共に名古屋の",
+            "det_score": 0.8394006765831662,
+            "direction": "horizontal",
+            "points": [
+                [
+                    650,
+                    196
+                ],
+                [
+                    772,
+                    196
+                ],
+                [
+                    772,
+                    210
+                ],
+                [
+                    650,
+                    210
+                ]
+            ],
+            "rec_score": 0.9994986653327942
+        },
+        {
+            "content": "名古屋で実証された減税 頑張る人が報われる公 未来への投資で日本の競 子どもや若者を誰一人と 現実的な外交と防衛で日",
+            "det_score": 0.822664075670364,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    193
+                ],
+                [
+                    643,
+                    195
+                ],
+                [
+                    643,
+                    209
+                ],
+                [
+                    22,
+                    207
+                ]
+            ],
+            "rec_score": 0.3502548933029175
+        },
+        {
+            "content": "1979年/昭和54年)12月25日生。",
+            "det_score": 0.8602387951173651,
+            "direction": "horizontal",
+            "points": [
+                [
+                    802,
+                    193
+                ],
+                [
+                    959,
+                    193
+                ],
+                [
+                    959,
+                    204
+                ],
+                [
+                    802,
+                    204
+                ]
+            ],
+            "rec_score": 0.4603605270385742
+        },
+        {
+            "content": "国政との連携",
+            "det_score": 0.8581396746652009,
+            "direction": "horizontal",
+            "points": [
+                [
+                    660,
+                    168
+                ],
+                [
+                    755,
+                    168
+                ],
+                [
+                    755,
+                    187
+                ],
+                [
+                    660,
+                    187
+                ]
+            ],
+            "rec_score": 0.9993939399719238
+        },
+        {
+            "content": "手取りを増やす 頑張る人を応援 教育に投資倍増 子供を守り抜く 自分~国を守る",
+            "det_score": 0.8417696332132723,
+            "direction": "horizontal",
+            "points": [
+                [
+                    25,
+                    167
+                ],
+                [
+                    638,
+                    165
+                ],
+                [
+                    638,
+                    189
+                ],
+                [
+                    25,
+                    190
+                ]
+            ],
+            "rec_score": 0.3097533583641052
+        },
+        {
+            "content": "行政と企業経営の経験を国政に",
+            "det_score": 0.8677368059133826,
+            "direction": "horizontal",
+            "points": [
+                [
+                    817,
+                    168
+                ],
+                [
+                    1029,
+                    168
+                ],
+                [
+                    1029,
+                    184
+                ],
+                [
+                    817,
+                    184
+                ]
+            ],
+            "rec_score": 0.9935770034790039
+        },
+        {
+            "content": "平岩まさき",
+            "det_score": 0.8462724863399054,
+            "direction": "vertical",
+            "points": [
+                [
+                    1110,
+                    152
+                ],
+                [
+                    1157,
+                    152
+                ],
+                [
+                    1157,
+                    380
+                ],
+                [
+                    1110,
+                    380
+                ]
+            ],
+            "rec_score": 0.8032214045524597
+        },
+        {
+            "content": "減税日本公認",
+            "det_score": 0.8613420242746124,
+            "direction": "vertical",
+            "points": [
+                [
+                    1173,
+                    152
+                ],
+                [
+                    1200,
+                    153
+                ],
+                [
+                    1198,
+                    288
+                ],
+                [
+                    1172,
+                    287
+                ]
+            ],
+            "rec_score": 0.9913298487663269
+        },
+        {
+            "content": "ひらいわ",
+            "det_score": 0.6813837016769878,
+            "direction": "vertical",
+            "points": [
+                [
+                    1150,
+                    150
+                ],
+                [
+                    1176,
+                    150
+                ],
+                [
+                    1176,
+                    250
+                ],
+                [
+                    1150,
+                    250
+                ]
+            ],
+            "rec_score": 0.45872265100479126
+        },
+        {
+            "content": "京都大院卒 社会起業家",
+            "det_score": 0.8826961585332251,
+            "direction": "horizontal",
+            "points": [
+                [
+                    811,
+                    134
+                ],
+                [
+                    1031,
+                    134
+                ],
+                [
+                    1031,
+                    159
+                ],
+                [
+                    811,
+                    159
+                ]
+            ],
+            "rec_score": 0.9553436040878296
+        },
+        {
+            "content": "名古屋市と",
+            "det_score": 0.8835527494705414,
+            "direction": "horizontal",
+            "points": [
+                [
+                    680,
+                    133
+                ],
+                [
+                    768,
+                    133
+                ],
+                [
+                    768,
+                    157
+                ],
+                [
+                    680,
+                    157
+                ]
+            ],
+            "rec_score": 0.9995793700218201
+        },
+        {
+            "content": "安全保障",
+            "det_score": 0.8604315452449786,
+            "direction": "horizontal",
+            "points": [
+                [
+                    554,
+                    133
+                ],
+                [
+                    630,
+                    133
+                ],
+                [
+                    630,
+                    158
+                ],
+                [
+                    554,
+                    158
+                ]
+            ],
+            "rec_score": 0.9996791481971741
+        },
+        {
+            "content": "子ども若者",
+            "det_score": 0.8379763444927653,
+            "direction": "horizontal",
+            "points": [
+                [
+                    424,
+                    133
+                ],
+                [
+                    512,
+                    133
+                ],
+                [
+                    512,
+                    157
+                ],
+                [
+                    424,
+                    157
+                ]
+            ],
+            "rec_score": 0.9962270855903625
+        },
+        {
+            "content": "教育投資",
+            "det_score": 0.8507722693508484,
+            "direction": "horizontal",
+            "points": [
+                [
+                    306,
+                    133
+                ],
+                [
+                    381,
+                    133
+                ],
+                [
+                    381,
+                    158
+                ],
+                [
+                    306,
+                    158
+                ]
+            ],
+            "rec_score": 0.9994282722473145
+        },
+        {
+            "content": "現役世代",
+            "det_score": 0.8449936467775349,
+            "direction": "horizontal",
+            "points": [
+                [
+                    183,
+                    133
+                ],
+                [
+                    259,
+                    133
+                ],
+                [
+                    259,
+                    157
+                ],
+                [
+                    183,
+                    157
+                ]
+            ],
+            "rec_score": 0.9997513294219971
+        },
+        {
+            "content": "減税",
+            "det_score": 0.8768584330044201,
+            "direction": "horizontal",
+            "points": [
+                [
+                    75,
+                    132
+                ],
+                [
+                    120,
+                    132
+                ],
+                [
+                    120,
+                    158
+                ],
+                [
+                    75,
+                    158
+                ]
+            ],
+            "rec_score": 0.9819856286048889
+        },
+        {
+            "content": "5",
+            "det_score": 0.746042600861565,
+            "direction": "horizontal",
+            "points": [
+                [
+                    518,
+                    128
+                ],
+                [
+                    551,
+                    128
+                ],
+                [
+                    551,
+                    163
+                ],
+                [
+                    518,
+                    163
+                ]
+            ],
+            "rec_score": 0.9963147044181824
+        },
+        {
+            "content": "4l",
+            "det_score": 0.7478076078757948,
+            "direction": "horizontal",
+            "points": [
+                [
+                    393,
+                    128
+                ],
+                [
+                    431,
+                    128
+                ],
+                [
+                    431,
+                    163
+                ],
+                [
+                    393,
+                    163
+                ]
+            ],
+            "rec_score": 0.56842440366745
+        },
+        {
+            "content": "6",
+            "det_score": 0.7888987021891432,
+            "direction": "horizontal",
+            "points": [
+                [
+                    646,
+                    128
+                ],
+                [
+                    675,
+                    128
+                ],
+                [
+                    675,
+                    162
+                ],
+                [
+                    646,
+                    162
+                ]
+            ],
+            "rec_score": 0.9971777200698853
+        },
+        {
+            "content": "3",
+            "det_score": 0.7927890192748102,
+            "direction": "horizontal",
+            "points": [
+                [
+                    272,
+                    128
+                ],
+                [
+                    304,
+                    128
+                ],
+                [
+                    304,
+                    163
+                ],
+                [
+                    272,
+                    163
+                ]
+            ],
+            "rec_score": 0.9985167980194092
+        },
+        {
+            "content": "2",
+            "det_score": 0.8023617702276118,
+            "direction": "horizontal",
+            "points": [
+                [
+                    149,
+                    128
+                ],
+                [
+                    182,
+                    128
+                ],
+                [
+                    182,
+                    163
+                ],
+                [
+                    149,
+                    163
+                ]
+            ],
+            "rec_score": 0.9950448870658875
+        },
+        {
+            "content": "1",
+            "det_score": 0.7865938445387994,
+            "direction": "horizontal",
+            "points": [
+                [
+                    28,
+                    128
+                ],
+                [
+                    52,
+                    128
+                ],
+                [
+                    52,
+                    163
+                ],
+                [
+                    28,
+                    163
+                ]
+            ],
+            "rec_score": 0.999210774898529
+        },
+        {
+            "content": "名古屋から日本再生!",
+            "det_score": 0.8748605370235476,
+            "direction": "horizontal",
+            "points": [
+                [
+                    808,
+                    100
+                ],
+                [
+                    1031,
+                    100
+                ],
+                [
+                    1031,
+                    123
+                ],
+                [
+                    808,
+                    123
+                ]
+            ],
+            "rec_score": 0.9951591491699219
+        },
+        {
+            "content": "減税で手取り増!名古屋から実績ある改革を!",
+            "det_score": 0.8831228606509348,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    59
+                ],
+                [
+                    967,
+                    27
+                ],
+                [
+                    968,
+                    81
+                ],
+                [
+                    14,
+                    113
+                ]
+            ],
+            "rec_score": 0.9770880937576294
+        }
+    ]
+}

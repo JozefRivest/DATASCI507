@@ -16,16 +16,17 @@ config:
     rankSpacing: 50
 ---
 flowchart LR
-    A[(Raw electoral<br/>bulletins · PDF)] -->|Claude API| B[Segment by<br/>candidate]
-    B -->|Yomitoku OCR| C[Extract metadata<br/>and text]
-    C --> D[(Pandas<br/>dataframe)]
-    D --> E([Text complexity<br/>measures])
-    D --> F([Structural topic<br/>model])
-    D --> G([Party centrality<br/> measure])
+    A[(Raw electoral<br/>bulletins · PDF)] -->|Claude API| B[Identify candidate's<br/>bulletin coordinates<br/> · JSON]
+    B -->|PuMuPDF & PIL| C[Crop each district pdf at the candidate level]
+    C -->|Yomitoku OCR| D[Extract metadata<br/>and text]
+    D --> E[(Pandas<br/>dataframe)]
+    E --> F([Text complexity<br/>measures])
+    E --> G([Structural topic<br/>model])
+    E --> H([Party centrality<br/> measure])
 
     classDef data fill:#fff8e1,stroke:#f9a825,color:#4e342e
     classDef process fill:#e3f2fd,stroke:#1565c0,color:#0d2a4a
     classDef analysis fill:#e8f5e9,stroke:#2e7d32,color:#1b3d1f
-    class A,D data
-    class B,C process
-    class E,F,G analysis
+    class A,E data
+    class B,C,D process
+    class F,G,H analysis

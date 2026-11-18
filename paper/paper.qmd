@@ -1,42 +1,7 @@
 ---
 title: "DATASCI507: Proposal"
 author: Jozef Rivest
-date: today
-date-format: long
-
-format:
-  pdf:
-    documentclass: article
-    fontsize: 12pt
-    number-sections: true
-    geometry:
-      - margin=1in
-    pdf-engine: pdflatex
-    cite-method: biblatex
-    linkcolor: Maroon
-    urlcolor: Maroon
-    citecolor: Maroon
-    template-partials:
-      - biblio-config.tex
-    include-in-header:
-      - text: |
-          \newcommand{\trace}{\text{trace}}
-          \newcommand{\rank}{\text{rank}}
-          \newcommand{\diag}{\text{diag}}
-          \newcommand{\cov}{\text{cov}}
-          \newcommand{\var}{\text{var}}
-          \newcommand{\V}{\mathbb{V}}
-          \newcommand{\E}{\mathbb{E}}
-          \newcommand{\e}{\varepsilon}
-          \newcommand{\N}{\mathcal{N}}
-          \newcommand{\indep}{\perp \! \! \! \perp}
-
-#bibliography: refs.bib
-execute:
-  freeze: true
-  message: false
-  error: false
-  warning: false
+format: pdf
 
 abstract: |
   **Placeholder**
@@ -103,18 +68,22 @@ candidate $d$ chooses $x_d \in \mathcal{D}$.
 # Data
 
 This project collects an original dataset using political bulletins in
-Japan for the 2024, 2025, and 2026 lower house elections. The pipeline goes
-as follow. We first developped a webscrapper to retrieve the election
-bulletins from [go2senkyo.com](https://go2senkyo.com/). The website
+Japan for the 2024, 2025, and 2026 lower house elections. The pipeline
+goes as follow. We first developped a webscrapper to retrieve the election
+bulletins from [go2senkyo.com](https://go2senkyo.com/).^[For the proposal,
+I manually downloaded a samle of electoral bulletins from go2senkyo for
+5 prefectures. For the final project, and for the continuation of this
+project, I am working on a scrapper that will download the electoral
+bulletin directly from the prefectures' electoral commission.] The website
 compiles all the election bulletins across all districts retrieved from
 each prefecture's electoral commission. The scrapper gets all the PDFs
-files and store them locally. Once the files are downloaded, another 
-script uses Claude API to segment all the PDFs into the candidates 
-running inside district $d$. This approach is to facilitate the following
-step, which is to use PDF parsing and OCR, and to increase the precision
-of the information retrieved. About the parsing and the OCR, we used the
-[Yomitoku](https://kotaro-kinoshita.github.io/yomitoku/en/) Python librairy
-that is optimized for Japanese text and documents.
+files and store them locally. Once the files are downloaded, another
+script uses Claude API to segment all the PDFs into the candidates running
+inside district $d$. This approach is to facilitate the following step,
+which is to use PDF parsing and OCR, and to increase the precision of
+the information retrieved. About the parsing and the OCR, we used the
+[Yomitoku](https://kotaro-kinoshita.github.io/yomitoku/en/) Python
+librairy that is optimized for Japanese text and documents.
 
 Once the parsing is done, we can store the information into a Pandas dataframe.
 Each candidates (rows) have the following information attached to them: 
@@ -122,10 +91,19 @@ Each candidates (rows) have the following information attached to them:
 3) the number of headings, 4) the total number of characters (including both
 Kanji and Kana).
 
-@fig-bulletin-example present an example of an electoral bulletin for one 
+The main challenge is to find an efficient way to extract the content 
+from each bulletin per candidate. @fig-bulletin-ex shows an example of the 
+structure of the PDF files containing all the candidates within a district.
+Some tests made with Yomitoku on the complete pdf, like @fig-bulletin-ex, 
+tend to introduce some parsing error. Some text was attributed to the wrong
+candidates, images and layout tend to be more influential in the parsing 
+potentially due to their relative size compared to the text, and some aspect 
+of the layout tended to be overlooked by the parser. 
+
+@fig-candidate-example present an example of an electoral bulletin for one 
 candidate.
 
-![Political candidate in Aichi prefecture](../data/cleaned_bulletins/test/01_大西雅人_社民党.pdf){#fig-bulletin-example}
+![Political candidate in Aichi prefecture](../data/cleaned_bulletins/test/01_大西雅人_社民党.pdf){#fig-candidate-example}
 
 @fig-pipeline presents the pipeline of the project, and the future extension
 that can be made from the data generated.
@@ -136,3 +114,23 @@ that can be made from the data generated.
 %%| label: fig-pipeline 
 %%| file: flowchart.mmd
 ```
+
+# Results
+
+This section presents preliminary results.
+
+# Deliverables
+
+# References
+
+:::{#refs}
+
+:::
+
+{{< pagebreak >}}
+
+# Appendix {.appendix #sec-appendix}
+
+## Example of electoral bulletin {#sec-bulletin-ex}
+
+![Electoral bulletin example](../data/raw_bulletins/aichi/23_公報_第51回衆院選_愛知6区.pdf){#fig-bulletin-ex width=73%}

@@ -5,3 +5,9 @@ pandas
 json
 anthropic
 dotenv
+bs4
+requests
+os
+base64
+json
+PIL

@@ -1,0 +1,1964 @@
+{
+    "figures": [
+        {
+            "box": [
+                219,
+                152,
+                588,
+                343
+            ],
+            "direction": "horizontal",
+            "order": 17,
+            "paragraphs": [
+                {
+                    "box": [
+                        323,
+                        172,
+                        525,
+                        201
+                    ],
+                    "contents": "平和と安定のために",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": "section_headings"
+                },
+                {
+                    "box": [
+                        231,
+                        205,
+                        538,
+                        220
+                    ],
+                    "contents": "◆生活·経済·食料·エネルギー資源の安全保障の確立",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        232,
+                        223,
+                        465,
+                        238
+                    ],
+                    "contents": "◆国·県·市町が連携してのインフラ整備",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        232,
+                        242,
+                        444,
+                        256
+                    ],
+                    "contents": "◆防災·減災に向けた国土強靭化対策",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                },
+                {
+                    "box": [
+                        231,
+                        260,
+                        575,
+                        275
+                    ],
+                    "contents": "◆子育て·教育·介護など安心できる全世代型社会保障を構築",
+                    "direction": "horizontal",
+                    "order": 4,
+                    "role": null
+                },
+                {
+                    "box": [
+                        231,
+                        278,
+                        471,
+                        293
+                    ],
+                    "contents": "◆戦略投資、防衛産業強化で築く安全保障",
+                    "direction": "horizontal",
+                    "order": 5,
+                    "role": null
+                },
+                {
+                    "box": [
+                        231,
+                        297,
+                        436,
+                        312
+                    ],
+                    "contents": "◆サイバーセキュリティ対策の強化",
+                    "direction": "horizontal",
+                    "order": 6,
+                    "role": null
+                },
+                {
+                    "box": [
+                        232,
+                        315,
+                        387,
+                        330
+                    ],
+                    "contents": "◆健康医療安全保障の構築",
+                    "direction": "horizontal",
+                    "order": 7,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                610,
+                152,
+                991,
+                344
+            ],
+            "direction": "horizontal",
+            "order": 19,
+            "paragraphs": [
+                {
+                    "box": [
+                        652,
+                        178,
+                        672,
+                        204
+                    ],
+                    "contents": "¥",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        703,
+                        172,
+                        931,
+                        200
+                    ],
+                    "contents": "強い経済再生のために",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        623,
+                        212,
+                        813,
+                        227
+                    ],
+                    "contents": "◆世界最先端の内燃機関技術保持",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        623,
+                        230,
+                        838,
+                        245
+                    ],
+                    "contents": "◆電源構成や原子力規制の最適化推進",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                },
+                {
+                    "box": [
+                        622,
+                        248,
+                        840,
+                        263
+                    ],
+                    "contents": "◆付加価値の高い都市近郊農業の拡充",
+                    "direction": "horizontal",
+                    "order": 4,
+                    "role": null
+                },
+                {
+                    "box": [
+                        623,
+                        266,
+                        926,
+                        282
+                    ],
+                    "contents": "◆中小企業の皆上げと投資、公共契約の価格転嫁徹底",
+                    "direction": "horizontal",
+                    "order": 5,
+                    "role": null
+                },
+                {
+                    "box": [
+                        634,
+                        285,
+                        764,
+                        300
+                    ],
+                    "contents": "地方重視の物価高対策",
+                    "direction": "horizontal",
+                    "order": 6,
+                    "role": null
+                },
+                {
+                    "box": [
+                        622,
+                        303,
+                        882,
+                        319
+                    ],
+                    "contents": "◆Al·半導体·サイバーへ官民連携の戦略投資",
+                    "direction": "horizontal",
+                    "order": 7,
+                    "role": null
+                },
+                {
+                    "box": [
+                        950,
+                        203,
+                        985,
+                        213
+                    ],
+                    "contents": "尾張旭市",
+                    "direction": "horizontal",
+                    "order": 8,
+                    "role": null
+                },
+                {
+                    "box": [
+                        962,
+                        220,
+                        998,
+                        230
+                    ],
+                    "contents": "長久留市",
+                    "direction": "horizontal",
+                    "order": 9,
+                    "role": null
+                },
+                {
+                    "box": [
+                        946,
+                        245,
+                        973,
+                        254
+                    ],
+                    "contents": "日進市",
+                    "direction": "horizontal",
+                    "order": 10,
+                    "role": null
+                },
+                {
+                    "box": [
+                        952,
+                        263,
+                        985,
+                        281
+                    ],
+                    "contents": "平野町",
+                    "direction": "horizontal",
+                    "order": 11,
+                    "role": null
+                },
+                {
+                    "box": [
+                        923,
+                        281,
+                        955,
+                        297
+                    ],
+                    "contents": "羽咋市",
+                    "direction": "horizontal",
+                    "order": 12,
+                    "role": null
+                },
+                {
+                    "box": [
+                        899,
+                        301,
+                        929,
+                        317
+                    ],
+                    "contents": "大阪市",
+                    "direction": "horizontal",
+                    "order": 13,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1069,
+                16,
+                1194,
+                148
+            ],
+            "direction": "horizontal",
+            "order": 22,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                48,
+                19,
+                156,
+                38
+            ],
+            "contents": "プロフィール",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "page_header"
+        },
+        {
+            "box": [
+                24,
+                56,
+                155,
+                132
+            ],
+            "contents": "昭和33年瀬戸市生まれ、\n愛知県立千穂高等学校を経て\n早稲田大学法学部を卒業。\n松下政経駅、瀬戸市議会議局\n(2期)を経て、衆議院議員6期。",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                25,
+                139,
+                134,
+                152
+            ],
+            "contents": "【これまでの主な役職】",
+            "direction": "horizontal",
+            "order": 2,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                24,
+                157,
+                75,
+                168
+            ],
+            "contents": "■ 総務大臣",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                173,
+                85,
+                184
+            ],
+            "contents": "■ 総務副大臣",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                189,
+                105,
+                200
+            ],
+            "contents": "■ 経済産業副大臣",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                205,
+                105,
+                216
+            ],
+            "contents": "■ 総務大臣政務官",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                221,
+                115,
+                232
+            ],
+            "contents": "■ 衆議院法務委員長",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                237,
+                186,
+                249
+            ],
+            "contents": "■ 原子力問題調査特別委員会委員長",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                253,
+                186,
+                265
+            ],
+            "contents": "■ 党相場運動本部地方相模議員総局号",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                269,
+                173,
+                281
+            ],
+            "contents": "■ 党政務調査会副会長·会長補佐",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                285,
+                184,
+                309
+            ],
+            "contents": "■ 党原子力規制に関する特別委員会\n委員長",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                314,
+                182,
+                326
+            ],
+            "contents": "■ 党愛知県第七選挙区支部長 など",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                202,
+                4,
+                297,
+                60
+            ],
+            "contents": "今日は",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                271,
+                15,
+                466,
+                93
+            ],
+            "contents": "TEX",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                470,
+                29,
+                929,
+                87
+            ],
+            "contents": "再起動 !\n大府市/尾張旭市\n豊明市/日進市\n長久手市/東郷町",
+            "direction": "horizontal",
+            "order": 15,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                217,
+                104,
+                989,
+                149
+            ],
+            "contents": "「政治の安定」なくして、力強い経済政策も、力強い外交·安全保障も推進できません。国民の暮らしと命を守り、\n日本の誇るべき国柄を未来を担う次の世代へとしっかりと引き継いでいくために私はチャレンジします。",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                18,
+                357,
+                419,
+                381
+            ],
+            "contents": "高市総裁とともに未来に責任を持つ政治を!",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                1000,
+                77,
+                1036,
+                89
+            ],
+            "contents": "自民党",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                1005,
+                101,
+                1038,
+                379
+            ],
+            "contents": "自民党公認〈愛知7区〉",
+            "direction": "vertical",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                1062,
+                163,
+                1202,
+                378
+            ],
+            "contents": "き\n栃木\nじゅんじ",
+            "direction": "vertical",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                1194,
+                192,
+                1208,
+                220
+            ],
+            "contents": "すず",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                1195,
+                265,
+                1208,
+                277
+            ],
+            "contents": "き",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                436,
+                351,
+                991,
+                379
+            ],
+            "contents": "高市早苗総裁とは、松下政経整当時より45年来のつながり。国会においても自民党政援会などで高市政調会長(当時)と一緒に、\nさまざまな政策づくりに携わってきました。これまでに培った経験と人脈のすべてを活かし、さらなる推進に努めます。",
+            "direction": "horizontal",
+            "order": 26,
+            "role": "page_footer"
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "さまざまな政策づくりに携わってきました。これまでに培った経験と人脈のすべてを活かし、さらなる推進に努めます。",
+            "det_score": 0.7905792575077119,
+            "direction": "horizontal",
+            "points": [
+                [
+                    437,
+                    367
+                ],
+                [
+                    942,
+                    367
+                ],
+                [
+                    942,
+                    379
+                ],
+                [
+                    437,
+                    379
+                ]
+            ],
+            "rec_score": 0.6347637176513672
+        },
+        {
+            "content": "高市総裁とともに未来に責任を持つ政治を!",
+            "det_score": 0.8826480549402989,
+            "direction": "horizontal",
+            "points": [
+                [
+                    20,
+                    358
+                ],
+                [
+                    417,
+                    358
+                ],
+                [
+                    417,
+                    380
+                ],
+                [
+                    20,
+                    380
+                ]
+            ],
+            "rec_score": 0.9917325973510742
+        },
+        {
+            "content": "高市早苗総裁とは、松下政経整当時より45年来のつながり。国会においても自民党政援会などで高市政調会長(当時)と一緒に、",
+            "det_score": 0.8662913705315797,
+            "direction": "horizontal",
+            "points": [
+                [
+                    436,
+                    352
+                ],
+                [
+                    990,
+                    352
+                ],
+                [
+                    990,
+                    364
+                ],
+                [
+                    436,
+                    364
+                ]
+            ],
+            "rec_score": 0.1612566113471985
+        },
+        {
+            "content": "◆健康医療安全保障の構築",
+            "det_score": 0.8007832339987522,
+            "direction": "horizontal",
+            "points": [
+                [
+                    232,
+                    315
+                ],
+                [
+                    386,
+                    315
+                ],
+                [
+                    386,
+                    330
+                ],
+                [
+                    232,
+                    330
+                ]
+            ],
+            "rec_score": 0.99636310338974
+        },
+        {
+            "content": "■ 党愛知県第七選挙区支部長 など",
+            "det_score": 0.8379140107898052,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    314
+                ],
+                [
+                    182,
+                    314
+                ],
+                [
+                    182,
+                    326
+                ],
+                [
+                    24,
+                    326
+                ]
+            ],
+            "rec_score": 0.9501725435256958
+        },
+        {
+            "content": "◆Al·半導体·サイバーへ官民連携の戦略投資",
+            "det_score": 0.8885679994488047,
+            "direction": "horizontal",
+            "points": [
+                [
+                    624,
+                    305
+                ],
+                [
+                    880,
+                    305
+                ],
+                [
+                    880,
+                    317
+                ],
+                [
+                    624,
+                    317
+                ]
+            ],
+            "rec_score": 0.42799344658851624
+        },
+        {
+            "content": "大阪市",
+            "det_score": 0.6471985607548097,
+            "direction": "horizontal",
+            "points": [
+                [
+                    899,
+                    301
+                ],
+                [
+                    929,
+                    301
+                ],
+                [
+                    929,
+                    317
+                ],
+                [
+                    899,
+                    317
+                ]
+            ],
+            "rec_score": 0.18828356266021729
+        },
+        {
+            "content": "◆サイバーセキュリティ対策の強化",
+            "det_score": 0.8524734791760382,
+            "direction": "horizontal",
+            "points": [
+                [
+                    233,
+                    298
+                ],
+                [
+                    434,
+                    298
+                ],
+                [
+                    434,
+                    310
+                ],
+                [
+                    233,
+                    310
+                ]
+            ],
+            "rec_score": 0.9249258637428284
+        },
+        {
+            "content": "委員長",
+            "det_score": 0.8687329406968851,
+            "direction": "horizontal",
+            "points": [
+                [
+                    32,
+                    296
+                ],
+                [
+                    67,
+                    296
+                ],
+                [
+                    67,
+                    312
+                ],
+                [
+                    32,
+                    312
+                ]
+            ],
+            "rec_score": 0.9987796545028687
+        },
+        {
+            "content": "地方重視の物価高対策",
+            "det_score": 0.8991280694332534,
+            "direction": "horizontal",
+            "points": [
+                [
+                    634,
+                    287
+                ],
+                [
+                    763,
+                    287
+                ],
+                [
+                    763,
+                    299
+                ],
+                [
+                    634,
+                    299
+                ]
+            ],
+            "rec_score": 0.9969438910484314
+        },
+        {
+            "content": "■ 党原子力規制に関する特別委員会",
+            "det_score": 0.8149152370169759,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    285
+                ],
+                [
+                    183,
+                    285
+                ],
+                [
+                    183,
+                    297
+                ],
+                [
+                    24,
+                    297
+                ]
+            ],
+            "rec_score": 0.7573868036270142
+        },
+        {
+            "content": "羽咋市",
+            "det_score": 0.7828992106057153,
+            "direction": "horizontal",
+            "points": [
+                [
+                    923,
+                    281
+                ],
+                [
+                    955,
+                    281
+                ],
+                [
+                    955,
+                    297
+                ],
+                [
+                    923,
+                    297
+                ]
+            ],
+            "rec_score": 0.4504896104335785
+        },
+        {
+            "content": "◆戦略投資、防衛産業強化で築く安全保障",
+            "det_score": 0.9039666789021286,
+            "direction": "horizontal",
+            "points": [
+                [
+                    233,
+                    279
+                ],
+                [
+                    469,
+                    279
+                ],
+                [
+                    469,
+                    292
+                ],
+                [
+                    233,
+                    292
+                ]
+            ],
+            "rec_score": 0.9898888468742371
+        },
+        {
+            "content": "■ 党政務調査会副会長·会長補佐",
+            "det_score": 0.7964396488456963,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    269
+                ],
+                [
+                    173,
+                    269
+                ],
+                [
+                    173,
+                    281
+                ],
+                [
+                    24,
+                    281
+                ]
+            ],
+            "rec_score": 0.7682313323020935
+        },
+        {
+            "content": "◆中小企業の皆上げと投資、公共契約の価格転嫁徹底",
+            "det_score": 0.8335994861074442,
+            "direction": "horizontal",
+            "points": [
+                [
+                    624,
+                    268
+                ],
+                [
+                    923,
+                    268
+                ],
+                [
+                    923,
+                    280
+                ],
+                [
+                    624,
+                    280
+                ]
+            ],
+            "rec_score": 0.3640454113483429
+        },
+        {
+            "content": "平野町",
+            "det_score": 0.769026608905982,
+            "direction": "horizontal",
+            "points": [
+                [
+                    952,
+                    265
+                ],
+                [
+                    984,
+                    263
+                ],
+                [
+                    985,
+                    278
+                ],
+                [
+                    953,
+                    281
+                ]
+            ],
+            "rec_score": 0.025664815679192543
+        },
+        {
+            "content": "き",
+            "det_score": 0.6395568517587519,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1195,
+                    262
+                ],
+                [
+                    1208,
+                    262
+                ],
+                [
+                    1208,
+                    280
+                ],
+                [
+                    1195,
+                    280
+                ]
+            ],
+            "rec_score": 0.9417842626571655
+        },
+        {
+            "content": "◆子育て·教育·介護など安心できる全世代型社会保障を構築",
+            "det_score": 0.8532987136048631,
+            "direction": "horizontal",
+            "points": [
+                [
+                    232,
+                    260
+                ],
+                [
+                    573,
+                    260
+                ],
+                [
+                    573,
+                    275
+                ],
+                [
+                    232,
+                    275
+                ]
+            ],
+            "rec_score": 0.9933190941810608
+        },
+        {
+            "content": "■ 党相場運動本部地方相模議員総局号",
+            "det_score": 0.8215053465321245,
+            "direction": "horizontal",
+            "points": [
+                [
+                    25,
+                    254
+                ],
+                [
+                    184,
+                    254
+                ],
+                [
+                    184,
+                    264
+                ],
+                [
+                    25,
+                    264
+                ]
+            ],
+            "rec_score": 0.06199121102690697
+        },
+        {
+            "content": "◆付加価値の高い都市近郊農業の拡充",
+            "det_score": 0.8632019701285931,
+            "direction": "horizontal",
+            "points": [
+                [
+                    624,
+                    250
+                ],
+                [
+                    838,
+                    250
+                ],
+                [
+                    838,
+                    262
+                ],
+                [
+                    624,
+                    262
+                ]
+            ],
+            "rec_score": 0.8995903134346008
+        },
+        {
+            "content": "日進市",
+            "det_score": 0.7974976121351637,
+            "direction": "horizontal",
+            "points": [
+                [
+                    945,
+                    243
+                ],
+                [
+                    975,
+                    243
+                ],
+                [
+                    975,
+                    256
+                ],
+                [
+                    945,
+                    256
+                ]
+            ],
+            "rec_score": 0.6974390149116516
+        },
+        {
+            "content": "◆防災·減災に向けた国土強靭化対策",
+            "det_score": 0.8340400945517097,
+            "direction": "horizontal",
+            "points": [
+                [
+                    233,
+                    243
+                ],
+                [
+                    443,
+                    243
+                ],
+                [
+                    443,
+                    255
+                ],
+                [
+                    233,
+                    255
+                ]
+            ],
+            "rec_score": 0.8306347727775574
+        },
+        {
+            "content": "■ 原子力問題調査特別委員会委員長",
+            "det_score": 0.8322122867427655,
+            "direction": "horizontal",
+            "points": [
+                [
+                    25,
+                    238
+                ],
+                [
+                    184,
+                    238
+                ],
+                [
+                    184,
+                    248
+                ],
+                [
+                    25,
+                    248
+                ]
+            ],
+            "rec_score": 0.30845126509666443
+        },
+        {
+            "content": "◆電源構成や原子力規制の最適化推進",
+            "det_score": 0.830335655434299,
+            "direction": "horizontal",
+            "points": [
+                [
+                    624,
+                    231
+                ],
+                [
+                    836,
+                    231
+                ],
+                [
+                    836,
+                    244
+                ],
+                [
+                    624,
+                    244
+                ]
+            ],
+            "rec_score": 0.9896083474159241
+        },
+        {
+            "content": "◆国·県·市町が連携してのインフラ整備",
+            "det_score": 0.8570522619722944,
+            "direction": "horizontal",
+            "points": [
+                [
+                    232,
+                    223
+                ],
+                [
+                    464,
+                    223
+                ],
+                [
+                    464,
+                    238
+                ],
+                [
+                    232,
+                    238
+                ]
+            ],
+            "rec_score": 0.9303240776062012
+        },
+        {
+            "content": "■ 衆議院法務委員長",
+            "det_score": 0.7637800251557584,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    221
+                ],
+                [
+                    115,
+                    221
+                ],
+                [
+                    115,
+                    233
+                ],
+                [
+                    24,
+                    233
+                ]
+            ],
+            "rec_score": 0.9911426305770874
+        },
+        {
+            "content": "長久留市",
+            "det_score": 0.7622208658073629,
+            "direction": "horizontal",
+            "points": [
+                [
+                    961,
+                    217
+                ],
+                [
+                    1001,
+                    217
+                ],
+                [
+                    1001,
+                    233
+                ],
+                [
+                    961,
+                    233
+                ]
+            ],
+            "rec_score": 0.17342665791511536
+        },
+        {
+            "content": "◆世界最先端の内燃機関技術保持",
+            "det_score": 0.83614386674217,
+            "direction": "horizontal",
+            "points": [
+                [
+                    623,
+                    212
+                ],
+                [
+                    813,
+                    212
+                ],
+                [
+                    813,
+                    226
+                ],
+                [
+                    623,
+                    226
+                ]
+            ],
+            "rec_score": 0.9933891296386719
+        },
+        {
+            "content": "◆生活·経済·食料·エネルギー資源の安全保障の確立",
+            "det_score": 0.8220740927023337,
+            "direction": "horizontal",
+            "points": [
+                [
+                    234,
+                    206
+                ],
+                [
+                    536,
+                    206
+                ],
+                [
+                    536,
+                    218
+                ],
+                [
+                    234,
+                    218
+                ]
+            ],
+            "rec_score": 0.7126628756523132
+        },
+        {
+            "content": "■ 総務大臣政務官",
+            "det_score": 0.813536022336055,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    204
+                ],
+                [
+                    105,
+                    204
+                ],
+                [
+                    105,
+                    217
+                ],
+                [
+                    24,
+                    217
+                ]
+            ],
+            "rec_score": 0.9811299443244934
+        },
+        {
+            "content": "尾張旭市",
+            "det_score": 0.7702357229507958,
+            "direction": "horizontal",
+            "points": [
+                [
+                    949,
+                    201
+                ],
+                [
+                    986,
+                    201
+                ],
+                [
+                    986,
+                    214
+                ],
+                [
+                    949,
+                    214
+                ]
+            ],
+            "rec_score": 0.733893871307373
+        },
+        {
+            "content": "すず",
+            "det_score": 0.6175654652566392,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1193,
+                    189
+                ],
+                [
+                    1211,
+                    189
+                ],
+                [
+                    1211,
+                    223
+                ],
+                [
+                    1193,
+                    223
+                ]
+            ],
+            "rec_score": 0.991578221321106
+        },
+        {
+            "content": "■ 経済産業副大臣",
+            "det_score": 0.8836934865404494,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    188
+                ],
+                [
+                    105,
+                    188
+                ],
+                [
+                    105,
+                    200
+                ],
+                [
+                    24,
+                    200
+                ]
+            ],
+            "rec_score": 0.9663681387901306
+        },
+        {
+            "content": "¥",
+            "det_score": 0.6515203029965636,
+            "direction": "horizontal",
+            "points": [
+                [
+                    652,
+                    178
+                ],
+                [
+                    672,
+                    178
+                ],
+                [
+                    672,
+                    204
+                ],
+                [
+                    652,
+                    204
+                ]
+            ],
+            "rec_score": 0.39591944217681885
+        },
+        {
+            "content": "栃木",
+            "det_score": 0.7353331370733147,
+            "direction": "vertical",
+            "points": [
+                [
+                    1120,
+                    157
+                ],
+                [
+                    1198,
+                    157
+                ],
+                [
+                    1198,
+                    315
+                ],
+                [
+                    1120,
+                    315
+                ]
+            ],
+            "rec_score": 0.3578793406486511
+        },
+        {
+            "content": "強い経済再生のために",
+            "det_score": 0.8758628402323646,
+            "direction": "horizontal",
+            "points": [
+                [
+                    703,
+                    174
+                ],
+                [
+                    930,
+                    174
+                ],
+                [
+                    930,
+                    199
+                ],
+                [
+                    703,
+                    199
+                ]
+            ],
+            "rec_score": 0.9998522996902466
+        },
+        {
+            "content": "平和と安定のために",
+            "det_score": 0.8832660916005032,
+            "direction": "horizontal",
+            "points": [
+                [
+                    323,
+                    174
+                ],
+                [
+                    525,
+                    174
+                ],
+                [
+                    525,
+                    199
+                ],
+                [
+                    323,
+                    199
+                ]
+            ],
+            "rec_score": 0.9997068643569946
+        },
+        {
+            "content": "じゅんじ",
+            "det_score": 0.7672019157036175,
+            "direction": "vertical",
+            "points": [
+                [
+                    1054,
+                    151
+                ],
+                [
+                    1132,
+                    150
+                ],
+                [
+                    1134,
+                    384
+                ],
+                [
+                    1056,
+                    385
+                ]
+            ],
+            "rec_score": 0.998515784740448
+        },
+        {
+            "content": "■ 総務副大臣",
+            "det_score": 0.8334317246678276,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    171
+                ],
+                [
+                    86,
+                    171
+                ],
+                [
+                    86,
+                    186
+                ],
+                [
+                    23,
+                    186
+                ]
+            ],
+            "rec_score": 0.9550405740737915
+        },
+        {
+            "content": "■ 総務大臣",
+            "det_score": 0.8915719032452708,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    156
+                ],
+                [
+                    76,
+                    156
+                ],
+                [
+                    76,
+                    169
+                ],
+                [
+                    24,
+                    169
+                ]
+            ],
+            "rec_score": 0.9833415746688843
+        },
+        {
+            "content": "【これまでの主な役職】",
+            "det_score": 0.8440816572544221,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    138
+                ],
+                [
+                    135,
+                    138
+                ],
+                [
+                    135,
+                    153
+                ],
+                [
+                    24,
+                    153
+                ]
+            ],
+            "rec_score": 0.9880499243736267
+        },
+        {
+            "content": "日本の誇るべき国柄を未来を担う次の世代へとしっかりと引き継いでいくために私はチャレンジします。",
+            "det_score": 0.8297919218865104,
+            "direction": "horizontal",
+            "points": [
+                [
+                    222,
+                    130
+                ],
+                [
+                    921,
+                    130
+                ],
+                [
+                    921,
+                    147
+                ],
+                [
+                    222,
+                    147
+                ]
+            ],
+            "rec_score": 0.9653461575508118
+        },
+        {
+            "content": "(2期)を経て、衆議院議員6期。",
+            "det_score": 0.8345796406303808,
+            "direction": "horizontal",
+            "points": [
+                [
+                    25,
+                    120
+                ],
+                [
+                    156,
+                    120
+                ],
+                [
+                    156,
+                    132
+                ],
+                [
+                    25,
+                    132
+                ]
+            ],
+            "rec_score": 0.4498777985572815
+        },
+        {
+            "content": "自民党公認〈愛知7区〉",
+            "det_score": 0.8502869160599575,
+            "direction": "vertical",
+            "points": [
+                [
+                    1007,
+                    103
+                ],
+                [
+                    1037,
+                    103
+                ],
+                [
+                    1037,
+                    377
+                ],
+                [
+                    1007,
+                    377
+                ]
+            ],
+            "rec_score": 0.9588612914085388
+        },
+        {
+            "content": "「政治の安定」なくして、力強い経済政策も、力強い外交·安全保障も推進できません。国民の暮らしと命を守り、",
+            "det_score": 0.817169956185601,
+            "direction": "horizontal",
+            "points": [
+                [
+                    218,
+                    103
+                ],
+                [
+                    990,
+                    106
+                ],
+                [
+                    990,
+                    130
+                ],
+                [
+                    218,
+                    127
+                ]
+            ],
+            "rec_score": 0.9500813484191895
+        },
+        {
+            "content": "松下政経駅、瀬戸市議会議局",
+            "det_score": 0.7756817149333737,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    104
+                ],
+                [
+                    150,
+                    104
+                ],
+                [
+                    150,
+                    116
+                ],
+                [
+                    24,
+                    116
+                ]
+            ],
+            "rec_score": 0.5143947005271912
+        },
+        {
+            "content": "早稲田大学法学部を卒業。",
+            "det_score": 0.8271412272881977,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    88
+                ],
+                [
+                    138,
+                    88
+                ],
+                [
+                    138,
+                    100
+                ],
+                [
+                    24,
+                    100
+                ]
+            ],
+            "rec_score": 0.5154229998588562
+        },
+        {
+            "content": "自民党",
+            "det_score": 0.7905487376590108,
+            "direction": "horizontal",
+            "points": [
+                [
+                    998,
+                    74
+                ],
+                [
+                    1038,
+                    74
+                ],
+                [
+                    1038,
+                    92
+                ],
+                [
+                    998,
+                    92
+                ]
+            ],
+            "rec_score": 0.8756921291351318
+        },
+        {
+            "content": "愛知県立千穂高等学校を経て",
+            "det_score": 0.885183942340148,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    73
+                ],
+                [
+                    154,
+                    73
+                ],
+                [
+                    154,
+                    83
+                ],
+                [
+                    24,
+                    83
+                ]
+            ],
+            "rec_score": 0.5032577514648438
+        },
+        {
+            "content": "長久手市/東郷町",
+            "det_score": 0.8487773456789077,
+            "direction": "horizontal",
+            "points": [
+                [
+                    469,
+                    70
+                ],
+                [
+                    573,
+                    70
+                ],
+                [
+                    573,
+                    87
+                ],
+                [
+                    469,
+                    87
+                ]
+            ],
+            "rec_score": 0.9366688132286072
+        },
+        {
+            "content": "昭和33年瀬戸市生まれ、",
+            "det_score": 0.8915027516602388,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    56
+                ],
+                [
+                    131,
+                    56
+                ],
+                [
+                    131,
+                    68
+                ],
+                [
+                    24,
+                    68
+                ]
+            ],
+            "rec_score": 0.9042828679084778
+        },
+        {
+            "content": "豊明市/日進市",
+            "det_score": 0.8312282987929493,
+            "direction": "horizontal",
+            "points": [
+                [
+                    476,
+                    49
+                ],
+                [
+                    569,
+                    49
+                ],
+                [
+                    569,
+                    66
+                ],
+                [
+                    476,
+                    66
+                ]
+            ],
+            "rec_score": 0.97760009765625
+        },
+        {
+            "content": "再起動 !",
+            "det_score": 0.8775246631990934,
+            "direction": "horizontal",
+            "points": [
+                [
+                    579,
+                    24
+                ],
+                [
+                    933,
+                    24
+                ],
+                [
+                    933,
+                    92
+                ],
+                [
+                    579,
+                    92
+                ]
+            ],
+            "rec_score": 0.2268972545862198
+        },
+        {
+            "content": "TEX",
+            "det_score": 0.8178842576295468,
+            "direction": "horizontal",
+            "points": [
+                [
+                    271,
+                    15
+                ],
+                [
+                    466,
+                    15
+                ],
+                [
+                    466,
+                    93
+                ],
+                [
+                    271,
+                    93
+                ]
+            ],
+            "rec_score": 0.14886607229709625
+        },
+        {
+            "content": "大府市/尾張旭市",
+            "det_score": 0.8519343130134928,
+            "direction": "horizontal",
+            "points": [
+                [
+                    474,
+                    31
+                ],
+                [
+                    577,
+                    31
+                ],
+                [
+                    577,
+                    46
+                ],
+                [
+                    474,
+                    46
+                ]
+            ],
+            "rec_score": 0.9155380129814148
+        },
+        {
+            "content": "プロフィール",
+            "det_score": 0.8598620434669813,
+            "direction": "horizontal",
+            "points": [
+                [
+                    49,
+                    19
+                ],
+                [
+                    156,
+                    19
+                ],
+                [
+                    156,
+                    38
+                ],
+                [
+                    49,
+                    38
+                ]
+            ],
+            "rec_score": 0.9993118643760681
+        },
+        {
+            "content": "今日は",
+            "det_score": 0.7628848304982013,
+            "direction": "horizontal",
+            "points": [
+                [
+                    202,
+                    15
+                ],
+                [
+                    292,
+                    4
+                ],
+                [
+                    297,
+                    50
+                ],
+                [
+                    207,
+                    60
+                ]
+            ],
+            "rec_score": 0.050671130418777466
+        }
+    ]
+}

@@ -36,7 +36,6 @@ format:
     citecolor: Maroon
     urlcolor: Maroon
     linkcolor: Maroon
-    # The following are very important, don't remove them
     template-partials:
       - .templates/article/biblio-config.tex
       - .templates/article/biblio.tex

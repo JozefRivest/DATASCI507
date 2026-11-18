@@ -1,0 +1,1158 @@
+{
+    "figures": [
+        {
+            "box": [
+                21,
+                22,
+                158,
+                91
+            ],
+            "direction": "horizontal",
+            "order": 0,
+            "paragraphs": [
+                {
+                    "box": [
+                        29,
+                        29,
+                        149,
+                        84
+                    ],
+                    "contents": "国民曰く\n民主党 みん",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                39,
+                107,
+                111,
+                254
+            ],
+            "direction": "horizontal",
+            "order": 2,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                7,
+                319,
+                196,
+                382
+            ],
+            "direction": "horizontal",
+            "order": 4,
+            "paragraphs": [
+                {
+                    "box": [
+                        6,
+                        318,
+                        196,
+                        382
+                    ],
+                    "contents": "未来\nに挑む",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                508,
+                286,
+                588,
+                383
+            ],
+            "direction": "horizontal",
+            "order": 16,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1070,
+                12,
+                1195,
+                145
+            ],
+            "direction": "horizontal",
+            "order": 23,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1058,
+                154,
+                1197,
+                353
+            ],
+            "direction": "horizontal",
+            "order": 24,
+            "paragraphs": [
+                {
+                    "box": [
+                        1060,
+                        159,
+                        1184,
+                        350
+                    ],
+                    "contents": "とおる\n福田\n5\nた\nく",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                40,
+                106,
+                146,
+                253
+            ],
+            "contents": "福田とおるの\n政策",
+            "direction": "vertical",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                6,
+                266,
+                147,
+                318
+            ],
+            "contents": "命題",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                251,
+                11,
+                968,
+                49
+            ],
+            "contents": "「人に優しい医療改革」で命と豊かさを守る",
+            "direction": "horizontal",
+            "order": 5,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                204,
+                74,
+                984,
+                137
+            ],
+            "contents": "1価値の大きい医療と価値の小さい医療を科学的根拠に\n基づいて見分け、価値の大きい医療に集中投資を行う",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                205,
+                145,
+                984,
+                177
+            ],
+            "contents": "2現役世代の負担を抑制しながら、世界一の日本の医療を守る",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                206,
+                184,
+                984,
+                216
+            ],
+            "contents": "3医療者の負担軽減と生産性向上につながる規制改革を行う",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                246,
+                236,
+                979,
+                273
+            ],
+            "contents": "43歳·救命救急医·MBA(経営学修士)",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                210,
+                286,
+                404,
+                300
+            ],
+            "contents": "1998年3月私立滝中学校 卒業",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                210,
+                302,
+                417,
+                317
+            ],
+            "contents": "2001年3月私立滝高等学校 卒業",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                210,
+                318,
+                483,
+                333
+            ],
+            "contents": "2007年3月国立三重大学医学部医学科卒業",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                209,
+                335,
+                469,
+                349
+            ],
+            "contents": "2007年4月八事日赤病院初期臨床研修医",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                210,
+                351,
+                389,
+                365
+            ],
+            "contents": "2017年4月 同院 救急科医局",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                210,
+                367,
+                493,
+                381
+            ],
+            "contents": "2024年10月 衆議院議員選挙 小選挙区当演",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                598,
+                302,
+                668,
+                333
+            ],
+            "contents": "福田とおる\nHP &SNS",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                689,
+                353,
+                734,
+                366
+            ],
+            "contents": "公式HP",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                780,
+                354,
+                791,
+                365
+            ],
+            "contents": "X",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                834,
+                354,
+                884,
+                366
+            ],
+            "contents": "YouTube",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                905,
+                354,
+                960,
+                367
+            ],
+            "contents": "Instagram",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                979,
+                354,
+                1032,
+                366
+            ],
+            "contents": "Facebook",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                1096,
+                358,
+                1176,
+                382
+            ],
+            "contents": "(43歳)",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                1189,
+                156,
+                1210,
+                254
+            ],
+            "contents": "国民民主党",
+            "direction": "vertical",
+            "order": 26,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "2024年10月 衆議院議員選挙 小選挙区当演",
+            "det_score": 0.7870171805896727,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    368
+                ],
+                [
+                    490,
+                    368
+                ],
+                [
+                    490,
+                    380
+                ],
+                [
+                    212,
+                    380
+                ]
+            ],
+            "rec_score": 0.5127749443054199
+        },
+        {
+            "content": "(43歳)",
+            "det_score": 0.8876149296712451,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1093,
+                    355
+                ],
+                [
+                    1178,
+                    355
+                ],
+                [
+                    1178,
+                    386
+                ],
+                [
+                    1093,
+                    386
+                ]
+            ],
+            "rec_score": 0.9999628067016602
+        },
+        {
+            "content": "Instagram",
+            "det_score": 0.8613695214973408,
+            "direction": "horizontal",
+            "points": [
+                [
+                    904,
+                    354
+                ],
+                [
+                    960,
+                    354
+                ],
+                [
+                    960,
+                    367
+                ],
+                [
+                    904,
+                    367
+                ]
+            ],
+            "rec_score": 0.793878436088562
+        },
+        {
+            "content": "Facebook",
+            "det_score": 0.8211803839343493,
+            "direction": "horizontal",
+            "points": [
+                [
+                    979,
+                    353
+                ],
+                [
+                    1033,
+                    353
+                ],
+                [
+                    1033,
+                    366
+                ],
+                [
+                    979,
+                    366
+                ]
+            ],
+            "rec_score": 0.9944890737533569
+        },
+        {
+            "content": "YouTube",
+            "det_score": 0.8151933582900446,
+            "direction": "horizontal",
+            "points": [
+                [
+                    833,
+                    353
+                ],
+                [
+                    884,
+                    353
+                ],
+                [
+                    884,
+                    366
+                ],
+                [
+                    833,
+                    366
+                ]
+            ],
+            "rec_score": 0.9990075826644897
+        },
+        {
+            "content": "公式HP",
+            "det_score": 0.8620101817131761,
+            "direction": "horizontal",
+            "points": [
+                [
+                    689,
+                    353
+                ],
+                [
+                    734,
+                    353
+                ],
+                [
+                    734,
+                    366
+                ],
+                [
+                    689,
+                    366
+                ]
+            ],
+            "rec_score": 0.9997719526290894
+        },
+        {
+            "content": "X",
+            "det_score": 0.7479236423969269,
+            "direction": "horizontal",
+            "points": [
+                [
+                    780,
+                    353
+                ],
+                [
+                    792,
+                    353
+                ],
+                [
+                    792,
+                    367
+                ],
+                [
+                    780,
+                    367
+                ]
+            ],
+            "rec_score": 0.4279527962207794
+        },
+        {
+            "content": "2017年4月 同院 救急科医局",
+            "det_score": 0.8199787326330362,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    352
+                ],
+                [
+                    387,
+                    352
+                ],
+                [
+                    387,
+                    364
+                ],
+                [
+                    212,
+                    364
+                ]
+            ],
+            "rec_score": 0.5675505995750427
+        },
+        {
+            "content": "に挑む",
+            "det_score": 0.7206833644340868,
+            "direction": "horizontal",
+            "points": [
+                [
+                    115,
+                    329
+                ],
+                [
+                    196,
+                    329
+                ],
+                [
+                    196,
+                    372
+                ],
+                [
+                    115,
+                    372
+                ]
+            ],
+            "rec_score": 0.9968494772911072
+        },
+        {
+            "content": "2007年4月八事日赤病院初期臨床研修医",
+            "det_score": 0.8438440410953966,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    336
+                ],
+                [
+                    467,
+                    336
+                ],
+                [
+                    467,
+                    348
+                ],
+                [
+                    212,
+                    348
+                ]
+            ],
+            "rec_score": 0.9089885354042053
+        },
+        {
+            "content": "未来",
+            "det_score": 0.8694831471189018,
+            "direction": "horizontal",
+            "points": [
+                [
+                    4,
+                    320
+                ],
+                [
+                    129,
+                    312
+                ],
+                [
+                    133,
+                    378
+                ],
+                [
+                    8,
+                    386
+                ]
+            ],
+            "rec_score": 0.8663205504417419
+        },
+        {
+            "content": "2007年3月国立三重大学医学部医学科卒業",
+            "det_score": 0.8459730206937756,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    319
+                ],
+                [
+                    481,
+                    319
+                ],
+                [
+                    481,
+                    331
+                ],
+                [
+                    212,
+                    331
+                ]
+            ],
+            "rec_score": 0.993779182434082
+        },
+        {
+            "content": "HP &SNS",
+            "det_score": 0.8454669291533313,
+            "direction": "horizontal",
+            "points": [
+                [
+                    598,
+                    317
+                ],
+                [
+                    668,
+                    317
+                ],
+                [
+                    668,
+                    335
+                ],
+                [
+                    598,
+                    335
+                ]
+            ],
+            "rec_score": 0.9730663299560547
+        },
+        {
+            "content": "福田とおる",
+            "det_score": 0.8696621519445283,
+            "direction": "horizontal",
+            "points": [
+                [
+                    596,
+                    302
+                ],
+                [
+                    668,
+                    302
+                ],
+                [
+                    668,
+                    318
+                ],
+                [
+                    596,
+                    318
+                ]
+            ],
+            "rec_score": 0.9995369911193848
+        },
+        {
+            "content": "2001年3月私立滝高等学校 卒業",
+            "det_score": 0.8584219547850624,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    303
+                ],
+                [
+                    415,
+                    303
+                ],
+                [
+                    415,
+                    315
+                ],
+                [
+                    212,
+                    315
+                ]
+            ],
+            "rec_score": 0.21968108415603638
+        },
+        {
+            "content": "1998年3月私立滝中学校 卒業",
+            "det_score": 0.8904769471974752,
+            "direction": "horizontal",
+            "points": [
+                [
+                    211,
+                    285
+                ],
+                [
+                    403,
+                    286
+                ],
+                [
+                    402,
+                    301
+                ],
+                [
+                    211,
+                    300
+                ]
+            ],
+            "rec_score": 0.994377076625824
+        },
+        {
+            "content": "命題",
+            "det_score": 0.7239030049860152,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    263
+                ],
+                [
+                    147,
+                    263
+                ],
+                [
+                    147,
+                    323
+                ],
+                [
+                    0,
+                    323
+                ]
+            ],
+            "rec_score": 0.09292332082986832
+        },
+        {
+            "content": "た",
+            "det_score": 0.530198362777973,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1169,
+                    251
+                ],
+                [
+                    1186,
+                    251
+                ],
+                [
+                    1186,
+                    273
+                ],
+                [
+                    1169,
+                    273
+                ]
+            ],
+            "rec_score": 0.9507989287376404
+        },
+        {
+            "content": "43歳·救命救急医·MBA(経営学修士)",
+            "det_score": 0.8841623764615092,
+            "direction": "horizontal",
+            "points": [
+                [
+                    248,
+                    238
+                ],
+                [
+                    975,
+                    238
+                ],
+                [
+                    975,
+                    270
+                ],
+                [
+                    248,
+                    270
+                ]
+            ],
+            "rec_score": 0.9422655701637268
+        },
+        {
+            "content": "く",
+            "det_score": 0.541995338418267,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1172,
+                    222
+                ],
+                [
+                    1182,
+                    222
+                ],
+                [
+                    1182,
+                    242
+                ],
+                [
+                    1172,
+                    242
+                ]
+            ],
+            "rec_score": 0.8102426528930664
+        },
+        {
+            "content": "とおる",
+            "det_score": 0.7608011384413277,
+            "direction": "vertical",
+            "points": [
+                [
+                    1056,
+                    198
+                ],
+                [
+                    1116,
+                    200
+                ],
+                [
+                    1110,
+                    355
+                ],
+                [
+                    1050,
+                    353
+                ]
+            ],
+            "rec_score": 0.9908636808395386
+        },
+        {
+            "content": "3医療者の負担軽減と生産性向上につながる規制改革を行う",
+            "det_score": 0.8870707755504311,
+            "direction": "horizontal",
+            "points": [
+                [
+                    207,
+                    183
+                ],
+                [
+                    984,
+                    185
+                ],
+                [
+                    984,
+                    216
+                ],
+                [
+                    207,
+                    215
+                ]
+            ],
+            "rec_score": 0.985593318939209
+        },
+        {
+            "content": "5",
+            "det_score": 0.54459931243349,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1171,
+                    181
+                ],
+                [
+                    1188,
+                    183
+                ],
+                [
+                    1186,
+                    206
+                ],
+                [
+                    1168,
+                    204
+                ]
+            ],
+            "rec_score": 0.040841229259967804
+        },
+        {
+            "content": "福田",
+            "det_score": 0.7346768498502622,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1097,
+                    154
+                ],
+                [
+                    1179,
+                    154
+                ],
+                [
+                    1179,
+                    304
+                ],
+                [
+                    1097,
+                    304
+                ]
+            ],
+            "rec_score": 0.977512776851654
+        },
+        {
+            "content": "国民民主党",
+            "det_score": 0.8387061798517397,
+            "direction": "vertical",
+            "points": [
+                [
+                    1188,
+                    153
+                ],
+                [
+                    1211,
+                    153
+                ],
+                [
+                    1211,
+                    255
+                ],
+                [
+                    1188,
+                    255
+                ]
+            ],
+            "rec_score": 0.9989510774612427
+        },
+        {
+            "content": "2現役世代の負担を抑制しながら、世界一の日本の医療を守る",
+            "det_score": 0.8665381381247231,
+            "direction": "horizontal",
+            "points": [
+                [
+                    208,
+                    146
+                ],
+                [
+                    983,
+                    148
+                ],
+                [
+                    983,
+                    175
+                ],
+                [
+                    208,
+                    173
+                ]
+            ],
+            "rec_score": 0.9967576265335083
+        },
+        {
+            "content": "政策",
+            "det_score": 0.8090437090192377,
+            "direction": "horizontal",
+            "points": [
+                [
+                    32,
+                    101
+                ],
+                [
+                    117,
+                    102
+                ],
+                [
+                    115,
+                    257
+                ],
+                [
+                    30,
+                    255
+                ]
+            ],
+            "rec_score": 0.9900429248809814
+        },
+        {
+            "content": "基づいて見分け、価値の大きい医療に集中投資を行う",
+            "det_score": 0.8772770617893593,
+            "direction": "horizontal",
+            "points": [
+                [
+                    235,
+                    107
+                ],
+                [
+                    845,
+                    110
+                ],
+                [
+                    845,
+                    137
+                ],
+                [
+                    235,
+                    134
+                ]
+            ],
+            "rec_score": 0.9991174340248108
+        },
+        {
+            "content": "福田とおるの",
+            "det_score": 0.8347446446420652,
+            "direction": "vertical",
+            "points": [
+                [
+                    117,
+                    105
+                ],
+                [
+                    147,
+                    105
+                ],
+                [
+                    147,
+                    249
+                ],
+                [
+                    117,
+                    249
+                ]
+            ],
+            "rec_score": 0.9929305911064148
+        },
+        {
+            "content": "1価値の大きい医療と価値の小さい医療を科学的根拠に",
+            "det_score": 0.873901856395088,
+            "direction": "horizontal",
+            "points": [
+                [
+                    210,
+                    78
+                ],
+                [
+                    981,
+                    78
+                ],
+                [
+                    981,
+                    102
+                ],
+                [
+                    210,
+                    102
+                ]
+            ],
+            "rec_score": 0.8190841674804688
+        },
+        {
+            "content": "民主党 みん",
+            "det_score": 0.7419773554435317,
+            "direction": "horizontal",
+            "points": [
+                [
+                    27,
+                    56
+                ],
+                [
+                    150,
+                    56
+                ],
+                [
+                    150,
+                    86
+                ],
+                [
+                    27,
+                    86
+                ]
+            ],
+            "rec_score": 0.9337495565414429
+        },
+        {
+            "content": "国民曰く",
+            "det_score": 0.6727551059538298,
+            "direction": "horizontal",
+            "points": [
+                [
+                    27,
+                    27
+                ],
+                [
+                    150,
+                    27
+                ],
+                [
+                    150,
+                    62
+                ],
+                [
+                    27,
+                    62
+                ]
+            ],
+            "rec_score": 0.4202258586883545
+        },
+        {
+            "content": "「人に優しい医療改革」で命と豊かさを守る",
+            "det_score": 0.8920679072592763,
+            "direction": "horizontal",
+            "points": [
+                [
+                    253,
+                    11
+                ],
+                [
+                    968,
+                    11
+                ],
+                [
+                    968,
+                    48
+                ],
+                [
+                    253,
+                    48
+                ]
+            ],
+            "rec_score": 0.9988970160484314
+        }
+    ]
+}
