@@ -1,4 +1,19 @@
 \usepackage[authordate,backend=biber]{biblatex-chicago}
+\DeclareSourcemap{
+	\maps[datatype=bibtex]{
+		\map{
+			\step[fieldset=isbn,     null]
+			\step[fieldset=issn,     null]
+			\step[fieldset=doi,      null]
+			\step[fieldset=url,      null]
+			\step[fieldset=urldate,  null]
+			\step[fieldset=language, null]
+			\step[fieldset=langid,   null]
+			\step[fieldset=abstract, null]
+		}
+	}
+}
 $for(bibliography)$
 \addbibresource{$bibliography$}
 $endfor$
+

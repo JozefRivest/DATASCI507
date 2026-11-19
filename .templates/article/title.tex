@@ -1,0 +1,18 @@
+$if(title)$
+\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+
+\author{%
+$for(by-author)$
+  $it.name.literal$%
+  $if(it.affiliations)$
+  \thanks{%
+    $if(it.metadata.position)$$it.metadata.position$, $endif$%
+    $for(it.affiliations)$$if(it.department)$$it.department$, $endif$$it.name$$sep$; $endfor$%
+  }%
+  $endif$
+$sep$ \and
+$endfor$
+}
+
+\date{$date$}

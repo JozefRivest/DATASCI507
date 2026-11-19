@@ -2,7 +2,10 @@ author:
   - name: Jozef Rivest
     email: jrivest@umich.edu
     orcid: 0000-0002-3195-3838
-    affiliation: University of Michigan, Department of political science
+    position: PhD Student
+    affiliations:
+      - name: University of Michigan
+        department: Department of Political Science
 
 project:
   type: default
@@ -39,6 +42,7 @@ format:
     template-partials:
       - .templates/article/biblio-config.tex
       - .templates/article/biblio.tex
+      - .templates/article/title.tex
     include-in-header:
       - file: .templates/article/backmatter.tex
     filters:
