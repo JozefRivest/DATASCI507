@@ -7,3 +7,5 @@ notes/websites.md
 
 /.quarto/
 **/*.quarto_ipynb
+
+indent.log
