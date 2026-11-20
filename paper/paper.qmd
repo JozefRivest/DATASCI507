@@ -1,6 +1,5 @@
 ---
 title: "DATASCI507: Proposal"
-author: Jozef Rivest
 format: pdf
 
 abstract: |
@@ -13,7 +12,35 @@ Can political bulletins tell us something about party's level of centralization?
 
 # Theory
 
+## Literature
+
+Why political parties decide to (de)centralize their political
+campaign? Arguably, the answer to this question depends on many factor,
+and most importantly on the structures under which the elections take
+place. Rather than trying to find an answer that would be applicable to
+every electoral system, political system, and state's structure (federal
+vs. unitary), we will focus on parliamentary single member district.
+The argument concerns national level elections, therefore it might not
+extend to subnational election.
+
+These initial scope conditions are also justified based on the existing 
+literature. Previous research have highlighted that as the political and
+economic power lies at different levels in federal versus unitary states,
+these structures change how party and voters make their strategic choices
+[@chhibber_etal04; @mendozagomez26].
+
+@catalinac18 studied how electoral systems change 
+
+## Context 
+
 ## Model
+
+<!-- The previous model tries to answer this question by starting -->
+<!-- from the assumption that party leader wants to win an election, and to -->
+<!-- do so they have to maximize the total number of votes they receive in -->
+<!-- each district. In this section, we will go over the previous explanations -->
+<!-- that were proposed to answer this question, and see how do they compare -->
+<!-- with the above model. -->
 
 The setup goes as follows. A national party $P$ seeks to gain as many
 votes as possible in order to win an election. To achieve this, it has
@@ -62,8 +89,6 @@ platform $x_d$.
 The game follows this timing: $L$ commits to a set of permitted platforms
 $\mathcal{D}$; Nature draws $\theta_d$; candidate $d$ observes $\theta_d$;
 candidate $d$ chooses $x_d \in \mathcal{D}$.
-
-## Literature
 
 # Data
 
@@ -121,10 +146,11 @@ This section presents preliminary results.
 
 # Deliverables
 
+{{< pagebreak >}}
+
 # References
 
 :::{#refs}
-
 :::
 
 {{< pagebreak >}}
@@ -133,4 +159,4 @@ This section presents preliminary results.
 
 ## Example of electoral bulletin {#sec-bulletin-ex}
 
-![Electoral bulletin example](../data/raw_bulletins/aichi/23_公報_第51回衆院選_愛知6区.pdf){#fig-bulletin-ex width=73%}
+![Electoral bulletin example](../data/raw_bulletins/aichi/23_公報_第51回衆院選_愛知6区.pdf){#fig-bulletin-ex width=70%}

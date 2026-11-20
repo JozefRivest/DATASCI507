@@ -29,6 +29,7 @@ execute:
 format:
   pdf:
     documentclass: article
+    fontsize: 12pt
     cite-method: biblatex
     biblatexoptions:
       - authordate
