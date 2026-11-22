@@ -10,30 +10,99 @@ abstract: |
 
 Can political bulletins tell us something about party's level of centralization?
 
-# Theory
+# Theory {#sec-theory}
 
-## Literature
+## Literature {#sec-literature}
 
 Why political parties decide to (de)centralize their political
 campaign? Arguably, the answer to this question depends on many factor,
 and most importantly on the structures under which the elections take
 place. Rather than trying to find an answer that would be applicable to
 every electoral system, political system, and state's structure (federal
-vs. unitary), we will focus on parliamentary single member district.
-The argument concerns national level elections, therefore it might not
-extend to subnational election.
+vs. unitary), we will focus on parliamentary single member district
+(SMD).  The argument concerns national level elections, therefore it
+might not extend to subnational election.
 
 These initial scope conditions are also justified based on the existing 
 literature. Previous research have highlighted that as the political and
 economic power lies at different levels in federal versus unitary states,
 these structures change how party and voters make their strategic choices
-[@chhibber_etal04; @mendozagomez26].
+[@chhibber_etal04; @mendozagomez26]. 
 
-@catalinac18 studied how electoral systems change 
+Why parties (de)centralize campaigns? Some previous explanation focused
+on the incentives of candidates to cultivate personal reputation that
+is distinct to party reputation [@carey_shugart95]. While this account
+situate the candidate as the agent taking the decision, and not about
+the party deciding the discretion candidate can have, some elements are
+useful to think about this question. Among the most important factors 
+is the electoral system, as it shapes the control party leaders have over
+the ballot, how pooled the votes are, and how votes are attributed. In 
+the case of interest here, in SMD, the personal reputation is least 
+important.
 
-## Context 
+```{=tex}
+\begin{itemize}
+\item[\textbf{H1}]: Individual candidates bulletins are aligned with the 
+party (little discretionary power).
+\end{itemize}
+```
 
-## Model
+However, while being informative about the strategic choices of candidates
+in SMD system, this predictions doesn't seem to be adequate. As we'll
+present in @sec-context, a key feature of Japanese politics is centered
+around personal ties known as Kōenkai. Therefore, it's unrealistic
+to expect personal ties to have little to no effect in campaign in
+Japan. Account of the historical loss of the LDP in 2009 highlight the
+role of party centralization and cut back on particularistic spending
+which was the core of the clientelistic foundation of the LPD electoral
+dominance [@reed_etal12; @scheiner06]. While @reed_etal12 predicts that 
+the shift toward a less discretionary and more nationalized LPD would lead
+to the end of single-party dominance in Japan post 2009, this prediction
+has yet to be realized. They further add that the days of strong Kōenkai
+are also mostly over. If this is the case, then we should expect candidates
+to run a more nationalized way and less on personal position.
+
+```{=tex}
+\begin{itemize}
+\item[\textbf{H2}]: Candidates are increasingly campaigning on a national 
+platform.
+\end{itemize}
+```
+
+There are still some reasons to believe that this is not the case. The
+above prediction has yet to be realized: the LDP won back in 2012 and
+has remained in office since then. @catalinac18 does have empirical
+evidence that shows that parties became more unified after the 1994
+electoral reform.  The variance in within parties candidate positioning
+reduces quite substantively after the electoral reform of 1994. While these
+results are compelling, they stop at 2009 where the DPJ won the election.
+As highlighted above by @reed_etal12, the LDP changed its campaign style
+between 2005 and 2009 to a more nationalized one. Therefore, what we lack
+now is how does the LDP responded *after* the electoral defeat of 2009.
+Given that the less decentralized campaign appears to be associated with 
+lower electoral results, and loss of power, for the LPD, it's important 
+to see how did the party responded to this defeat. The fundamental question
+is to understand if it went back to a more decentralized campaign, leaving
+more discretion to its candidates. This could potentially explain why the 
+party didn't loose another election after it won back in 2012.
+
+```{=tex}
+\begin{itemize}
+\item[\textbf{H3}]: Within party candidates dispersion increases post-2009
+\end{itemize}
+```
+
+## The case of Japan {#sec-context}
+
+Structure:
+
+1. Why Japan is a useful case:
+  - LDP impopularity, yet success [@kuriwaki_etal25; @scheiner05; @scheiner06]
+  - Koenkai [@krauss_pekkanen11]
+
+Few 
+
+## Model {#sec-model}
 
 <!-- The previous model tries to answer this question by starting -->
 <!-- from the assumption that party leader wants to win an election, and to -->
