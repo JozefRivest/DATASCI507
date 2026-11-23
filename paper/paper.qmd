@@ -2,97 +2,115 @@
 title: "DATASCI507: Proposal"
 format: pdf
 
-abstract: |
-  **Placeholder**
+# abstract: |
+#   **Placeholder**
 ---
+
+{{< pagebreak >}}
 
 # Introduction
 
-Can political bulletins tell us something about party's level of centralization?
+Why do political parties decide to (de)centralize their campaigns?
+Party leaders face an important information challenge: it is not possible
+for one single person to know about all the local issues of every single
+district.  Furthermore, they need to be concerned about national issues,
+which can be partially related to local ones. In this situation, and
+when seeking reelection, they need to decide how much they
+want to campaign on a national platform, or whether they want to leave some
+discretionary power to their candidates. Leaving this room can allow
+candidates to tailor their campaigns to the local issues of each district,
+which can lead to better electoral outcomes. This project explores this
+question using the case of Japan. It introduces a new dataset
+built from electoral bulletins, as well as new measures of party
+centralization.  We begin by reviewing previous work on delegation
+and decentralization in single-member district electoral systems. Then,
+we introduce the model of this paper. The following sections present
+the dataset, the pipeline, and preliminary results. Finally, we lay out
+the deliverables for the next steps.
 
 # Theory {#sec-theory}
 
 ## Literature {#sec-literature}
 
-Why political parties decide to (de)centralize their political
-campaign? Arguably, the answer to this question depends on many factor,
-and most importantly on the structures under which the elections take
+Why do political parties decide to (de)centralize their political
+campaigns? Arguably, the answer to this question depends on many factors,
+most importantly the structures under which elections take
 place. Rather than trying to find an answer that would be applicable to
-every electoral system, political system, and state's structure (federal
-vs. unitary), we will focus on parliamentary single member district
-(SMD).  The argument concerns national level elections, therefore it
-might not extend to subnational election.
+every electoral system, political system, and state structure (federal
+vs. unitary), we focus on parliamentary single-member district
+(SMD) systems.  The argument concerns national-level elections; therefore, it
+might not extend to subnational elections.
 
-These initial scope conditions are also justified based on the existing 
-literature. Previous research have highlighted that as the political and
+These initial scope conditions are also justified by the existing
+literature. Previous research has highlighted that, as political and
 economic power lies at different levels in federal versus unitary states,
-these structures change how party and voters make their strategic choices
-[@chhibber_etal04; @mendozagomez26]. 
+these structures change how parties and voters make their strategic choices
+[@chhibber_etal04; @mendozagomez26].
 
-Why parties (de)centralize campaigns? Some previous explanation focused
-on the incentives of candidates to cultivate personal reputation that
-is distinct to party reputation [@carey_shugart95]. While this account
-situate the candidate as the agent taking the decision, and not about
-the party deciding the discretion candidate can have, some elements are
-useful to think about this question. Among the most important factors 
+Why do parties (de)centralize campaigns? Some previous explanations focused
+on the incentives of candidates to cultivate a personal reputation that
+is distinct from the party's reputation [@carey_shugart95]. While this account
+situates the candidate as the decision-maker, rather than the
+party deciding how much discretion candidates can have, some elements are
+useful for thinking about this question. Among the most important factors
 is the electoral system, as it shapes the control party leaders have over
-the ballot, how pooled the votes are, and how votes are attributed. In 
-the case of interest here, in SMD, the personal reputation is least 
+the ballot, how pooled the votes are, and how votes are allocated. In
+the case of interest here, SMD, personal reputation is the least
 important.
 
 ```{=tex}
 \begin{itemize}
-\item[\textbf{H1}]: Individual candidates bulletins are aligned with the 
+\item[\textbf{H1}]: Individual candidates' bulletins are aligned with the
 party (little discretionary power).
 \end{itemize}
 ```
 
-However, while being informative about the strategic choices of candidates
-in SMD system, this predictions doesn't seem to be adequate. As we'll
-present in @sec-context, a key feature of Japanese politics is centered
-around personal ties known as Kōenkai. Therefore, it's unrealistic
-to expect personal ties to have little to no effect in campaign in
-Japan. Account of the historical loss of the LDP in 2009 highlight the
-role of party centralization and cut back on particularistic spending
-which was the core of the clientelistic foundation of the LPD electoral
-dominance [@reed_etal12; @scheiner06]. While @reed_etal12 predicts that 
-the shift toward a less discretionary and more nationalized LPD would lead
-to the end of single-party dominance in Japan post 2009, this prediction
-has yet to be realized. They further add that the days of strong Kōenkai
-are also mostly over. If this is the case, then we should expect candidates
-to run a more nationalized way and less on personal position.
+However, while informative about the strategic choices of candidates
+in SMD systems, this prediction does not seem adequate. A key
+feature of Japanese politics is the centrality of personal support networks known as
+Kōenkai. Therefore, it is unrealistic to expect personal ties to have
+little to no effect on campaigns in Japan. Accounts of the LDP's historic
+loss in 2009 highlight the role of party centralization
+and cutbacks in particularistic spending, which was the core of the
+clientelistic foundation of the LDP's electoral dominance [@reed_etal12;
+@scheiner06]. While @reed_etal12 predict that the shift toward a
+less discretionary and more nationalized LDP would lead to the end of
+single-party dominance in Japan after 2009, this prediction has yet to
+be realized. They further add that the days of strong Kōenkai are also
+mostly over. If this is the case, then we should expect candidates to
+run more nationalized campaigns and rely less on personal positions.
 
 ```{=tex}
 \begin{itemize}
-\item[\textbf{H2}]: Candidates are increasingly campaigning on a national 
+\item[\textbf{H2}]: Candidates are increasingly campaigning on a national
 platform.
 \end{itemize}
 ```
 
 There are still some reasons to believe that this is not the case. The
-above prediction has yet to be realized: the LDP won back in 2012 and
-has remained in office since then. @catalinac18 does have empirical
-evidence that shows that parties became more unified after the 1994
-electoral reform.  The variance in within parties candidate positioning
-reduces quite substantively after the electoral reform of 1994. While these
-results are compelling, they stop at 2009 where the DPJ won the election.
+above prediction has yet to be realized: the LDP returned to power in 2012 and
+has remained in office since then. @catalinac18 provides empirical
+evidence that parties became more unified after the 1994
+electoral reform: the variance in within-party candidate positioning
+decreased substantially after the reform. While these
+results are compelling, they stop in 2009, when the DPJ won the election.
 As highlighted above by @reed_etal12, the LDP changed its campaign style
-between 2005 and 2009 to a more nationalized one. Therefore, what we lack
-now is how does the LDP responded *after* the electoral defeat of 2009.
-Given that the less decentralized campaign appears to be associated with 
-lower electoral results, and loss of power, for the LPD, it's important 
-to see how did the party responded to this defeat. The fundamental question
-is to understand if it went back to a more decentralized campaign, leaving
-more discretion to its candidates. This could potentially explain why the 
-party didn't loose another election after it won back in 2012.
+between 2005 and 2009 to a more nationalized one. Therefore, what we still lack
+is an understanding of how the LDP responded *after* its electoral defeat in 2009.
+Given that the less decentralized campaign appears to be associated with
+worse electoral results and a loss of power for the LDP, it is important
+to see how the party responded to this defeat. The fundamental question
+is whether it returned to a more decentralized campaign, leaving
+more discretion to its candidates. This could potentially explain why the
+party has not lost another election since returning to power in 2012.
 
 ```{=tex}
 \begin{itemize}
-\item[\textbf{H3}]: Within party candidates dispersion increases post-2009
+\item[\textbf{H3}]: Within-party candidate dispersion increases post-2009.
 \end{itemize}
 ```
 
-<!-- 
+<!--
 ## The case of Japan {#sec-context}
 
 Structure:
@@ -101,7 +119,7 @@ Structure:
   - LDP impopularity, yet success [@kuriwaki_etal25; @scheiner05; @scheiner06]
   - Koenkai [@krauss_pekkanen11]
 
-Few 
+Few
 -->
 
 ## Model {#sec-model}
@@ -113,48 +131,48 @@ Few
 <!-- that were proposed to answer this question, and see how do they compare -->
 <!-- with the above model. -->
 
-The setup goes as follows. A national party $P$ seeks to gain as many
+The setup is as follows. A national party $P$ seeks to gain as many
 votes as possible in order to win an election. To achieve this, it has
 to convince the local population across the whole country to i) turn out
-on the day of the election, and ii) vote for party $P$. To do this, the
+on election day, and ii) vote for party $P$. To do this, the
 party has resources that it can allocate across the different
-constituencies to help promote certain candidates. The party $P$ also needs
-to decide how *discretionary* its candidates can be in their campaign.
-For simplicity, we will treat the allocation of resources as fixed for this
-model, and focus exclusively on the *centralization* choice of party $P$.
+constituencies to help promote certain candidates. Party $P$ also needs
+to decide how much *discretion* its candidates can have in their campaigns.
+For simplicity, we treat the allocation of resources as fixed in this
+model and focus exclusively on the *centralization* choice of party $P$.
 
-The problem of centralization goes as follows. The leader ($L$) of
-party $P$ does not know about the local needs and issues of all the
+The problem of centralization is as follows. The leader ($L$) of
+party $P$ does not know the local needs and issues of all the
 constituencies.  Therefore, by granting little discretionary power to
-the candidates ($C$) running for its party, he runs the risk of alienating
-part of the electorate. His priorities might be situated far from those
+the candidates ($C$) running for the party, he runs the risk of alienating
+part of the electorate: his priorities might be far from those
 of the local population in constituency $d$.
 
-On the other hand, the party leader can't delegate all the power and
+On the other hand, the party leader cannot delegate all power and
 discretionary choices to the candidates. Doing so would be
 suboptimal, as his preferences might not be aligned with
-those of all the candidates. Therefore, delegating all of his power to
-the local candidates runs the risk of leaving these candidates to run on
+those of all the candidates. Delegating all of his power to
+the local candidates thus runs the risk of letting these candidates run on
 "unwanted platforms". The party still wants to campaign on a relatively
-similar platform. Therefore, the choice is to decide how far from the
+similar platform. Therefore, the choice is how far from the
 party's national platform candidates can run.
 
-The formalization goes as follows. In this game, we have one party leader
+The formalization is as follows. In this game, there is one party leader
 $L$ and $N$ candidates, one per constituency $d \in \{1, \dots, N\}$.
-The party leader $L$ has utility preferences represented by
+The party leader $L$ has preferences represented by the utility function
 $u_L(\mathbf{x}, \boldsymbol{\theta}) = -\sum_{d=1}^{N} (x_d - \theta_d)^2$.
 Here, $x_d$ represents the platform chosen by the candidate in
 constituency $d$, and $\theta_d$ is the optimal point of constituency $d$.
 Each constituency's optimal point is drawn i.i.d. from a distribution $F$,
-$\theta_d \sim F$. The party leader doesn't observe the realization of
+$\theta_d \sim F$. The party leader does not observe the realization of
 $\theta_d$, but he does know the distribution $F$.
 
-The candidate in constituency $d$ has utility preferences represented by
+The candidate in constituency $d$ has preferences represented by the utility function
 $u_{C_d}(x_d, \theta_d, b) = -(x_d - \theta_d - b)^2$, where $x_d$ is
 the candidate's platform, $\theta_d$ is the local optimal point, and $b$
 is the bias, or disagreement, of the candidates with the party leader,
-assumed common to all candidates.
-Each candidate gets to observe $\theta_d$ before choosing their own 
+assumed to be common to all candidates.
+Each candidate observes $\theta_d$ before choosing their own
 platform $x_d$.
 
 The game follows this timing: $L$ commits to a set of permitted platforms
@@ -163,62 +181,86 @@ candidate $d$ chooses $x_d \in \mathcal{D}$.
 
 # Data
 
-This project collects an original dataset using political bulletins in
-Japan for the 2024, 2025, and 2026 lower house elections. The pipeline
-goes as follow. We first developped a webscrapper to retrieve the election
-bulletins from [go2senkyo.com](https://go2senkyo.com/).^[For the proposal,
-I manually downloaded a samle of electoral bulletins from go2senkyo for
-5 prefectures. For the final project, and for the continuation of this
-project, I am working on a scrapper that will download the electoral
-bulletin directly from the prefectures' electoral commission.] The website
-compiles all the election bulletins across all districts retrieved from
-each prefecture's electoral commission. The scrapper gets all the PDFs
-files and store them locally. Once the files are downloaded, another
-script uses Claude API to segment all the PDFs into the candidates running
-inside district $d$. This approach is to facilitate the following step,
-which is to use PDF parsing and OCR, and to increase the precision of
-the information retrieved. About the parsing and the OCR, we used the
-[Yomitoku](https://kotaro-kinoshita.github.io/yomitoku/en/) Python
-librairy that is optimized for Japanese text and documents.
-
-Once the parsing is done, we can store the information into a Pandas dataframe.
-Each candidates (rows) have the following information attached to them: 
-1) text from their election bulletin, 2) the number of paragraphs,
-3) the number of headings, 4) the total number of characters (including both
-Kanji and Kana).
-
-The main challenge is to find an efficient way to extract the content 
-from each bulletin per candidate. @fig-bulletin-ex shows an example of the 
-structure of the PDF files containing all the candidates within a district.
-Some tests made with Yomitoku on the complete pdf, like @fig-bulletin-ex, 
-tend to introduce some parsing error. Some text was attributed to the wrong
-candidates, images and layout tend to be more influential in the parsing 
-potentially due to their relative size compared to the text, and some aspect 
-of the layout tended to be overlooked by the parser. 
-
-@fig-candidate-example present an example of an electoral bulletin for one 
-candidate.
-
-![Political candidate in Aichi prefecture](../data/cleaned_bulletins/test/01_大西雅人_社民党.pdf){#fig-candidate-example}
-
-@fig-pipeline presents the pipeline of the project, and the future extension
-that can be made from the data generated.
+This project collects an original dataset using electoral bulletins
+in Japan for the 2024 and 2026 lower house elections. The pipeline
+is illustrated in @fig-pipeline. We first collected a sample of electoral
+bulletins from 5 prefectures from the `go2senkyo` website. The website
+compiles all the election bulletins across all districts, retrieved
+from each prefecture's electoral commission. Once the files were
+downloaded, we used the Claude API to identify the boundaries of each
+candidate within the original file (see @sec-bulletin-ex in [the
+Appendix](#sec-appendix) for an example).  Once the boundaries were identified,
+we used pymupdf to segment the district file into separate
+candidate files, such as @fig-candidate-example.  From there, we used
+[Yomitoku](https://kotaro-kinoshita.github.io/yomitoku/en/), a Python
+library optimized for Japanese text and documents, to parse and OCR the
+individual bulletins. Yomitoku's models are all available on the Hugging
+Face website.^[The maintainer's Hugging Face page is available at
+[https://huggingface.co/KotaroKinoshita](https://huggingface.co/KotaroKinoshita).]
 
 ```{mermaid}
 %%| fig-width: 80%
 %%| fig-cap: Pipeline of the project and future extension
-%%| label: fig-pipeline 
+%%| label: fig-pipeline
 %%| file: flowchart.mmd
 ```
 
+Once the parsing is done, we store the information in a Pandas dataframe.
+Each candidate (row) has the following information attached:
+1) the text of their election bulletin, 2) the number of paragraphs,
+3) the number of headings, and 4) the total number of characters (including both
+Kanji and Kana).
+
+The main challenge is to find an efficient way to extract the content
+of each candidate's bulletin. @fig-bulletin-ex shows an example of the
+structure of the PDF files containing all the candidates within a district.
+Some tests with Yomitoku on the complete PDF, like @fig-bulletin-ex,
+introduced parsing errors: some text was attributed to the wrong
+candidate, images and layout tended to have more influence on the parsing,
+potentially due to their size relative to the text, and some aspects
+of the layout tended to be overlooked by the parser.
+
+@fig-candidate-example presents an example of an electoral bulletin for one
+candidate.
+
+![Political candidate in Aichi prefecture](../data/cleaned_bulletins/test/01_大西雅人_社民党.pdf){#fig-candidate-example width="80%"}
+
 # Results {#sec-results}
 
-This section presents some preliminary results. From the pipeline
-highlighted above, we ran it on the sample of electoral bulletins.
+This section presents some preliminary results from running the pipeline
+described above on the sample of electoral bulletins. @fig-prelim-results
+presents preliminary descriptive results. It plots the average number
+of characters and paragraphs within parties. I used seaborn to make the
+graphs. The horizontal bars are 95\% confidence intervals. We can see
+that there is fair variation between parties on both of these metrics. It
+is still too early to answer the question; these results serve primarily
+to show what the dataset will allow us to do. After randomly selecting a
+few bulletins and manually comparing them with the pymupdf cropping and
+the Yomitoku OCR output, the extraction appears to work very well and is
+quite accurate (above 95\%). Later on, I also want to perform structural
+topic modeling [@roberts_etal13] using individual-level covariates of
+the candidates and district-level covariates to study centralization
+and how different characteristics are associated with the presence or
+absence of certain topics. Finally, I used Claude Code to help me revise
+and debug my code. I also used it to correct the grammar of this proposal,
+but not to generate any of its text.
+
+::: {#fig-prelim-results layout-ncol=2 fig-cap="Descriptive statistics about the electoral bulletins by political party. Points represent means, and horizontal bars are 95\% confidence intervals. The Liberal and Hoshuto parties do not have CIs, as they only have one candidate each in our sample."}
+![Average number of characters](figures/avg_char.pdf){#fig-avg-char height="30%"}
+
+![Average number of paragraphs](figures/avg_par.pdf){#fig-avg-par height="30%"}
+:::
 
 # Deliverables {#sec-deliverable}
 
-{{< pagebreak >}}
+For the rest of the semester, I will create a complete dataset covering the
+2024 and 2026 lower house elections. I will try to finish the scraper that
+will download all the electoral bulletins from each prefectural electoral
+commission (week 1-2).^[If this does not work, I will complement it with,
+or fall back on, the `go2senkyo` website.] Once they are downloaded, I can
+run the pipeline on all of these bulletins and complement the preliminary
+analyses with a larger sample of bulletins (week 3-4). Finally, I will
+complete further analyses of the text and of party centralization (week 4-5).
 
 # References
 
@@ -227,7 +269,7 @@ highlighted above, we ran it on the sample of electoral bulletins.
 
 {{< pagebreak >}}
 
-# Appendix {.appendix #sec-appendix}
+# Appendix {#sec-appendix .appendix}
 
 ## Example of electoral bulletin {#sec-bulletin-ex}
 

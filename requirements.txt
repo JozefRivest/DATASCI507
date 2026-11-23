@@ -11,3 +11,5 @@ os
 base64
 json
 PIL
+seaborn
+matplotlib.pyplot
