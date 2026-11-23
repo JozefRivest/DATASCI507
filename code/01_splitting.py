@@ -16,7 +16,7 @@ client = Anthropic(
     api_key=api_key,
 )
 
-input_dir = Path("data/raw_bulletins/aichi")
+input_dir = Path("data/raw_bulletins")
 output_root = Path("data/test/crops")
 
 prompt = """
@@ -43,7 +43,9 @@ def split_pdf(pdf_path):
     doc = pymupdf.open(pdf_path)
     page_images = []
     for i, page in enumerate(doc, start=1):
-        png_path = out_dir / f"page{i}.png"
+        png_path = (
+            out_dir / f"page{i}.jpg"
+        )  # JPEG keeps pages under the API's 5 MB limit
         page.get_pixmap(dpi=150).save(png_path)
         page_images.append(png_path)
 
@@ -64,7 +66,7 @@ def split_pdf(pdf_path):
                             "type": "image",
                             "source": {
                                 "type": "base64",
-                                "media_type": "image/png",
+                                "media_type": "image/jpeg",
                                 "data": png_b64,
                             },
                         },
@@ -97,7 +99,7 @@ def split_pdf(pdf_path):
 if __name__ == "__main__":
     failed = []
 
-    for pdf_path in sorted(input_dir.glob("*.pdf")):
+    for pdf_path in sorted(input_dir.rglob("*.pdf")):
         district = pdf_path.stem.split("_")[-1]
 
         # Skip districts that already have crops, so reruns don't pay for API calls twice
