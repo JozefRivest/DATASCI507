@@ -1,0 +1,1771 @@
+{
+    "figures": [
+        {
+            "box": [
+                95,
+                189,
+                237,
+                329
+            ],
+            "direction": "horizontal",
+            "order": 3,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                779,
+                46,
+                890,
+                162
+            ],
+            "direction": "horizontal",
+            "order": 19,
+            "paragraphs": [
+                {
+                    "box": [
+                        768,
+                        35,
+                        896,
+                        138
+                    ],
+                    "contents": "29",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        817,
+                        107,
+                        873,
+                        156
+                    ],
+                    "contents": "(2)",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                608,
+                176,
+                820,
+                652
+            ],
+            "direction": "vertical",
+            "order": 20,
+            "paragraphs": [
+                {
+                    "box": [
+                        730,
+                        175,
+                        819,
+                        436
+                    ],
+                    "contents": "川田が挑む",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        557,
+                        163,
+                        818,
+                        685
+                    ],
+                    "contents": "LO EE S SERENTORENTORENTORENTORENTORENTORENTORENTORENTORENTER",
+                    "direction": "vertical",
+                    "order": 1,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1661,
+                195,
+                1892,
+                499
+            ],
+            "direction": "horizontal",
+            "order": 32,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1933,
+                49,
+                2172,
+                656
+            ],
+            "direction": "vertical",
+            "order": 33,
+            "paragraphs": [
+                {
+                    "box": [
+                        1932,
+                        52,
+                        2171,
+                        654
+                    ],
+                    "contents": "中道改革連合公認\n広島県第1区小選挙区\nえ い\nか い\nだ\nか わ\n三田海米",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                60,
+                53,
+                664,
+                160
+            ],
+            "contents": "川田海栄\nかわだ\nかいえい",
+            "direction": "horizontal",
+            "order": 0,
+            "role": null
+        },
+        {
+            "box": [
+                57,
+                364,
+                82,
+                540
+            ],
+            "contents": "川田 海栄プロフィール",
+            "direction": "vertical",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                62,
+                594,
+                82,
+                635
+            ],
+            "contents": "推薦",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                90,
+                362,
+                178,
+                384
+            ],
+            "contents": "● 出 身",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                92,
+                385,
+                176,
+                407
+            ],
+            "contents": "● 生年月日",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                92,
+                407,
+                178,
+                429
+            ],
+            "contents": "●学 歴",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                92,
+                455,
+                178,
+                476
+            ],
+            "contents": "● 歴",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                253,
+                188,
+                545,
+                305
+            ],
+            "contents": "中道\n改革\n連合",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                307,
+                313,
+                480,
+                327
+            ],
+            "contents": "Centrist Reform Alliance",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                246,
+                364,
+                357,
+                381
+            ],
+            "contents": "広島県東広島市",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                247,
+                387,
+                465,
+                404
+            ],
+            "contents": "1997年(平成9年) 10月21日",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                247,
+                410,
+                543,
+                427
+            ],
+            "contents": "近畿大学附属広島高等学校東広島校 卒業",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                249,
+                433,
+                593,
+                450
+            ],
+            "contents": "国立大学法人山口大学 経済学部経済学科 卒業",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                246,
+                456,
+                436,
+                474
+            ],
+            "contents": "株式会社ビストロ·フーズ",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                247,
+                479,
+                440,
+                497
+            ],
+            "contents": "参議院議員 森本真治 秘書",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                247,
+                501,
+                472,
+                518
+            ],
+            "contents": "参議院議員 三トえり 公設秘書",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                99,
+                524,
+                543,
+                543
+            ],
+            "contents": "● 座右の銘\n至誠\n● 好きなスポーツ\n野球",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                101,
+                583,
+                595,
+                637
+            ],
+            "contents": "みんなのチカラをひとつに\n結集●ひろしま\n連合広島",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                850,
+                194,
+                885,
+                249
+            ],
+            "contents": "1",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                848,
+                289,
+                887,
+                345
+            ],
+            "contents": "2",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                850,
+                390,
+                885,
+                437
+            ],
+            "contents": "3",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                907,
+                51,
+                1566,
+                158
+            ],
+            "contents": "若さと行動力",
+            "direction": "horizontal",
+            "order": 24,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                901,
+                189,
+                1573,
+                258
+            ],
+            "contents": "政治改革 ~「今だけ、金だけ、自分だけ」の古い政治を大掃除~\n●企業·団体献金の受け手規制の強化 ●定年制の導入",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                903,
+                286,
+                1616,
+                355
+            ],
+            "contents": "経済·生活~物価高に勝つ!「使えるお金」を増やす緊急経済対策~\n●恒久的な食料品消費税 0(ゼロ) ●中小企業の社会保険料·負担軽減",
+            "direction": "horizontal",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                898,
+                381,
+                1609,
+                452
+            ],
+            "contents": "教育·人づくり~貧困の連鎖を断ち、日本人の「心」を取り戻す~\n●「教育格差」の解消(チャンスの平等) ●「徳育」と「歴史」の重視",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                872,
+                477,
+                1527,
+                547
+            ],
+            "contents": "エネルギー·地域~「広島モデル」のエネルギー自給~\n●自然エネルギーへの集中投資",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                898,
+                574,
+                1618,
+                645
+            ],
+            "contents": "平和·外交~広島から世界へ。「核兵器なき世界」をスローガンで終わらせない~\n●広島を「アジアの平和構築」の首都に ●「人間の安全保障」と現実的な防衛",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                850,
+                485,
+                888,
+                536
+            ],
+            "contents": "4",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                850,
+                582,
+                885,
+                632
+            ],
+            "contents": "5",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "●広島を「アジアの平和構築」の首都に ●「人間の安全保障」と現実的な防衛",
+            "det_score": 0.8379478922469525,
+            "direction": "horizontal",
+            "points": [
+                [
+                    904,
+                    621
+                ],
+                [
+                    1557,
+                    621
+                ],
+                [
+                    1557,
+                    642
+                ],
+                [
+                    904,
+                    642
+                ]
+            ],
+            "rec_score": 0.9750456213951111
+        },
+        {
+            "content": "結集●ひろしま",
+            "det_score": 0.8191894220721667,
+            "direction": "horizontal",
+            "points": [
+                [
+                    101,
+                    598
+                ],
+                [
+                    340,
+                    598
+                ],
+                [
+                    340,
+                    637
+                ],
+                [
+                    101,
+                    637
+                ]
+            ],
+            "rec_score": 0.3796793222427368
+        },
+        {
+            "content": "連合広島",
+            "det_score": 0.8676615177544256,
+            "direction": "horizontal",
+            "points": [
+                [
+                    404,
+                    593
+                ],
+                [
+                    593,
+                    593
+                ],
+                [
+                    593,
+                    634
+                ],
+                [
+                    404,
+                    634
+                ]
+            ],
+            "rec_score": 0.9999048709869385
+        },
+        {
+            "content": "推薦",
+            "det_score": 0.8002279061135523,
+            "direction": "horizontal",
+            "points": [
+                [
+                    57,
+                    589
+                ],
+                [
+                    85,
+                    589
+                ],
+                [
+                    85,
+                    641
+                ],
+                [
+                    57,
+                    641
+                ]
+            ],
+            "rec_score": 0.9941744208335876
+        },
+        {
+            "content": "5",
+            "det_score": 0.7834297645854078,
+            "direction": "horizontal",
+            "points": [
+                [
+                    850,
+                    582
+                ],
+                [
+                    885,
+                    582
+                ],
+                [
+                    885,
+                    632
+                ],
+                [
+                    850,
+                    632
+                ]
+            ],
+            "rec_score": 0.9991744160652161
+        },
+        {
+            "content": "平和·外交~広島から世界へ。「核兵器なき世界」をスローガンで終わらせない~",
+            "det_score": 0.8065843149002332,
+            "direction": "horizontal",
+            "points": [
+                [
+                    902,
+                    575
+                ],
+                [
+                    1626,
+                    575
+                ],
+                [
+                    1626,
+                    614
+                ],
+                [
+                    902,
+                    614
+                ]
+            ],
+            "rec_score": 0.8712310791015625
+        },
+        {
+            "content": "みんなのチカラをひとつに",
+            "det_score": 0.7013462855968446,
+            "direction": "horizontal",
+            "points": [
+                [
+                    157,
+                    583
+                ],
+                [
+                    282,
+                    583
+                ],
+                [
+                    282,
+                    596
+                ],
+                [
+                    157,
+                    596
+                ]
+            ],
+            "rec_score": 0.9935367703437805
+        },
+        {
+            "content": "え い",
+            "det_score": 0.556290460357795,
+            "direction": "vertical",
+            "points": [
+                [
+                    2101,
+                    531
+                ],
+                [
+                    2127,
+                    531
+                ],
+                [
+                    2127,
+                    632
+                ],
+                [
+                    2101,
+                    632
+                ]
+            ],
+            "rec_score": 0.9816591739654541
+        },
+        {
+            "content": "●自然エネルギーへの集中投資",
+            "det_score": 0.8552823804649476,
+            "direction": "horizontal",
+            "points": [
+                [
+                    904,
+                    524
+                ],
+                [
+                    1162,
+                    524
+                ],
+                [
+                    1162,
+                    546
+                ],
+                [
+                    904,
+                    546
+                ]
+            ],
+            "rec_score": 0.9970285296440125
+        },
+        {
+            "content": "● 好きなスポーツ",
+            "det_score": 0.8589430269357321,
+            "direction": "horizontal",
+            "points": [
+                [
+                    308,
+                    524
+                ],
+                [
+                    439,
+                    524
+                ],
+                [
+                    439,
+                    541
+                ],
+                [
+                    308,
+                    541
+                ]
+            ],
+            "rec_score": 0.9985039234161377
+        },
+        {
+            "content": "至誠",
+            "det_score": 0.8812521455277289,
+            "direction": "horizontal",
+            "points": [
+                [
+                    245,
+                    524
+                ],
+                [
+                    282,
+                    524
+                ],
+                [
+                    282,
+                    543
+                ],
+                [
+                    245,
+                    543
+                ]
+            ],
+            "rec_score": 0.9992635846138
+        },
+        {
+            "content": "● 座右の銘",
+            "det_score": 0.8021884957565765,
+            "direction": "horizontal",
+            "points": [
+                [
+                    92,
+                    523
+                ],
+                [
+                    176,
+                    523
+                ],
+                [
+                    176,
+                    544
+                ],
+                [
+                    92,
+                    544
+                ]
+            ],
+            "rec_score": 0.9949709177017212
+        },
+        {
+            "content": "野球",
+            "det_score": 0.8471477726294148,
+            "direction": "horizontal",
+            "points": [
+                [
+                    503,
+                    521
+                ],
+                [
+                    545,
+                    521
+                ],
+                [
+                    545,
+                    544
+                ],
+                [
+                    503,
+                    544
+                ]
+            ],
+            "rec_score": 0.9994845986366272
+        },
+        {
+            "content": "参議院議員 三トえり 公設秘書",
+            "det_score": 0.8817302308171489,
+            "direction": "horizontal",
+            "points": [
+                [
+                    247,
+                    501
+                ],
+                [
+                    472,
+                    501
+                ],
+                [
+                    472,
+                    518
+                ],
+                [
+                    247,
+                    518
+                ]
+            ],
+            "rec_score": 0.5954334139823914
+        },
+        {
+            "content": "4",
+            "det_score": 0.7122008293735824,
+            "direction": "horizontal",
+            "points": [
+                [
+                    850,
+                    485
+                ],
+                [
+                    888,
+                    485
+                ],
+                [
+                    888,
+                    536
+                ],
+                [
+                    850,
+                    536
+                ]
+            ],
+            "rec_score": 0.9993969202041626
+        },
+        {
+            "content": "エネルギー·地域~「広島モデル」のエネルギー自給~",
+            "det_score": 0.8397410751335794,
+            "direction": "horizontal",
+            "points": [
+                [
+                    903,
+                    479
+                ],
+                [
+                    1528,
+                    479
+                ],
+                [
+                    1528,
+                    514
+                ],
+                [
+                    903,
+                    514
+                ]
+            ],
+            "rec_score": 0.904126763343811
+        },
+        {
+            "content": "参議院議員 森本真治 秘書",
+            "det_score": 0.8469290234692433,
+            "direction": "horizontal",
+            "points": [
+                [
+                    247,
+                    479
+                ],
+                [
+                    440,
+                    479
+                ],
+                [
+                    440,
+                    497
+                ],
+                [
+                    247,
+                    497
+                ]
+            ],
+            "rec_score": 0.9879133105278015
+        },
+        {
+            "content": "株式会社ビストロ·フーズ",
+            "det_score": 0.7758283108052415,
+            "direction": "horizontal",
+            "points": [
+                [
+                    246,
+                    456
+                ],
+                [
+                    436,
+                    456
+                ],
+                [
+                    436,
+                    474
+                ],
+                [
+                    246,
+                    474
+                ]
+            ],
+            "rec_score": 0.9968225359916687
+        },
+        {
+            "content": "● 歴",
+            "det_score": 0.7962377104077408,
+            "direction": "horizontal",
+            "points": [
+                [
+                    92,
+                    455
+                ],
+                [
+                    178,
+                    455
+                ],
+                [
+                    178,
+                    476
+                ],
+                [
+                    92,
+                    476
+                ]
+            ],
+            "rec_score": 0.24342472851276398
+        },
+        {
+            "content": "か い",
+            "det_score": 0.6191914062533114,
+            "direction": "vertical",
+            "points": [
+                [
+                    2095,
+                    430
+                ],
+                [
+                    2131,
+                    430
+                ],
+                [
+                    2131,
+                    517
+                ],
+                [
+                    2095,
+                    517
+                ]
+            ],
+            "rec_score": 0.9767729043960571
+        },
+        {
+            "content": "国立大学法人山口大学 経済学部経済学科 卒業",
+            "det_score": 0.8583016729366986,
+            "direction": "horizontal",
+            "points": [
+                [
+                    249,
+                    433
+                ],
+                [
+                    593,
+                    433
+                ],
+                [
+                    593,
+                    450
+                ],
+                [
+                    249,
+                    450
+                ]
+            ],
+            "rec_score": 0.9995250105857849
+        },
+        {
+            "content": "●「教育格差」の解消(チャンスの平等) ●「徳育」と「歴史」の重視",
+            "det_score": 0.8091383142545819,
+            "direction": "horizontal",
+            "points": [
+                [
+                    907,
+                    430
+                ],
+                [
+                    1478,
+                    430
+                ],
+                [
+                    1478,
+                    448
+                ],
+                [
+                    907,
+                    448
+                ]
+            ],
+            "rec_score": 0.9346818923950195
+        },
+        {
+            "content": "近畿大学附属広島高等学校東広島校 卒業",
+            "det_score": 0.7280331126239331,
+            "direction": "horizontal",
+            "points": [
+                [
+                    247,
+                    410
+                ],
+                [
+                    543,
+                    410
+                ],
+                [
+                    543,
+                    427
+                ],
+                [
+                    247,
+                    427
+                ]
+            ],
+            "rec_score": 0.9988110065460205
+        },
+        {
+            "content": "●学 歴",
+            "det_score": 0.786824716345085,
+            "direction": "horizontal",
+            "points": [
+                [
+                    92,
+                    407
+                ],
+                [
+                    178,
+                    407
+                ],
+                [
+                    178,
+                    429
+                ],
+                [
+                    92,
+                    429
+                ]
+            ],
+            "rec_score": 0.9922674894332886
+        },
+        {
+            "content": "3",
+            "det_score": 0.819358428940177,
+            "direction": "horizontal",
+            "points": [
+                [
+                    850,
+                    390
+                ],
+                [
+                    885,
+                    390
+                ],
+                [
+                    885,
+                    437
+                ],
+                [
+                    850,
+                    437
+                ]
+            ],
+            "rec_score": 0.999765932559967
+        },
+        {
+            "content": "教育·人づくり~貧困の連鎖を断ち、日本人の「心」を取り戻す~",
+            "det_score": 0.8544444329528105,
+            "direction": "horizontal",
+            "points": [
+                [
+                    902,
+                    383
+                ],
+                [
+                    1606,
+                    383
+                ],
+                [
+                    1606,
+                    417
+                ],
+                [
+                    902,
+                    417
+                ]
+            ],
+            "rec_score": 0.9713628888130188
+        },
+        {
+            "content": "1997年(平成9年) 10月21日",
+            "det_score": 0.7476768738342994,
+            "direction": "horizontal",
+            "points": [
+                [
+                    247,
+                    387
+                ],
+                [
+                    465,
+                    387
+                ],
+                [
+                    465,
+                    404
+                ],
+                [
+                    247,
+                    404
+                ]
+            ],
+            "rec_score": 0.999257504940033
+        },
+        {
+            "content": "● 生年月日",
+            "det_score": 0.7802582848335984,
+            "direction": "horizontal",
+            "points": [
+                [
+                    92,
+                    385
+                ],
+                [
+                    176,
+                    385
+                ],
+                [
+                    176,
+                    407
+                ],
+                [
+                    92,
+                    407
+                ]
+            ],
+            "rec_score": 0.9935980439186096
+        },
+        {
+            "content": "中道改革連合公認",
+            "det_score": 0.7941066900658555,
+            "direction": "vertical",
+            "points": [
+                [
+                    2131,
+                    372
+                ],
+                [
+                    2165,
+                    372
+                ],
+                [
+                    2165,
+                    645
+                ],
+                [
+                    2131,
+                    645
+                ]
+            ],
+            "rec_score": 0.9895692467689514
+        },
+        {
+            "content": "川田 海栄プロフィール",
+            "det_score": 0.7679590002936163,
+            "direction": "vertical",
+            "points": [
+                [
+                    57,
+                    364
+                ],
+                [
+                    82,
+                    364
+                ],
+                [
+                    82,
+                    540
+                ],
+                [
+                    57,
+                    540
+                ]
+            ],
+            "rec_score": 0.9964337348937988
+        },
+        {
+            "content": "広島県東広島市",
+            "det_score": 0.8548760125515881,
+            "direction": "horizontal",
+            "points": [
+                [
+                    246,
+                    364
+                ],
+                [
+                    357,
+                    364
+                ],
+                [
+                    357,
+                    381
+                ],
+                [
+                    246,
+                    381
+                ]
+            ],
+            "rec_score": 0.9999897480010986
+        },
+        {
+            "content": "● 出 身",
+            "det_score": 0.7316874429481486,
+            "direction": "horizontal",
+            "points": [
+                [
+                    90,
+                    362
+                ],
+                [
+                    178,
+                    362
+                ],
+                [
+                    178,
+                    384
+                ],
+                [
+                    90,
+                    384
+                ]
+            ],
+            "rec_score": 0.9945759177207947
+        },
+        {
+            "content": "●恒久的な食料品消費税 0(ゼロ) ●中小企業の社会保険料·負担軽減",
+            "det_score": 0.8099508992257132,
+            "direction": "horizontal",
+            "points": [
+                [
+                    904,
+                    332
+                ],
+                [
+                    1498,
+                    332
+                ],
+                [
+                    1498,
+                    354
+                ],
+                [
+                    904,
+                    354
+                ]
+            ],
+            "rec_score": 0.9113526344299316
+        },
+        {
+            "content": "Centrist Reform Alliance",
+            "det_score": 0.7160759499186978,
+            "direction": "horizontal",
+            "points": [
+                [
+                    306,
+                    312
+                ],
+                [
+                    479,
+                    312
+                ],
+                [
+                    479,
+                    329
+                ],
+                [
+                    306,
+                    329
+                ]
+            ],
+            "rec_score": 0.9970732927322388
+        },
+        {
+            "content": "だ",
+            "det_score": 0.7727983921277719,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2099,
+                    302
+                ],
+                [
+                    2127,
+                    302
+                ],
+                [
+                    2127,
+                    332
+                ],
+                [
+                    2099,
+                    332
+                ]
+            ],
+            "rec_score": 0.9917782545089722
+        },
+        {
+            "content": "2",
+            "det_score": 0.8402250279855525,
+            "direction": "horizontal",
+            "points": [
+                [
+                    848,
+                    293
+                ],
+                [
+                    883,
+                    289
+                ],
+                [
+                    887,
+                    341
+                ],
+                [
+                    853,
+                    345
+                ]
+            ],
+            "rec_score": 0.9998781681060791
+        },
+        {
+            "content": "経済·生活~物価高に勝つ!「使えるお金」を増やす緊急経済対策~",
+            "det_score": 0.865988227069378,
+            "direction": "horizontal",
+            "points": [
+                [
+                    902,
+                    287
+                ],
+                [
+                    1619,
+                    287
+                ],
+                [
+                    1619,
+                    322
+                ],
+                [
+                    902,
+                    322
+                ]
+            ],
+            "rec_score": 0.8491427302360535
+        },
+        {
+            "content": "連合",
+            "det_score": 0.772406901618869,
+            "direction": "horizontal",
+            "points": [
+                [
+                    428,
+                    241
+                ],
+                [
+                    550,
+                    241
+                ],
+                [
+                    550,
+                    313
+                ],
+                [
+                    428,
+                    313
+                ]
+            ],
+            "rec_score": 0.9938669204711914
+        },
+        {
+            "content": "LO EE S SERENTORENTORENTORENTORENTORENTORENTORENTORENTORENTER",
+            "det_score": 0.7825744879290732,
+            "direction": "vertical",
+            "points": [
+                [
+                    557,
+                    191
+                ],
+                [
+                    753,
+                    163
+                ],
+                [
+                    818,
+                    657
+                ],
+                [
+                    623,
+                    685
+                ]
+            ],
+            "rec_score": 1.2901478676029107e-25
+        },
+        {
+            "content": "●企業·団体献金の受け手規制の強化 ●定年制の導入",
+            "det_score": 0.7781357272727168,
+            "direction": "horizontal",
+            "points": [
+                [
+                    903,
+                    235
+                ],
+                [
+                    1363,
+                    235
+                ],
+                [
+                    1363,
+                    257
+                ],
+                [
+                    903,
+                    257
+                ]
+            ],
+            "rec_score": 0.9430619478225708
+        },
+        {
+            "content": "中道",
+            "det_score": 0.859430455362591,
+            "direction": "horizontal",
+            "points": [
+                [
+                    239,
+                    180
+                ],
+                [
+                    449,
+                    180
+                ],
+                [
+                    449,
+                    319
+                ],
+                [
+                    239,
+                    319
+                ]
+            ],
+            "rec_score": 0.9938580393791199
+        },
+        {
+            "content": "改革",
+            "det_score": 0.6817590907854297,
+            "direction": "horizontal",
+            "points": [
+                [
+                    424,
+                    193
+                ],
+                [
+                    549,
+                    193
+                ],
+                [
+                    549,
+                    271
+                ],
+                [
+                    424,
+                    271
+                ]
+            ],
+            "rec_score": 0.7827486991882324
+        },
+        {
+            "content": "1",
+            "det_score": 0.7397950130857919,
+            "direction": "horizontal",
+            "points": [
+                [
+                    850,
+                    197
+                ],
+                [
+                    879,
+                    194
+                ],
+                [
+                    885,
+                    246
+                ],
+                [
+                    855,
+                    249
+                ]
+            ],
+            "rec_score": 0.9985736608505249
+        },
+        {
+            "content": "政治改革 ~「今だけ、金だけ、自分だけ」の古い政治を大掃除~",
+            "det_score": 0.8193685579690956,
+            "direction": "horizontal",
+            "points": [
+                [
+                    902,
+                    191
+                ],
+                [
+                    1574,
+                    191
+                ],
+                [
+                    1574,
+                    225
+                ],
+                [
+                    902,
+                    225
+                ]
+            ],
+            "rec_score": 0.9888409376144409
+        },
+        {
+            "content": "川田が挑む",
+            "det_score": 0.7925347326151887,
+            "direction": "vertical",
+            "points": [
+                [
+                    751,
+                    175
+                ],
+                [
+                    819,
+                    181
+                ],
+                [
+                    798,
+                    436
+                ],
+                [
+                    730,
+                    430
+                ]
+            ],
+            "rec_score": 0.9978013038635254
+        },
+        {
+            "content": "かいえい",
+            "det_score": 0.8846239272528874,
+            "direction": "horizontal",
+            "points": [
+                [
+                    554,
+                    121
+                ],
+                [
+                    663,
+                    124
+                ],
+                [
+                    662,
+                    156
+                ],
+                [
+                    553,
+                    153
+                ]
+            ],
+            "rec_score": 0.9979844093322754
+        },
+        {
+            "content": "(2)",
+            "det_score": 0.7159487870968367,
+            "direction": "horizontal",
+            "points": [
+                [
+                    817,
+                    107
+                ],
+                [
+                    873,
+                    107
+                ],
+                [
+                    873,
+                    156
+                ],
+                [
+                    817,
+                    156
+                ]
+            ],
+            "rec_score": 0.2880920171737671
+        },
+        {
+            "content": "か わ",
+            "det_score": 0.7187932381669966,
+            "direction": "vertical",
+            "points": [
+                [
+                    2092,
+                    97
+                ],
+                [
+                    2133,
+                    97
+                ],
+                [
+                    2133,
+                    185
+                ],
+                [
+                    2092,
+                    185
+                ]
+            ],
+            "rec_score": 0.7199252843856812
+        },
+        {
+            "content": "かわだ",
+            "det_score": 0.8483655671633425,
+            "direction": "horizontal",
+            "points": [
+                [
+                    553,
+                    90
+                ],
+                [
+                    639,
+                    90
+                ],
+                [
+                    639,
+                    126
+                ],
+                [
+                    553,
+                    126
+                ]
+            ],
+            "rec_score": 0.9997379779815674
+        },
+        {
+            "content": "三田海米",
+            "det_score": 0.7307489380051272,
+            "direction": "vertical",
+            "points": [
+                [
+                    1906,
+                    35
+                ],
+                [
+                    2108,
+                    30
+                ],
+                [
+                    2122,
+                    677
+                ],
+                [
+                    1920,
+                    682
+                ]
+            ],
+            "rec_score": 0.16148942708969116
+        },
+        {
+            "content": "若さと行動力",
+            "det_score": 0.8996095067298657,
+            "direction": "horizontal",
+            "points": [
+                [
+                    907,
+                    49
+                ],
+                [
+                    1569,
+                    49
+                ],
+                [
+                    1569,
+                    160
+                ],
+                [
+                    907,
+                    160
+                ]
+            ],
+            "rec_score": 0.5567873120307922
+        },
+        {
+            "content": "川田海栄",
+            "det_score": 0.8917912565728173,
+            "direction": "horizontal",
+            "points": [
+                [
+                    58,
+                    51
+                ],
+                [
+                    550,
+                    51
+                ],
+                [
+                    550,
+                    157
+                ],
+                [
+                    58,
+                    157
+                ]
+            ],
+            "rec_score": 0.9020043611526489
+        },
+        {
+            "content": "広島県第1区小選挙区",
+            "det_score": 0.8302230776446877,
+            "direction": "vertical",
+            "points": [
+                [
+                    2134,
+                    58
+                ],
+                [
+                    2163,
+                    58
+                ],
+                [
+                    2163,
+                    355
+                ],
+                [
+                    2134,
+                    355
+                ]
+            ],
+            "rec_score": 0.9967266321182251
+        },
+        {
+            "content": "29",
+            "det_score": 0.8075452261833572,
+            "direction": "horizontal",
+            "points": [
+                [
+                    768,
+                    47
+                ],
+                [
+                    887,
+                    35
+                ],
+                [
+                    896,
+                    126
+                ],
+                [
+                    776,
+                    138
+                ]
+            ],
+            "rec_score": 0.34045156836509705
+        }
+    ]
+}

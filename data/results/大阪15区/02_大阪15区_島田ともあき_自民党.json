@@ -1,0 +1,3356 @@
+{
+    "figures": [
+        {
+            "box": [
+                509,
+                434,
+                940,
+                484
+            ],
+            "direction": "horizontal",
+            "order": 37,
+            "paragraphs": [
+                {
+                    "box": [
+                        572,
+                        440,
+                        618,
+                        464
+                    ],
+                    "contents": "南町",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        585,
+                        468,
+                        646,
+                        482
+                    ],
+                    "contents": "をもっと!",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        672,
+                        438,
+                        902,
+                        481
+                    ],
+                    "contents": "フルーツの一大産地として\n「道の駅」の活性化",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                511,
+                574,
+                703,
+                622
+            ],
+            "direction": "horizontal",
+            "order": 39,
+            "paragraphs": [
+                {
+                    "box": [
+                        509,
+                        574,
+                        527,
+                        624
+                    ],
+                    "contents": "全力疾走",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        563,
+                        579,
+                        658,
+                        601
+                    ],
+                    "contents": "早赤阪村",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        582,
+                        607,
+                        646,
+                        621
+                    ],
+                    "contents": "をもっと!",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1634,
+                199,
+                1842,
+                484
+            ],
+            "direction": "horizontal",
+            "order": 50,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                46,
+                7,
+                1868,
+                155
+            ],
+            "contents": "市長経験を活かして、未来へ全力疾走!\n付いて、働いて、働いて、働いて、働いて、何いてまいります。",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                12,
+                150,
+                73,
+                210
+            ],
+            "contents": "番号",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                7,
+                154,
+                24,
+                206
+            ],
+            "contents": "全力疾走",
+            "direction": "vertical",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                67,
+                158,
+                159,
+                185
+            ],
+            "contents": "市美原区",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                78,
+                188,
+                146,
+                203
+            ],
+            "contents": "をもっと!",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                211,
+                159,
+                415,
+                201
+            ],
+            "contents": "都市計画道路の整備と\n多数ある狭除道路の拡幅",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                21,
+                208,
+                433,
+                281
+            ],
+            "contents": "堺市美原区は急速に都市化が進みましたが、幹線道路の\n渋滞や狭除道路の多さが課題です。余部地区を通る都市\n計画道路「大阪河内長野線」の整備と、多数ある狭陰道路\nの拡幅を推進します。",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                7,
+                293,
+                24,
+                344
+            ],
+            "contents": "全力疾走",
+            "direction": "vertical",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                22,
+                294,
+                73,
+                347
+            ],
+            "contents": "量",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                70,
+                300,
+                137,
+                322
+            ],
+            "contents": "田林市",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                79,
+                327,
+                148,
+                343
+            ],
+            "contents": "をもっと!",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                210,
+                298,
+                431,
+                340
+            ],
+            "contents": "寺内町の歴史ある街並みを\n活かして観光振興",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                21,
+                347,
+                433,
+                422
+            ],
+            "contents": "寺内町は、大阪府内で唯一、国の重要伝統的建造物群\n保存地区に選定されている地域です。駅から右近い\n利便性を活かし、訪日外国人観光客を中心に、観光\n振興を推進します。",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                14,
+                433,
+                69,
+                486
+            ],
+            "contents": "河",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                6,
+                435,
+                25,
+                482
+            ],
+            "contents": "全力疾走",
+            "direction": "vertical",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                69,
+                437,
+                160,
+                464
+            ],
+            "contents": "内長野市",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                79,
+                466,
+                142,
+                481
+            ],
+            "contents": "をもっと!",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                211,
+                436,
+                427,
+                479
+            ],
+            "contents": "都市計画道路の整備と\n堺アクセス道路の早期実現",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                21,
+                486,
+                432,
+                560
+            ],
+            "contents": "河内長野市と堺·大阪市内を結ぶ幹線道路が課題です。\n消防署横を通る都市計画道路「大阪河内長野線」の延伸\nと、その道路の途中から堺方面につながる道路の早期実\n現を推進します。",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                12,
+                568,
+                80,
+                633
+            ],
+            "contents": "松",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                7,
+                574,
+                23,
+                626
+            ],
+            "contents": "全力疾走",
+            "direction": "vertical",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                70,
+                581,
+                115,
+                602
+            ],
+            "contents": "原市",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                79,
+                607,
+                147,
+                623
+            ],
+            "contents": "をもっと!",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                212,
+                579,
+                442,
+                621
+            ],
+            "contents": "都市計画道路の整備と\n大和川における親水空間の拡張",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                21,
+                629,
+                431,
+                702
+            ],
+            "contents": "松原市は交通の要緩地のため、道路の渋滞が課題です。\n大規模商業施設の近くを通る都市計画道路「大阪河内\n長野線」の整備や府道「堺大和高田線」の拡幅と、大和川\n沿いに遊歩道を含めた親水空間の拡張を推進します。",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                513,
+                146,
+                582,
+                211
+            ],
+            "contents": "1",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                503,
+                149,
+                533,
+                209
+            ],
+            "contents": "全力疾患",
+            "direction": "vertical",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                452,
+                150,
+                505,
+                697
+            ],
+            "contents": "8つの地域で全力疾走!",
+            "direction": "vertical",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                567,
+                157,
+                662,
+                187
+            ],
+            "contents": "阪狭山市",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                580,
+                188,
+                647,
+                203
+            ],
+            "contents": "をもっと!",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                710,
+                158,
+                920,
+                200
+            ],
+            "contents": "規制緩和により史跡「狭山池」\nに常設店舗を設置",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                521,
+                207,
+                935,
+                282
+            ],
+            "contents": "近隣市町村からも多くの人が憩いの場として利用する\n狭山池は、史跡のため、様々な規制の対象となってい\nます。規制緩和により常設店舗を設置し、にぎわい創出を\n推進します。",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                512,
+                287,
+                630,
+                353
+            ],
+            "contents": "大分県",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                581,
+                326,
+                656,
+                343
+            ],
+            "contents": "をもっと!",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                506,
+                293,
+                528,
+                347
+            ],
+            "contents": "全力疾患",
+            "direction": "vertical",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                712,
+                298,
+                936,
+                340
+            ],
+            "contents": "聖徳太子ゆかりの地や竹内街道\nを活かして観光振興",
+            "direction": "horizontal",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                523,
+                347,
+                934,
+                422
+            ],
+            "contents": "太子町には、多くの人に愛される聖徳太子の御廟所があり\nます。聖徳太子ゆかりの地を巡り、また、日本最古の官道\nである竹内街道沿いの歴史文化遺産を楽しむ観光振興を\n推進します。",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                521,
+                486,
+                934,
+                560
+            ],
+            "contents": "河南町は、いちじくや苺をはじめ、大阪府におけるフルー\nツの一大産地です。南河内産のフルーツのブランド化を\n図るとともに、その販売を通して「道の駅」の活性化を\n推進します。",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                710,
+                576,
+                922,
+                619
+            ],
+            "contents": "楠木正成ゆかりの地や農泊を\n活かして観光振興",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                523,
+                625,
+                935,
+                700
+            ],
+            "contents": "千早赤阪村は、多くの人に愛される楠木正成誕生の地\nです。楠木正成ゆかりの地を巡り、また、農泊により\n地域資源を活かした食事や体験等を楽しむ観光振興を\n推進します。",
+            "direction": "horizontal",
+            "order": 41,
+            "role": null
+        },
+        {
+            "box": [
+                961,
+                156,
+                1637,
+                200
+            ],
+            "contents": "大阪南部高速道路の実現を推進します!",
+            "direction": "horizontal",
+            "order": 42,
+            "role": null
+        },
+        {
+            "box": [
+                964,
+                207,
+                1632,
+                227
+            ],
+            "contents": "(元大阪南部高速道路事業化促進協議会会長 任期:2016年8月3日~2023年5月27日)",
+            "direction": "horizontal",
+            "order": 43,
+            "role": null
+        },
+        {
+            "box": [
+                978,
+                239,
+                1289,
+                268
+            ],
+            "contents": "しまだともあきプロフィール",
+            "direction": "horizontal",
+            "order": 44,
+            "role": null
+        },
+        {
+            "box": [
+                976,
+                282,
+                1358,
+                364
+            ],
+            "contents": "1969年生まれ。河内長野市出身\n大阪星光学院中高校、京都大学(工)、\n東京大学大学院(理)、",
+            "direction": "horizontal",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                976,
+                369,
+                1290,
+                394
+            ],
+            "contents": "シンガポール国立大学(MBA).",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        },
+        {
+            "box": [
+                978,
+                397,
+                1468,
+                600
+            ],
+            "contents": "フランスINSEAD(経営学博士)卒業。\n民間企業に勤務した後、神戸大学経営学\n島田智明\n研究科准教授を経て、「経営学の考え方を\n地方自治体の運営に」という思いのもと、\n第6代河内長野市長に就任(2期8年)。\n2024年10月、衆議院議員総選挙に初当選,\n高市内閣において外務大臣政務官に任命される。",
+            "direction": "horizontal",
+            "order": 47,
+            "role": null
+        },
+        {
+            "box": [
+                1426,
+                426,
+                1481,
+                441
+            ],
+            "contents": "島田智明",
+            "direction": "horizontal",
+            "order": 48,
+            "role": null
+        },
+        {
+            "box": [
+                1558,
+                426,
+                1602,
+                440
+            ],
+            "contents": "q検索",
+            "direction": "horizontal",
+            "order": 49,
+            "role": null
+        },
+        {
+            "box": [
+                1607,
+                497,
+                1858,
+                563
+            ],
+            "contents": "2時間50分57秒\nマラソンの自己ベストは",
+            "direction": "horizontal",
+            "order": 51,
+            "role": null
+        },
+        {
+            "box": [
+                1610,
+                574,
+                1856,
+                600
+            ],
+            "contents": "(板橋Cityマラソン2023)",
+            "direction": "horizontal",
+            "order": 52,
+            "role": null
+        },
+        {
+            "box": [
+                988,
+                605,
+                1861,
+                640
+            ],
+            "contents": "島田は裏金問題·旧統一教会問題とは全く関わりがありません!",
+            "direction": "horizontal",
+            "order": 53,
+            "role": null
+        },
+        {
+            "box": [
+                982,
+                650,
+                1864,
+                695
+            ],
+            "contents": "島田はこれからもクリーンな政治を貫き通します!",
+            "direction": "horizontal",
+            "order": 54,
+            "role": null
+        },
+        {
+            "box": [
+                1882,
+                116,
+                2053,
+                663
+            ],
+            "contents": "島田ともあき",
+            "direction": "vertical",
+            "order": 55,
+            "role": null
+        },
+        {
+            "box": [
+                2083,
+                66,
+                2161,
+                401
+            ],
+            "contents": "自民党公開",
+            "direction": "vertical",
+            "order": 56,
+            "role": null
+        },
+        {
+            "box": [
+                2037,
+                189,
+                2088,
+                247
+            ],
+            "contents": "@",
+            "direction": "horizontal",
+            "order": 57,
+            "role": null
+        },
+        {
+            "box": [
+                2047,
+                267,
+                2080,
+                312
+            ],
+            "contents": "(",
+            "direction": "horizontal",
+            "order": 58,
+            "role": null
+        },
+        {
+            "box": [
+                2046,
+                343,
+                2081,
+                386
+            ],
+            "contents": "だ",
+            "direction": "horizontal",
+            "order": 59,
+            "role": null
+        },
+        {
+            "box": [
+                1898,
+                656,
+                2140,
+                691
+            ],
+            "contents": "南河内を元気に!",
+            "direction": "horizontal",
+            "order": 60,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "沿いに遊歩道を含めた親水空間の拡張を推進します。",
+            "det_score": 0.851796899992936,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    686
+                ],
+                [
+                    407,
+                    686
+                ],
+                [
+                    407,
+                    703
+                ],
+                [
+                    23,
+                    703
+                ]
+            ],
+            "rec_score": 0.9677911996841431
+        },
+        {
+            "content": "推進します。",
+            "det_score": 0.8879107042633254,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    683
+                ],
+                [
+                    612,
+                    683
+                ],
+                [
+                    612,
+                    700
+                ],
+                [
+                    524,
+                    700
+                ]
+            ],
+            "rec_score": 0.9999713897705078
+        },
+        {
+            "content": "長野線」の整備や府道「堺大和高田線」の拡幅と、大和川",
+            "det_score": 0.788760528236238,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    667
+                ],
+                [
+                    432,
+                    667
+                ],
+                [
+                    432,
+                    683
+                ],
+                [
+                    23,
+                    683
+                ]
+            ],
+            "rec_score": 0.9892204999923706
+        },
+        {
+            "content": "地域資源を活かした食事や体験等を楽しむ観光振興を",
+            "det_score": 0.7271550592934984,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    664
+                ],
+                [
+                    933,
+                    664
+                ],
+                [
+                    933,
+                    680
+                ],
+                [
+                    524,
+                    680
+                ]
+            ],
+            "rec_score": 0.9996657371520996
+        },
+        {
+            "content": "南河内を元気に!",
+            "det_score": 0.8889760884539833,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1896,
+                    654
+                ],
+                [
+                    2138,
+                    654
+                ],
+                [
+                    2138,
+                    692
+                ],
+                [
+                    1896,
+                    692
+                ]
+            ],
+            "rec_score": 0.9948821663856506
+        },
+        {
+            "content": "島田はこれからもクリーンな政治を貫き通します!",
+            "det_score": 0.8923500699180181,
+            "direction": "horizontal",
+            "points": [
+                [
+                    986,
+                    654
+                ],
+                [
+                    1861,
+                    654
+                ],
+                [
+                    1861,
+                    692
+                ],
+                [
+                    986,
+                    692
+                ]
+            ],
+            "rec_score": 0.9926276803016663
+        },
+        {
+            "content": "大規模商業施設の近くを通る都市計画道路「大阪河内",
+            "det_score": 0.8585712077559001,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    646
+                ],
+                [
+                    432,
+                    647
+                ],
+                [
+                    432,
+                    665
+                ],
+                [
+                    22,
+                    664
+                ]
+            ],
+            "rec_score": 0.9973896145820618
+        },
+        {
+            "content": "です。楠木正成ゆかりの地を巡り、また、農泊により",
+            "det_score": 0.8627558887715641,
+            "direction": "horizontal",
+            "points": [
+                [
+                    527,
+                    644
+                ],
+                [
+                    933,
+                    644
+                ],
+                [
+                    933,
+                    661
+                ],
+                [
+                    527,
+                    661
+                ]
+            ],
+            "rec_score": 0.9448177218437195
+        },
+        {
+            "content": "松原市は交通の要緩地のため、道路の渋滞が課題です。",
+            "det_score": 0.8117366938288159,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    629
+                ],
+                [
+                    426,
+                    629
+                ],
+                [
+                    426,
+                    646
+                ],
+                [
+                    23,
+                    646
+                ]
+            ],
+            "rec_score": 0.8964951634407043
+        },
+        {
+            "content": "千早赤阪村は、多くの人に愛される楠木正成誕生の地",
+            "det_score": 0.8978724165627958,
+            "direction": "horizontal",
+            "points": [
+                [
+                    525,
+                    625
+                ],
+                [
+                    934,
+                    625
+                ],
+                [
+                    934,
+                    642
+                ],
+                [
+                    525,
+                    642
+                ]
+            ],
+            "rec_score": 0.8609133362770081
+        },
+        {
+            "content": "島田は裏金問題·旧統一教会問題とは全く関わりがありません!",
+            "det_score": 0.8624664665542383,
+            "direction": "horizontal",
+            "points": [
+                [
+                    990,
+                    605
+                ],
+                [
+                    1861,
+                    605
+                ],
+                [
+                    1861,
+                    639
+                ],
+                [
+                    990,
+                    639
+                ]
+            ],
+            "rec_score": 0.9430550336837769
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.7299695710164372,
+            "direction": "horizontal",
+            "points": [
+                [
+                    76,
+                    604
+                ],
+                [
+                    153,
+                    604
+                ],
+                [
+                    153,
+                    625
+                ],
+                [
+                    76,
+                    625
+                ]
+            ],
+            "rec_score": 0.9723054766654968
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.8081533557344829,
+            "direction": "horizontal",
+            "points": [
+                [
+                    578,
+                    603
+                ],
+                [
+                    656,
+                    603
+                ],
+                [
+                    656,
+                    624
+                ],
+                [
+                    578,
+                    624
+                ]
+            ],
+            "rec_score": 0.9940778613090515
+        },
+        {
+            "content": "大和川における親水空間の拡張",
+            "det_score": 0.8384184887011846,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    603
+                ],
+                [
+                    440,
+                    603
+                ],
+                [
+                    440,
+                    619
+                ],
+                [
+                    212,
+                    619
+                ]
+            ],
+            "rec_score": 0.8554642200469971
+        },
+        {
+            "content": "活かして観光振興",
+            "det_score": 0.8332142381990466,
+            "direction": "horizontal",
+            "points": [
+                [
+                    713,
+                    599
+                ],
+                [
+                    842,
+                    599
+                ],
+                [
+                    842,
+                    619
+                ],
+                [
+                    713,
+                    619
+                ]
+            ],
+            "rec_score": 0.9997535943984985
+        },
+        {
+            "content": "早赤阪村",
+            "det_score": 0.7750967970973737,
+            "direction": "horizontal",
+            "points": [
+                [
+                    563,
+                    579
+                ],
+                [
+                    658,
+                    579
+                ],
+                [
+                    658,
+                    601
+                ],
+                [
+                    563,
+                    601
+                ]
+            ],
+            "rec_score": 0.9948025941848755
+        },
+        {
+            "content": "都市計画道路の整備と",
+            "det_score": 0.8855156858410456,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    580
+                ],
+                [
+                    375,
+                    580
+                ],
+                [
+                    375,
+                    597
+                ],
+                [
+                    212,
+                    597
+                ]
+            ],
+            "rec_score": 0.9988868832588196
+        },
+        {
+            "content": "原市",
+            "det_score": 0.7635826381488084,
+            "direction": "horizontal",
+            "points": [
+                [
+                    67,
+                    578
+                ],
+                [
+                    118,
+                    578
+                ],
+                [
+                    118,
+                    605
+                ],
+                [
+                    67,
+                    605
+                ]
+            ],
+            "rec_score": 0.9991980195045471
+        },
+        {
+            "content": "松",
+            "det_score": 0.7387103336943756,
+            "direction": "horizontal",
+            "points": [
+                [
+                    17,
+                    568
+                ],
+                [
+                    80,
+                    573
+                ],
+                [
+                    75,
+                    633
+                ],
+                [
+                    12,
+                    628
+                ]
+            ],
+            "rec_score": 0.12511758506298065
+        },
+        {
+            "content": "楠木正成ゆかりの地や農泊を",
+            "det_score": 0.8632675055648897,
+            "direction": "horizontal",
+            "points": [
+                [
+                    713,
+                    578
+                ],
+                [
+                    918,
+                    578
+                ],
+                [
+                    918,
+                    594
+                ],
+                [
+                    713,
+                    594
+                ]
+            ],
+            "rec_score": 0.7676495313644409
+        },
+        {
+            "content": "(板橋Cityマラソン2023)",
+            "det_score": 0.8423316960796201,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1610,
+                    574
+                ],
+                [
+                    1857,
+                    574
+                ],
+                [
+                    1857,
+                    599
+                ],
+                [
+                    1610,
+                    599
+                ]
+            ],
+            "rec_score": 0.998113751411438
+        },
+        {
+            "content": "高市内閣において外務大臣政務官に任命される。",
+            "det_score": 0.84785647889693,
+            "direction": "horizontal",
+            "points": [
+                [
+                    979,
+                    575
+                ],
+                [
+                    1463,
+                    575
+                ],
+                [
+                    1463,
+                    596
+                ],
+                [
+                    979,
+                    596
+                ]
+            ],
+            "rec_score": 0.8855159282684326
+        },
+        {
+            "content": "全力疾走",
+            "det_score": 0.5335090670032778,
+            "direction": "vertical",
+            "points": [
+                [
+                    509,
+                    574
+                ],
+                [
+                    527,
+                    574
+                ],
+                [
+                    527,
+                    624
+                ],
+                [
+                    509,
+                    624
+                ]
+            ],
+            "rec_score": 0.6798631548881531
+        },
+        {
+            "content": "全力疾走",
+            "det_score": 0.7003082499421875,
+            "direction": "vertical",
+            "points": [
+                [
+                    7,
+                    574
+                ],
+                [
+                    23,
+                    574
+                ],
+                [
+                    23,
+                    626
+                ],
+                [
+                    7,
+                    626
+                ]
+            ],
+            "rec_score": 0.5046758651733398
+        },
+        {
+            "content": "2024年10月、衆議院議員総選挙に初当選,",
+            "det_score": 0.8237008123412868,
+            "direction": "horizontal",
+            "points": [
+                [
+                    977,
+                    546
+                ],
+                [
+                    1404,
+                    546
+                ],
+                [
+                    1404,
+                    567
+                ],
+                [
+                    977,
+                    567
+                ]
+            ],
+            "rec_score": 0.4024428427219391
+        },
+        {
+            "content": "現を推進します。",
+            "det_score": 0.8225043731355909,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    543
+                ],
+                [
+                    140,
+                    543
+                ],
+                [
+                    140,
+                    560
+                ],
+                [
+                    22,
+                    560
+                ]
+            ],
+            "rec_score": 0.9969493746757507
+        },
+        {
+            "content": "推進します。",
+            "det_score": 0.8820101472280794,
+            "direction": "horizontal",
+            "points": [
+                [
+                    520,
+                    540
+                ],
+                [
+                    611,
+                    540
+                ],
+                [
+                    611,
+                    562
+                ],
+                [
+                    520,
+                    562
+                ]
+            ],
+            "rec_score": 0.9997951984405518
+        },
+        {
+            "content": "2時間50分57秒",
+            "det_score": 0.8575236775735511,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1609,
+                    525
+                ],
+                [
+                    1857,
+                    525
+                ],
+                [
+                    1857,
+                    562
+                ],
+                [
+                    1609,
+                    562
+                ]
+            ],
+            "rec_score": 0.9996778964996338
+        },
+        {
+            "content": "図るとともに、その販売を通して「道の駅」の活性化を",
+            "det_score": 0.8741697900990646,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    524
+                ],
+                [
+                    931,
+                    524
+                ],
+                [
+                    931,
+                    540
+                ],
+                [
+                    524,
+                    540
+                ]
+            ],
+            "rec_score": 0.9988186955451965
+        },
+        {
+            "content": "と、その道路の途中から堺方面につながる道路の早期実",
+            "det_score": 0.829474178955463,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    522
+                ],
+                [
+                    430,
+                    522
+                ],
+                [
+                    430,
+                    539
+                ],
+                [
+                    22,
+                    539
+                ]
+            ],
+            "rec_score": 0.3943517208099365
+        },
+        {
+            "content": "第6代河内長野市長に就任(2期8年)。",
+            "det_score": 0.8153810394425792,
+            "direction": "horizontal",
+            "points": [
+                [
+                    976,
+                    515
+                ],
+                [
+                    1381,
+                    515
+                ],
+                [
+                    1381,
+                    540
+                ],
+                [
+                    976,
+                    540
+                ]
+            ],
+            "rec_score": 0.9992944598197937
+        },
+        {
+            "content": "ツの一大産地です。南河内産のフルーツのブランド化を",
+            "det_score": 0.852023341958059,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    505
+                ],
+                [
+                    933,
+                    505
+                ],
+                [
+                    933,
+                    522
+                ],
+                [
+                    524,
+                    522
+                ]
+            ],
+            "rec_score": 0.9900583624839783
+        },
+        {
+            "content": "消防署横を通る都市計画道路「大阪河内長野線」の延伸",
+            "det_score": 0.7826003529172771,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    505
+                ],
+                [
+                    430,
+                    505
+                ],
+                [
+                    430,
+                    522
+                ],
+                [
+                    23,
+                    522
+                ]
+            ],
+            "rec_score": 0.6355116367340088
+        },
+        {
+            "content": "マラソンの自己ベストは",
+            "det_score": 0.8345685560583357,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1610,
+                    496
+                ],
+                [
+                    1853,
+                    496
+                ],
+                [
+                    1853,
+                    521
+                ],
+                [
+                    1610,
+                    521
+                ]
+            ],
+            "rec_score": 0.9977864623069763
+        },
+        {
+            "content": "地方自治体の運営に」という思いのもと、",
+            "det_score": 0.8349489994542327,
+            "direction": "horizontal",
+            "points": [
+                [
+                    976,
+                    486
+                ],
+                [
+                    1360,
+                    486
+                ],
+                [
+                    1360,
+                    511
+                ],
+                [
+                    976,
+                    511
+                ]
+            ],
+            "rec_score": 0.9997032880783081
+        },
+        {
+            "content": "河南町は、いちじくや苺をはじめ、大阪府におけるフルー",
+            "det_score": 0.8240490925995257,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    485
+                ],
+                [
+                    934,
+                    485
+                ],
+                [
+                    934,
+                    501
+                ],
+                [
+                    524,
+                    501
+                ]
+            ],
+            "rec_score": 0.7343497276306152
+        },
+        {
+            "content": "河内長野市と堺·大阪市内を結ぶ幹線道路が課題です。",
+            "det_score": 0.7659490260234758,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    486
+                ],
+                [
+                    424,
+                    486
+                ],
+                [
+                    424,
+                    503
+                ],
+                [
+                    23,
+                    503
+                ]
+            ],
+            "rec_score": 0.9839661121368408
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.7588551345420634,
+            "direction": "horizontal",
+            "points": [
+                [
+                    580,
+                    464
+                ],
+                [
+                    656,
+                    464
+                ],
+                [
+                    656,
+                    485
+                ],
+                [
+                    580,
+                    485
+                ]
+            ],
+            "rec_score": 0.9526168704032898
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.7621460168139778,
+            "direction": "horizontal",
+            "points": [
+                [
+                    76,
+                    462
+                ],
+                [
+                    153,
+                    462
+                ],
+                [
+                    153,
+                    483
+                ],
+                [
+                    76,
+                    483
+                ]
+            ],
+            "rec_score": 0.9217066764831543
+        },
+        {
+            "content": "「道の駅」の活性化",
+            "det_score": 0.8318348349421285,
+            "direction": "horizontal",
+            "points": [
+                [
+                    717,
+                    460
+                ],
+                [
+                    850,
+                    460
+                ],
+                [
+                    850,
+                    480
+                ],
+                [
+                    717,
+                    480
+                ]
+            ],
+            "rec_score": 0.9990366101264954
+        },
+        {
+            "content": "研究科准教授を経て、「経営学の考え方を",
+            "det_score": 0.8321587367406622,
+            "direction": "horizontal",
+            "points": [
+                [
+                    977,
+                    458
+                ],
+                [
+                    1389,
+                    458
+                ],
+                [
+                    1389,
+                    479
+                ],
+                [
+                    977,
+                    479
+                ]
+            ],
+            "rec_score": 0.9981133341789246
+        },
+        {
+            "content": "堺アクセス道路の早期実現",
+            "det_score": 0.7769202690780018,
+            "direction": "horizontal",
+            "points": [
+                [
+                    210,
+                    458
+                ],
+                [
+                    428,
+                    458
+                ],
+                [
+                    428,
+                    479
+                ],
+                [
+                    210,
+                    479
+                ]
+            ],
+            "rec_score": 0.998802900314331
+        },
+        {
+            "content": "南町",
+            "det_score": 0.7569071479875189,
+            "direction": "horizontal",
+            "points": [
+                [
+                    572,
+                    440
+                ],
+                [
+                    618,
+                    440
+                ],
+                [
+                    618,
+                    464
+                ],
+                [
+                    572,
+                    464
+                ]
+            ],
+            "rec_score": 0.9999959468841553
+        },
+        {
+            "content": "河",
+            "det_score": 0.5764236322584304,
+            "direction": "horizontal",
+            "points": [
+                [
+                    14,
+                    433
+                ],
+                [
+                    69,
+                    433
+                ],
+                [
+                    69,
+                    486
+                ],
+                [
+                    14,
+                    486
+                ]
+            ],
+            "rec_score": 0.9445606470108032
+        },
+        {
+            "content": "内長野市",
+            "det_score": 0.809400278398448,
+            "direction": "horizontal",
+            "points": [
+                [
+                    69,
+                    437
+                ],
+                [
+                    160,
+                    437
+                ],
+                [
+                    160,
+                    464
+                ],
+                [
+                    69,
+                    464
+                ]
+            ],
+            "rec_score": 0.9995515942573547
+        },
+        {
+            "content": "フルーツの一大産地として",
+            "det_score": 0.8939768762732215,
+            "direction": "horizontal",
+            "points": [
+                [
+                    714,
+                    437
+                ],
+                [
+                    901,
+                    437
+                ],
+                [
+                    901,
+                    458
+                ],
+                [
+                    714,
+                    458
+                ]
+            ],
+            "rec_score": 0.8609229326248169
+        },
+        {
+            "content": "都市計画道路の整備と",
+            "det_score": 0.8967892897773686,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    437
+                ],
+                [
+                    395,
+                    437
+                ],
+                [
+                    395,
+                    454
+                ],
+                [
+                    212,
+                    454
+                ]
+            ],
+            "rec_score": 0.9990008473396301
+        },
+        {
+            "content": "全力疾走",
+            "det_score": 0.659121494868706,
+            "direction": "vertical",
+            "points": [
+                [
+                    8,
+                    432
+                ],
+                [
+                    24,
+                    432
+                ],
+                [
+                    24,
+                    483
+                ],
+                [
+                    8,
+                    483
+                ]
+            ],
+            "rec_score": 0.9519216418266296
+        },
+        {
+            "content": "民間企業に勤務した後、神戸大学経営学",
+            "det_score": 0.8362450566898098,
+            "direction": "horizontal",
+            "points": [
+                [
+                    980,
+                    429
+                ],
+                [
+                    1389,
+                    429
+                ],
+                [
+                    1389,
+                    450
+                ],
+                [
+                    980,
+                    450
+                ]
+            ],
+            "rec_score": 0.9992985129356384
+        },
+        {
+            "content": "島田智明",
+            "det_score": 0.9149706369440859,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1423,
+                    424
+                ],
+                [
+                    1482,
+                    424
+                ],
+                [
+                    1482,
+                    442
+                ],
+                [
+                    1423,
+                    442
+                ]
+            ],
+            "rec_score": 0.9839938879013062
+        },
+        {
+            "content": "q検索",
+            "det_score": 0.6878345377609402,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1556,
+                    421
+                ],
+                [
+                    1603,
+                    421
+                ],
+                [
+                    1603,
+                    443
+                ],
+                [
+                    1556,
+                    443
+                ]
+            ],
+            "rec_score": 0.7808870077133179
+        },
+        {
+            "content": "振興を推進します。",
+            "det_score": 0.8369157996303782,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    404
+                ],
+                [
+                    168,
+                    404
+                ],
+                [
+                    168,
+                    421
+                ],
+                [
+                    22,
+                    421
+                ]
+            ],
+            "rec_score": 0.9999537467956543
+        },
+        {
+            "content": "推進します。",
+            "det_score": 0.9050179471239995,
+            "direction": "horizontal",
+            "points": [
+                [
+                    521,
+                    401
+                ],
+                [
+                    615,
+                    401
+                ],
+                [
+                    615,
+                    422
+                ],
+                [
+                    521,
+                    422
+                ]
+            ],
+            "rec_score": 0.9998030662536621
+        },
+        {
+            "content": "フランスINSEAD(経営学博士)卒業。",
+            "det_score": 0.8487922519209828,
+            "direction": "horizontal",
+            "points": [
+                [
+                    977,
+                    399
+                ],
+                [
+                    1341,
+                    399
+                ],
+                [
+                    1341,
+                    424
+                ],
+                [
+                    977,
+                    424
+                ]
+            ],
+            "rec_score": 0.8381538391113281
+        },
+        {
+            "content": "である竹内街道沿いの歴史文化遺産を楽しむ観光振興を",
+            "det_score": 0.8459694294933465,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    385
+                ],
+                [
+                    933,
+                    385
+                ],
+                [
+                    933,
+                    401
+                ],
+                [
+                    524,
+                    401
+                ]
+            ],
+            "rec_score": 0.9985242486000061
+        },
+        {
+            "content": "利便性を活かし、訪日外国人観光客を中心に、観光",
+            "det_score": 0.830564175942974,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    383
+                ],
+                [
+                    430,
+                    383
+                ],
+                [
+                    430,
+                    400
+                ],
+                [
+                    23,
+                    400
+                ]
+            ],
+            "rec_score": 0.9959514737129211
+        },
+        {
+            "content": "シンガポール国立大学(MBA).",
+            "det_score": 0.8536236140104693,
+            "direction": "horizontal",
+            "points": [
+                [
+                    977,
+                    369
+                ],
+                [
+                    1287,
+                    369
+                ],
+                [
+                    1287,
+                    390
+                ],
+                [
+                    977,
+                    390
+                ]
+            ],
+            "rec_score": 0.5937482714653015
+        },
+        {
+            "content": "保存地区に選定されている地域です。駅から右近い",
+            "det_score": 0.8742096686689541,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    368
+                ],
+                [
+                    429,
+                    368
+                ],
+                [
+                    429,
+                    380
+                ],
+                [
+                    24,
+                    380
+                ]
+            ],
+            "rec_score": 0.45630428194999695
+        },
+        {
+            "content": "ます。聖徳太子ゆかりの地を巡り、また、日本最古の官道",
+            "det_score": 0.874207883794257,
+            "direction": "horizontal",
+            "points": [
+                [
+                    525,
+                    365
+                ],
+                [
+                    933,
+                    365
+                ],
+                [
+                    933,
+                    382
+                ],
+                [
+                    525,
+                    382
+                ]
+            ],
+            "rec_score": 0.797084629535675
+        },
+        {
+            "content": "だ",
+            "det_score": 0.589795515822467,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2046,
+                    343
+                ],
+                [
+                    2081,
+                    343
+                ],
+                [
+                    2081,
+                    386
+                ],
+                [
+                    2046,
+                    386
+                ]
+            ],
+            "rec_score": 0.9214510321617126
+        },
+        {
+            "content": "太子町には、多くの人に愛される聖徳太子の御廟所があり",
+            "det_score": 0.8414804311189585,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    347
+                ],
+                [
+                    933,
+                    347
+                ],
+                [
+                    933,
+                    364
+                ],
+                [
+                    524,
+                    364
+                ]
+            ],
+            "rec_score": 0.5831946134567261
+        },
+        {
+            "content": "寺内町は、大阪府内で唯一、国の重要伝統的建造物群",
+            "det_score": 0.8642768174076613,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    347
+                ],
+                [
+                    432,
+                    347
+                ],
+                [
+                    432,
+                    364
+                ],
+                [
+                    23,
+                    364
+                ]
+            ],
+            "rec_score": 0.9982704520225525
+        },
+        {
+            "content": "東京大学大学院(理)、",
+            "det_score": 0.8686799770230887,
+            "direction": "horizontal",
+            "points": [
+                [
+                    977,
+                    340
+                ],
+                [
+                    1195,
+                    340
+                ],
+                [
+                    1195,
+                    365
+                ],
+                [
+                    977,
+                    365
+                ]
+            ],
+            "rec_score": 0.9989630579948425
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.8064479282357662,
+            "direction": "horizontal",
+            "points": [
+                [
+                    581,
+                    326
+                ],
+                [
+                    656,
+                    326
+                ],
+                [
+                    656,
+                    343
+                ],
+                [
+                    581,
+                    343
+                ]
+            ],
+            "rec_score": 0.9786689281463623
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.7869364980249723,
+            "direction": "horizontal",
+            "points": [
+                [
+                    77,
+                    324
+                ],
+                [
+                    153,
+                    324
+                ],
+                [
+                    153,
+                    344
+                ],
+                [
+                    77,
+                    344
+                ]
+            ],
+            "rec_score": 0.9646140933036804
+        },
+        {
+            "content": "を活かして観光振興",
+            "det_score": 0.8114414814768768,
+            "direction": "horizontal",
+            "points": [
+                [
+                    713,
+                    319
+                ],
+                [
+                    855,
+                    319
+                ],
+                [
+                    855,
+                    340
+                ],
+                [
+                    713,
+                    340
+                ]
+            ],
+            "rec_score": 0.9998843669891357
+        },
+        {
+            "content": "活かして観光振興",
+            "det_score": 0.792610558748864,
+            "direction": "horizontal",
+            "points": [
+                [
+                    212,
+                    319
+                ],
+                [
+                    356,
+                    319
+                ],
+                [
+                    356,
+                    340
+                ],
+                [
+                    212,
+                    340
+                ]
+            ],
+            "rec_score": 0.9999208450317383
+        },
+        {
+            "content": "大阪星光学院中高校、京都大学(工)、",
+            "det_score": 0.8496537279532734,
+            "direction": "horizontal",
+            "points": [
+                [
+                    977,
+                    312
+                ],
+                [
+                    1353,
+                    312
+                ],
+                [
+                    1353,
+                    333
+                ],
+                [
+                    977,
+                    333
+                ]
+            ],
+            "rec_score": 0.5005439519882202
+        },
+        {
+            "content": "大分県",
+            "det_score": 0.686929365833128,
+            "direction": "horizontal",
+            "points": [
+                [
+                    512,
+                    287
+                ],
+                [
+                    630,
+                    287
+                ],
+                [
+                    630,
+                    353
+                ],
+                [
+                    512,
+                    353
+                ]
+            ],
+            "rec_score": 0.3274902403354645
+        },
+        {
+            "content": "田林市",
+            "det_score": 0.8117415370470887,
+            "direction": "horizontal",
+            "points": [
+                [
+                    67,
+                    299
+                ],
+                [
+                    140,
+                    299
+                ],
+                [
+                    140,
+                    325
+                ],
+                [
+                    67,
+                    325
+                ]
+            ],
+            "rec_score": 0.9997203946113586
+        },
+        {
+            "content": "量",
+            "det_score": 0.6336431775760497,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    294
+                ],
+                [
+                    73,
+                    294
+                ],
+                [
+                    73,
+                    347
+                ],
+                [
+                    22,
+                    347
+                ]
+            ],
+            "rec_score": 0.08591090887784958
+        },
+        {
+            "content": "聖徳太子ゆかりの地や竹内街道",
+            "det_score": 0.8354481441230316,
+            "direction": "horizontal",
+            "points": [
+                [
+                    713,
+                    297
+                ],
+                [
+                    937,
+                    297
+                ],
+                [
+                    937,
+                    318
+                ],
+                [
+                    713,
+                    318
+                ]
+            ],
+            "rec_score": 0.9952338337898254
+        },
+        {
+            "content": "寺内町の歴史ある街並みを",
+            "det_score": 0.8586088872661716,
+            "direction": "horizontal",
+            "points": [
+                [
+                    213,
+                    299
+                ],
+                [
+                    429,
+                    299
+                ],
+                [
+                    429,
+                    315
+                ],
+                [
+                    213,
+                    315
+                ]
+            ],
+            "rec_score": 0.9978636503219604
+        },
+        {
+            "content": "全力疾患",
+            "det_score": 0.5162539180272665,
+            "direction": "vertical",
+            "points": [
+                [
+                    506,
+                    293
+                ],
+                [
+                    528,
+                    293
+                ],
+                [
+                    528,
+                    347
+                ],
+                [
+                    506,
+                    347
+                ]
+            ],
+            "rec_score": 0.42611756920814514
+        },
+        {
+            "content": "全力疾走",
+            "det_score": 0.7390752830268705,
+            "direction": "vertical",
+            "points": [
+                [
+                    7,
+                    293
+                ],
+                [
+                    24,
+                    293
+                ],
+                [
+                    24,
+                    344
+                ],
+                [
+                    7,
+                    344
+                ]
+            ],
+            "rec_score": 0.7819414138793945
+        },
+        {
+            "content": "1969年生まれ。河内長野市出身",
+            "det_score": 0.8526943097075264,
+            "direction": "horizontal",
+            "points": [
+                [
+                    979,
+                    283
+                ],
+                [
+                    1307,
+                    283
+                ],
+                [
+                    1307,
+                    304
+                ],
+                [
+                    979,
+                    304
+                ]
+            ],
+            "rec_score": 0.9623458981513977
+        },
+        {
+            "content": "(",
+            "det_score": 0.6777060299794725,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2047,
+                    267
+                ],
+                [
+                    2080,
+                    267
+                ],
+                [
+                    2080,
+                    312
+                ],
+                [
+                    2047,
+                    312
+                ]
+            ],
+            "rec_score": 0.2447386533021927
+        },
+        {
+            "content": "推進します。",
+            "det_score": 0.8040938127253736,
+            "direction": "horizontal",
+            "points": [
+                [
+                    521,
+                    262
+                ],
+                [
+                    614,
+                    262
+                ],
+                [
+                    614,
+                    283
+                ],
+                [
+                    521,
+                    283
+                ]
+            ],
+            "rec_score": 0.9999275207519531
+        },
+        {
+            "content": "の拡幅を推進します。",
+            "det_score": 0.7959909882615595,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    264
+                ],
+                [
+                    171,
+                    264
+                ],
+                [
+                    171,
+                    281
+                ],
+                [
+                    22,
+                    281
+                ]
+            ],
+            "rec_score": 0.9873763918876648
+        },
+        {
+            "content": "ます。規制緩和により常設店舗を設置し、にぎわい創出を",
+            "det_score": 0.8526432716826697,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    246
+                ],
+                [
+                    934,
+                    246
+                ],
+                [
+                    934,
+                    262
+                ],
+                [
+                    524,
+                    262
+                ]
+            ],
+            "rec_score": 0.9576912522315979
+        },
+        {
+            "content": "計画道路「大阪河内長野線」の整備と、多数ある狭陰道路",
+            "det_score": 0.8831857112515324,
+            "direction": "horizontal",
+            "points": [
+                [
+                    22,
+                    243
+                ],
+                [
+                    433,
+                    244
+                ],
+                [
+                    433,
+                    262
+                ],
+                [
+                    22,
+                    261
+                ]
+            ],
+            "rec_score": 0.28732630610466003
+        },
+        {
+            "content": "しまだともあきプロフィール",
+            "det_score": 0.8571267603337764,
+            "direction": "horizontal",
+            "points": [
+                [
+                    979,
+                    240
+                ],
+                [
+                    1287,
+                    240
+                ],
+                [
+                    1287,
+                    265
+                ],
+                [
+                    979,
+                    265
+                ]
+            ],
+            "rec_score": 0.9895610213279724
+        },
+        {
+            "content": "狭山池は、史跡のため、様々な規制の対象となってい",
+            "det_score": 0.7766527588406384,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    226
+                ],
+                [
+                    934,
+                    226
+                ],
+                [
+                    934,
+                    243
+                ],
+                [
+                    524,
+                    243
+                ]
+            ],
+            "rec_score": 0.9529595375061035
+        },
+        {
+            "content": "渋滞や狭除道路の多さが課題です。余部地区を通る都市",
+            "det_score": 0.7953446423560618,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    225
+                ],
+                [
+                    432,
+                    225
+                ],
+                [
+                    432,
+                    242
+                ],
+                [
+                    23,
+                    242
+                ]
+            ],
+            "rec_score": 0.44032448530197144
+        },
+        {
+            "content": "(元大阪南部高速道路事業化促進協議会会長 任期:2016年8月3日~2023年5月27日)",
+            "det_score": 0.7975676481051235,
+            "direction": "horizontal",
+            "points": [
+                [
+                    964,
+                    208
+                ],
+                [
+                    1632,
+                    208
+                ],
+                [
+                    1632,
+                    225
+                ],
+                [
+                    964,
+                    225
+                ]
+            ],
+            "rec_score": 0.9694015979766846
+        },
+        {
+            "content": "堺市美原区は急速に都市化が進みましたが、幹線道路の",
+            "det_score": 0.8612325281131691,
+            "direction": "horizontal",
+            "points": [
+                [
+                    23,
+                    208
+                ],
+                [
+                    433,
+                    208
+                ],
+                [
+                    433,
+                    225
+                ],
+                [
+                    23,
+                    225
+                ]
+            ],
+            "rec_score": 0.9983749985694885
+        },
+        {
+            "content": "近隣市町村からも多くの人が憩いの場として利用する",
+            "det_score": 0.7245528561151503,
+            "direction": "horizontal",
+            "points": [
+                [
+                    524,
+                    207
+                ],
+                [
+                    933,
+                    207
+                ],
+                [
+                    933,
+                    224
+                ],
+                [
+                    524,
+                    224
+                ]
+            ],
+            "rec_score": 0.9980468153953552
+        },
+        {
+            "content": "@",
+            "det_score": 0.5751663404397476,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2047,
+                    189
+                ],
+                [
+                    2088,
+                    198
+                ],
+                [
+                    2077,
+                    247
+                ],
+                [
+                    2037,
+                    238
+                ]
+            ],
+            "rec_score": 0.316976398229599
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.7685536600649358,
+            "direction": "horizontal",
+            "points": [
+                [
+                    580,
+                    185
+                ],
+                [
+                    657,
+                    185
+                ],
+                [
+                    657,
+                    206
+                ],
+                [
+                    580,
+                    206
+                ]
+            ],
+            "rec_score": 0.9714159965515137
+        },
+        {
+            "content": "をもっと!",
+            "det_score": 0.8028492298391131,
+            "direction": "horizontal",
+            "points": [
+                [
+                    77,
+                    186
+                ],
+                [
+                    152,
+                    186
+                ],
+                [
+                    152,
+                    203
+                ],
+                [
+                    77,
+                    203
+                ]
+            ],
+            "rec_score": 0.9922587871551514
+        },
+        {
+            "content": "多数ある狭除道路の拡幅",
+            "det_score": 0.8369568868147951,
+            "direction": "horizontal",
+            "points": [
+                [
+                    214,
+                    183
+                ],
+                [
+                    414,
+                    183
+                ],
+                [
+                    414,
+                    200
+                ],
+                [
+                    214,
+                    200
+                ]
+            ],
+            "rec_score": 0.5602004528045654
+        },
+        {
+            "content": "に常設店舗を設置",
+            "det_score": 0.8675350984440573,
+            "direction": "horizontal",
+            "points": [
+                [
+                    714,
+                    181
+                ],
+                [
+                    843,
+                    181
+                ],
+                [
+                    843,
+                    201
+                ],
+                [
+                    714,
+                    201
+                ]
+            ],
+            "rec_score": 0.9998366832733154
+        },
+        {
+            "content": "島田ともあき",
+            "det_score": 0.8061583218017111,
+            "direction": "vertical",
+            "points": [
+                [
+                    1882,
+                    118
+                ],
+                [
+                    2048,
+                    116
+                ],
+                [
+                    2053,
+                    661
+                ],
+                [
+                    1887,
+                    663
+                ]
+            ],
+            "rec_score": 0.5315256714820862
+        },
+        {
+            "content": "大阪南部高速道路の実現を推進します!",
+            "det_score": 0.8765837632742135,
+            "direction": "horizontal",
+            "points": [
+                [
+                    960,
+                    158
+                ],
+                [
+                    1636,
+                    157
+                ],
+                [
+                    1636,
+                    196
+                ],
+                [
+                    960,
+                    197
+                ]
+            ],
+            "rec_score": 0.9943013787269592
+        },
+        {
+            "content": "8つの地域で全力疾走!",
+            "det_score": 0.8421328499562057,
+            "direction": "vertical",
+            "points": [
+                [
+                    452,
+                    150
+                ],
+                [
+                    505,
+                    150
+                ],
+                [
+                    505,
+                    697
+                ],
+                [
+                    452,
+                    697
+                ]
+            ],
+            "rec_score": 0.9960559606552124
+        },
+        {
+            "content": "阪狭山市",
+            "det_score": 0.7740751290126987,
+            "direction": "horizontal",
+            "points": [
+                [
+                    567,
+                    157
+                ],
+                [
+                    662,
+                    157
+                ],
+                [
+                    662,
+                    187
+                ],
+                [
+                    567,
+                    187
+                ]
+            ],
+            "rec_score": 0.9999849796295166
+        },
+        {
+            "content": "市美原区",
+            "det_score": 0.7831458537766971,
+            "direction": "horizontal",
+            "points": [
+                [
+                    67,
+                    158
+                ],
+                [
+                    159,
+                    158
+                ],
+                [
+                    159,
+                    185
+                ],
+                [
+                    67,
+                    185
+                ]
+            ],
+            "rec_score": 0.9999548196792603
+        },
+        {
+            "content": "1",
+            "det_score": 0.6827969538172086,
+            "direction": "horizontal",
+            "points": [
+                [
+                    518,
+                    146
+                ],
+                [
+                    582,
+                    151
+                ],
+                [
+                    578,
+                    211
+                ],
+                [
+                    513,
+                    206
+                ]
+            ],
+            "rec_score": 0.03976773843169212
+        },
+        {
+            "content": "都市計画道路の整備と",
+            "det_score": 0.8493294705237661,
+            "direction": "horizontal",
+            "points": [
+                [
+                    210,
+                    158
+                ],
+                [
+                    396,
+                    158
+                ],
+                [
+                    396,
+                    179
+                ],
+                [
+                    210,
+                    179
+                ]
+            ],
+            "rec_score": 0.9996827840805054
+        },
+        {
+            "content": "番号",
+            "det_score": 0.6121690812046235,
+            "direction": "horizontal",
+            "points": [
+                [
+                    12,
+                    150
+                ],
+                [
+                    73,
+                    150
+                ],
+                [
+                    73,
+                    210
+                ],
+                [
+                    12,
+                    210
+                ]
+            ],
+            "rec_score": 0.28940069675445557
+        },
+        {
+            "content": "規制緩和により史跡「狭山池」",
+            "det_score": 0.8395791208873001,
+            "direction": "horizontal",
+            "points": [
+                [
+                    713,
+                    157
+                ],
+                [
+                    922,
+                    157
+                ],
+                [
+                    922,
+                    178
+                ],
+                [
+                    713,
+                    178
+                ]
+            ],
+            "rec_score": 0.9945529103279114
+        },
+        {
+            "content": "全力疾患",
+            "det_score": 0.6400565751910915,
+            "direction": "vertical",
+            "points": [
+                [
+                    503,
+                    151
+                ],
+                [
+                    529,
+                    149
+                ],
+                [
+                    533,
+                    207
+                ],
+                [
+                    507,
+                    209
+                ]
+            ],
+            "rec_score": 0.7042335271835327
+        },
+        {
+            "content": "全力疾走",
+            "det_score": 0.7140932113540416,
+            "direction": "vertical",
+            "points": [
+                [
+                    7,
+                    154
+                ],
+                [
+                    24,
+                    154
+                ],
+                [
+                    24,
+                    206
+                ],
+                [
+                    7,
+                    206
+                ]
+            ],
+            "rec_score": 0.466438889503479
+        },
+        {
+            "content": "付いて、働いて、働いて、働いて、働いて、何いてまいります。",
+            "det_score": 0.8813879379945411,
+            "direction": "horizontal",
+            "points": [
+                [
+                    54,
+                    96
+                ],
+                [
+                    1827,
+                    96
+                ],
+                [
+                    1827,
+                    150
+                ],
+                [
+                    54,
+                    150
+                ]
+            ],
+            "rec_score": 0.014217874966561794
+        },
+        {
+            "content": "自民党公開",
+            "det_score": 0.8540430805177859,
+            "direction": "vertical",
+            "points": [
+                [
+                    2088,
+                    64
+                ],
+                [
+                    2164,
+                    64
+                ],
+                [
+                    2164,
+                    401
+                ],
+                [
+                    2088,
+                    401
+                ]
+            ],
+            "rec_score": 0.3496975004673004
+        },
+        {
+            "content": "市長経験を活かして、未来へ全力疾走!",
+            "det_score": 0.8987115434307243,
+            "direction": "horizontal",
+            "points": [
+                [
+                    53,
+                    10
+                ],
+                [
+                    1862,
+                    10
+                ],
+                [
+                    1862,
+                    76
+                ],
+                [
+                    53,
+                    76
+                ]
+            ],
+            "rec_score": 0.9469048976898193
+        }
+    ]
+}

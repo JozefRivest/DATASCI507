@@ -1,0 +1,2624 @@
+{
+    "figures": [
+        {
+            "box": [
+                27,
+                381,
+                404,
+                922
+            ],
+            "direction": "horizontal",
+            "order": 1,
+            "paragraphs": [
+                {
+                    "box": [
+                        53,
+                        775,
+                        404,
+                        921
+                    ],
+                    "contents": "重要な戦力!!期待しています。\n小林司大臣は、呉市内閣の\n.....",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1925,
+                30,
+                2137,
+                334
+            ],
+            "direction": "horizontal",
+            "order": 49,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1882,
+                358,
+                2184,
+                922
+            ],
+            "direction": "horizontal",
+            "order": 50,
+            "paragraphs": [
+                {
+                    "box": [
+                        1835,
+                        293,
+                        2194,
+                        920
+                    ],
+                    "contents": "小林",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1892,
+                        850,
+                        2084,
+                        922
+                    ],
+                    "contents": "しげき",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        2092,
+                        856,
+                        2129,
+                        922
+                    ],
+                    "contents": "茂樹",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        2137,
+                        359,
+                        2188,
+                        878
+                    ],
+                    "contents": "自民党公認 文部科学副大臣",
+                    "direction": "vertical",
+                    "order": 3,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                32,
+                36,
+                601,
+                370
+            ],
+            "contents": "自民党\nチーム高市。\nチーム奈良。",
+            "direction": "horizontal",
+            "order": 0,
+            "role": null
+        },
+        {
+            "box": [
+                362,
+                420,
+                567,
+                456
+            ],
+            "contents": "暮らしを守る",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                658,
+                65,
+                1117,
+                120
+            ],
+            "contents": "食料品の消費税ゼロへ",
+            "direction": "horizontal",
+            "order": 3,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                667,
+                164,
+                1096,
+                259
+            ],
+            "contents": "明日の安心、平和を守る\n「外交力·防衛力」",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                645,
+                293,
+                824,
+                368
+            ],
+            "contents": "衆議院議員\n定数を削減",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                880,
+                293,
+                1137,
+                368
+            ],
+            "contents": "自衛隊の明記など\n憲法改正",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                613,
+                412,
+                1175,
+                480
+            ],
+            "contents": "令和7年度\n補正予算約18.3兆円\n(一般会計歳出総額)",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                331,
+                468,
+                811,
+                489
+            ],
+            "contents": "●ガソリン暫定税·軽油引取税の廃止 ●電気·ガス代の補助",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                332,
+                492,
+                1189,
+                513
+            ],
+            "contents": "●重点支援地方交付金の拡充 ●子育て応援手当 ●年収の壁見直し 所得減税約3~6万円(1人当たり·年間)",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                325,
+                541,
+                786,
+                611
+            ],
+            "contents": "予算額約\n令和8年度(一般会計歳出期額)\n122.3兆円",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                419,
+                621,
+                776,
+                650
+            ],
+            "contents": "暮らし·生業を支える積極財政",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                421,
+                654,
+                663,
+                674
+            ],
+            "contents": "●給付付き税額控除制度創設",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                421,
+                678,
+                729,
+                699
+            ],
+            "contents": "●飲食料品の消費税をゼロに(2年間)",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                419,
+                708,
+                584,
+                736
+            ],
+            "contents": "中小企業政策",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                421,
+                740,
+                706,
+                761
+            ],
+            "contents": "●価格転嫁徹底·下請けいじめ一掃",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                420,
+                765,
+                623,
+                785
+            ],
+            "contents": "●政府契約の単価見直し",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                797,
+                535,
+                1012,
+                564
+            ],
+            "contents": "地方の成長と安全",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                799,
+                567,
+                1186,
+                636
+            ],
+            "contents": "●成長産業、データセンターなど誘致し雇用創出\n●外国人在留·国籍取得·不動産取得の厳格化\n●地域公共交通の維持",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                798,
+                647,
+                1002,
+                676
+            ],
+            "contents": "医療·福祉の充実",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                798,
+                680,
+                1121,
+                700
+            ],
+            "contents": "●診療報酬·介護報酬を大幅に引き上げ",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                798,
+                703,
+                1097,
+                725
+            ],
+            "contents": "●看護師·介護士·保育士の処遇改善",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                797,
+                733,
+                960,
+                761
+            ],
+            "contents": "外交力の強化",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                798,
+                765,
+                1049,
+                786
+            ],
+            "contents": "●同盟国·同志国との連携強化",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                504,
+                812,
+                1220,
+                907
+            ],
+            "contents": "責任ある積極財政",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                1204,
+                65,
+                1673,
+                119
+            ],
+            "contents": "責任ある医療·福祉政策",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                1219,
+                163,
+                1645,
+                259
+            ],
+            "contents": "人づくりの礎は教育\n教育の質を向上",
+            "direction": "horizontal",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                1225,
+                282,
+                1651,
+                377
+            ],
+            "contents": "成長の果実を\n地元、奈良·生駒へ",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                1226,
+                414,
+                1358,
+                438
+            ],
+            "contents": "【国土強靭化】",
+            "direction": "horizontal",
+            "order": 28,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                1730,
+                67,
+                1773,
+                376
+            ],
+            "contents": "昭和39年、奈良市生まれ 登美ヶ丘中学校\n清風高校·慶応義塾大学法学部卒業",
+            "direction": "vertical",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                1633,
+                389,
+                1740,
+                439
+            ],
+            "contents": "2015年11月",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                1223,
+                447,
+                1745,
+                492
+            ],
+            "contents": "奈良市\n◇京奈和自動車道大和北道路 ◇八条踏切改良\n◇西九条佐保線立体交差 ◇尼ヶ汁農村地域防災減災",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                1223,
+                495,
+                1594,
+                540
+            ],
+            "contents": "生駒市\n◆国道163号線 清滝生駒道路\n◆国道168号線 牛駒工区無電柱化",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                1305,
+                543,
+                1536,
+                564
+            ],
+            "contents": "◆神田川(萩原町)砂防等事業",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                1305,
+                567,
+                1585,
+                588
+            ],
+            "contents": "◆富雄川排水区管渠等老朽化対策",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                1785,
+                40,
+                1862,
+                349
+            ],
+            "contents": "■自民党総裁選\n[高市早苗候補]推薦人(全3回)\n責任ある積極財政議連 副代表",
+            "direction": "vertical",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                1687,
+                505,
+                1835,
+                526
+            ],
+            "contents": "リニア中央新幹線",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                1687,
+                536,
+                1836,
+                575
+            ],
+            "contents": "奈良市附近駅確定\n2037年全線開業へ",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                1222,
+                591,
+                1851,
+                612
+            ],
+            "contents": "奈良市·生駒市〈大和川流域治水対策 ◇大和·木津川森林環境保全整備(造林関係)",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                1222,
+                615,
+                1689,
+                636
+            ],
+            "contents": "奈良県\n◆奈良県広域水道企業団施設強靭化·基盤強化",
+            "direction": "horizontal",
+            "order": 39,
+            "role": null
+        },
+        {
+            "box": [
+                1224,
+                685,
+                1469,
+                710
+            ],
+            "contents": "経済成長への将来投資",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                1496,
+                656,
+                1670,
+                681
+            ],
+            "contents": "副大臣として担当",
+            "direction": "horizontal",
+            "order": 41,
+            "role": null
+        },
+        {
+            "box": [
+                1225,
+                716,
+                1580,
+                737
+            ],
+            "contents": "●新技術·成長分野に大胆に投資·税制優遇",
+            "direction": "horizontal",
+            "order": 42,
+            "role": null
+        },
+        {
+            "box": [
+                1224,
+                740,
+                1471,
+                760
+            ],
+            "contents": "●スタートアップ減税など行い",
+            "direction": "horizontal",
+            "order": 43,
+            "role": null
+        },
+        {
+            "box": [
+                1238,
+                763,
+                1570,
+                785
+            ],
+            "contents": "日本がリードする技術領域で産業化加速",
+            "direction": "horizontal",
+            "order": 44,
+            "role": null
+        },
+        {
+            "box": [
+                1726,
+                671,
+                1820,
+                694
+            ],
+            "contents": "政治改革",
+            "direction": "horizontal",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                1632,
+                728,
+                1837,
+                773
+            ],
+            "contents": "●政治資金規正法改正\n●衆議院議員定数を削減",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        },
+        {
+            "box": [
+                1382,
+                811,
+                1655,
+                841
+            ],
+            "contents": "日本の針路を決める日/",
+            "direction": "horizontal",
+            "order": 47,
+            "role": null
+        },
+        {
+            "box": [
+                1320,
+                851,
+                1702,
+                911
+            ],
+            "contents": "食業日\n2/8日\n期日前投票·不在者投票\n1/28(水)~2/7(土)",
+            "direction": "horizontal",
+            "order": 48,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "1/28(水)~2/7(土)",
+            "det_score": 0.9271061082223527,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1521,
+                    879
+                ],
+                [
+                    1701,
+                    879
+                ],
+                [
+                    1701,
+                    900
+                ],
+                [
+                    1521,
+                    900
+                ]
+            ],
+            "rec_score": 0.9990372061729431
+        },
+        {
+            "content": "しげき",
+            "det_score": 0.8764721321583283,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1888,
+                    843
+                ],
+                [
+                    2090,
+                    843
+                ],
+                [
+                    2090,
+                    926
+                ],
+                [
+                    1888,
+                    926
+                ]
+            ],
+            "rec_score": 0.9963921308517456
+        },
+        {
+            "content": "2/8日",
+            "det_score": 0.735660112880584,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1328,
+                    847
+                ],
+                [
+                    1507,
+                    843
+                ],
+                [
+                    1509,
+                    915
+                ],
+                [
+                    1329,
+                    919
+                ]
+            ],
+            "rec_score": 0.9811311364173889
+        },
+        {
+            "content": ".....",
+            "det_score": 0.6894163675797852,
+            "direction": "horizontal",
+            "points": [
+                [
+                    152,
+                    836
+                ],
+                [
+                    414,
+                    836
+                ],
+                [
+                    414,
+                    930
+                ],
+                [
+                    152,
+                    930
+                ]
+            ],
+            "rec_score": 0.09696487337350845
+        },
+        {
+            "content": "茂樹",
+            "det_score": 0.591759948361768,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2083,
+                    848
+                ],
+                [
+                    2136,
+                    848
+                ],
+                [
+                    2136,
+                    928
+                ],
+                [
+                    2083,
+                    928
+                ]
+            ],
+            "rec_score": 0.9806769490242004
+        },
+        {
+            "content": "期日前投票·不在者投票",
+            "det_score": 0.866402697079121,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1519,
+                    856
+                ],
+                [
+                    1702,
+                    856
+                ],
+                [
+                    1702,
+                    877
+                ],
+                [
+                    1519,
+                    877
+                ]
+            ],
+            "rec_score": 0.9953817129135132
+        },
+        {
+            "content": "食業日",
+            "det_score": 0.6583116905497653,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1309,
+                    843
+                ],
+                [
+                    1356,
+                    840
+                ],
+                [
+                    1361,
+                    915
+                ],
+                [
+                    1314,
+                    918
+                ]
+            ],
+            "rec_score": 0.1461936980485916
+        },
+        {
+            "content": "責任ある積極財政",
+            "det_score": 0.9045272860992833,
+            "direction": "horizontal",
+            "points": [
+                [
+                    510,
+                    815
+                ],
+                [
+                    1216,
+                    815
+                ],
+                [
+                    1216,
+                    901
+                ],
+                [
+                    510,
+                    901
+                ]
+            ],
+            "rec_score": 0.9978490471839905
+        },
+        {
+            "content": "重要な戦力!!期待しています。",
+            "det_score": 0.8202859957075719,
+            "direction": "horizontal",
+            "points": [
+                [
+                    58,
+                    812
+                ],
+                [
+                    384,
+                    812
+                ],
+                [
+                    384,
+                    842
+                ],
+                [
+                    58,
+                    842
+                ]
+            ],
+            "rec_score": 0.586377739906311
+        },
+        {
+            "content": "日本の針路を決める日/",
+            "det_score": 0.8380648599364657,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1385,
+                    811
+                ],
+                [
+                    1673,
+                    811
+                ],
+                [
+                    1673,
+                    841
+                ],
+                [
+                    1385,
+                    841
+                ]
+            ],
+            "rec_score": 0.9748110175132751
+        },
+        {
+            "content": "小林司大臣は、呉市内閣の",
+            "det_score": 0.8228262873436106,
+            "direction": "horizontal",
+            "points": [
+                [
+                    58,
+                    777
+                ],
+                [
+                    381,
+                    777
+                ],
+                [
+                    381,
+                    807
+                ],
+                [
+                    58,
+                    807
+                ]
+            ],
+            "rec_score": 0.07914149016141891
+        },
+        {
+            "content": "日本がリードする技術領域で産業化加速",
+            "det_score": 0.8442405840838607,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1242,
+                    766
+                ],
+                [
+                    1566,
+                    766
+                ],
+                [
+                    1566,
+                    783
+                ],
+                [
+                    1242,
+                    783
+                ]
+            ],
+            "rec_score": 0.9812948703765869
+        },
+        {
+            "content": "●同盟国·同志国との連携強化",
+            "det_score": 0.8833532519507826,
+            "direction": "horizontal",
+            "points": [
+                [
+                    798,
+                    763
+                ],
+                [
+                    1048,
+                    763
+                ],
+                [
+                    1048,
+                    788
+                ],
+                [
+                    798,
+                    788
+                ]
+            ],
+            "rec_score": 0.991326093673706
+        },
+        {
+            "content": "●政府契約の単価見直し",
+            "det_score": 0.7688709049863,
+            "direction": "horizontal",
+            "points": [
+                [
+                    421,
+                    764
+                ],
+                [
+                    623,
+                    764
+                ],
+                [
+                    623,
+                    785
+                ],
+                [
+                    421,
+                    785
+                ]
+            ],
+            "rec_score": 0.9997612237930298
+        },
+        {
+            "content": "●衆議院議員定数を削減",
+            "det_score": 0.9005791981598057,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1633,
+                    753
+                ],
+                [
+                    1837,
+                    753
+                ],
+                [
+                    1837,
+                    774
+                ],
+                [
+                    1633,
+                    774
+                ]
+            ],
+            "rec_score": 0.9994826316833496
+        },
+        {
+            "content": "●スタートアップ減税など行い",
+            "det_score": 0.888802629417622,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1227,
+                    740
+                ],
+                [
+                    1469,
+                    740
+                ],
+                [
+                    1469,
+                    757
+                ],
+                [
+                    1227,
+                    757
+                ]
+            ],
+            "rec_score": 0.996025800704956
+        },
+        {
+            "content": "●価格転嫁徹底·下請けいじめ一掃",
+            "det_score": 0.8236796210565772,
+            "direction": "horizontal",
+            "points": [
+                [
+                    420,
+                    739
+                ],
+                [
+                    706,
+                    740
+                ],
+                [
+                    706,
+                    761
+                ],
+                [
+                    420,
+                    760
+                ]
+            ],
+            "rec_score": 0.9797379374504089
+        },
+        {
+            "content": "外交力の強化",
+            "det_score": 0.8770533904796693,
+            "direction": "horizontal",
+            "points": [
+                [
+                    796,
+                    732
+                ],
+                [
+                    961,
+                    732
+                ],
+                [
+                    961,
+                    761
+                ],
+                [
+                    796,
+                    761
+                ]
+            ],
+            "rec_score": 0.9983028173446655
+        },
+        {
+            "content": "●政治資金規正法改正",
+            "det_score": 0.885140322476813,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1632,
+                    729
+                ],
+                [
+                    1820,
+                    729
+                ],
+                [
+                    1820,
+                    750
+                ],
+                [
+                    1632,
+                    750
+                ]
+            ],
+            "rec_score": 0.9996547698974609
+        },
+        {
+            "content": "●新技術·成長分野に大胆に投資·税制優遇",
+            "det_score": 0.8440903403877339,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1227,
+                    717
+                ],
+                [
+                    1578,
+                    717
+                ],
+                [
+                    1578,
+                    734
+                ],
+                [
+                    1227,
+                    734
+                ]
+            ],
+            "rec_score": 0.996514081954956
+        },
+        {
+            "content": "中小企業政策",
+            "det_score": 0.9075196580780155,
+            "direction": "horizontal",
+            "points": [
+                [
+                    418,
+                    708
+                ],
+                [
+                    583,
+                    708
+                ],
+                [
+                    583,
+                    737
+                ],
+                [
+                    418,
+                    737
+                ]
+            ],
+            "rec_score": 0.9998964071273804
+        },
+        {
+            "content": "●看護師·介護士·保育士の処遇改善",
+            "det_score": 0.8353657449402007,
+            "direction": "horizontal",
+            "points": [
+                [
+                    799,
+                    703
+                ],
+                [
+                    1097,
+                    703
+                ],
+                [
+                    1097,
+                    725
+                ],
+                [
+                    799,
+                    725
+                ]
+            ],
+            "rec_score": 0.9986892342567444
+        },
+        {
+            "content": "経済成長への将来投資",
+            "det_score": 0.9167286919222937,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1224,
+                    685
+                ],
+                [
+                    1468,
+                    685
+                ],
+                [
+                    1468,
+                    710
+                ],
+                [
+                    1224,
+                    710
+                ]
+            ],
+            "rec_score": 0.9999251365661621
+        },
+        {
+            "content": "●診療報酬·介護報酬を大幅に引き上げ",
+            "det_score": 0.794214404319568,
+            "direction": "horizontal",
+            "points": [
+                [
+                    799,
+                    679
+                ],
+                [
+                    1120,
+                    679
+                ],
+                [
+                    1120,
+                    701
+                ],
+                [
+                    799,
+                    701
+                ]
+            ],
+            "rec_score": 0.9998147487640381
+        },
+        {
+            "content": "●飲食料品の消費税をゼロに(2年間)",
+            "det_score": 0.8537791519374021,
+            "direction": "horizontal",
+            "points": [
+                [
+                    422,
+                    679
+                ],
+                [
+                    727,
+                    679
+                ],
+                [
+                    727,
+                    696
+                ],
+                [
+                    422,
+                    696
+                ]
+            ],
+            "rec_score": 0.9888730049133301
+        },
+        {
+            "content": "政治改革",
+            "det_score": 0.8838900423405186,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1724,
+                    669
+                ],
+                [
+                    1820,
+                    669
+                ],
+                [
+                    1820,
+                    696
+                ],
+                [
+                    1724,
+                    696
+                ]
+            ],
+            "rec_score": 0.9998996257781982
+        },
+        {
+            "content": "副大臣として担当",
+            "det_score": 0.8038515016866598,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1494,
+                    655
+                ],
+                [
+                    1669,
+                    655
+                ],
+                [
+                    1669,
+                    681
+                ],
+                [
+                    1494,
+                    681
+                ]
+            ],
+            "rec_score": 0.999872088432312
+        },
+        {
+            "content": "●給付付き税額控除制度創設",
+            "det_score": 0.8965735831354038,
+            "direction": "horizontal",
+            "points": [
+                [
+                    421,
+                    652
+                ],
+                [
+                    663,
+                    652
+                ],
+                [
+                    663,
+                    674
+                ],
+                [
+                    421,
+                    674
+                ]
+            ],
+            "rec_score": 0.9997081756591797
+        },
+        {
+            "content": "医療·福祉の充実",
+            "det_score": 0.8795206168025891,
+            "direction": "horizontal",
+            "points": [
+                [
+                    798,
+                    647
+                ],
+                [
+                    1001,
+                    647
+                ],
+                [
+                    1001,
+                    676
+                ],
+                [
+                    798,
+                    676
+                ]
+            ],
+            "rec_score": 0.9998619556427002
+        },
+        {
+            "content": "暮らし·生業を支える積極財政",
+            "det_score": 0.8177089297548201,
+            "direction": "horizontal",
+            "points": [
+                [
+                    421,
+                    623
+                ],
+                [
+                    774,
+                    623
+                ],
+                [
+                    774,
+                    648
+                ],
+                [
+                    421,
+                    648
+                ]
+            ],
+            "rec_score": 0.9989209771156311
+        },
+        {
+            "content": "◆奈良県広域水道企業団施設強靭化·基盤強化",
+            "det_score": 0.7867976953505416,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1296,
+                    617
+                ],
+                [
+                    1686,
+                    617
+                ],
+                [
+                    1686,
+                    634
+                ],
+                [
+                    1296,
+                    634
+                ]
+            ],
+            "rec_score": 0.9509973526000977
+        },
+        {
+            "content": "●地域公共交通の維持",
+            "det_score": 0.914599964728102,
+            "direction": "horizontal",
+            "points": [
+                [
+                    799,
+                    617
+                ],
+                [
+                    982,
+                    617
+                ],
+                [
+                    982,
+                    634
+                ],
+                [
+                    799,
+                    634
+                ]
+            ],
+            "rec_score": 0.9975023865699768
+        },
+        {
+            "content": "奈良県",
+            "det_score": 0.7959380058655098,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1223,
+                    614
+                ],
+                [
+                    1294,
+                    614
+                ],
+                [
+                    1294,
+                    637
+                ],
+                [
+                    1223,
+                    637
+                ]
+            ],
+            "rec_score": 0.9125921130180359
+        },
+        {
+            "content": "奈良市·生駒市〈大和川流域治水対策 ◇大和·木津川森林環境保全整備(造林関係)",
+            "det_score": 0.7919916087732968,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1224,
+                    593
+                ],
+                [
+                    1849,
+                    593
+                ],
+                [
+                    1849,
+                    610
+                ],
+                [
+                    1224,
+                    610
+                ]
+            ],
+            "rec_score": 0.5288302898406982
+        },
+        {
+            "content": "●外国人在留·国籍取得·不動産取得の厳格化",
+            "det_score": 0.8147915594711267,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    593
+                ],
+                [
+                    1170,
+                    593
+                ],
+                [
+                    1170,
+                    610
+                ],
+                [
+                    801,
+                    610
+                ]
+            ],
+            "rec_score": 0.6519961953163147
+        },
+        {
+            "content": "予算額約",
+            "det_score": 0.8568448288062788,
+            "direction": "horizontal",
+            "points": [
+                [
+                    323,
+                    562
+                ],
+                [
+                    512,
+                    562
+                ],
+                [
+                    512,
+                    610
+                ],
+                [
+                    323,
+                    610
+                ]
+            ],
+            "rec_score": 0.9986148476600647
+        },
+        {
+            "content": "◆富雄川排水区管渠等老朽化対策",
+            "det_score": 0.8547207284408311,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1307,
+                    569
+                ],
+                [
+                    1583,
+                    569
+                ],
+                [
+                    1583,
+                    586
+                ],
+                [
+                    1307,
+                    586
+                ]
+            ],
+            "rec_score": 0.9266800284385681
+        },
+        {
+            "content": "●成長産業、データセンターなど誘致し雇用創出",
+            "det_score": 0.8162947270988798,
+            "direction": "horizontal",
+            "points": [
+                [
+                    801,
+                    569
+                ],
+                [
+                    1186,
+                    569
+                ],
+                [
+                    1186,
+                    586
+                ],
+                [
+                    801,
+                    586
+                ]
+            ],
+            "rec_score": 0.9960415363311768
+        },
+        {
+            "content": "122.3兆円",
+            "det_score": 0.8587634758004257,
+            "direction": "horizontal",
+            "points": [
+                [
+                    502,
+                    537
+                ],
+                [
+                    799,
+                    541
+                ],
+                [
+                    799,
+                    620
+                ],
+                [
+                    501,
+                    617
+                ]
+            ],
+            "rec_score": 0.9994726181030273
+        },
+        {
+            "content": "2037年全線開業へ",
+            "det_score": 0.7831413656257201,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1686,
+                    555
+                ],
+                [
+                    1837,
+                    555
+                ],
+                [
+                    1837,
+                    576
+                ],
+                [
+                    1686,
+                    576
+                ]
+            ],
+            "rec_score": 0.9950466752052307
+        },
+        {
+            "content": "◆神田川(萩原町)砂防等事業",
+            "det_score": 0.8439572235451469,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1306,
+                    543
+                ],
+                [
+                    1536,
+                    543
+                ],
+                [
+                    1536,
+                    565
+                ],
+                [
+                    1306,
+                    565
+                ]
+            ],
+            "rec_score": 0.9911824464797974
+        },
+        {
+            "content": "令和8年度(一般会計歳出期額)",
+            "det_score": 0.8063084267246456,
+            "direction": "horizontal",
+            "points": [
+                [
+                    326,
+                    538
+                ],
+                [
+                    508,
+                    542
+                ],
+                [
+                    508,
+                    563
+                ],
+                [
+                    325,
+                    559
+                ]
+            ],
+            "rec_score": 0.10458901524543762
+        },
+        {
+            "content": "地方の成長と安全",
+            "det_score": 0.8752035951950181,
+            "direction": "horizontal",
+            "points": [
+                [
+                    796,
+                    535
+                ],
+                [
+                    1011,
+                    535
+                ],
+                [
+                    1011,
+                    565
+                ],
+                [
+                    796,
+                    565
+                ]
+            ],
+            "rec_score": 0.9999731779098511
+        },
+        {
+            "content": "奈良市附近駅確定",
+            "det_score": 0.8402838463077741,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1691,
+                    534
+                ],
+                [
+                    1832,
+                    534
+                ],
+                [
+                    1832,
+                    555
+                ],
+                [
+                    1691,
+                    555
+                ]
+            ],
+            "rec_score": 0.9997252225875854
+        },
+        {
+            "content": "◆国道168号線 牛駒工区無電柱化",
+            "det_score": 0.843755667333049,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1307,
+                    521
+                ],
+                [
+                    1591,
+                    521
+                ],
+                [
+                    1591,
+                    538
+                ],
+                [
+                    1307,
+                    538
+                ]
+            ],
+            "rec_score": 0.5358766317367554
+        },
+        {
+            "content": "リニア中央新幹線",
+            "det_score": 0.8816787485603814,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1686,
+                    502
+                ],
+                [
+                    1838,
+                    504
+                ],
+                [
+                    1838,
+                    527
+                ],
+                [
+                    1685,
+                    525
+                ]
+            ],
+            "rec_score": 0.9998719692230225
+        },
+        {
+            "content": "◆国道163号線 清滝生駒道路",
+            "det_score": 0.8425679496297628,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1305,
+                    495
+                ],
+                [
+                    1557,
+                    495
+                ],
+                [
+                    1557,
+                    517
+                ],
+                [
+                    1305,
+                    517
+                ]
+            ],
+            "rec_score": 0.9934325218200684
+        },
+        {
+            "content": "生駒市",
+            "det_score": 0.9228155858376447,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1223,
+                    494
+                ],
+                [
+                    1283,
+                    494
+                ],
+                [
+                    1283,
+                    517
+                ],
+                [
+                    1223,
+                    517
+                ]
+            ],
+            "rec_score": 0.9999967813491821
+        },
+        {
+            "content": "●重点支援地方交付金の拡充 ●子育て応援手当 ●年収の壁見直し 所得減税約3~6万円(1人当たり·年間)",
+            "det_score": 0.8295972003817998,
+            "direction": "horizontal",
+            "points": [
+                [
+                    331,
+                    491
+                ],
+                [
+                    1188,
+                    490
+                ],
+                [
+                    1188,
+                    511
+                ],
+                [
+                    331,
+                    512
+                ]
+            ],
+            "rec_score": 0.9881899952888489
+        },
+        {
+            "content": "◇西九条佐保線立体交差 ◇尼ヶ汁農村地域防災減災",
+            "det_score": 0.8181499943079037,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1306,
+                    471
+                ],
+                [
+                    1742,
+                    471
+                ],
+                [
+                    1742,
+                    488
+                ],
+                [
+                    1306,
+                    488
+                ]
+            ],
+            "rec_score": 0.5938919186592102
+        },
+        {
+            "content": "●ガソリン暫定税·軽油引取税の廃止 ●電気·ガス代の補助",
+            "det_score": 0.7803282355624205,
+            "direction": "horizontal",
+            "points": [
+                [
+                    331,
+                    467
+                ],
+                [
+                    812,
+                    467
+                ],
+                [
+                    812,
+                    488
+                ],
+                [
+                    331,
+                    488
+                ]
+            ],
+            "rec_score": 0.9966030716896057
+        },
+        {
+            "content": "◇京奈和自動車道大和北道路 ◇八条踏切改良",
+            "det_score": 0.796907891207996,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1305,
+                    449
+                ],
+                [
+                    1686,
+                    449
+                ],
+                [
+                    1686,
+                    466
+                ],
+                [
+                    1305,
+                    466
+                ]
+            ],
+            "rec_score": 0.9793750643730164
+        },
+        {
+            "content": "奈良市",
+            "det_score": 0.8450632620572058,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1222,
+                    444
+                ],
+                [
+                    1284,
+                    444
+                ],
+                [
+                    1284,
+                    471
+                ],
+                [
+                    1222,
+                    471
+                ]
+            ],
+            "rec_score": 0.99986732006073
+        },
+        {
+            "content": "(一般会計歳出総額)",
+            "det_score": 0.7507942177679228,
+            "direction": "horizontal",
+            "points": [
+                [
+                    611,
+                    440
+                ],
+                [
+                    719,
+                    440
+                ],
+                [
+                    719,
+                    461
+                ],
+                [
+                    611,
+                    461
+                ]
+            ],
+            "rec_score": 0.6482274532318115
+        },
+        {
+            "content": "暮らしを守る",
+            "det_score": 0.9056415639117869,
+            "direction": "horizontal",
+            "points": [
+                [
+                    361,
+                    420
+                ],
+                [
+                    566,
+                    420
+                ],
+                [
+                    566,
+                    456
+                ],
+                [
+                    361,
+                    456
+                ]
+            ],
+            "rec_score": 0.999901533126831
+        },
+        {
+            "content": "補正予算約18.3兆円",
+            "det_score": 0.8075944224280986,
+            "direction": "horizontal",
+            "points": [
+                [
+                    711,
+                    391
+                ],
+                [
+                    1192,
+                    404
+                ],
+                [
+                    1189,
+                    502
+                ],
+                [
+                    708,
+                    489
+                ]
+            ],
+            "rec_score": 0.9018944501876831
+        },
+        {
+            "content": "令和7年度",
+            "det_score": 0.836481030638685,
+            "direction": "horizontal",
+            "points": [
+                [
+                    611,
+                    416
+                ],
+                [
+                    723,
+                    416
+                ],
+                [
+                    723,
+                    447
+                ],
+                [
+                    611,
+                    447
+                ]
+            ],
+            "rec_score": 0.9999555349349976
+        },
+        {
+            "content": "【国土強靭化】",
+            "det_score": 0.8967421389694938,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1223,
+                    413
+                ],
+                [
+                    1359,
+                    413
+                ],
+                [
+                    1359,
+                    440
+                ],
+                [
+                    1223,
+                    440
+                ]
+            ],
+            "rec_score": 0.7788069248199463
+        },
+        {
+            "content": "小林",
+            "det_score": 0.7705807251430661,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1845,
+                    293
+                ],
+                [
+                    2194,
+                    299
+                ],
+                [
+                    2184,
+                    920
+                ],
+                [
+                    1835,
+                    914
+                ]
+            ],
+            "rec_score": 0.9387999176979065
+        },
+        {
+            "content": "2015年11月",
+            "det_score": 0.5118011001666839,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1637,
+                    389
+                ],
+                [
+                    1740,
+                    403
+                ],
+                [
+                    1735,
+                    439
+                ],
+                [
+                    1633,
+                    424
+                ]
+            ],
+            "rec_score": 0.02267899364233017
+        },
+        {
+            "content": "自民党公認 文部科学副大臣",
+            "det_score": 0.8441340583448554,
+            "direction": "vertical",
+            "points": [
+                [
+                    2140,
+                    361
+                ],
+                [
+                    2183,
+                    361
+                ],
+                [
+                    2184,
+                    874
+                ],
+                [
+                    2141,
+                    875
+                ]
+            ],
+            "rec_score": 0.9740122556686401
+        },
+        {
+            "content": "地元、奈良·生駒へ",
+            "det_score": 0.8994816927002052,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1337,
+                    337
+                ],
+                [
+                    1648,
+                    337
+                ],
+                [
+                    1648,
+                    375
+                ],
+                [
+                    1337,
+                    375
+                ]
+            ],
+            "rec_score": 0.9992308616638184
+        },
+        {
+            "content": "定数を削減",
+            "det_score": 0.8981220932617531,
+            "direction": "horizontal",
+            "points": [
+                [
+                    645,
+                    333
+                ],
+                [
+                    823,
+                    333
+                ],
+                [
+                    823,
+                    368
+                ],
+                [
+                    645,
+                    368
+                ]
+            ],
+            "rec_score": 0.9998105764389038
+        },
+        {
+            "content": "憲法改正",
+            "det_score": 0.8726858035944809,
+            "direction": "horizontal",
+            "points": [
+                [
+                    931,
+                    328
+                ],
+                [
+                    1079,
+                    328
+                ],
+                [
+                    1079,
+                    372
+                ],
+                [
+                    931,
+                    372
+                ]
+            ],
+            "rec_score": 0.9998869895935059
+        },
+        {
+            "content": "自衛隊の明記など",
+            "det_score": 0.8755812012099718,
+            "direction": "horizontal",
+            "points": [
+                [
+                    878,
+                    292
+                ],
+                [
+                    1138,
+                    292
+                ],
+                [
+                    1138,
+                    330
+                ],
+                [
+                    878,
+                    330
+                ]
+            ],
+            "rec_score": 0.9996342658996582
+        },
+        {
+            "content": "衆議院議員",
+            "det_score": 0.9081855763991673,
+            "direction": "horizontal",
+            "points": [
+                [
+                    644,
+                    292
+                ],
+                [
+                    824,
+                    292
+                ],
+                [
+                    824,
+                    331
+                ],
+                [
+                    644,
+                    331
+                ]
+            ],
+            "rec_score": 0.9999862909317017
+        },
+        {
+            "content": "成長の果実を",
+            "det_score": 0.9143633980589085,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1227,
+                    283
+                ],
+                [
+                    1521,
+                    283
+                ],
+                [
+                    1521,
+                    331
+                ],
+                [
+                    1227,
+                    331
+                ]
+            ],
+            "rec_score": 0.9993785619735718
+        },
+        {
+            "content": "チーム奈良。",
+            "det_score": 0.8951611694207643,
+            "direction": "horizontal",
+            "points": [
+                [
+                    76,
+                    258
+                ],
+                [
+                    605,
+                    258
+                ],
+                [
+                    605,
+                    367
+                ],
+                [
+                    76,
+                    367
+                ]
+            ],
+            "rec_score": 0.9988641738891602
+        },
+        {
+            "content": "「外交力·防衛力」",
+            "det_score": 0.9076741855097971,
+            "direction": "horizontal",
+            "points": [
+                [
+                    734,
+                    217
+                ],
+                [
+                    1026,
+                    217
+                ],
+                [
+                    1026,
+                    259
+                ],
+                [
+                    734,
+                    259
+                ]
+            ],
+            "rec_score": 0.9881980419158936
+        },
+        {
+            "content": "教育の質を向上",
+            "det_score": 0.9044768765624083,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1324,
+                    211
+                ],
+                [
+                    1640,
+                    211
+                ],
+                [
+                    1640,
+                    255
+                ],
+                [
+                    1324,
+                    255
+                ]
+            ],
+            "rec_score": 0.8804102540016174
+        },
+        {
+            "content": "明日の安心、平和を守る",
+            "det_score": 0.8742100822309834,
+            "direction": "horizontal",
+            "points": [
+                [
+                    665,
+                    166
+                ],
+                [
+                    1093,
+                    166
+                ],
+                [
+                    1093,
+                    212
+                ],
+                [
+                    665,
+                    212
+                ]
+            ],
+            "rec_score": 0.9985598921775818
+        },
+        {
+            "content": "チーム高市。",
+            "det_score": 0.8930907587122057,
+            "direction": "horizontal",
+            "points": [
+                [
+                    41,
+                    143
+                ],
+                [
+                    546,
+                    146
+                ],
+                [
+                    545,
+                    251
+                ],
+                [
+                    40,
+                    247
+                ]
+            ],
+            "rec_score": 0.9962081909179688
+        },
+        {
+            "content": "人づくりの礎は教育",
+            "det_score": 0.8788601204337297,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1223,
+                    164
+                ],
+                [
+                    1565,
+                    164
+                ],
+                [
+                    1565,
+                    202
+                ],
+                [
+                    1223,
+                    202
+                ]
+            ],
+            "rec_score": 0.9969694018363953
+        },
+        {
+            "content": "食料品の消費税ゼロへ",
+            "det_score": 0.8796488089296239,
+            "direction": "horizontal",
+            "points": [
+                [
+                    662,
+                    68
+                ],
+                [
+                    1112,
+                    68
+                ],
+                [
+                    1112,
+                    119
+                ],
+                [
+                    662,
+                    119
+                ]
+            ],
+            "rec_score": 0.9792852997779846
+        },
+        {
+            "content": "責任ある医療·福祉政策",
+            "det_score": 0.8865505303764011,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1205,
+                    67
+                ],
+                [
+                    1670,
+                    67
+                ],
+                [
+                    1670,
+                    117
+                ],
+                [
+                    1205,
+                    117
+                ]
+            ],
+            "rec_score": 0.9926648139953613
+        },
+        {
+            "content": "昭和39年、奈良市生まれ 登美ヶ丘中学校",
+            "det_score": 0.7937713137838601,
+            "direction": "vertical",
+            "points": [
+                [
+                    1749,
+                    68
+                ],
+                [
+                    1774,
+                    68
+                ],
+                [
+                    1774,
+                    378
+                ],
+                [
+                    1749,
+                    378
+                ]
+            ],
+            "rec_score": 0.9021242260932922
+        },
+        {
+            "content": "清風高校·慶応義塾大学法学部卒業",
+            "det_score": 0.8482030491021469,
+            "direction": "vertical",
+            "points": [
+                [
+                    1730,
+                    68
+                ],
+                [
+                    1751,
+                    68
+                ],
+                [
+                    1752,
+                    333
+                ],
+                [
+                    1731,
+                    333
+                ]
+            ],
+            "rec_score": 0.9910886883735657
+        },
+        {
+            "content": "[高市早苗候補]推薦人(全3回)",
+            "det_score": 0.843863605700071,
+            "direction": "vertical",
+            "points": [
+                [
+                    1810,
+                    58
+                ],
+                [
+                    1835,
+                    58
+                ],
+                [
+                    1835,
+                    347
+                ],
+                [
+                    1810,
+                    347
+                ]
+            ],
+            "rec_score": 0.9978511333465576
+        },
+        {
+            "content": "責任ある積極財政議連 副代表",
+            "det_score": 0.8372958468551447,
+            "direction": "vertical",
+            "points": [
+                [
+                    1784,
+                    52
+                ],
+                [
+                    1809,
+                    52
+                ],
+                [
+                    1809,
+                    340
+                ],
+                [
+                    1784,
+                    340
+                ]
+            ],
+            "rec_score": 0.8956014513969421
+        },
+        {
+            "content": "自民党",
+            "det_score": 0.9080066599489081,
+            "direction": "horizontal",
+            "points": [
+                [
+                    29,
+                    30
+                ],
+                [
+                    306,
+                    30
+                ],
+                [
+                    306,
+                    127
+                ],
+                [
+                    29,
+                    127
+                ]
+            ],
+            "rec_score": 0.9995092749595642
+        },
+        {
+            "content": "■自民党総裁選",
+            "det_score": 0.798467938942643,
+            "direction": "vertical",
+            "points": [
+                [
+                    1837,
+                    38
+                ],
+                [
+                    1861,
+                    38
+                ],
+                [
+                    1861,
+                    187
+                ],
+                [
+                    1837,
+                    187
+                ]
+            ],
+            "rec_score": 0.9943709969520569
+        }
+    ]
+}

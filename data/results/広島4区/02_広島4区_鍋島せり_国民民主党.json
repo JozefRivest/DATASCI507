@@ -1,0 +1,2036 @@
+{
+    "figures": [
+        {
+            "box": [
+                1661,
+                195,
+                1890,
+                499
+            ],
+            "direction": "horizontal",
+            "order": 33,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1939,
+                53,
+                2114,
+                658
+            ],
+            "direction": "vertical",
+            "order": 34,
+            "paragraphs": [
+                {
+                    "box": [
+                        1939,
+                        53,
+                        2120,
+                        658
+                    ],
+                    "contents": "鍋島せり",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                86,
+                47,
+                1043,
+                237
+            ],
+            "contents": "広島から、せり上がる\n前東広島市議会議員",
+            "direction": "horizontal",
+            "order": 0,
+            "role": null
+        },
+        {
+            "box": [
+                61,
+                267,
+                1058,
+                340
+            ],
+            "contents": "マジン国民民主党の政策4本柱マジマ",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                89,
+                372,
+                292,
+                460
+            ],
+            "contents": "給料·年金が上がる\n経済を実現",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                74,
+                483,
+                286,
+                615
+            ],
+            "contents": "1消費·投資の拡大で持\n続的な賃上げを実現\nする「令和の所得倍増\n計画」\n2年金が上がる経済",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                319,
+                367,
+                552,
+                458
+            ],
+            "contents": "2\n自分で守る。\n自分の国は",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                322,
+                483,
+                532,
+                627
+            ],
+            "contents": "1主権を守り抜く\n2国際情勢への対応を強化\n3総合的な経済安全\n保障の強化\n4災害対応を強化",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                572,
+                368,
+                798,
+                458
+            ],
+            "contents": "3\n人づくりこそ、\n国づくり",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                583,
+                482,
+                787,
+                505
+            ],
+            "contents": "1就職氷河期世代支援",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                582,
+                518,
+                684,
+                540
+            ],
+            "contents": "2若者支援",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                581,
+                552,
+                744,
+                575
+            ],
+            "contents": "3子育て世代支援",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                583,
+                587,
+                746,
+                611
+            ],
+            "contents": "4全世代共通支援",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                806,
+                355,
+                888,
+                468
+            ],
+            "contents": "4",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                850,
+                369,
+                1058,
+                459
+            ],
+            "contents": "正直な政治を\nつらぬく !!",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                835,
+                482,
+                1023,
+                566
+            ],
+            "contents": "1政治資金抜本改革\n2令和の政治改革を\n断行",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                1081,
+                46,
+                1625,
+                149
+            ],
+            "contents": "新人\n鍋島 セリ34歳",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                1078,
+                156,
+                1598,
+                191
+            ],
+            "contents": "日々の暮らしと未来を守る経済対策",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                1082,
+                206,
+                1614,
+                245
+            ],
+            "contents": "誰一人取り残さない社会保障の推進",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                1083,
+                258,
+                1625,
+                297
+            ],
+            "contents": "農林水産業の振興と地域資源の価値向上",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                1083,
+                311,
+                1427,
+                349
+            ],
+            "contents": "教育と子育てへの投資",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                1088,
+                365,
+                1524,
+                402
+            ],
+            "contents": "力強い安全保障と防災の推進",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                1089,
+                485,
+                1112,
+                588
+            ],
+            "contents": "プロフィール",
+            "direction": "vertical",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                1127,
+                425,
+                1370,
+                441
+            ],
+            "contents": "1991年6月9日広島県東広島市生まれ",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                1121,
+                442,
+                1155,
+                461
+            ],
+            "contents": "経歴",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                1124,
+                462,
+                1403,
+                479
+            ],
+            "contents": "2010年\n近畿大学附属広島高等学校 卒業",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                1121,
+                481,
+                1360,
+                498
+            ],
+            "contents": "2015年\n青山学院大学法学部 卒業",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                1538,
+                304,
+                1618,
+                405
+            ],
+            "contents": "公式サイト",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                1126,
+                499,
+                1570,
+                535
+            ],
+            "contents": "2016年\nロンドン大学 Economics and Policy of Energy\nand the Environment, Postgraduate Certificate履修",
+            "direction": "horizontal",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                1122,
+                537,
+                1419,
+                554
+            ],
+            "contents": "2016年\n東京電力ホールディングス株式会社",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                1124,
+                556,
+                1404,
+                573
+            ],
+            "contents": "2017年\n一般社団法人CDO Club Japan",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                1121,
+                574,
+                1462,
+                592
+            ],
+            "contents": "2020年\n東広島市教育委員会GIGAスクール推進室",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                1123,
+                593,
+                1532,
+                611
+            ],
+            "contents": "2020年\n広島県 総務局ブランド·コミュニケーション戦略チーム",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                1123,
+                613,
+                1454,
+                630
+            ],
+            "contents": "2023年\n東広島市議会議員 4,259票を得て当選",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                1123,
+                632,
+                1442,
+                648
+            ],
+            "contents": "2025年\n国民民主党広島県第4区総支部長 就任",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                2127,
+                45,
+                2174,
+                271
+            ],
+            "contents": "国民民主党公認",
+            "direction": "vertical",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                2103,
+                104,
+                2140,
+                163
+            ],
+            "contents": "なべ",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                2103,
+                248,
+                2139,
+                310
+            ],
+            "contents": "しま",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "国民民主党広島県第4区総支部長 就任",
+            "det_score": 0.8151907096782776,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1187,
+                    631
+                ],
+                [
+                    1441,
+                    631
+                ],
+                [
+                    1441,
+                    648
+                ],
+                [
+                    1187,
+                    648
+                ]
+            ],
+            "rec_score": 0.9993064403533936
+        },
+        {
+            "content": "2025年",
+            "det_score": 0.8201448661940438,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    629
+                ],
+                [
+                    1181,
+                    629
+                ],
+                [
+                    1181,
+                    648
+                ],
+                [
+                    1123,
+                    648
+                ]
+            ],
+            "rec_score": 0.999366044998169
+        },
+        {
+            "content": "東広島市議会議員 4,259票を得て当選",
+            "det_score": 0.7503815990410339,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1189,
+                    612
+                ],
+                [
+                    1455,
+                    612
+                ],
+                [
+                    1455,
+                    629
+                ],
+                [
+                    1189,
+                    629
+                ]
+            ],
+            "rec_score": 0.8990384936332703
+        },
+        {
+            "content": "2023年",
+            "det_score": 0.7798865058871566,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    611
+                ],
+                [
+                    1181,
+                    611
+                ],
+                [
+                    1181,
+                    629
+                ],
+                [
+                    1123,
+                    629
+                ]
+            ],
+            "rec_score": 0.9996588230133057
+        },
+        {
+            "content": "4災害対応を強化",
+            "det_score": 0.8649409621512448,
+            "direction": "horizontal",
+            "points": [
+                [
+                    322,
+                    602
+                ],
+                [
+                    488,
+                    602
+                ],
+                [
+                    488,
+                    628
+                ],
+                [
+                    322,
+                    628
+                ]
+            ],
+            "rec_score": 0.9880334734916687
+        },
+        {
+            "content": "広島県 総務局ブランド·コミュニケーション戦略チーム",
+            "det_score": 0.7801398827383916,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1191,
+                    593
+                ],
+                [
+                    1531,
+                    593
+                ],
+                [
+                    1531,
+                    611
+                ],
+                [
+                    1191,
+                    611
+                ]
+            ],
+            "rec_score": 0.9863453507423401
+        },
+        {
+            "content": "2年金が上がる経済",
+            "det_score": 0.8714605604066235,
+            "direction": "horizontal",
+            "points": [
+                [
+                    67,
+                    590
+                ],
+                [
+                    247,
+                    590
+                ],
+                [
+                    247,
+                    616
+                ],
+                [
+                    67,
+                    616
+                ]
+            ],
+            "rec_score": 0.9501368403434753
+        },
+        {
+            "content": "2020年",
+            "det_score": 0.8215705546362152,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    592
+                ],
+                [
+                    1181,
+                    592
+                ],
+                [
+                    1181,
+                    611
+                ],
+                [
+                    1123,
+                    611
+                ]
+            ],
+            "rec_score": 0.9997259974479675
+        },
+        {
+            "content": "4全世代共通支援",
+            "det_score": 0.8875035990891011,
+            "direction": "horizontal",
+            "points": [
+                [
+                    581,
+                    588
+                ],
+                [
+                    745,
+                    588
+                ],
+                [
+                    745,
+                    609
+                ],
+                [
+                    581,
+                    609
+                ]
+            ],
+            "rec_score": 0.9994006156921387
+        },
+        {
+            "content": "東広島市教育委員会GIGAスクール推進室",
+            "det_score": 0.8322940054293797,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1191,
+                    576
+                ],
+                [
+                    1460,
+                    576
+                ],
+                [
+                    1460,
+                    589
+                ],
+                [
+                    1191,
+                    589
+                ]
+            ],
+            "rec_score": 0.9830347299575806
+        },
+        {
+            "content": "2020年",
+            "det_score": 0.7425510812299857,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    573
+                ],
+                [
+                    1181,
+                    573
+                ],
+                [
+                    1181,
+                    592
+                ],
+                [
+                    1123,
+                    592
+                ]
+            ],
+            "rec_score": 0.999735414981842
+        },
+        {
+            "content": "保障の強化",
+            "det_score": 0.8345971647323223,
+            "direction": "horizontal",
+            "points": [
+                [
+                    345,
+                    572
+                ],
+                [
+                    449,
+                    572
+                ],
+                [
+                    449,
+                    595
+                ],
+                [
+                    345,
+                    595
+                ]
+            ],
+            "rec_score": 0.9995132088661194
+        },
+        {
+            "content": "計画」",
+            "det_score": 0.8824622247009596,
+            "direction": "horizontal",
+            "points": [
+                [
+                    85,
+                    554
+                ],
+                [
+                    142,
+                    554
+                ],
+                [
+                    142,
+                    582
+                ],
+                [
+                    85,
+                    582
+                ]
+            ],
+            "rec_score": 0.9923691153526306
+        },
+        {
+            "content": "一般社団法人CDO Club Japan",
+            "det_score": 0.8133209632263959,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1187,
+                    556
+                ],
+                [
+                    1405,
+                    556
+                ],
+                [
+                    1405,
+                    573
+                ],
+                [
+                    1187,
+                    573
+                ]
+            ],
+            "rec_score": 0.9992684125900269
+        },
+        {
+            "content": "2017年",
+            "det_score": 0.7512753354673533,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    554
+                ],
+                [
+                    1181,
+                    554
+                ],
+                [
+                    1181,
+                    573
+                ],
+                [
+                    1123,
+                    573
+                ]
+            ],
+            "rec_score": 0.9998592138290405
+        },
+        {
+            "content": "3子育て世代支援",
+            "det_score": 0.8627474527695622,
+            "direction": "horizontal",
+            "points": [
+                [
+                    581,
+                    553
+                ],
+                [
+                    742,
+                    553
+                ],
+                [
+                    742,
+                    575
+                ],
+                [
+                    581,
+                    575
+                ]
+            ],
+            "rec_score": 0.977074921131134
+        },
+        {
+            "content": "3総合的な経済安全",
+            "det_score": 0.8474262962337992,
+            "direction": "horizontal",
+            "points": [
+                [
+                    322,
+                    543
+                ],
+                [
+                    509,
+                    543
+                ],
+                [
+                    509,
+                    569
+                ],
+                [
+                    322,
+                    569
+                ]
+            ],
+            "rec_score": 0.9658256769180298
+        },
+        {
+            "content": "断行",
+            "det_score": 0.9033632141011985,
+            "direction": "horizontal",
+            "points": [
+                [
+                    856,
+                    541
+                ],
+                [
+                    904,
+                    541
+                ],
+                [
+                    904,
+                    570
+                ],
+                [
+                    856,
+                    570
+                ]
+            ],
+            "rec_score": 0.9995085000991821
+        },
+        {
+            "content": "東京電力ホールディングス株式会社",
+            "det_score": 0.79082291804739,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1189,
+                    537
+                ],
+                [
+                    1419,
+                    537
+                ],
+                [
+                    1419,
+                    554
+                ],
+                [
+                    1189,
+                    554
+                ]
+            ],
+            "rec_score": 0.9953290820121765
+        },
+        {
+            "content": "2016年",
+            "det_score": 0.7463540215357184,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    536
+                ],
+                [
+                    1181,
+                    536
+                ],
+                [
+                    1181,
+                    554
+                ],
+                [
+                    1123,
+                    554
+                ]
+            ],
+            "rec_score": 0.9998168349266052
+        },
+        {
+            "content": "する「令和の所得倍増",
+            "det_score": 0.8595393105416461,
+            "direction": "horizontal",
+            "points": [
+                [
+                    89,
+                    533
+                ],
+                [
+                    285,
+                    533
+                ],
+                [
+                    285,
+                    554
+                ],
+                [
+                    89,
+                    554
+                ]
+            ],
+            "rec_score": 0.9987161159515381
+        },
+        {
+            "content": "and the Environment, Postgraduate Certificate履修",
+            "det_score": 0.8147578930889384,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1191,
+                    518
+                ],
+                [
+                    1569,
+                    518
+                ],
+                [
+                    1569,
+                    536
+                ],
+                [
+                    1191,
+                    536
+                ]
+            ],
+            "rec_score": 0.9898365139961243
+        },
+        {
+            "content": "2令和の政治改革を",
+            "det_score": 0.8277283963451282,
+            "direction": "horizontal",
+            "points": [
+                [
+                    836,
+                    515
+                ],
+                [
+                    1020,
+                    515
+                ],
+                [
+                    1020,
+                    537
+                ],
+                [
+                    836,
+                    537
+                ]
+            ],
+            "rec_score": 0.9840582013130188
+        },
+        {
+            "content": "2若者支援",
+            "det_score": 0.8331677267732828,
+            "direction": "horizontal",
+            "points": [
+                [
+                    579,
+                    517
+                ],
+                [
+                    684,
+                    517
+                ],
+                [
+                    684,
+                    540
+                ],
+                [
+                    579,
+                    540
+                ]
+            ],
+            "rec_score": 0.994515597820282
+        },
+        {
+            "content": "2国際情勢への対応を強化",
+            "det_score": 0.8272667845657894,
+            "direction": "horizontal",
+            "points": [
+                [
+                    322,
+                    513
+                ],
+                [
+                    540,
+                    513
+                ],
+                [
+                    540,
+                    539
+                ],
+                [
+                    322,
+                    539
+                ]
+            ],
+            "rec_score": 0.9973776936531067
+        },
+        {
+            "content": "続的な賃上げを実現",
+            "det_score": 0.9186661313184126,
+            "direction": "horizontal",
+            "points": [
+                [
+                    85,
+                    505
+                ],
+                [
+                    287,
+                    504
+                ],
+                [
+                    288,
+                    530
+                ],
+                [
+                    85,
+                    531
+                ]
+            ],
+            "rec_score": 0.9942449927330017
+        },
+        {
+            "content": "ロンドン大学 Economics and Policy of Energy",
+            "det_score": 0.8366468003813475,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1191,
+                    500
+                ],
+                [
+                    1519,
+                    500
+                ],
+                [
+                    1519,
+                    517
+                ],
+                [
+                    1191,
+                    517
+                ]
+            ],
+            "rec_score": 0.9985652565956116
+        },
+        {
+            "content": "2016年",
+            "det_score": 0.7955618170426064,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    498
+                ],
+                [
+                    1181,
+                    498
+                ],
+                [
+                    1181,
+                    517
+                ],
+                [
+                    1123,
+                    517
+                ]
+            ],
+            "rec_score": 0.9998486042022705
+        },
+        {
+            "content": "プロフィール",
+            "det_score": 0.7776910314714414,
+            "direction": "vertical",
+            "points": [
+                [
+                    1089,
+                    485
+                ],
+                [
+                    1112,
+                    485
+                ],
+                [
+                    1112,
+                    588
+                ],
+                [
+                    1089,
+                    588
+                ]
+            ],
+            "rec_score": 0.9998804330825806
+        },
+        {
+            "content": "1消費·投資の拡大で持",
+            "det_score": 0.8864407971667123,
+            "direction": "horizontal",
+            "points": [
+                [
+                    67,
+                    484
+                ],
+                [
+                    286,
+                    484
+                ],
+                [
+                    286,
+                    505
+                ],
+                [
+                    67,
+                    505
+                ]
+            ],
+            "rec_score": 0.9970918893814087
+        },
+        {
+            "content": "1政治資金抜本改革",
+            "det_score": 0.851758289132041,
+            "direction": "horizontal",
+            "points": [
+                [
+                    836,
+                    481
+                ],
+                [
+                    1021,
+                    481
+                ],
+                [
+                    1021,
+                    502
+                ],
+                [
+                    836,
+                    502
+                ]
+            ],
+            "rec_score": 0.9616811871528625
+        },
+        {
+            "content": "1就職氷河期世代支援",
+            "det_score": 0.8337891140118652,
+            "direction": "horizontal",
+            "points": [
+                [
+                    581,
+                    482
+                ],
+                [
+                    786,
+                    482
+                ],
+                [
+                    786,
+                    504
+                ],
+                [
+                    581,
+                    504
+                ]
+            ],
+            "rec_score": 0.992257833480835
+        },
+        {
+            "content": "1主権を守り抜く",
+            "det_score": 0.8521127709836671,
+            "direction": "horizontal",
+            "points": [
+                [
+                    322,
+                    481
+                ],
+                [
+                    477,
+                    481
+                ],
+                [
+                    477,
+                    507
+                ],
+                [
+                    322,
+                    507
+                ]
+            ],
+            "rec_score": 0.9985193014144897
+        },
+        {
+            "content": "青山学院大学法学部 卒業",
+            "det_score": 0.8943851667733099,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1191,
+                    481
+                ],
+                [
+                    1359,
+                    481
+                ],
+                [
+                    1359,
+                    498
+                ],
+                [
+                    1191,
+                    498
+                ]
+            ],
+            "rec_score": 0.9997116327285767
+        },
+        {
+            "content": "2015年",
+            "det_score": 0.7746973881342758,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    479
+                ],
+                [
+                    1180,
+                    479
+                ],
+                [
+                    1180,
+                    498
+                ],
+                [
+                    1123,
+                    498
+                ]
+            ],
+            "rec_score": 0.9999645948410034
+        },
+        {
+            "content": "近畿大学附属広島高等学校 卒業",
+            "det_score": 0.7933431478272802,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1191,
+                    462
+                ],
+                [
+                    1402,
+                    462
+                ],
+                [
+                    1402,
+                    479
+                ],
+                [
+                    1191,
+                    479
+                ]
+            ],
+            "rec_score": 0.9990979433059692
+        },
+        {
+            "content": "2010年",
+            "det_score": 0.7663527930036504,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    461
+                ],
+                [
+                    1181,
+                    461
+                ],
+                [
+                    1181,
+                    479
+                ],
+                [
+                    1123,
+                    479
+                ]
+            ],
+            "rec_score": 0.9998308420181274
+        },
+        {
+            "content": "経歴",
+            "det_score": 0.8814176446435475,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1121,
+                    442
+                ],
+                [
+                    1155,
+                    442
+                ],
+                [
+                    1155,
+                    461
+                ],
+                [
+                    1121,
+                    461
+                ]
+            ],
+            "rec_score": 0.9961904883384705
+        },
+        {
+            "content": "1991年6月9日広島県東広島市生まれ",
+            "det_score": 0.8661347170335806,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1124,
+                    424
+                ],
+                [
+                    1370,
+                    424
+                ],
+                [
+                    1370,
+                    442
+                ],
+                [
+                    1124,
+                    442
+                ]
+            ],
+            "rec_score": 0.9990395903587341
+        },
+        {
+            "content": "つらぬく !!",
+            "det_score": 0.8506968913956156,
+            "direction": "horizontal",
+            "points": [
+                [
+                    872,
+                    407
+                ],
+                [
+                    1052,
+                    410
+                ],
+                [
+                    1051,
+                    461
+                ],
+                [
+                    871,
+                    457
+                ]
+            ],
+            "rec_score": 0.6649810075759888
+        },
+        {
+            "content": "経済を実現",
+            "det_score": 0.8768411391666011,
+            "direction": "horizontal",
+            "points": [
+                [
+                    89,
+                    411
+                ],
+                [
+                    217,
+                    411
+                ],
+                [
+                    217,
+                    456
+                ],
+                [
+                    89,
+                    456
+                ]
+            ],
+            "rec_score": 0.9992693662643433
+        },
+        {
+            "content": "国づくり",
+            "det_score": 0.8716600981420768,
+            "direction": "horizontal",
+            "points": [
+                [
+                    622,
+                    409
+                ],
+                [
+                    742,
+                    409
+                ],
+                [
+                    742,
+                    459
+                ],
+                [
+                    622,
+                    459
+                ]
+            ],
+            "rec_score": 0.9910862445831299
+        },
+        {
+            "content": "自分で守る。",
+            "det_score": 0.8724683249768401,
+            "direction": "horizontal",
+            "points": [
+                [
+                    361,
+                    407
+                ],
+                [
+                    557,
+                    407
+                ],
+                [
+                    557,
+                    461
+                ],
+                [
+                    361,
+                    461
+                ]
+            ],
+            "rec_score": 0.05937331169843674
+        },
+        {
+            "content": "公式サイト",
+            "det_score": 0.7872811275438999,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1544,
+                    387
+                ],
+                [
+                    1614,
+                    387
+                ],
+                [
+                    1614,
+                    406
+                ],
+                [
+                    1544,
+                    406
+                ]
+            ],
+            "rec_score": 0.9999557733535767
+        },
+        {
+            "content": "給料·年金が上がる",
+            "det_score": 0.868087957722101,
+            "direction": "horizontal",
+            "points": [
+                [
+                    89,
+                    371
+                ],
+                [
+                    293,
+                    371
+                ],
+                [
+                    293,
+                    411
+                ],
+                [
+                    89,
+                    411
+                ]
+            ],
+            "rec_score": 0.9973122477531433
+        },
+        {
+            "content": "正直な政治を",
+            "det_score": 0.8695203511466142,
+            "direction": "horizontal",
+            "points": [
+                [
+                    875,
+                    370
+                ],
+                [
+                    1057,
+                    370
+                ],
+                [
+                    1057,
+                    410
+                ],
+                [
+                    875,
+                    410
+                ]
+            ],
+            "rec_score": 0.9994604587554932
+        },
+        {
+            "content": "人づくりこそ、",
+            "det_score": 0.8742787141147941,
+            "direction": "horizontal",
+            "points": [
+                [
+                    621,
+                    368
+                ],
+                [
+                    802,
+                    368
+                ],
+                [
+                    802,
+                    413
+                ],
+                [
+                    621,
+                    413
+                ]
+            ],
+            "rec_score": 0.9965037703514099
+        },
+        {
+            "content": "4",
+            "det_score": 0.5906499299461805,
+            "direction": "horizontal",
+            "points": [
+                [
+                    806,
+                    365
+                ],
+                [
+                    874,
+                    355
+                ],
+                [
+                    888,
+                    458
+                ],
+                [
+                    820,
+                    468
+                ]
+            ],
+            "rec_score": 0.9001975059509277
+        },
+        {
+            "content": "自分の国は",
+            "det_score": 0.8992759966708365,
+            "direction": "horizontal",
+            "points": [
+                [
+                    362,
+                    368
+                ],
+                [
+                    529,
+                    365
+                ],
+                [
+                    530,
+                    410
+                ],
+                [
+                    363,
+                    413
+                ]
+            ],
+            "rec_score": 0.9975481033325195
+        },
+        {
+            "content": "3",
+            "det_score": 0.7508836059448165,
+            "direction": "horizontal",
+            "points": [
+                [
+                    565,
+                    359
+                ],
+                [
+                    632,
+                    359
+                ],
+                [
+                    632,
+                    465
+                ],
+                [
+                    565,
+                    465
+                ]
+            ],
+            "rec_score": 0.858330488204956
+        },
+        {
+            "content": "力強い安全保障と防災の推進",
+            "det_score": 0.901505541877949,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1125,
+                    368
+                ],
+                [
+                    1523,
+                    368
+                ],
+                [
+                    1523,
+                    398
+                ],
+                [
+                    1125,
+                    398
+                ]
+            ],
+            "rec_score": 0.9983765482902527
+        },
+        {
+            "content": "2",
+            "det_score": 0.7201911425275833,
+            "direction": "horizontal",
+            "points": [
+                [
+                    303,
+                    357
+                ],
+                [
+                    377,
+                    357
+                ],
+                [
+                    377,
+                    466
+                ],
+                [
+                    303,
+                    466
+                ]
+            ],
+            "rec_score": 0.34857502579689026
+        },
+        {
+            "content": "教育と子育てへの投資",
+            "det_score": 0.866492211751356,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1127,
+                    313
+                ],
+                [
+                    1424,
+                    313
+                ],
+                [
+                    1424,
+                    344
+                ],
+                [
+                    1127,
+                    344
+                ]
+            ],
+            "rec_score": 0.9999006986618042
+        },
+        {
+            "content": "マジン国民民主党の政策4本柱マジマ",
+            "det_score": 0.7909562869019628,
+            "direction": "horizontal",
+            "points": [
+                [
+                    57,
+                    266
+                ],
+                [
+                    1061,
+                    266
+                ],
+                [
+                    1061,
+                    344
+                ],
+                [
+                    57,
+                    344
+                ]
+            ],
+            "rec_score": 0.02003571018576622
+        },
+        {
+            "content": "農林水産業の振興と地域資源の価値向上",
+            "det_score": 0.8636036159923959,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1127,
+                    261
+                ],
+                [
+                    1623,
+                    261
+                ],
+                [
+                    1623,
+                    292
+                ],
+                [
+                    1127,
+                    292
+                ]
+            ],
+            "rec_score": 0.9998302459716797
+        },
+        {
+            "content": "しま",
+            "det_score": 0.7088241365742801,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2107,
+                    248
+                ],
+                [
+                    2139,
+                    250
+                ],
+                [
+                    2135,
+                    310
+                ],
+                [
+                    2103,
+                    307
+                ]
+            ],
+            "rec_score": 0.9614028334617615
+        },
+        {
+            "content": "誰一人取り残さない社会保障の推進",
+            "det_score": 0.8587199998028735,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1125,
+                    209
+                ],
+                [
+                    1610,
+                    208
+                ],
+                [
+                    1610,
+                    240
+                ],
+                [
+                    1125,
+                    241
+                ]
+            ],
+            "rec_score": 0.9944866895675659
+        },
+        {
+            "content": "前東広島市議会議員",
+            "det_score": 0.8166834597529904,
+            "direction": "horizontal",
+            "points": [
+                [
+                    764,
+                    186
+                ],
+                [
+                    1036,
+                    163
+                ],
+                [
+                    1039,
+                    208
+                ],
+                [
+                    768,
+                    231
+                ]
+            ],
+            "rec_score": 0.20277318358421326
+        },
+        {
+            "content": "日々の暮らしと未来を守る経済対策",
+            "det_score": 0.8580927589002435,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1124,
+                    157
+                ],
+                [
+                    1594,
+                    157
+                ],
+                [
+                    1594,
+                    188
+                ],
+                [
+                    1124,
+                    188
+                ]
+            ],
+            "rec_score": 0.9993389844894409
+        },
+        {
+            "content": "なべ",
+            "det_score": 0.77336654220229,
+            "direction": "horizontal",
+            "points": [
+                [
+                    2107,
+                    104
+                ],
+                [
+                    2140,
+                    107
+                ],
+                [
+                    2136,
+                    163
+                ],
+                [
+                    2103,
+                    160
+                ]
+            ],
+            "rec_score": 0.7738811373710632
+        },
+        {
+            "content": "鍋島せり",
+            "det_score": 0.8451787262020838,
+            "direction": "vertical",
+            "points": [
+                [
+                    1926,
+                    30
+                ],
+                [
+                    2127,
+                    30
+                ],
+                [
+                    2127,
+                    680
+                ],
+                [
+                    1926,
+                    680
+                ]
+            ],
+            "rec_score": 0.9850571155548096
+        },
+        {
+            "content": "広島から、せり上がる",
+            "det_score": 0.8792463958685263,
+            "direction": "horizontal",
+            "points": [
+                [
+                    73,
+                    87
+                ],
+                [
+                    1048,
+                    24
+                ],
+                [
+                    1058,
+                    179
+                ],
+                [
+                    82,
+                    241
+                ]
+            ],
+            "rec_score": 0.9580892324447632
+        },
+        {
+            "content": "鍋島 セリ34歳",
+            "det_score": 0.9073153173164771,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1127,
+                    43
+                ],
+                [
+                    1628,
+                    43
+                ],
+                [
+                    1628,
+                    150
+                ],
+                [
+                    1127,
+                    150
+                ]
+            ],
+            "rec_score": 0.594426155090332
+        },
+        {
+            "content": "新人",
+            "det_score": 0.5597962604452532,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1078,
+                    49
+                ],
+                [
+                    1128,
+                    49
+                ],
+                [
+                    1128,
+                    149
+                ],
+                [
+                    1078,
+                    149
+                ]
+            ],
+            "rec_score": 0.9884317517280579
+        },
+        {
+            "content": "国民民主党公認",
+            "det_score": 0.8324460424787675,
+            "direction": "vertical",
+            "points": [
+                [
+                    2137,
+                    45
+                ],
+                [
+                    2172,
+                    45
+                ],
+                [
+                    2172,
+                    271
+                ],
+                [
+                    2137,
+                    271
+                ]
+            ],
+            "rec_score": 0.999617338180542
+        }
+    ]
+}

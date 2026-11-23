@@ -1,0 +1,4904 @@
+{
+    "figures": [
+        {
+            "box": [
+                322,
+                289,
+                591,
+                519
+            ],
+            "direction": "horizontal",
+            "order": 8,
+            "paragraphs": [
+                {
+                    "box": [
+                        344,
+                        473,
+                        447,
+                        513
+                    ],
+                    "contents": "議員歳費等の\nコストカット",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        467,
+                        472,
+                        554,
+                        490
+                    ],
+                    "contents": "意思決定が",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        466,
+                        493,
+                        579,
+                        512
+                    ],
+                    "contents": "スピーディーに",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                600,
+                17,
+                840,
+                266
+            ],
+            "direction": "horizontal",
+            "order": 11,
+            "paragraphs": [
+                {
+                    "box": [
+                        650,
+                        30,
+                        825,
+                        88
+                    ],
+                    "contents": "4\n誰もが英語を話せる\n· 教育の実現",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        758,
+                        56,
+                        842,
+                        110
+                    ],
+                    "contents": "実用的な」",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        741,
+                        91,
+                        835,
+                        128
+                    ],
+                    "contents": "学びで成長を!",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        613,
+                        222,
+                        791,
+                        262
+                    ],
+                    "contents": "世界で活躍できる人材に\n育てる教育を",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                783,
+                342,
+                993,
+                516
+            ],
+            "direction": "horizontal",
+            "order": 18,
+            "paragraphs": [
+                {
+                    "box": [
+                        792,
+                        358,
+                        834,
+                        418
+                    ],
+                    "contents": "5",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        813,
+                        358,
+                        967,
+                        411
+                    ],
+                    "contents": "2年間の飲食\n食料品消費税O",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1634,
+                187,
+                1850,
+                484
+            ],
+            "direction": "horizontal",
+            "order": 58,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                15,
+                13,
+                299,
+                434
+            ],
+            "contents": "高見りょうの\n史上最高の\n大阪に\n副首都大阪を実現 5\n高見さんは実行力が本物です。\n私達は強く推薦します。",
+            "direction": "vertical",
+            "order": 0,
+            "role": null
+        },
+        {
+            "box": [
+                12,
+                460,
+                75,
+                483
+            ],
+            "contents": "推薦人",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                6,
+                492,
+                79,
+                687
+            ],
+            "contents": "吉村洋文\n横山ひでゆき",
+            "direction": "vertical",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                97,
+                412,
+                297,
+                481
+            ],
+            "contents": "高見りょうの\nつの取組み",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                96,
+                489,
+                297,
+                700
+            ],
+            "contents": "東京一極集中の是正と行\n財政改革を軸に、日本の成\n長と暮らしの安定を両立さ\nせることを目指しています。\n副首都制度の実現、教育改\n革、移住管理、生活負担の\n軽減を通じて、持続可能で\n競争力のある社会の構築\nに取り組みます。",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                326,
+                30,
+                586,
+                102
+            ],
+            "contents": "大阪を東京を超える都市へ\n副首都制度の実現",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                311,
+                39,
+                338,
+                100
+            ],
+            "contents": "1",
+            "direction": "vertical",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                330,
+                126,
+                583,
+                273
+            ],
+            "contents": "東京一極集中を是正し、首都\n機能のバックアップと分散を\n図ることで、大阪を日本の成長\nエンジンとなる副首都として\n明確に位置づける制度の実現\nを目指します。",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                337,
+                575,
+                490,
+                629
+            ],
+            "contents": "3\n外国人移住の\n徹底管理",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                324,
+                649,
+                518,
+                691
+            ],
+            "contents": "日本の安心と秩序を\n確保する外国人共生政策",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                562,
+                303,
+                610,
+                367
+            ],
+            "contents": "2",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                584,
+                305,
+                733,
+                358
+            ],
+            "contents": "議員定数削減\n行政の効率化",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                593,
+                376,
+                750,
+                521
+            ],
+            "contents": "大阪では議員定数削\n減、行政の無駄をな\nくしました。同じよう\nに衆議院の定数削\n減、官僚組織の無駄\nを無くします。",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                533,
+                555,
+                747,
+                674
+            ],
+            "contents": "外国人受け入れ、外国人の\n十地取得について、ルー\nルと管理体制を\n厳格にしてい\nきます。",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                543,
+                679,
+                594,
+                695
+            ],
+            "contents": "RULES",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                844,
+                35,
+                999,
+                303
+            ],
+            "contents": "今まで国の指導要\n領に沿った教育で\nは、結局英語が喋\nれない人がほとん\nどです。成果の出な\nい国に頼るのでは\nなく、地方が自由に\nカリキュラムを組め\nる制度にし、誰もが\n英語を喋れる教育\nを実現します。",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                793,
+                519,
+                919,
+                559
+            ],
+            "contents": "暮らしに\n直結する減税策",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                782,
+                576,
+                984,
+                670
+            ],
+            "contents": "生活負担を軽減するため、\n飲食料品にかかる消費税\nを一定期間ゼロとする措\n置を掲げます。",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                1040,
+                28,
+                1126,
+                79
+            ],
+            "contents": "提案 2016\n実現 2020",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                1042,
+                94,
+                1127,
+                114
+            ],
+            "contents": "提案 2018",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                1042,
+                126,
+                1122,
+                145
+            ],
+            "contents": "実現 2021",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                1041,
+                166,
+                1125,
+                218
+            ],
+            "contents": "提案 2021\n実現 2023",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                1040,
+                346,
+                1126,
+                416
+            ],
+            "contents": "提案 2021\n計画 2024\n作成",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                1041,
+                434,
+                1125,
+                485
+            ],
+            "contents": "提案 2022\n実現 2024",
+            "direction": "horizontal",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                1037,
+                513,
+                1066,
+                540
+            ],
+            "contents": "※",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                1141,
+                26,
+                1311,
+                79
+            ],
+            "contents": "タブレット等を\n生徒に1人1台支給",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                1143,
+                92,
+                1277,
+                142
+            ],
+            "contents": "長居植物園の\n魅力向上",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                1142,
+                160,
+                1307,
+                271
+            ],
+            "contents": "5·6年生へ\n塾代助成の拡充\n所得制限無しの\n給食費無償化",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                1144,
+                280,
+                1311,
+                332
+            ],
+            "contents": "保険外\n不妊治療への助成",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                1141,
+                340,
+                1306,
+                390
+            ],
+            "contents": "長居障がい者\nSCの現地建替え",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                1141,
+                430,
+                1292,
+                481
+            ],
+            "contents": "子ども医療費の\n所得制限撤廃",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                1037,
+                547,
+                1223,
+                595
+            ],
+            "contents": "日本維新の会×\n自由民主党連立合意",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                1036,
+                604,
+                1222,
+                691
+            ],
+            "contents": "日本再起への\n12本の矢",
+            "direction": "horizontal",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                1334,
+                30,
+                1412,
+                48
+            ],
+            "contents": "提案 2021",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                1333,
+                62,
+                1415,
+                80
+            ],
+            "contents": "完成 2024",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                1333,
+                101,
+                1417,
+                119
+            ],
+            "contents": "提案 2022",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                1334,
+                133,
+                1414,
+                151
+            ],
+            "contents": "実現 2024",
+            "direction": "horizontal",
+            "order": 39,
+            "role": null
+        },
+        {
+            "box": [
+                1332,
+                167,
+                1416,
+                220
+            ],
+            "contents": "提案 2023\n実現 2025",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                1334,
+                259,
+                1416,
+                277
+            ],
+            "contents": "提案 2023·",
+            "direction": "horizontal",
+            "order": 41,
+            "role": null
+        },
+        {
+            "box": [
+                1334,
+                291,
+                1417,
+                310
+            ],
+            "contents": "実現 2023·",
+            "direction": "horizontal",
+            "order": 42,
+            "role": null
+        },
+        {
+            "box": [
+                1334,
+                329,
+                1415,
+                348
+            ],
+            "contents": "提案 2023",
+            "direction": "horizontal",
+            "order": 43,
+            "role": null
+        },
+        {
+            "box": [
+                1334,
+                361,
+                1414,
+                379
+            ],
+            "contents": "実現 2024",
+            "direction": "horizontal",
+            "order": 44,
+            "role": null
+        },
+        {
+            "box": [
+                1333,
+                400,
+                1414,
+                418
+            ],
+            "contents": "提案 2023",
+            "direction": "horizontal",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                1333,
+                431,
+                1416,
+                449
+            ],
+            "contents": "2023~進行中",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        },
+        {
+            "box": [
+                1239,
+                549,
+                1416,
+                688
+            ],
+            "contents": "自民党との連立は、維\n新が掲げた「12本の矢」\n政策合意が条件。現在、\n12項目63の合意事項\nのもと、具体的な協議が\n進んでいます。",
+            "direction": "horizontal",
+            "order": 47,
+            "role": null
+        },
+        {
+            "box": [
+                1434,
+                26,
+                1547,
+                76
+            ],
+            "contents": "不登校\n特例校設立",
+            "direction": "horizontal",
+            "order": 48,
+            "role": null
+        },
+        {
+            "box": [
+                1436,
+                98,
+                1528,
+                149
+            ],
+            "contents": "地域活動\n補助増額",
+            "direction": "horizontal",
+            "order": 49,
+            "role": null
+        },
+        {
+            "box": [
+                1588,
+                8,
+                1737,
+                162
+            ],
+            "contents": "10年の実績!\n市会議員\n主な成果で証明\n提案力と\n実行力",
+            "direction": "horizontal",
+            "order": 50,
+            "role": null
+        },
+        {
+            "box": [
+                1432,
+                164,
+                1634,
+                244
+            ],
+            "contents": "阿倍野·東住吉·\n平野·生野への\nオンデマンドバスの実施",
+            "direction": "horizontal",
+            "order": 51,
+            "role": null
+        },
+        {
+            "box": [
+                1435,
+                257,
+                1609,
+                311
+            ],
+            "contents": "市会議員定数削減\n現在の定数81→70",
+            "direction": "horizontal",
+            "order": 52,
+            "role": null
+        },
+        {
+            "box": [
+                1435,
+                327,
+                1573,
+                379
+            ],
+            "contents": "塾代助成の\n所得制限撤廃",
+            "direction": "horizontal",
+            "order": 53,
+            "role": null
+        },
+        {
+            "box": [
+                1435,
+                397,
+                1548,
+                448
+            ],
+            "contents": "公園遊具の\n魅力化",
+            "direction": "horizontal",
+            "order": 54,
+            "role": null
+        },
+        {
+            "box": [
+                1436,
+                475,
+                1683,
+                512
+            ],
+            "contents": "12本の矢からPick up!",
+            "direction": "horizontal",
+            "order": 55,
+            "role": null
+        },
+        {
+            "box": [
+                1478,
+                525,
+                1724,
+                683
+            ],
+            "contents": "11 高見りょうは、都構想プロ\n統 ジェクトの責任者として、副\n主 首都法案にも関わり、大阪\nの統治機構改革をリードし\nてきました。世界と戦える統\n治機構を目指します。",
+            "direction": "horizontal",
+            "order": 56,
+            "role": null
+        },
+        {
+            "box": [
+                1457,
+                525,
+                1482,
+                685
+            ],
+            "contents": "機構改革\n治",
+            "direction": "vertical",
+            "order": 57,
+            "role": null
+        },
+        {
+            "box": [
+                1759,
+                518,
+                1894,
+                623
+            ],
+            "contents": "■公認会計士\n■税理士\n■大阪大学卒業\n■関西広域連合\n議会議員 歴任",
+            "direction": "horizontal",
+            "order": 59,
+            "role": null
+        },
+        {
+            "box": [
+                1762,
+                633,
+                2117,
+                705
+            ],
+            "contents": "大阪維新の会 政調会長\n日本維新の会 政調会長代行",
+            "direction": "horizontal",
+            "order": 60,
+            "role": null
+        },
+        {
+            "box": [
+                1762,
+                16,
+                1998,
+                87
+            ],
+            "contents": "3期10年\n大阪市会議員\n47才\n1人娘の父",
+            "direction": "horizontal",
+            "order": 61,
+            "role": null
+        },
+        {
+            "box": [
+                1902,
+                16,
+                2159,
+                636
+            ],
+            "contents": "高見ゆ\n47才\n1人娘の父\nたかみ\n日本維新会員",
+            "direction": "horizontal",
+            "order": 62,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "に取り組みます。",
+            "det_score": 0.8783502986083678,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    680
+                ],
+                [
+                    218,
+                    680
+                ],
+                [
+                    218,
+                    701
+                ],
+                [
+                    99,
+                    701
+                ]
+            ],
+            "rec_score": 0.9999890327453613
+        },
+        {
+            "content": "RULES",
+            "det_score": 0.8083051776396479,
+            "direction": "horizontal",
+            "points": [
+                [
+                    541,
+                    676
+                ],
+                [
+                    595,
+                    676
+                ],
+                [
+                    595,
+                    698
+                ],
+                [
+                    541,
+                    698
+                ]
+            ],
+            "rec_score": 0.9989331960678101
+        },
+        {
+            "content": "日本維新の会 政調会長代行",
+            "det_score": 0.8647995836848393,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1762,
+                    670
+                ],
+                [
+                    2115,
+                    670
+                ],
+                [
+                    2115,
+                    704
+                ],
+                [
+                    1762,
+                    704
+                ]
+            ],
+            "rec_score": 0.9951880574226379
+        },
+        {
+            "content": "確保する外国人共生政策",
+            "det_score": 0.7662712205790088,
+            "direction": "horizontal",
+            "points": [
+                [
+                    322,
+                    670
+                ],
+                [
+                    519,
+                    670
+                ],
+                [
+                    519,
+                    691
+                ],
+                [
+                    322,
+                    691
+                ]
+            ],
+            "rec_score": 0.9997273683547974
+        },
+        {
+            "content": "進んでいます。",
+            "det_score": 0.8503906899011198,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1240,
+                    668
+                ],
+                [
+                    1342,
+                    668
+                ],
+                [
+                    1342,
+                    688
+                ],
+                [
+                    1240,
+                    688
+                ]
+            ],
+            "rec_score": 0.9999512434005737
+        },
+        {
+            "content": "治機構を目指します。",
+            "det_score": 0.8847208232755381,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1497,
+                    662
+                ],
+                [
+                    1667,
+                    662
+                ],
+                [
+                    1667,
+                    683
+                ],
+                [
+                    1497,
+                    683
+                ]
+            ],
+            "rec_score": 0.9978189468383789
+        },
+        {
+            "content": "競争力のある社会の構築",
+            "det_score": 0.8770281054924444,
+            "direction": "horizontal",
+            "points": [
+                [
+                    101,
+                    658
+                ],
+                [
+                    296,
+                    658
+                ],
+                [
+                    296,
+                    674
+                ],
+                [
+                    101,
+                    674
+                ]
+            ],
+            "rec_score": 0.9986791610717773
+        },
+        {
+            "content": "きます。",
+            "det_score": 0.8055331307622764,
+            "direction": "horizontal",
+            "points": [
+                [
+                    651,
+                    654
+                ],
+                [
+                    707,
+                    654
+                ],
+                [
+                    707,
+                    676
+                ],
+                [
+                    651,
+                    676
+                ]
+            ],
+            "rec_score": 0.9991555213928223
+        },
+        {
+            "content": "置を掲げます。",
+            "det_score": 0.8491271688550148,
+            "direction": "horizontal",
+            "points": [
+                [
+                    783,
+                    649
+                ],
+                [
+                    892,
+                    649
+                ],
+                [
+                    892,
+                    670
+                ],
+                [
+                    783,
+                    670
+                ]
+            ],
+            "rec_score": 0.9994639158248901
+        },
+        {
+            "content": "日本の安心と秩序を",
+            "det_score": 0.8481919014597914,
+            "direction": "horizontal",
+            "points": [
+                [
+                    326,
+                    651
+                ],
+                [
+                    483,
+                    651
+                ],
+                [
+                    483,
+                    668
+                ],
+                [
+                    326,
+                    668
+                ]
+            ],
+            "rec_score": 0.980082631111145
+        },
+        {
+            "content": "12本の矢",
+            "det_score": 0.9146433540181607,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1033,
+                    638
+                ],
+                [
+                    1222,
+                    638
+                ],
+                [
+                    1222,
+                    691
+                ],
+                [
+                    1033,
+                    691
+                ]
+            ],
+            "rec_score": 0.9997203946113586
+        },
+        {
+            "content": "のもと、具体的な協議が",
+            "det_score": 0.8449881503962148,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1241,
+                    644
+                ],
+                [
+                    1415,
+                    644
+                ],
+                [
+                    1415,
+                    665
+                ],
+                [
+                    1241,
+                    665
+                ]
+            ],
+            "rec_score": 0.9998825788497925
+        },
+        {
+            "content": "大阪維新の会 政調会長",
+            "det_score": 0.8576403624717669,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1759,
+                    634
+                ],
+                [
+                    2059,
+                    634
+                ],
+                [
+                    2059,
+                    668
+                ],
+                [
+                    1759,
+                    668
+                ]
+            ],
+            "rec_score": 0.9963939785957336
+        },
+        {
+            "content": "てきました。世界と戦える統",
+            "det_score": 0.7927562419155781,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1497,
+                    634
+                ],
+                [
+                    1722,
+                    634
+                ],
+                [
+                    1722,
+                    655
+                ],
+                [
+                    1497,
+                    655
+                ]
+            ],
+            "rec_score": 0.9964683651924133
+        },
+        {
+            "content": "軽減を通じて、持続可能で",
+            "det_score": 0.8731009486225733,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    631
+                ],
+                [
+                    296,
+                    631
+                ],
+                [
+                    296,
+                    652
+                ],
+                [
+                    99,
+                    652
+                ]
+            ],
+            "rec_score": 0.9967349767684937
+        },
+        {
+            "content": "厳格にしてい",
+            "det_score": 0.905788617518247,
+            "direction": "horizontal",
+            "points": [
+                [
+                    636,
+                    629
+                ],
+                [
+                    748,
+                    629
+                ],
+                [
+                    748,
+                    649
+                ],
+                [
+                    636,
+                    649
+                ]
+            ],
+            "rec_score": 0.9994553327560425
+        },
+        {
+            "content": "を一定期間ゼロとする措",
+            "det_score": 0.849087159940298,
+            "direction": "horizontal",
+            "points": [
+                [
+                    783,
+                    624
+                ],
+                [
+                    983,
+                    624
+                ],
+                [
+                    983,
+                    645
+                ],
+                [
+                    783,
+                    645
+                ]
+            ],
+            "rec_score": 0.9976781010627747
+        },
+        {
+            "content": "12項目63の合意事項",
+            "det_score": 0.8742069546321425,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1244,
+                    622
+                ],
+                [
+                    1415,
+                    622
+                ],
+                [
+                    1415,
+                    638
+                ],
+                [
+                    1244,
+                    638
+                ]
+            ],
+            "rec_score": 0.9991931319236755
+        },
+        {
+            "content": "日本再起への",
+            "det_score": 0.897478517059663,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1037,
+                    606
+                ],
+                [
+                    1221,
+                    606
+                ],
+                [
+                    1221,
+                    638
+                ],
+                [
+                    1037,
+                    638
+                ]
+            ],
+            "rec_score": 0.9994527697563171
+        },
+        {
+            "content": "の統治機構改革をリードし",
+            "det_score": 0.908032897902851,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1497,
+                    608
+                ],
+                [
+                    1721,
+                    608
+                ],
+                [
+                    1721,
+                    629
+                ],
+                [
+                    1497,
+                    629
+                ]
+            ],
+            "rec_score": 0.9987730979919434
+        },
+        {
+            "content": "革、移住管理、生活負担の",
+            "det_score": 0.753967186019047,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    608
+                ],
+                [
+                    296,
+                    608
+                ],
+                [
+                    296,
+                    629
+                ],
+                [
+                    99,
+                    629
+                ]
+            ],
+            "rec_score": 0.9846451878547668
+        },
+        {
+            "content": "ルと管理体制を",
+            "det_score": 0.9248467258387997,
+            "direction": "horizontal",
+            "points": [
+                [
+                    619,
+                    606
+                ],
+                [
+                    746,
+                    606
+                ],
+                [
+                    746,
+                    623
+                ],
+                [
+                    619,
+                    623
+                ]
+            ],
+            "rec_score": 0.9988905191421509
+        },
+        {
+            "content": "議会議員 歴任",
+            "det_score": 0.8463537322887772,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1774,
+                    601
+                ],
+                [
+                    1895,
+                    598
+                ],
+                [
+                    1895,
+                    623
+                ],
+                [
+                    1774,
+                    626
+                ]
+            ],
+            "rec_score": 0.9989736080169678
+        },
+        {
+            "content": "徹底管理",
+            "det_score": 0.8307833050763139,
+            "direction": "horizontal",
+            "points": [
+                [
+                    371,
+                    601
+                ],
+                [
+                    454,
+                    596
+                ],
+                [
+                    456,
+                    622
+                ],
+                [
+                    372,
+                    628
+                ]
+            ],
+            "rec_score": 0.999104917049408
+        },
+        {
+            "content": "飲食料品にかかる消費税",
+            "det_score": 0.8307433585757795,
+            "direction": "horizontal",
+            "points": [
+                [
+                    783,
+                    599
+                ],
+                [
+                    983,
+                    599
+                ],
+                [
+                    983,
+                    620
+                ],
+                [
+                    783,
+                    620
+                ]
+            ],
+            "rec_score": 0.9999442100524902
+        },
+        {
+            "content": "機構改革",
+            "det_score": 0.5587108233689212,
+            "direction": "vertical",
+            "points": [
+                [
+                    1452,
+                    592
+                ],
+                [
+                    1486,
+                    592
+                ],
+                [
+                    1486,
+                    690
+                ],
+                [
+                    1452,
+                    690
+                ]
+            ],
+            "rec_score": 0.999544084072113
+        },
+        {
+            "content": "政策合意が条件。現在、",
+            "det_score": 0.8685230916391496,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1242,
+                    598
+                ],
+                [
+                    1411,
+                    598
+                ],
+                [
+                    1411,
+                    615
+                ],
+                [
+                    1242,
+                    615
+                ]
+            ],
+            "rec_score": 0.9854351878166199
+        },
+        {
+            "content": "副首都制度の実現、教育改",
+            "det_score": 0.8323230770601717,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    584
+                ],
+                [
+                    298,
+                    584
+                ],
+                [
+                    298,
+                    605
+                ],
+                [
+                    99,
+                    605
+                ]
+            ],
+            "rec_score": 0.9969642162322998
+        },
+        {
+            "content": "■関西広域連合",
+            "det_score": 0.8221683885785751,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1758,
+                    581
+                ],
+                [
+                    1887,
+                    581
+                ],
+                [
+                    1887,
+                    602
+                ],
+                [
+                    1758,
+                    602
+                ]
+            ],
+            "rec_score": 0.9991692900657654
+        },
+        {
+            "content": "3",
+            "det_score": 0.8200440198763624,
+            "direction": "horizontal",
+            "points": [
+                [
+                    334,
+                    577
+                ],
+                [
+                    372,
+                    577
+                ],
+                [
+                    372,
+                    634
+                ],
+                [
+                    334,
+                    634
+                ]
+            ],
+            "rec_score": 0.9996047019958496
+        },
+        {
+            "content": "主 首都法案にも関わり、大阪",
+            "det_score": 0.8508164658274128,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1472,
+                    580
+                ],
+                [
+                    1721,
+                    580
+                ],
+                [
+                    1721,
+                    601
+                ],
+                [
+                    1472,
+                    601
+                ]
+            ],
+            "rec_score": 0.20222586393356323
+        },
+        {
+            "content": "十地取得について、ルー",
+            "det_score": 0.89025400889627,
+            "direction": "horizontal",
+            "points": [
+                [
+                    575,
+                    581
+                ],
+                [
+                    746,
+                    581
+                ],
+                [
+                    746,
+                    598
+                ],
+                [
+                    575,
+                    598
+                ]
+            ],
+            "rec_score": 0.6746261119842529
+        },
+        {
+            "content": "治",
+            "det_score": 0.609636317640543,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1457,
+                    576
+                ],
+                [
+                    1483,
+                    576
+                ],
+                [
+                    1483,
+                    605
+                ],
+                [
+                    1457,
+                    605
+                ]
+            ],
+            "rec_score": 0.9357547760009766
+        },
+        {
+            "content": "外国人移住の",
+            "det_score": 0.8385555925158162,
+            "direction": "horizontal",
+            "points": [
+                [
+                    369,
+                    579
+                ],
+                [
+                    487,
+                    571
+                ],
+                [
+                    489,
+                    597
+                ],
+                [
+                    371,
+                    606
+                ]
+            ],
+            "rec_score": 0.9995918869972229
+        },
+        {
+            "content": "生活負担を軽減するため、",
+            "det_score": 0.8228664839844827,
+            "direction": "horizontal",
+            "points": [
+                [
+                    783,
+                    574
+                ],
+                [
+                    980,
+                    574
+                ],
+                [
+                    980,
+                    595
+                ],
+                [
+                    783,
+                    595
+                ]
+            ],
+            "rec_score": 0.9995640516281128
+        },
+        {
+            "content": "自由民主党連立合意",
+            "det_score": 0.8522771304942728,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1037,
+                    573
+                ],
+                [
+                    1222,
+                    573
+                ],
+                [
+                    1222,
+                    594
+                ],
+                [
+                    1037,
+                    594
+                ]
+            ],
+            "rec_score": 0.9983505606651306
+        },
+        {
+            "content": "新が掲げた「12本の矢」",
+            "det_score": 0.8361923721980075,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1241,
+                    572
+                ],
+                [
+                    1414,
+                    572
+                ],
+                [
+                    1414,
+                    592
+                ],
+                [
+                    1241,
+                    592
+                ]
+            ],
+            "rec_score": 0.9935044646263123
+        },
+        {
+            "content": "■大阪大学卒業",
+            "det_score": 0.8485865459691755,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1759,
+                    560
+                ],
+                [
+                    1890,
+                    560
+                ],
+                [
+                    1890,
+                    581
+                ],
+                [
+                    1759,
+                    581
+                ]
+            ],
+            "rec_score": 0.9981657266616821
+        },
+        {
+            "content": "せることを目指しています。",
+            "det_score": 0.8675694784916173,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    560
+                ],
+                [
+                    295,
+                    560
+                ],
+                [
+                    295,
+                    581
+                ],
+                [
+                    99,
+                    581
+                ]
+            ],
+            "rec_score": 0.9999871253967285
+        },
+        {
+            "content": "外国人受け入れ、外国人の",
+            "det_score": 0.8842524711399862,
+            "direction": "horizontal",
+            "points": [
+                [
+                    537,
+                    556
+                ],
+                [
+                    745,
+                    556
+                ],
+                [
+                    745,
+                    573
+                ],
+                [
+                    537,
+                    573
+                ]
+            ],
+            "rec_score": 0.9999254941940308
+        },
+        {
+            "content": "統 ジェクトの責任者として、副",
+            "det_score": 0.7644408436954646,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1450,
+                    548
+                ],
+                [
+                    1726,
+                    539
+                ],
+                [
+                    1727,
+                    578
+                ],
+                [
+                    1451,
+                    587
+                ]
+            ],
+            "rec_score": 0.9967492818832397
+        },
+        {
+            "content": "自民党との連立は、維",
+            "det_score": 0.8429901519432942,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1244,
+                    551
+                ],
+                [
+                    1414,
+                    551
+                ],
+                [
+                    1414,
+                    567
+                ],
+                [
+                    1244,
+                    567
+                ]
+            ],
+            "rec_score": 0.9797236323356628
+        },
+        {
+            "content": "日本維新の会×",
+            "det_score": 0.8869129404137549,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1037,
+                    548
+                ],
+                [
+                    1179,
+                    548
+                ],
+                [
+                    1179,
+                    569
+                ],
+                [
+                    1037,
+                    569
+                ]
+            ],
+            "rec_score": 0.9977854490280151
+        },
+        {
+            "content": "■税理士",
+            "det_score": 0.8129175661657101,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1759,
+                    538
+                ],
+                [
+                    1835,
+                    538
+                ],
+                [
+                    1835,
+                    560
+                ],
+                [
+                    1759,
+                    560
+                ]
+            ],
+            "rec_score": 0.9939360022544861
+        },
+        {
+            "content": "直結する減税策",
+            "det_score": 0.8262027473426332,
+            "direction": "horizontal",
+            "points": [
+                [
+                    791,
+                    537
+                ],
+                [
+                    920,
+                    537
+                ],
+                [
+                    920,
+                    562
+                ],
+                [
+                    791,
+                    562
+                ]
+            ],
+            "rec_score": 0.9983512163162231
+        },
+        {
+            "content": "長と暮らしの安定を両立さ",
+            "det_score": 0.8594595873258588,
+            "direction": "horizontal",
+            "points": [
+                [
+                    102,
+                    538
+                ],
+                [
+                    295,
+                    538
+                ],
+                [
+                    295,
+                    555
+                ],
+                [
+                    102,
+                    555
+                ]
+            ],
+            "rec_score": 0.9998000860214233
+        },
+        {
+            "content": "11 高見りょうは、都構想プロ",
+            "det_score": 0.7740518448204224,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1448,
+                    516
+                ],
+                [
+                    1726,
+                    516
+                ],
+                [
+                    1726,
+                    559
+                ],
+                [
+                    1448,
+                    559
+                ]
+            ],
+            "rec_score": 0.9806055426597595
+        },
+        {
+            "content": "■公認会計士",
+            "det_score": 0.7873507833723858,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1758,
+                    516
+                ],
+                [
+                    1872,
+                    516
+                ],
+                [
+                    1872,
+                    541
+                ],
+                [
+                    1758,
+                    541
+                ]
+            ],
+            "rec_score": 0.9993995428085327
+        },
+        {
+            "content": "暮らしに",
+            "det_score": 0.8189847539394897,
+            "direction": "horizontal",
+            "points": [
+                [
+                    791,
+                    517
+                ],
+                [
+                    863,
+                    517
+                ],
+                [
+                    863,
+                    540
+                ],
+                [
+                    791,
+                    540
+                ]
+            ],
+            "rec_score": 0.9997938871383667
+        },
+        {
+            "content": "※",
+            "det_score": 0.5144762755930424,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1037,
+                    513
+                ],
+                [
+                    1066,
+                    513
+                ],
+                [
+                    1066,
+                    540
+                ],
+                [
+                    1037,
+                    540
+                ]
+            ],
+            "rec_score": 0.3986356854438782
+        },
+        {
+            "content": "財政改革を軸に、日本の成",
+            "det_score": 0.8602828127997262,
+            "direction": "horizontal",
+            "points": [
+                [
+                    101,
+                    515
+                ],
+                [
+                    296,
+                    515
+                ],
+                [
+                    296,
+                    531
+                ],
+                [
+                    101,
+                    531
+                ]
+            ],
+            "rec_score": 0.9984986782073975
+        },
+        {
+            "content": "を無くします。",
+            "det_score": 0.8710486182186863,
+            "direction": "horizontal",
+            "points": [
+                [
+                    594,
+                    501
+                ],
+                [
+                    699,
+                    501
+                ],
+                [
+                    699,
+                    521
+                ],
+                [
+                    594,
+                    521
+                ]
+            ],
+            "rec_score": 0.9999616146087646
+        },
+        {
+            "content": "横山ひでゆき",
+            "det_score": 0.8563807037710262,
+            "direction": "vertical",
+            "points": [
+                [
+                    5,
+                    490
+                ],
+                [
+                    48,
+                    490
+                ],
+                [
+                    48,
+                    688
+                ],
+                [
+                    5,
+                    688
+                ]
+            ],
+            "rec_score": 0.9912883043289185
+        },
+        {
+            "content": "吉村洋文",
+            "det_score": 0.793218644090284,
+            "direction": "vertical",
+            "points": [
+                [
+                    36,
+                    485
+                ],
+                [
+                    88,
+                    484
+                ],
+                [
+                    91,
+                    632
+                ],
+                [
+                    40,
+                    633
+                ]
+            ],
+            "rec_score": 0.8453994989395142
+        },
+        {
+            "content": "スピーディーに",
+            "det_score": 0.8489017782563513,
+            "direction": "horizontal",
+            "points": [
+                [
+                    466,
+                    492
+                ],
+                [
+                    579,
+                    492
+                ],
+                [
+                    579,
+                    513
+                ],
+                [
+                    466,
+                    513
+                ]
+            ],
+            "rec_score": 0.9999414682388306
+        },
+        {
+            "content": "コストカット",
+            "det_score": 0.8550594847148923,
+            "direction": "horizontal",
+            "points": [
+                [
+                    343,
+                    492
+                ],
+                [
+                    436,
+                    492
+                ],
+                [
+                    436,
+                    513
+                ],
+                [
+                    343,
+                    513
+                ]
+            ],
+            "rec_score": 0.999944806098938
+        },
+        {
+            "content": "東京一極集中の是正と行",
+            "det_score": 0.834341225028038,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    488
+                ],
+                [
+                    296,
+                    488
+                ],
+                [
+                    296,
+                    509
+                ],
+                [
+                    99,
+                    509
+                ]
+            ],
+            "rec_score": 0.9849051833152771
+        },
+        {
+            "content": "12本の矢からPick up!",
+            "det_score": 0.8594715501745662,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1434,
+                    480
+                ],
+                [
+                    1681,
+                    472
+                ],
+                [
+                    1682,
+                    507
+                ],
+                [
+                    1435,
+                    515
+                ]
+            ],
+            "rec_score": 0.9747925996780396
+        },
+        {
+            "content": "減、官僚組織の無駄",
+            "det_score": 0.7777350678875171,
+            "direction": "horizontal",
+            "points": [
+                [
+                    594,
+                    476
+                ],
+                [
+                    750,
+                    476
+                ],
+                [
+                    750,
+                    496
+                ],
+                [
+                    594,
+                    496
+                ]
+            ],
+            "rec_score": 0.9671260714530945
+        },
+        {
+            "content": "意思決定が",
+            "det_score": 0.8390239560727903,
+            "direction": "horizontal",
+            "points": [
+                [
+                    465,
+                    471
+                ],
+                [
+                    555,
+                    471
+                ],
+                [
+                    555,
+                    492
+                ],
+                [
+                    465,
+                    492
+                ]
+            ],
+            "rec_score": 0.9988991022109985
+        },
+        {
+            "content": "議員歳費等の",
+            "det_score": 0.8555985262857021,
+            "direction": "horizontal",
+            "points": [
+                [
+                    344,
+                    471
+                ],
+                [
+                    447,
+                    471
+                ],
+                [
+                    447,
+                    492
+                ],
+                [
+                    344,
+                    492
+                ]
+            ],
+            "rec_score": 0.9964190721511841
+        },
+        {
+            "content": "実現 2024",
+            "det_score": 0.8802098511025691,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1041,
+                    464
+                ],
+                [
+                    1124,
+                    464
+                ],
+                [
+                    1124,
+                    485
+                ],
+                [
+                    1041,
+                    485
+                ]
+            ],
+            "rec_score": 0.9974426627159119
+        },
+        {
+            "content": "推薦人",
+            "det_score": 0.7956840199462715,
+            "direction": "horizontal",
+            "points": [
+                [
+                    8,
+                    456
+                ],
+                [
+                    80,
+                    456
+                ],
+                [
+                    80,
+                    488
+                ],
+                [
+                    8,
+                    488
+                ]
+            ],
+            "rec_score": 0.9990693926811218
+        },
+        {
+            "content": "所得制限撤廃",
+            "det_score": 0.8490055224861199,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1141,
+                    456
+                ],
+                [
+                    1278,
+                    456
+                ],
+                [
+                    1278,
+                    481
+                ],
+                [
+                    1141,
+                    481
+                ]
+            ],
+            "rec_score": 0.9993690252304077
+        },
+        {
+            "content": "に衆議院の定数削",
+            "det_score": 0.7828893992449006,
+            "direction": "horizontal",
+            "points": [
+                [
+                    595,
+                    451
+                ],
+                [
+                    749,
+                    451
+                ],
+                [
+                    749,
+                    471
+                ],
+                [
+                    595,
+                    471
+                ]
+            ],
+            "rec_score": 0.9860315322875977
+        },
+        {
+            "content": "つの取組み",
+            "det_score": 0.8587534864684064,
+            "direction": "horizontal",
+            "points": [
+                [
+                    147,
+                    448
+                ],
+                [
+                    299,
+                    448
+                ],
+                [
+                    299,
+                    478
+                ],
+                [
+                    147,
+                    478
+                ]
+            ],
+            "rec_score": 0.999944806098938
+        },
+        {
+            "content": "提案 2022",
+            "det_score": 0.8576615285429754,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1041,
+                    432
+                ],
+                [
+                    1126,
+                    432
+                ],
+                [
+                    1126,
+                    455
+                ],
+                [
+                    1041,
+                    455
+                ]
+            ],
+            "rec_score": 0.9993171691894531
+        },
+        {
+            "content": "子ども医療費の",
+            "det_score": 0.8634756776563665,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1141,
+                    428
+                ],
+                [
+                    1293,
+                    428
+                ],
+                [
+                    1293,
+                    453
+                ],
+                [
+                    1141,
+                    453
+                ]
+            ],
+            "rec_score": 0.999213695526123
+        },
+        {
+            "content": "2023~進行中",
+            "det_score": 0.8554305756782613,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    427
+                ],
+                [
+                    1419,
+                    427
+                ],
+                [
+                    1419,
+                    448
+                ],
+                [
+                    1331,
+                    448
+                ]
+            ],
+            "rec_score": 0.9966988563537598
+        },
+        {
+            "content": "くしました。同じよう",
+            "det_score": 0.7962893231344146,
+            "direction": "horizontal",
+            "points": [
+                [
+                    595,
+                    426
+                ],
+                [
+                    749,
+                    426
+                ],
+                [
+                    749,
+                    446
+                ],
+                [
+                    595,
+                    446
+                ]
+            ],
+            "rec_score": 0.9994025826454163
+        },
+        {
+            "content": "魅力化",
+            "det_score": 0.9092024327395205,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1431,
+                    423
+                ],
+                [
+                    1503,
+                    423
+                ],
+                [
+                    1503,
+                    449
+                ],
+                [
+                    1431,
+                    449
+                ]
+            ],
+            "rec_score": 0.9999122619628906
+        },
+        {
+            "content": "高見りょうの",
+            "det_score": 0.9017816193424459,
+            "direction": "horizontal",
+            "points": [
+                [
+                    154,
+                    414
+                ],
+                [
+                    292,
+                    414
+                ],
+                [
+                    292,
+                    445
+                ],
+                [
+                    154,
+                    445
+                ]
+            ],
+            "rec_score": 0.9973761439323425
+        },
+        {
+            "content": "減、行政の無駄をな",
+            "det_score": 0.7851063712102593,
+            "direction": "horizontal",
+            "points": [
+                [
+                    594,
+                    400
+                ],
+                [
+                    749,
+                    400
+                ],
+                [
+                    749,
+                    421
+                ],
+                [
+                    594,
+                    421
+                ]
+            ],
+            "rec_score": 0.9960720539093018
+        },
+        {
+            "content": "提案 2023",
+            "det_score": 0.833018746561633,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    398
+                ],
+                [
+                    1416,
+                    398
+                ],
+                [
+                    1416,
+                    420
+                ],
+                [
+                    1331,
+                    420
+                ]
+            ],
+            "rec_score": 0.9993854761123657
+        },
+        {
+            "content": "公園遊具の",
+            "det_score": 0.8630194997035183,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1433,
+                    395
+                ],
+                [
+                    1548,
+                    395
+                ],
+                [
+                    1548,
+                    421
+                ],
+                [
+                    1433,
+                    421
+                ]
+            ],
+            "rec_score": 0.9997135400772095
+        },
+        {
+            "content": "作成",
+            "det_score": 0.7915237427346016,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1039,
+                    395
+                ],
+                [
+                    1079,
+                    395
+                ],
+                [
+                    1079,
+                    419
+                ],
+                [
+                    1039,
+                    419
+                ]
+            ],
+            "rec_score": 0.9999477863311768
+        },
+        {
+            "content": "食料品消費税O",
+            "det_score": 0.8376616218575725,
+            "direction": "horizontal",
+            "points": [
+                [
+                    831,
+                    386
+                ],
+                [
+                    964,
+                    376
+                ],
+                [
+                    966,
+                    403
+                ],
+                [
+                    833,
+                    412
+                ]
+            ],
+            "rec_score": 0.6868478655815125
+        },
+        {
+            "content": "大阪では議員定数削",
+            "det_score": 0.7633979581357614,
+            "direction": "horizontal",
+            "points": [
+                [
+                    594,
+                    375
+                ],
+                [
+                    749,
+                    375
+                ],
+                [
+                    749,
+                    396
+                ],
+                [
+                    594,
+                    396
+                ]
+            ],
+            "rec_score": 0.8379684090614319
+        },
+        {
+            "content": "計画 2024",
+            "det_score": 0.8550982695834881,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1039,
+                    373
+                ],
+                [
+                    1127,
+                    373
+                ],
+                [
+                    1127,
+                    399
+                ],
+                [
+                    1039,
+                    399
+                ]
+            ],
+            "rec_score": 0.9896448850631714
+        },
+        {
+            "content": "SCの現地建替え",
+            "det_score": 0.8176386423993144,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1141,
+                    366
+                ],
+                [
+                    1305,
+                    366
+                ],
+                [
+                    1305,
+                    391
+                ],
+                [
+                    1141,
+                    391
+                ]
+            ],
+            "rec_score": 0.9987594485282898
+        },
+        {
+            "content": "5",
+            "det_score": 0.8260392900098834,
+            "direction": "horizontal",
+            "points": [
+                [
+                    796,
+                    358
+                ],
+                [
+                    834,
+                    361
+                ],
+                [
+                    830,
+                    418
+                ],
+                [
+                    792,
+                    415
+                ]
+            ],
+            "rec_score": 0.9987917542457581
+        },
+        {
+            "content": "実現 2024",
+            "det_score": 0.899855601907887,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    359
+                ],
+                [
+                    1416,
+                    359
+                ],
+                [
+                    1416,
+                    381
+                ],
+                [
+                    1331,
+                    381
+                ]
+            ],
+            "rec_score": 0.9915306568145752
+        },
+        {
+            "content": "2年間の飲食",
+            "det_score": 0.8167324348621898,
+            "direction": "horizontal",
+            "points": [
+                [
+                    829,
+                    362
+                ],
+                [
+                    942,
+                    356
+                ],
+                [
+                    944,
+                    382
+                ],
+                [
+                    830,
+                    388
+                ]
+            ],
+            "rec_score": 0.9999690055847168
+        },
+        {
+            "content": "所得制限撤廃",
+            "det_score": 0.8766321455128492,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1433,
+                    353
+                ],
+                [
+                    1574,
+                    353
+                ],
+                [
+                    1574,
+                    381
+                ],
+                [
+                    1433,
+                    381
+                ]
+            ],
+            "rec_score": 0.9988075494766235
+        },
+        {
+            "content": "提案 2021",
+            "det_score": 0.8662367719929318,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1040,
+                    345
+                ],
+                [
+                    1123,
+                    345
+                ],
+                [
+                    1123,
+                    366
+                ],
+                [
+                    1040,
+                    366
+                ]
+            ],
+            "rec_score": 0.999530553817749
+        },
+        {
+            "content": "長居障がい者",
+            "det_score": 0.8602456737569893,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1139,
+                    339
+                ],
+                [
+                    1276,
+                    339
+                ],
+                [
+                    1276,
+                    364
+                ],
+                [
+                    1139,
+                    364
+                ]
+            ],
+            "rec_score": 0.9989609718322754
+        },
+        {
+            "content": "行政の効率化",
+            "det_score": 0.8297881595334229,
+            "direction": "horizontal",
+            "points": [
+                [
+                    600,
+                    332
+                ],
+                [
+                    723,
+                    323
+                ],
+                [
+                    725,
+                    354
+                ],
+                [
+                    602,
+                    362
+                ]
+            ],
+            "rec_score": 0.9998840093612671
+        },
+        {
+            "content": "提案 2023",
+            "det_score": 0.8825574099649617,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    328
+                ],
+                [
+                    1416,
+                    328
+                ],
+                [
+                    1416,
+                    350
+                ],
+                [
+                    1331,
+                    350
+                ]
+            ],
+            "rec_score": 0.9992592930793762
+        },
+        {
+            "content": "塾代助成の",
+            "det_score": 0.8656000099305449,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1433,
+                    325
+                ],
+                [
+                    1547,
+                    325
+                ],
+                [
+                    1547,
+                    352
+                ],
+                [
+                    1433,
+                    352
+                ]
+            ],
+            "rec_score": 0.9975710511207581
+        },
+        {
+            "content": "2",
+            "det_score": 0.7760922166944285,
+            "direction": "horizontal",
+            "points": [
+                [
+                    562,
+                    307
+                ],
+                [
+                    605,
+                    303
+                ],
+                [
+                    610,
+                    363
+                ],
+                [
+                    566,
+                    367
+                ]
+            ],
+            "rec_score": 0.9906379580497742
+        },
+        {
+            "content": "不妊治療への助成",
+            "det_score": 0.9278524170758802,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1145,
+                    309
+                ],
+                [
+                    1310,
+                    309
+                ],
+                [
+                    1310,
+                    330
+                ],
+                [
+                    1145,
+                    330
+                ]
+            ],
+            "rec_score": 0.9998776912689209
+        },
+        {
+            "content": "議員定数削減",
+            "det_score": 0.8295487083784154,
+            "direction": "horizontal",
+            "points": [
+                [
+                    600,
+                    309
+                ],
+                [
+                    725,
+                    301
+                ],
+                [
+                    726,
+                    326
+                ],
+                [
+                    602,
+                    334
+                ]
+            ],
+            "rec_score": 0.9815235733985901
+        },
+        {
+            "content": "実現 2023·",
+            "det_score": 0.8481216351723386,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    289
+                ],
+                [
+                    1421,
+                    289
+                ],
+                [
+                    1421,
+                    310
+                ],
+                [
+                    1331,
+                    310
+                ]
+            ],
+            "rec_score": 0.931899905204773
+        },
+        {
+            "content": "現在の定数81→70",
+            "det_score": 0.8194558076477405,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1435,
+                    285
+                ],
+                [
+                    1608,
+                    285
+                ],
+                [
+                    1608,
+                    310
+                ],
+                [
+                    1435,
+                    310
+                ]
+            ],
+            "rec_score": 0.9932709336280823
+        },
+        {
+            "content": "を実現します。",
+            "det_score": 0.8486755006643664,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    284
+                ],
+                [
+                    954,
+                    284
+                ],
+                [
+                    954,
+                    305
+                ],
+                [
+                    847,
+                    305
+                ]
+            ],
+            "rec_score": 0.999994158744812
+        },
+        {
+            "content": "保険外",
+            "det_score": 0.8366449313824555,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1141,
+                    277
+                ],
+                [
+                    1214,
+                    277
+                ],
+                [
+                    1214,
+                    307
+                ],
+                [
+                    1141,
+                    307
+                ]
+            ],
+            "rec_score": 0.9999039173126221
+        },
+        {
+            "content": "英語を喋れる教育",
+            "det_score": 0.9219624896455417,
+            "direction": "horizontal",
+            "points": [
+                [
+                    846,
+                    259
+                ],
+                [
+                    996,
+                    259
+                ],
+                [
+                    996,
+                    280
+                ],
+                [
+                    846,
+                    280
+                ]
+            ],
+            "rec_score": 0.9943118095397949
+        },
+        {
+            "content": "市会議員定数削減",
+            "det_score": 0.9395597324696782,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1434,
+                    254
+                ],
+                [
+                    1599,
+                    254
+                ],
+                [
+                    1599,
+                    280
+                ],
+                [
+                    1434,
+                    280
+                ]
+            ],
+            "rec_score": 0.998663067817688
+        },
+        {
+            "content": "提案 2023·",
+            "det_score": 0.7997462786333536,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    257
+                ],
+                [
+                    1421,
+                    257
+                ],
+                [
+                    1421,
+                    280
+                ],
+                [
+                    1331,
+                    280
+                ]
+            ],
+            "rec_score": 0.8858762979507446
+        },
+        {
+            "content": "を目指します。",
+            "det_score": 0.883929323421884,
+            "direction": "horizontal",
+            "points": [
+                [
+                    330,
+                    252
+                ],
+                [
+                    445,
+                    252
+                ],
+                [
+                    445,
+                    273
+                ],
+                [
+                    330,
+                    273
+                ]
+            ],
+            "rec_score": 0.9999921321868896
+        },
+        {
+            "content": "給食費無償化",
+            "det_score": 0.851270229790319,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1142,
+                    245
+                ],
+                [
+                    1281,
+                    245
+                ],
+                [
+                    1281,
+                    271
+                ],
+                [
+                    1142,
+                    271
+                ]
+            ],
+            "rec_score": 0.9998862743377686
+        },
+        {
+            "content": "育てる教育を",
+            "det_score": 0.8636207957984269,
+            "direction": "horizontal",
+            "points": [
+                [
+                    612,
+                    241
+                ],
+                [
+                    711,
+                    241
+                ],
+                [
+                    711,
+                    261
+                ],
+                [
+                    612,
+                    261
+                ]
+            ],
+            "rec_score": 0.9998948574066162
+        },
+        {
+            "content": "る制度にし、誰もが",
+            "det_score": 0.9161525934934616,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    234
+                ],
+                [
+                    998,
+                    234
+                ],
+                [
+                    998,
+                    254
+                ],
+                [
+                    847,
+                    254
+                ]
+            ],
+            "rec_score": 0.9999551773071289
+        },
+        {
+            "content": "明確に位置づける制度の実現",
+            "det_score": 0.8757364896745928,
+            "direction": "horizontal",
+            "points": [
+                [
+                    332,
+                    227
+                ],
+                [
+                    582,
+                    227
+                ],
+                [
+                    582,
+                    248
+                ],
+                [
+                    332,
+                    248
+                ]
+            ],
+            "rec_score": 0.9999687671661377
+        },
+        {
+            "content": "所得制限無しの",
+            "det_score": 0.8319413551962144,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1142,
+                    218
+                ],
+                [
+                    1300,
+                    218
+                ],
+                [
+                    1300,
+                    248
+                ],
+                [
+                    1142,
+                    248
+                ]
+            ],
+            "rec_score": 0.9998005628585815
+        },
+        {
+            "content": "世界で活躍できる人材に",
+            "det_score": 0.8585055301997288,
+            "direction": "horizontal",
+            "points": [
+                [
+                    613,
+                    221
+                ],
+                [
+                    790,
+                    221
+                ],
+                [
+                    790,
+                    238
+                ],
+                [
+                    613,
+                    238
+                ]
+            ],
+            "rec_score": 0.999919056892395
+        },
+        {
+            "content": "オンデマンドバスの実施",
+            "det_score": 0.8416932990476239,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1433,
+                    218
+                ],
+                [
+                    1634,
+                    218
+                ],
+                [
+                    1634,
+                    243
+                ],
+                [
+                    1433,
+                    243
+                ]
+            ],
+            "rec_score": 0.9999167919158936
+        },
+        {
+            "content": "カリキュラムを組め",
+            "det_score": 0.9101461827462795,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    209
+                ],
+                [
+                    996,
+                    209
+                ],
+                [
+                    996,
+                    229
+                ],
+                [
+                    847,
+                    229
+                ]
+            ],
+            "rec_score": 0.9993511438369751
+        },
+        {
+            "content": "エンジンとなる副首都として",
+            "det_score": 0.8510604234794602,
+            "direction": "horizontal",
+            "points": [
+                [
+                    332,
+                    202
+                ],
+                [
+                    579,
+                    202
+                ],
+                [
+                    579,
+                    222
+                ],
+                [
+                    332,
+                    222
+                ]
+            ],
+            "rec_score": 0.9979594349861145
+        },
+        {
+            "content": "実現 2025",
+            "det_score": 0.9096943061578311,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    199
+                ],
+                [
+                    1416,
+                    199
+                ],
+                [
+                    1416,
+                    221
+                ],
+                [
+                    1331,
+                    221
+                ]
+            ],
+            "rec_score": 0.998479962348938
+        },
+        {
+            "content": "実現 2023",
+            "det_score": 0.8861427085497711,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1041,
+                    197
+                ],
+                [
+                    1124,
+                    197
+                ],
+                [
+                    1124,
+                    220
+                ],
+                [
+                    1041,
+                    220
+                ]
+            ],
+            "rec_score": 0.9989640116691589
+        },
+        {
+            "content": "平野·生野への",
+            "det_score": 0.8874356439825645,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1434,
+                    191
+                ],
+                [
+                    1573,
+                    191
+                ],
+                [
+                    1573,
+                    216
+                ],
+                [
+                    1434,
+                    216
+                ]
+            ],
+            "rec_score": 0.9976393580436707
+        },
+        {
+            "content": "塾代助成の拡充",
+            "det_score": 0.9072826514890835,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1142,
+                    184
+                ],
+                [
+                    1312,
+                    184
+                ],
+                [
+                    1312,
+                    213
+                ],
+                [
+                    1142,
+                    213
+                ]
+            ],
+            "rec_score": 0.997079074382782
+        },
+        {
+            "content": "なく、地方が自由に",
+            "det_score": 0.838634247686846,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    184
+                ],
+                [
+                    998,
+                    184
+                ],
+                [
+                    998,
+                    204
+                ],
+                [
+                    847,
+                    204
+                ]
+            ],
+            "rec_score": 0.9999666213989258
+        },
+        {
+            "content": "図ることで、大阪を日本の成長",
+            "det_score": 0.8096363733914989,
+            "direction": "horizontal",
+            "points": [
+                [
+                    332,
+                    177
+                ],
+                [
+                    579,
+                    177
+                ],
+                [
+                    579,
+                    197
+                ],
+                [
+                    332,
+                    197
+                ]
+            ],
+            "rec_score": 0.9997373223304749
+        },
+        {
+            "content": "高見ゆ",
+            "det_score": 0.8214429742405297,
+            "direction": "vertical",
+            "points": [
+                [
+                    1881,
+                    121
+                ],
+                [
+                    2062,
+                    121
+                ],
+                [
+                    2062,
+                    645
+                ],
+                [
+                    1881,
+                    645
+                ]
+            ],
+            "rec_score": 0.14009055495262146
+        },
+        {
+            "content": "提案 2023",
+            "det_score": 0.8512068853327415,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    167
+                ],
+                [
+                    1416,
+                    167
+                ],
+                [
+                    1416,
+                    189
+                ],
+                [
+                    1331,
+                    189
+                ]
+            ],
+            "rec_score": 0.999336302280426
+        },
+        {
+            "content": "阿倍野·東住吉·",
+            "det_score": 0.832464487715201,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1434,
+                    164
+                ],
+                [
+                    1581,
+                    164
+                ],
+                [
+                    1581,
+                    189
+                ],
+                [
+                    1434,
+                    189
+                ]
+            ],
+            "rec_score": 0.9969670176506042
+        },
+        {
+            "content": "提案 2021",
+            "det_score": 0.8670476449158373,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1040,
+                    165
+                ],
+                [
+                    1123,
+                    165
+                ],
+                [
+                    1123,
+                    188
+                ],
+                [
+                    1040,
+                    188
+                ]
+            ],
+            "rec_score": 0.9990007281303406
+        },
+        {
+            "content": "5·6年生へ",
+            "det_score": 0.8544946081108517,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1143,
+                    159
+                ],
+                [
+                    1259,
+                    159
+                ],
+                [
+                    1259,
+                    185
+                ],
+                [
+                    1143,
+                    185
+                ]
+            ],
+            "rec_score": 0.954415500164032
+        },
+        {
+            "content": "い国に頼るのでは",
+            "det_score": 0.8230735865170068,
+            "direction": "horizontal",
+            "points": [
+                [
+                    846,
+                    159
+                ],
+                [
+                    998,
+                    159
+                ],
+                [
+                    998,
+                    179
+                ],
+                [
+                    846,
+                    179
+                ]
+            ],
+            "rec_score": 0.9989325404167175
+        },
+        {
+            "content": "機能のバックアップと分散を",
+            "det_score": 0.856576394909237,
+            "direction": "horizontal",
+            "points": [
+                [
+                    330,
+                    152
+                ],
+                [
+                    580,
+                    152
+                ],
+                [
+                    580,
+                    172
+                ],
+                [
+                    330,
+                    172
+                ]
+            ],
+            "rec_score": 0.9987320303916931
+        },
+        {
+            "content": "どです。成果の出な",
+            "det_score": 0.777874252363427,
+            "direction": "horizontal",
+            "points": [
+                [
+                    846,
+                    134
+                ],
+                [
+                    996,
+                    134
+                ],
+                [
+                    996,
+                    154
+                ],
+                [
+                    846,
+                    154
+                ]
+            ],
+            "rec_score": 0.9997380375862122
+        },
+        {
+            "content": "実現 2024",
+            "det_score": 0.8879486229960565,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1329,
+                    129
+                ],
+                [
+                    1416,
+                    128
+                ],
+                [
+                    1417,
+                    152
+                ],
+                [
+                    1330,
+                    153
+                ]
+            ],
+            "rec_score": 0.999525785446167
+        },
+        {
+            "content": "東京一極集中を是正し、首都",
+            "det_score": 0.8331432686453418,
+            "direction": "horizontal",
+            "points": [
+                [
+                    332,
+                    127
+                ],
+                [
+                    582,
+                    127
+                ],
+                [
+                    582,
+                    147
+                ],
+                [
+                    332,
+                    147
+                ]
+            ],
+            "rec_score": 0.988501250743866
+        },
+        {
+            "content": "実行力",
+            "det_score": 0.8936833621084521,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1606,
+                    120
+                ],
+                [
+                    1718,
+                    115
+                ],
+                [
+                    1720,
+                    159
+                ],
+                [
+                    1608,
+                    165
+                ]
+            ],
+            "rec_score": 0.9249260425567627
+        },
+        {
+            "content": "補助増額",
+            "det_score": 0.8435129561426864,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1434,
+                    124
+                ],
+                [
+                    1528,
+                    124
+                ],
+                [
+                    1528,
+                    150
+                ],
+                [
+                    1434,
+                    150
+                ]
+            ],
+            "rec_score": 0.9988994002342224
+        },
+        {
+            "content": "実現 2021",
+            "det_score": 0.8313126460828395,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1040,
+                    124
+                ],
+                [
+                    1124,
+                    124
+                ],
+                [
+                    1124,
+                    146
+                ],
+                [
+                    1040,
+                    146
+                ]
+            ],
+            "rec_score": 0.9994342923164368
+        },
+        {
+            "content": "魅力向上",
+            "det_score": 0.8742842394326416,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1141,
+                    117
+                ],
+                [
+                    1234,
+                    117
+                ],
+                [
+                    1234,
+                    143
+                ],
+                [
+                    1141,
+                    143
+                ]
+            ],
+            "rec_score": 0.9999634027481079
+        },
+        {
+            "content": "れない人がほとん",
+            "det_score": 0.868968337203351,
+            "direction": "horizontal",
+            "points": [
+                [
+                    846,
+                    108
+                ],
+                [
+                    999,
+                    108
+                ],
+                [
+                    999,
+                    129
+                ],
+                [
+                    846,
+                    129
+                ]
+            ],
+            "rec_score": 0.9998503923416138
+        },
+        {
+            "content": "たかみ",
+            "det_score": 0.8459482477139475,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1925,
+                    103
+                ],
+                [
+                    2015,
+                    103
+                ],
+                [
+                    2015,
+                    138
+                ],
+                [
+                    1925,
+                    138
+                ]
+            ],
+            "rec_score": 0.9997802376747131
+        },
+        {
+            "content": "提案 2022",
+            "det_score": 0.8227167339683268,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1332,
+                    99
+                ],
+                [
+                    1418,
+                    99
+                ],
+                [
+                    1418,
+                    121
+                ],
+                [
+                    1332,
+                    121
+                ]
+            ],
+            "rec_score": 0.9992944002151489
+        },
+        {
+            "content": "地域活動",
+            "det_score": 0.8428764280256809,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1434,
+                    96
+                ],
+                [
+                    1528,
+                    96
+                ],
+                [
+                    1528,
+                    122
+                ],
+                [
+                    1434,
+                    122
+                ]
+            ],
+            "rec_score": 0.9999547004699707
+        },
+        {
+            "content": "長居植物園の",
+            "det_score": 0.9112297917763107,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1142,
+                    92
+                ],
+                [
+                    1276,
+                    92
+                ],
+                [
+                    1276,
+                    117
+                ],
+                [
+                    1142,
+                    117
+                ]
+            ],
+            "rec_score": 0.9995450973510742
+        },
+        {
+            "content": "提案 2018",
+            "det_score": 0.8029673452637777,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1041,
+                    93
+                ],
+                [
+                    1124,
+                    93
+                ],
+                [
+                    1124,
+                    115
+                ],
+                [
+                    1041,
+                    115
+                ]
+            ],
+            "rec_score": 0.9993820190429688
+        },
+        {
+            "content": "学びで成長を!",
+            "det_score": 0.5930532283300043,
+            "direction": "horizontal",
+            "points": [
+                [
+                    741,
+                    76
+                ],
+                [
+                    836,
+                    98
+                ],
+                [
+                    828,
+                    135
+                ],
+                [
+                    733,
+                    113
+                ]
+            ],
+            "rec_score": 0.6400195956230164
+        },
+        {
+            "content": "提案力と",
+            "det_score": 0.8671354799600387,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1590,
+                    83
+                ],
+                [
+                    1731,
+                    77
+                ],
+                [
+                    1732,
+                    120
+                ],
+                [
+                    1591,
+                    126
+                ]
+            ],
+            "rec_score": 0.9994826912879944
+        },
+        {
+            "content": "は、結局英語が喋",
+            "det_score": 0.8641875189736143,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    83
+                ],
+                [
+                    998,
+                    83
+                ],
+                [
+                    998,
+                    104
+                ],
+                [
+                    847,
+                    104
+                ]
+            ],
+            "rec_score": 0.970625102519989
+        },
+        {
+            "content": "実用的な」",
+            "det_score": 0.6465607158506859,
+            "direction": "horizontal",
+            "points": [
+                [
+                    767,
+                    56
+                ],
+                [
+                    842,
+                    78
+                ],
+                [
+                    833,
+                    110
+                ],
+                [
+                    758,
+                    87
+                ]
+            ],
+            "rec_score": 0.5309029817581177
+        },
+        {
+            "content": "1人娘の父",
+            "det_score": 0.7980330698908522,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1910,
+                    60
+                ],
+                [
+                    2000,
+                    60
+                ],
+                [
+                    2000,
+                    90
+                ],
+                [
+                    1910,
+                    90
+                ]
+            ],
+            "rec_score": 0.9745182394981384
+        },
+        {
+            "content": "副首都制度の実現",
+            "det_score": 0.8624309907810619,
+            "direction": "horizontal",
+            "points": [
+                [
+                    338,
+                    69
+                ],
+                [
+                    579,
+                    55
+                ],
+                [
+                    581,
+                    90
+                ],
+                [
+                    340,
+                    104
+                ]
+            ],
+            "rec_score": 0.999445378780365
+        },
+        {
+            "content": "完成 2024",
+            "det_score": 0.8512101312854895,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1331,
+                    57
+                ],
+                [
+                    1418,
+                    57
+                ],
+                [
+                    1418,
+                    83
+                ],
+                [
+                    1331,
+                    83
+                ]
+            ],
+            "rec_score": 0.9952143430709839
+        },
+        {
+            "content": "実現 2020",
+            "det_score": 0.8318257278562347,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1041,
+                    58
+                ],
+                [
+                    1126,
+                    58
+                ],
+                [
+                    1126,
+                    79
+                ],
+                [
+                    1041,
+                    79
+                ]
+            ],
+            "rec_score": 0.944449782371521
+        },
+        {
+            "content": "領に沿った教育で",
+            "det_score": 0.769749633025849,
+            "direction": "horizontal",
+            "points": [
+                [
+                    846,
+                    58
+                ],
+                [
+                    998,
+                    58
+                ],
+                [
+                    998,
+                    79
+                ],
+                [
+                    846,
+                    79
+                ]
+            ],
+            "rec_score": 0.9996370077133179
+        },
+        {
+            "content": "· 教育の実現",
+            "det_score": 0.8014077806214948,
+            "direction": "horizontal",
+            "points": [
+                [
+                    659,
+                    60
+                ],
+                [
+                    762,
+                    55
+                ],
+                [
+                    763,
+                    80
+                ],
+                [
+                    660,
+                    85
+                ]
+            ],
+            "rec_score": 0.7378105521202087
+        },
+        {
+            "content": "主な成果で証明",
+            "det_score": 0.8249087652489309,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1584,
+                    59
+                ],
+                [
+                    1733,
+                    49
+                ],
+                [
+                    1735,
+                    80
+                ],
+                [
+                    1586,
+                    90
+                ]
+            ],
+            "rec_score": 0.9999653100967407
+        },
+        {
+            "content": "生徒に1人1台支給",
+            "det_score": 0.8752422016267934,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1139,
+                    53
+                ],
+                [
+                    1310,
+                    53
+                ],
+                [
+                    1310,
+                    78
+                ],
+                [
+                    1139,
+                    78
+                ]
+            ],
+            "rec_score": 0.999792218208313
+        },
+        {
+            "content": "特例校設立",
+            "det_score": 0.8169596228098954,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1433,
+                    50
+                ],
+                [
+                    1548,
+                    50
+                ],
+                [
+                    1548,
+                    76
+                ],
+                [
+                    1433,
+                    76
+                ]
+            ],
+            "rec_score": 0.9992398619651794
+        },
+        {
+            "content": "3期10年",
+            "det_score": 0.8620639545287138,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1759,
+                    39
+                ],
+                [
+                    1891,
+                    39
+                ],
+                [
+                    1891,
+                    88
+                ],
+                [
+                    1759,
+                    88
+                ]
+            ],
+            "rec_score": 0.9991605281829834
+        },
+        {
+            "content": "4",
+            "det_score": 0.7091830514033912,
+            "direction": "horizontal",
+            "points": [
+                [
+                    631,
+                    35
+                ],
+                [
+                    676,
+                    35
+                ],
+                [
+                    676,
+                    92
+                ],
+                [
+                    631,
+                    92
+                ]
+            ],
+            "rec_score": 0.5244663953781128
+        },
+        {
+            "content": "1",
+            "det_score": 0.5409747971348973,
+            "direction": "vertical",
+            "points": [
+                [
+                    311,
+                    39
+                ],
+                [
+                    338,
+                    39
+                ],
+                [
+                    338,
+                    100
+                ],
+                [
+                    311,
+                    100
+                ]
+            ],
+            "rec_score": 0.37454625964164734
+        },
+        {
+            "content": "日本維新会員",
+            "det_score": 0.8422688613701498,
+            "direction": "vertical",
+            "points": [
+                [
+                    2058,
+                    7
+                ],
+                [
+                    2163,
+                    7
+                ],
+                [
+                    2163,
+                    656
+                ],
+                [
+                    2058,
+                    656
+                ]
+            ],
+            "rec_score": 0.056759461760520935
+        },
+        {
+            "content": "今まで国の指導要",
+            "det_score": 0.8724248105646075,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    33
+                ],
+                [
+                    998,
+                    33
+                ],
+                [
+                    998,
+                    54
+                ],
+                [
+                    847,
+                    54
+                ]
+            ],
+            "rec_score": 0.9998459815979004
+        },
+        {
+            "content": "大阪を東京を超える都市へ",
+            "det_score": 0.8246795698504686,
+            "direction": "horizontal",
+            "points": [
+                [
+                    337,
+                    41
+                ],
+                [
+                    580,
+                    29
+                ],
+                [
+                    581,
+                    54
+                ],
+                [
+                    338,
+                    66
+                ]
+            ],
+            "rec_score": 0.9994747638702393
+        },
+        {
+            "content": "史上最高の",
+            "det_score": 0.8250443643123065,
+            "direction": "vertical",
+            "points": [
+                [
+                    220,
+                    15
+                ],
+                [
+                    296,
+                    15
+                ],
+                [
+                    296,
+                    380
+                ],
+                [
+                    220,
+                    380
+                ]
+            ],
+            "rec_score": 0.9991119503974915
+        },
+        {
+            "content": "10年の実績!",
+            "det_score": 0.8541513549030891,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1598,
+                    34
+                ],
+                [
+                    1713,
+                    27
+                ],
+                [
+                    1715,
+                    54
+                ],
+                [
+                    1600,
+                    60
+                ]
+            ],
+            "rec_score": 0.9995415806770325
+        },
+        {
+            "content": "大阪に",
+            "det_score": 0.7952899342392253,
+            "direction": "vertical",
+            "points": [
+                [
+                    147,
+                    11
+                ],
+                [
+                    234,
+                    11
+                ],
+                [
+                    234,
+                    235
+                ],
+                [
+                    147,
+                    235
+                ]
+            ],
+            "rec_score": 0.9420373439788818
+        },
+        {
+            "content": "誰もが英語を話せる",
+            "det_score": 0.8248181898051348,
+            "direction": "horizontal",
+            "points": [
+                [
+                    666,
+                    37
+                ],
+                [
+                    826,
+                    27
+                ],
+                [
+                    827,
+                    52
+                ],
+                [
+                    667,
+                    62
+                ]
+            ],
+            "rec_score": 0.9957756996154785
+        },
+        {
+            "content": "副首都大阪を実現 5",
+            "det_score": 0.8466338282492722,
+            "direction": "vertical",
+            "points": [
+                [
+                    90,
+                    14
+                ],
+                [
+                    156,
+                    14
+                ],
+                [
+                    156,
+                    485
+                ],
+                [
+                    90,
+                    485
+                ]
+            ],
+            "rec_score": 0.49681177735328674
+        },
+        {
+            "content": "提案 2021",
+            "det_score": 0.784012850909166,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1329,
+                    26
+                ],
+                [
+                    1416,
+                    26
+                ],
+                [
+                    1416,
+                    53
+                ],
+                [
+                    1329,
+                    53
+                ]
+            ],
+            "rec_score": 0.9990322589874268
+        },
+        {
+            "content": "タブレット等を",
+            "det_score": 0.8814904131460936,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1139,
+                    26
+                ],
+                [
+                    1285,
+                    26
+                ],
+                [
+                    1285,
+                    51
+                ],
+                [
+                    1139,
+                    51
+                ]
+            ],
+            "rec_score": 0.9990209341049194
+        },
+        {
+            "content": "提案 2016",
+            "det_score": 0.8511282066023962,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1041,
+                    26
+                ],
+                [
+                    1126,
+                    26
+                ],
+                [
+                    1126,
+                    49
+                ],
+                [
+                    1041,
+                    49
+                ]
+            ],
+            "rec_score": 0.999557375907898
+        },
+        {
+            "content": "不登校",
+            "det_score": 0.922499887496233,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1431,
+                    24
+                ],
+                [
+                    1505,
+                    24
+                ],
+                [
+                    1505,
+                    50
+                ],
+                [
+                    1431,
+                    50
+                ]
+            ],
+            "rec_score": 0.9997345209121704
+        },
+        {
+            "content": "47才",
+            "det_score": 0.8441956832434412,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1904,
+                    2
+                ],
+                [
+                    2005,
+                    6
+                ],
+                [
+                    2002,
+                    75
+                ],
+                [
+                    1901,
+                    70
+                ]
+            ],
+            "rec_score": 0.6465922594070435
+        },
+        {
+            "content": "大阪市会議員",
+            "det_score": 0.8317610725233231,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1762,
+                    17
+                ],
+                [
+                    1887,
+                    17
+                ],
+                [
+                    1887,
+                    43
+                ],
+                [
+                    1762,
+                    43
+                ]
+            ],
+            "rec_score": 0.9999842643737793
+        },
+        {
+            "content": "高見さんは実行力が本物です。",
+            "det_score": 0.8348782000153564,
+            "direction": "vertical",
+            "points": [
+                [
+                    48,
+                    14
+                ],
+                [
+                    80,
+                    14
+                ],
+                [
+                    80,
+                    430
+                ],
+                [
+                    48,
+                    430
+                ]
+            ],
+            "rec_score": 0.9938907027244568
+        },
+        {
+            "content": "私達は強く推薦します。",
+            "det_score": 0.8430715576783053,
+            "direction": "vertical",
+            "points": [
+                [
+                    11,
+                    14
+                ],
+                [
+                    43,
+                    14
+                ],
+                [
+                    43,
+                    334
+                ],
+                [
+                    11,
+                    334
+                ]
+            ],
+            "rec_score": 0.9996724128723145
+        },
+        {
+            "content": "市会議員",
+            "det_score": 0.8360220015474729,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1614,
+                    10
+                ],
+                [
+                    1696,
+                    10
+                ],
+                [
+                    1696,
+                    36
+                ],
+                [
+                    1614,
+                    36
+                ]
+            ],
+            "rec_score": 0.9999480247497559
+        }
+    ]
+}

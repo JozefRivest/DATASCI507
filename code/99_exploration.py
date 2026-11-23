@@ -10,3 +10,4 @@ data["candidate"].unique()
 data["district"].unique()
 
 data["n_paragraphs"].describe()
+data["n_chars"].describe()

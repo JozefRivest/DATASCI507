@@ -1,0 +1,2410 @@
+{
+    "figures": [
+        {
+            "box": [
+                401,
+                371,
+                464,
+                425
+            ],
+            "direction": "horizontal",
+            "order": 20,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                821,
+                537,
+                1532,
+                702
+            ],
+            "direction": "horizontal",
+            "order": 38,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1638,
+                203,
+                1840,
+                490
+            ],
+            "direction": "horizontal",
+            "order": 41,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                27,
+                16,
+                773,
+                71
+            ],
+            "contents": "持続可能な日本と地域をつくる",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                110,
+                83,
+                702,
+                110
+            ],
+            "contents": "ー 大 阪 か ら 日 本 を 変 え る ー",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                134,
+                265,
+                157
+            ],
+            "contents": "経済·物価高対策",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                31,
+                167,
+                357,
+                195
+            ],
+            "contents": "物価より手取りが上がる経済",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                213,
+                320,
+                253
+            ],
+            "contents": "√ 中長期の経済成長の起爆剤となる\n物価高対策",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                263,
+                320,
+                304
+            ],
+            "contents": "√ 農業、医療、教育、保育、介護、放送\n防災等への民間活力の導入",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                313,
+                289,
+                332
+            ],
+            "contents": "√ AIや新技術の社会実装の加速",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                33,
+                342,
+                323,
+                362
+            ],
+            "contents": "√ 社会課題解決型の成長モデル創出",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                137,
+                400,
+                248,
+                421
+            ],
+            "contents": "政治改革",
+            "direction": "horizontal",
+            "order": 8,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                100,
+                430,
+                357,
+                457
+            ],
+            "contents": "国民に信頼される政治",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                468,
+                337,
+                508
+            ],
+            "contents": "√ 衆議院議員定数1割削減の次期国会\nでの実現",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                33,
+                518,
+                334,
+                559
+            ],
+            "contents": "√ 企業団体献金規制による政治とカネ\nの透明化",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                394,
+                126,
+                463,
+                198
+            ],
+            "contents": "曲",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                506,
+                134,
+                614,
+                157
+            ],
+            "contents": "社会保障",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                470,
+                167,
+                754,
+                194
+            ],
+            "contents": "持続可能な社会保障制度",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                390,
+                213,
+                663,
+                233
+            ],
+            "contents": "√ 社会保険料を下げる改革の実現",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                390,
+                242,
+                781,
+                262
+            ],
+            "contents": "√ 世代間格差なく、安心·公平な年金制度への移行",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                391,
+                271,
+                699,
+                291
+            ],
+            "contents": "√ 教育無償化と平等な教育機会の確保",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                391,
+                300,
+                748,
+                320
+            ],
+            "contents": "√ 高齢世代の生きがいとしての就労機会拡充",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                390,
+                329,
+                675,
+                349
+            ],
+            "contents": "√ 雇用の7割を担う中小企業の振興",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                470,
+                370,
+                726,
+                428
+            ],
+            "contents": "外交安保\n国を守れる外交抑止力",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                394,
+                443,
+                806,
+                463
+            ],
+            "contents": " 紛争抑止力を高める国際秩序の再構築と国連改革",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                395,
+                472,
+                749,
+                512
+            ],
+            "contents": "√ 防衛三文書再改定による自衛力、経済安保、\nインテリジェンスの強化",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                394,
+                522,
+                746,
+                542
+            ],
+            "contents": "√ 欧州とインド太平洋諸国との同盟関係強化",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                394,
+                551,
+                718,
+                572
+            ],
+            "contents": "√ 防衛力の根幹となる自衛隊の憲法明記",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                126,
+                587,
+                594,
+                614
+            ],
+            "contents": "地域活性化\n副首都で日本と地域を再生",
+            "direction": "horizontal",
+            "order": 26,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                28,
+                634,
+                708,
+                654
+            ],
+            "contents": "√ 副首都構想による自主権強化と規制改革で、大阪と地域の潜在的な成長力を解き放つ",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                29,
+                663,
+                694,
+                704
+            ],
+            "contents": "√ 道州制または広域行政一元化。国の役割を外交安保、マクロ経済·金融等に絞り込み\nその他の権限、財源、人材を地方へ",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                846,
+                47,
+                1453,
+                99
+            ],
+            "contents": "2 日本維新の会の政務調査会長(第4代)を務める。党として\n教育無償化や政治改革を実現。",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                847,
+                115,
+                1453,
+                165
+            ],
+            "contents": "♡ 衆議院予算委員会理事、外務委員会理事、憲法審査会委員\nなど要職を歴任。",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                847,
+                180,
+                1380,
+                231
+            ],
+            "contents": "2 元·国連職員。アフガンやスーダンの紛争地で働く.\n広報官としてSDGsを日本に普及。",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                847,
+                253,
+                1335,
+                304
+            ],
+            "contents": "2 1978年生まれ。早稲田大学政治経済学部卒。\n米デューク大学公共政策大学院卒。",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                847,
+                324,
+                1414,
+                375
+            ],
+            "contents": "◎ 2021年に地元の松井一郎代表(当時)の誘いを受け、\n大阪14区から衆議院議員初当選。",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                846,
+                393,
+                1407,
+                418
+            ],
+            "contents": "♡ 趣味はハンドボールと世界遺産巡り。家族は妻と3児。",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                1509,
+                37,
+                1541,
+                311
+            ],
+            "contents": "青柳仁士 プロフィール",
+            "direction": "vertical",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                822,
+                441,
+                1533,
+                486
+            ],
+            "contents": "私たちはあおやぎに土候補を全力で応援しています!",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                875,
+                504,
+                1482,
+                530
+            ],
+            "contents": "国·府·市の連携で地域の課題解決に奔走中!",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                1588,
+                19,
+                2144,
+                139
+            ],
+            "contents": "今日本維持会",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                1663,
+                531,
+                1836,
+                573
+            ],
+            "contents": "公式ホームページ\nhttps://aoyagi-h.com",
+            "direction": "horizontal",
+            "order": 42,
+            "role": null
+        },
+        {
+            "box": [
+                1906,
+                137,
+                2088,
+                637
+            ],
+            "contents": "1999111",
+            "direction": "vertical",
+            "order": 43,
+            "role": null
+        },
+        {
+            "box": [
+                2093,
+                146,
+                2141,
+                386
+            ],
+            "contents": "元·国連職員",
+            "direction": "vertical",
+            "order": 44,
+            "role": null
+        }
+    ],
+    "tables": [
+        {
+            "box": [
+                824,
+                539,
+                1531,
+                701
+            ],
+            "cells": [
+                {
+                    "box": [
+                        826,
+                        540,
+                        963,
+                        641
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "八尾\n市長",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        963,
+                        540,
+                        1105,
+                        641
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "柏原\n市長",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1105,
+                        540,
+                        1248,
+                        641
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "羽曳野\n市長",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1248,
+                        540,
+                        1392,
+                        644
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "藤井寺\n市長",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1391,
+                        540,
+                        1530,
+                        641
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "大阪維新の会\n代表",
+                    "row": 1,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        826,
+                        641,
+                        963,
+                        688
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "大松桂右",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        963,
+                        641,
+                        1105,
+                        688
+                    ],
+                    "col": 2,
+                    "col_span": 1,
+                    "contents": "冨宅正浩",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1105,
+                        641,
+                        1248,
+                        688
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "山入端創",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1248,
+                        641,
+                        1391,
+                        688
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "岡田一樹",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1391,
+                        641,
+                        1530,
+                        688
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "吉村洋文",
+                    "row": 2,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        826,
+                        688,
+                        963,
+                        689
+                    ],
+                    "col": 1,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1105,
+                        688,
+                        1248,
+                        689
+                    ],
+                    "col": 3,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1248,
+                        688,
+                        1391,
+                        689
+                    ],
+                    "col": 4,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                },
+                {
+                    "box": [
+                        1391,
+                        688,
+                        1530,
+                        689
+                    ],
+                    "col": 5,
+                    "col_span": 1,
+                    "contents": "",
+                    "row": 3,
+                    "row_span": 1
+                }
+            ],
+            "n_col": 5,
+            "n_row": 3,
+            "order": 39
+        }
+    ],
+    "words": [
+        {
+            "content": "その他の権限、財源、人材を地方へ",
+            "det_score": 0.8155073931703539,
+            "direction": "horizontal",
+            "points": [
+                [
+                    54,
+                    684
+                ],
+                [
+                    319,
+                    684
+                ],
+                [
+                    319,
+                    705
+                ],
+                [
+                    54,
+                    705
+                ]
+            ],
+            "rec_score": 0.9997454881668091
+        },
+        {
+            "content": "√ 道州制または広域行政一元化。国の役割を外交安保、マクロ経済·金融等に絞り込み",
+            "det_score": 0.9330701772896457,
+            "direction": "horizontal",
+            "points": [
+                [
+                    31,
+                    665
+                ],
+                [
+                    691,
+                    665
+                ],
+                [
+                    691,
+                    682
+                ],
+                [
+                    31,
+                    682
+                ]
+            ],
+            "rec_score": 0.7959872484207153
+        },
+        {
+            "content": "吉村洋文",
+            "det_score": 0.8714064898447436,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1401,
+                    649
+                ],
+                [
+                    1522,
+                    649
+                ],
+                [
+                    1522,
+                    687
+                ],
+                [
+                    1401,
+                    687
+                ]
+            ],
+            "rec_score": 0.9996130466461182
+        },
+        {
+            "content": "岡田一樹",
+            "det_score": 0.8685573784674344,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1262,
+                    650
+                ],
+                [
+                    1377,
+                    650
+                ],
+                [
+                    1377,
+                    684
+                ],
+                [
+                    1262,
+                    684
+                ]
+            ],
+            "rec_score": 0.9973167777061462
+        },
+        {
+            "content": "山入端創",
+            "det_score": 0.8647839661309684,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1117,
+                    650
+                ],
+                [
+                    1234,
+                    650
+                ],
+                [
+                    1234,
+                    684
+                ],
+                [
+                    1117,
+                    684
+                ]
+            ],
+            "rec_score": 0.9884929656982422
+        },
+        {
+            "content": "冨宅正浩",
+            "det_score": 0.8651185053159343,
+            "direction": "horizontal",
+            "points": [
+                [
+                    975,
+                    649
+                ],
+                [
+                    1093,
+                    649
+                ],
+                [
+                    1093,
+                    687
+                ],
+                [
+                    975,
+                    687
+                ]
+            ],
+            "rec_score": 0.9945186376571655
+        },
+        {
+            "content": "大松桂右",
+            "det_score": 0.8697724620157162,
+            "direction": "horizontal",
+            "points": [
+                [
+                    832,
+                    650
+                ],
+                [
+                    949,
+                    650
+                ],
+                [
+                    949,
+                    684
+                ],
+                [
+                    832,
+                    684
+                ]
+            ],
+            "rec_score": 0.951127290725708
+        },
+        {
+            "content": "√ 副首都構想による自主権強化と規制改革で、大阪と地域の潜在的な成長力を解き放つ",
+            "det_score": 0.8720167788709766,
+            "direction": "horizontal",
+            "points": [
+                [
+                    31,
+                    636
+                ],
+                [
+                    706,
+                    636
+                ],
+                [
+                    706,
+                    653
+                ],
+                [
+                    31,
+                    653
+                ]
+            ],
+            "rec_score": 0.5000067949295044
+        },
+        {
+            "content": "市長",
+            "det_score": 0.8868075126723239,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1279,
+                    590
+                ],
+                [
+                    1355,
+                    590
+                ],
+                [
+                    1355,
+                    632
+                ],
+                [
+                    1279,
+                    632
+                ]
+            ],
+            "rec_score": 0.9984828233718872
+        },
+        {
+            "content": "市長",
+            "det_score": 0.8653340569638104,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1135,
+                    589
+                ],
+                [
+                    1215,
+                    589
+                ],
+                [
+                    1215,
+                    635
+                ],
+                [
+                    1135,
+                    635
+                ]
+            ],
+            "rec_score": 0.9995982646942139
+        },
+        {
+            "content": "市長",
+            "det_score": 0.8932560150747868,
+            "direction": "horizontal",
+            "points": [
+                [
+                    994,
+                    589
+                ],
+                [
+                    1071,
+                    589
+                ],
+                [
+                    1071,
+                    635
+                ],
+                [
+                    994,
+                    635
+                ]
+            ],
+            "rec_score": 0.9993175864219666
+        },
+        {
+            "content": "市長",
+            "det_score": 0.8764889069086265,
+            "direction": "horizontal",
+            "points": [
+                [
+                    851,
+                    589
+                ],
+                [
+                    929,
+                    589
+                ],
+                [
+                    929,
+                    635
+                ],
+                [
+                    851,
+                    635
+                ]
+            ],
+            "rec_score": 0.9992502331733704
+        },
+        {
+            "content": "代表",
+            "det_score": 0.8584772872663762,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1421,
+                    588
+                ],
+                [
+                    1501,
+                    588
+                ],
+                [
+                    1501,
+                    635
+                ],
+                [
+                    1421,
+                    635
+                ]
+            ],
+            "rec_score": 0.9994752407073975
+        },
+        {
+            "content": "副首都で日本と地域を再生",
+            "det_score": 0.8264224907877493,
+            "direction": "horizontal",
+            "points": [
+                [
+                    289,
+                    588
+                ],
+                [
+                    591,
+                    588
+                ],
+                [
+                    591,
+                    613
+                ],
+                [
+                    289,
+                    613
+                ]
+            ],
+            "rec_score": 0.9976705312728882
+        },
+        {
+            "content": "地域活性化",
+            "det_score": 0.9003746931606333,
+            "direction": "horizontal",
+            "points": [
+                [
+                    127,
+                    583
+                ],
+                [
+                    254,
+                    587
+                ],
+                [
+                    253,
+                    613
+                ],
+                [
+                    126,
+                    610
+                ]
+            ],
+            "rec_score": 0.999901533126831
+        },
+        {
+            "content": "大阪維新の会",
+            "det_score": 0.885108689383532,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1398,
+                    555
+                ],
+                [
+                    1524,
+                    555
+                ],
+                [
+                    1524,
+                    593
+                ],
+                [
+                    1398,
+                    593
+                ]
+            ],
+            "rec_score": 0.9987969398498535
+        },
+        {
+            "content": "藤井寺",
+            "det_score": 0.873930572205958,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1264,
+                    552
+                ],
+                [
+                    1371,
+                    552
+                ],
+                [
+                    1371,
+                    596
+                ],
+                [
+                    1264,
+                    596
+                ]
+            ],
+            "rec_score": 0.9994814991950989
+        },
+        {
+            "content": "羽曳野",
+            "det_score": 0.8988984106122303,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1123,
+                    553
+                ],
+                [
+                    1229,
+                    553
+                ],
+                [
+                    1229,
+                    593
+                ],
+                [
+                    1123,
+                    593
+                ]
+            ],
+            "rec_score": 0.9977381825447083
+        },
+        {
+            "content": "柏原",
+            "det_score": 0.8811929721317233,
+            "direction": "horizontal",
+            "points": [
+                [
+                    994,
+                    548
+                ],
+                [
+                    1072,
+                    552
+                ],
+                [
+                    1069,
+                    598
+                ],
+                [
+                    992,
+                    594
+                ]
+            ],
+            "rec_score": 0.9981274008750916
+        },
+        {
+            "content": "八尾",
+            "det_score": 0.8877789506019975,
+            "direction": "horizontal",
+            "points": [
+                [
+                    851,
+                    550
+                ],
+                [
+                    930,
+                    550
+                ],
+                [
+                    930,
+                    596
+                ],
+                [
+                    851,
+                    596
+                ]
+            ],
+            "rec_score": 0.9995285868644714
+        },
+        {
+            "content": "https://aoyagi-h.com",
+            "det_score": 0.853858752775108,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1664,
+                    556
+                ],
+                [
+                    1835,
+                    556
+                ],
+                [
+                    1835,
+                    572
+                ],
+                [
+                    1664,
+                    572
+                ]
+            ],
+            "rec_score": 0.44063496589660645
+        },
+        {
+            "content": "√ 防衛力の根幹となる自衛隊の憲法明記",
+            "det_score": 0.8175810078342616,
+            "direction": "horizontal",
+            "points": [
+                [
+                    395,
+                    550
+                ],
+                [
+                    717,
+                    550
+                ],
+                [
+                    717,
+                    571
+                ],
+                [
+                    395,
+                    571
+                ]
+            ],
+            "rec_score": 0.9476401805877686
+        },
+        {
+            "content": "の透明化",
+            "det_score": 0.8374138394531035,
+            "direction": "horizontal",
+            "points": [
+                [
+                    56,
+                    538
+                ],
+                [
+                    130,
+                    538
+                ],
+                [
+                    130,
+                    560
+                ],
+                [
+                    56,
+                    560
+                ]
+            ],
+            "rec_score": 0.9999734163284302
+        },
+        {
+            "content": "公式ホームページ",
+            "det_score": 0.8479762860548513,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1662,
+                    530
+                ],
+                [
+                    1834,
+                    530
+                ],
+                [
+                    1834,
+                    555
+                ],
+                [
+                    1662,
+                    555
+                ]
+            ],
+            "rec_score": 0.9998712539672852
+        },
+        {
+            "content": "√ 欧州とインド太平洋諸国との同盟関係強化",
+            "det_score": 0.8285245600548622,
+            "direction": "horizontal",
+            "points": [
+                [
+                    395,
+                    523
+                ],
+                [
+                    743,
+                    523
+                ],
+                [
+                    743,
+                    539
+                ],
+                [
+                    395,
+                    539
+                ]
+            ],
+            "rec_score": 0.8082285523414612
+        },
+        {
+            "content": "√ 企業団体献金規制による政治とカネ",
+            "det_score": 0.8840588563719479,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    517
+                ],
+                [
+                    333,
+                    517
+                ],
+                [
+                    333,
+                    538
+                ],
+                [
+                    34,
+                    538
+                ]
+            ],
+            "rec_score": 0.9582611918449402
+        },
+        {
+            "content": "国·府·市の連携で地域の課題解決に奔走中!",
+            "det_score": 0.8608757041647662,
+            "direction": "horizontal",
+            "points": [
+                [
+                    877,
+                    505
+                ],
+                [
+                    1477,
+                    505
+                ],
+                [
+                    1477,
+                    525
+                ],
+                [
+                    877,
+                    525
+                ]
+            ],
+            "rec_score": 0.9441829323768616
+        },
+        {
+            "content": "インテリジェンスの強化",
+            "det_score": 0.8897587985225411,
+            "direction": "horizontal",
+            "points": [
+                [
+                    418,
+                    495
+                ],
+                [
+                    600,
+                    495
+                ],
+                [
+                    600,
+                    512
+                ],
+                [
+                    418,
+                    512
+                ]
+            ],
+            "rec_score": 0.9998447895050049
+        },
+        {
+            "content": "での実現",
+            "det_score": 0.9067608008085581,
+            "direction": "horizontal",
+            "points": [
+                [
+                    57,
+                    487
+                ],
+                [
+                    130,
+                    487
+                ],
+                [
+                    130,
+                    509
+                ],
+                [
+                    57,
+                    509
+                ]
+            ],
+            "rec_score": 0.9996470212936401
+        },
+        {
+            "content": "√ 防衛三文書再改定による自衛力、経済安保、",
+            "det_score": 0.8635404312431556,
+            "direction": "horizontal",
+            "points": [
+                [
+                    395,
+                    472
+                ],
+                [
+                    748,
+                    472
+                ],
+                [
+                    748,
+                    492
+                ],
+                [
+                    395,
+                    492
+                ]
+            ],
+            "rec_score": 0.5845651626586914
+        },
+        {
+            "content": "√ 衆議院議員定数1割削減の次期国会",
+            "det_score": 0.7861092683864149,
+            "direction": "horizontal",
+            "points": [
+                [
+                    33,
+                    467
+                ],
+                [
+                    337,
+                    467
+                ],
+                [
+                    337,
+                    488
+                ],
+                [
+                    33,
+                    488
+                ]
+            ],
+            "rec_score": 0.9119063019752502
+        },
+        {
+            "content": "私たちはあおやぎに土候補を全力で応援しています!",
+            "det_score": 0.8653595701567108,
+            "direction": "horizontal",
+            "points": [
+                [
+                    825,
+                    444
+                ],
+                [
+                    1530,
+                    444
+                ],
+                [
+                    1530,
+                    485
+                ],
+                [
+                    825,
+                    485
+                ]
+            ],
+            "rec_score": 0.8471789956092834
+        },
+        {
+            "content": " 紛争抑止力を高める国際秩序の再構築と国連改革",
+            "det_score": 0.8560236572912285,
+            "direction": "horizontal",
+            "points": [
+                [
+                    396,
+                    442
+                ],
+                [
+                    804,
+                    442
+                ],
+                [
+                    804,
+                    463
+                ],
+                [
+                    396,
+                    463
+                ]
+            ],
+            "rec_score": 0.9285868406295776
+        },
+        {
+            "content": "国民に信頼される政治",
+            "det_score": 0.9054585678304913,
+            "direction": "horizontal",
+            "points": [
+                [
+                    103,
+                    430
+                ],
+                [
+                    356,
+                    430
+                ],
+                [
+                    356,
+                    455
+                ],
+                [
+                    103,
+                    455
+                ]
+            ],
+            "rec_score": 0.9997953176498413
+        },
+        {
+            "content": "国を守れる外交抑止力",
+            "det_score": 0.8805505892510544,
+            "direction": "horizontal",
+            "points": [
+                [
+                    472,
+                    401
+                ],
+                [
+                    725,
+                    401
+                ],
+                [
+                    725,
+                    426
+                ],
+                [
+                    472,
+                    426
+                ]
+            ],
+            "rec_score": 0.9600064158439636
+        },
+        {
+            "content": "政治改革",
+            "det_score": 0.8701526705963978,
+            "direction": "horizontal",
+            "points": [
+                [
+                    137,
+                    398
+                ],
+                [
+                    250,
+                    398
+                ],
+                [
+                    250,
+                    423
+                ],
+                [
+                    137,
+                    423
+                ]
+            ],
+            "rec_score": 0.9994757771492004
+        },
+        {
+            "content": "♡ 趣味はハンドボールと世界遺産巡り。家族は妻と3児。",
+            "det_score": 0.8605679917746576,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    393
+                ],
+                [
+                    1406,
+                    393
+                ],
+                [
+                    1406,
+                    418
+                ],
+                [
+                    847,
+                    418
+                ]
+            ],
+            "rec_score": 0.3379516899585724
+        },
+        {
+            "content": "外交安保",
+            "det_score": 0.8726093345129293,
+            "direction": "horizontal",
+            "points": [
+                [
+                    505,
+                    368
+                ],
+                [
+                    614,
+                    368
+                ],
+                [
+                    614,
+                    394
+                ],
+                [
+                    505,
+                    394
+                ]
+            ],
+            "rec_score": 0.9808676838874817
+        },
+        {
+            "content": "大阪14区から衆議院議員初当選。",
+            "det_score": 0.8739962122989164,
+            "direction": "horizontal",
+            "points": [
+                [
+                    880,
+                    348
+                ],
+                [
+                    1218,
+                    348
+                ],
+                [
+                    1218,
+                    373
+                ],
+                [
+                    880,
+                    373
+                ]
+            ],
+            "rec_score": 0.9974374771118164
+        },
+        {
+            "content": "√ 社会課題解決型の成長モデル創出",
+            "det_score": 0.8380818882104455,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    343
+                ],
+                [
+                    322,
+                    343
+                ],
+                [
+                    322,
+                    360
+                ],
+                [
+                    35,
+                    360
+                ]
+            ],
+            "rec_score": 0.9501683115959167
+        },
+        {
+            "content": "√ 雇用の7割を担う中小企業の振興",
+            "det_score": 0.8632507734488385,
+            "direction": "horizontal",
+            "points": [
+                [
+                    394,
+                    330
+                ],
+                [
+                    673,
+                    330
+                ],
+                [
+                    673,
+                    347
+                ],
+                [
+                    394,
+                    347
+                ]
+            ],
+            "rec_score": 0.9097582697868347
+        },
+        {
+            "content": "◎ 2021年に地元の松井一郎代表(当時)の誘いを受け、",
+            "det_score": 0.8161697987165167,
+            "direction": "horizontal",
+            "points": [
+                [
+                    848,
+                    324
+                ],
+                [
+                    1413,
+                    324
+                ],
+                [
+                    1413,
+                    348
+                ],
+                [
+                    848,
+                    348
+                ]
+            ],
+            "rec_score": 0.3685702979564667
+        },
+        {
+            "content": "√ AIや新技術の社会実装の加速",
+            "det_score": 0.8571419212590443,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    314
+                ],
+                [
+                    286,
+                    314
+                ],
+                [
+                    286,
+                    330
+                ],
+                [
+                    35,
+                    330
+                ]
+            ],
+            "rec_score": 0.5391567349433899
+        },
+        {
+            "content": "√ 高齢世代の生きがいとしての就労機会拡充",
+            "det_score": 0.839020203911538,
+            "direction": "horizontal",
+            "points": [
+                [
+                    394,
+                    301
+                ],
+                [
+                    745,
+                    301
+                ],
+                [
+                    745,
+                    318
+                ],
+                [
+                    394,
+                    318
+                ]
+            ],
+            "rec_score": 0.9112518429756165
+        },
+        {
+            "content": "防災等への民間活力の導入",
+            "det_score": 0.87906166448606,
+            "direction": "horizontal",
+            "points": [
+                [
+                    58,
+                    285
+                ],
+                [
+                    270,
+                    285
+                ],
+                [
+                    270,
+                    301
+                ],
+                [
+                    58,
+                    301
+                ]
+            ],
+            "rec_score": 0.9970897436141968
+        },
+        {
+            "content": "米デューク大学公共政策大学院卒。",
+            "det_score": 0.8619243104961261,
+            "direction": "horizontal",
+            "points": [
+                [
+                    878,
+                    278
+                ],
+                [
+                    1227,
+                    279
+                ],
+                [
+                    1227,
+                    304
+                ],
+                [
+                    878,
+                    303
+                ]
+            ],
+            "rec_score": 0.9995796084403992
+        },
+        {
+            "content": "√ 教育無償化と平等な教育機会の確保",
+            "det_score": 0.8247710181114286,
+            "direction": "horizontal",
+            "points": [
+                [
+                    392,
+                    271
+                ],
+                [
+                    698,
+                    271
+                ],
+                [
+                    698,
+                    292
+                ],
+                [
+                    392,
+                    292
+                ]
+            ],
+            "rec_score": 0.9280109405517578
+        },
+        {
+            "content": "√ 農業、医療、教育、保育、介護、放送",
+            "det_score": 0.869394825806387,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    264
+                ],
+                [
+                    320,
+                    264
+                ],
+                [
+                    320,
+                    281
+                ],
+                [
+                    35,
+                    281
+                ]
+            ],
+            "rec_score": 0.9132135510444641
+        },
+        {
+            "content": "2 1978年生まれ。早稲田大学政治経済学部卒。",
+            "det_score": 0.8669636500863921,
+            "direction": "horizontal",
+            "points": [
+                [
+                    847,
+                    253
+                ],
+                [
+                    1336,
+                    254
+                ],
+                [
+                    1336,
+                    277
+                ],
+                [
+                    847,
+                    275
+                ]
+            ],
+            "rec_score": 0.618890106678009
+        },
+        {
+            "content": "√ 世代間格差なく、安心·公平な年金制度への移行",
+            "det_score": 0.8265305716226311,
+            "direction": "horizontal",
+            "points": [
+                [
+                    394,
+                    243
+                ],
+                [
+                    779,
+                    243
+                ],
+                [
+                    779,
+                    260
+                ],
+                [
+                    394,
+                    260
+                ]
+            ],
+            "rec_score": 0.8802394866943359
+        },
+        {
+            "content": "物価高対策",
+            "det_score": 0.831508573833803,
+            "direction": "horizontal",
+            "points": [
+                [
+                    56,
+                    232
+                ],
+                [
+                    148,
+                    232
+                ],
+                [
+                    148,
+                    254
+                ],
+                [
+                    56,
+                    254
+                ]
+            ],
+            "rec_score": 0.9997875690460205
+        },
+        {
+            "content": "√ 社会保険料を下げる改革の実現",
+            "det_score": 0.8263219664227371,
+            "direction": "horizontal",
+            "points": [
+                [
+                    392,
+                    212
+                ],
+                [
+                    662,
+                    212
+                ],
+                [
+                    662,
+                    232
+                ],
+                [
+                    392,
+                    232
+                ]
+            ],
+            "rec_score": 0.9556534290313721
+        },
+        {
+            "content": "√ 中長期の経済成長の起爆剤となる",
+            "det_score": 0.8582146356596887,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    212
+                ],
+                [
+                    319,
+                    212
+                ],
+                [
+                    319,
+                    232
+                ],
+                [
+                    34,
+                    232
+                ]
+            ],
+            "rec_score": 0.823104202747345
+        },
+        {
+            "content": "広報官としてSDGsを日本に普及。",
+            "det_score": 0.8582782082314844,
+            "direction": "horizontal",
+            "points": [
+                [
+                    881,
+                    206
+                ],
+                [
+                    1224,
+                    206
+                ],
+                [
+                    1224,
+                    231
+                ],
+                [
+                    881,
+                    231
+                ]
+            ],
+            "rec_score": 0.9852960109710693
+        },
+        {
+            "content": "2 元·国連職員。アフガンやスーダンの紛争地で働く.",
+            "det_score": 0.8972169957849958,
+            "direction": "horizontal",
+            "points": [
+                [
+                    848,
+                    181
+                ],
+                [
+                    1378,
+                    181
+                ],
+                [
+                    1378,
+                    202
+                ],
+                [
+                    848,
+                    202
+                ]
+            ],
+            "rec_score": 0.36680978536605835
+        },
+        {
+            "content": "物価より手取りが上がる経済",
+            "det_score": 0.90740851952361,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    170
+                ],
+                [
+                    354,
+                    170
+                ],
+                [
+                    354,
+                    191
+                ],
+                [
+                    34,
+                    191
+                ]
+            ],
+            "rec_score": 0.9929660558700562
+        },
+        {
+            "content": "持続可能な社会保障制度",
+            "det_score": 0.9116563143375072,
+            "direction": "horizontal",
+            "points": [
+                [
+                    472,
+                    167
+                ],
+                [
+                    752,
+                    167
+                ],
+                [
+                    752,
+                    192
+                ],
+                [
+                    472,
+                    192
+                ]
+            ],
+            "rec_score": 0.9954916834831238
+        },
+        {
+            "content": "1999111",
+            "det_score": 0.8230774473009334,
+            "direction": "vertical",
+            "points": [
+                [
+                    1879,
+                    100
+                ],
+                [
+                    2086,
+                    100
+                ],
+                [
+                    2086,
+                    660
+                ],
+                [
+                    1879,
+                    660
+                ]
+            ],
+            "rec_score": 0.0013362790923565626
+        },
+        {
+            "content": "元·国連職員",
+            "det_score": 0.8619209650311901,
+            "direction": "vertical",
+            "points": [
+                [
+                    2091,
+                    144
+                ],
+                [
+                    2145,
+                    144
+                ],
+                [
+                    2145,
+                    389
+                ],
+                [
+                    2091,
+                    389
+                ]
+            ],
+            "rec_score": 0.9756522178649902
+        },
+        {
+            "content": "など要職を歴任。",
+            "det_score": 0.8893196190270664,
+            "direction": "horizontal",
+            "points": [
+                [
+                    880,
+                    140
+                ],
+                [
+                    1047,
+                    140
+                ],
+                [
+                    1047,
+                    165
+                ],
+                [
+                    880,
+                    165
+                ]
+            ],
+            "rec_score": 0.9981240034103394
+        },
+        {
+            "content": "曲",
+            "det_score": 0.6361420587581748,
+            "direction": "horizontal",
+            "points": [
+                [
+                    394,
+                    126
+                ],
+                [
+                    463,
+                    126
+                ],
+                [
+                    463,
+                    198
+                ],
+                [
+                    394,
+                    198
+                ]
+            ],
+            "rec_score": 0.8837673664093018
+        },
+        {
+            "content": "社会保障",
+            "det_score": 0.8586570743620395,
+            "direction": "horizontal",
+            "points": [
+                [
+                    502,
+                    133
+                ],
+                [
+                    615,
+                    133
+                ],
+                [
+                    615,
+                    158
+                ],
+                [
+                    502,
+                    158
+                ]
+            ],
+            "rec_score": 0.9929325580596924
+        },
+        {
+            "content": "経済·物価高対策",
+            "det_score": 0.8923042372590111,
+            "direction": "horizontal",
+            "points": [
+                [
+                    114,
+                    133
+                ],
+                [
+                    269,
+                    133
+                ],
+                [
+                    269,
+                    158
+                ],
+                [
+                    114,
+                    158
+                ]
+            ],
+            "rec_score": 0.9931321144104004
+        },
+        {
+            "content": "♡ 衆議院予算委員会理事、外務委員会理事、憲法審査会委員",
+            "det_score": 0.7985849407447081,
+            "direction": "horizontal",
+            "points": [
+                [
+                    848,
+                    116
+                ],
+                [
+                    1450,
+                    116
+                ],
+                [
+                    1450,
+                    137
+                ],
+                [
+                    848,
+                    137
+                ]
+            ],
+            "rec_score": 0.13205687701702118
+        },
+        {
+            "content": "ー 大 阪 か ら 日 本 を 変 え る ー",
+            "det_score": 0.7730887936176772,
+            "direction": "horizontal",
+            "points": [
+                [
+                    111,
+                    84
+                ],
+                [
+                    705,
+                    84
+                ],
+                [
+                    705,
+                    109
+                ],
+                [
+                    111,
+                    109
+                ]
+            ],
+            "rec_score": 0.42570167779922485
+        },
+        {
+            "content": "教育無償化や政治改革を実現。",
+            "det_score": 0.8477883355239781,
+            "direction": "horizontal",
+            "points": [
+                [
+                    881,
+                    76
+                ],
+                [
+                    1182,
+                    76
+                ],
+                [
+                    1182,
+                    97
+                ],
+                [
+                    881,
+                    97
+                ]
+            ],
+            "rec_score": 0.9935965538024902
+        },
+        {
+            "content": "2 日本維新の会の政務調査会長(第4代)を務める。党として",
+            "det_score": 0.8693921047406609,
+            "direction": "horizontal",
+            "points": [
+                [
+                    846,
+                    46
+                ],
+                [
+                    1450,
+                    46
+                ],
+                [
+                    1450,
+                    71
+                ],
+                [
+                    846,
+                    71
+                ]
+            ],
+            "rec_score": 0.5064266920089722
+        },
+        {
+            "content": "今日本維持会",
+            "det_score": 0.8024520837008093,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1574,
+                    14
+                ],
+                [
+                    2155,
+                    0
+                ],
+                [
+                    2158,
+                    134
+                ],
+                [
+                    1577,
+                    151
+                ]
+            ],
+            "rec_score": 0.07747897505760193
+        },
+        {
+            "content": "青柳仁士 プロフィール",
+            "det_score": 0.8115352351897918,
+            "direction": "vertical",
+            "points": [
+                [
+                    1508,
+                    35
+                ],
+                [
+                    1541,
+                    35
+                ],
+                [
+                    1541,
+                    311
+                ],
+                [
+                    1508,
+                    311
+                ]
+            ],
+            "rec_score": 0.9963862299919128
+        },
+        {
+            "content": "持続可能な日本と地域をつくる",
+            "det_score": 0.9030972156696493,
+            "direction": "horizontal",
+            "points": [
+                [
+                    29,
+                    17
+                ],
+                [
+                    772,
+                    17
+                ],
+                [
+                    772,
+                    71
+                ],
+                [
+                    29,
+                    71
+                ]
+            ],
+            "rec_score": 0.9998456239700317
+        }
+    ]
+}

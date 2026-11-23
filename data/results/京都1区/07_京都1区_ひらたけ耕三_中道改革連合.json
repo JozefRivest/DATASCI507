@@ -1,0 +1,3140 @@
+{
+    "figures": [
+        {
+            "box": [
+                34,
+                81,
+                856,
+                294
+            ],
+            "direction": "horizontal",
+            "order": 1,
+            "paragraphs": [
+                {
+                    "box": [
+                        47,
+                        95,
+                        833,
+                        279
+                    ],
+                    "contents": "ひらたげ!\n耕三\nこうぞう",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                911,
+                56,
+                1108,
+                373
+            ],
+            "direction": "horizontal",
+            "order": 41,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                888,
+                405,
+                1101,
+                525
+            ],
+            "direction": "horizontal",
+            "order": 42,
+            "paragraphs": [
+                {
+                    "box": [
+                        912,
+                        417,
+                        1076,
+                        493
+                    ],
+                    "contents": "中道市\n合資会\n比例区も",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        943,
+                        494,
+                        1040,
+                        503
+                    ],
+                    "contents": "Centith Boform Alionce",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                34,
+                26,
+                857,
+                70
+            ],
+            "contents": "京都産業大学客員教授、元·京都市文化市民局長",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                66,
+                314,
+                820,
+                444
+            ],
+            "contents": "生活·将来·仕事の安心を。\n若者たち、一緒に変えよう!",
+            "direction": "horizontal",
+            "order": 2,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                42,
+                466,
+                98,
+                743
+            ],
+            "contents": "ご支援をよろしくお願い\nします。",
+            "direction": "vertical",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                42,
+                939,
+                85,
+                1139
+            ],
+            "contents": "6つの約束",
+            "direction": "vertical",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                106,
+                466,
+                243,
+                744
+            ],
+            "contents": "ためになる政治を!」\n数えきれないたくさんの\n方々への感謝と恩返しの思い\nでがんばります。",
+            "direction": "vertical",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                251,
+                469,
+                274,
+                700
+            ],
+            "contents": "「まっとうな政治、国民の",
+            "direction": "vertical",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                293,
+                514,
+                319,
+                739
+            ],
+            "contents": "大切にされる社会を!」",
+            "direction": "vertical",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                327,
+                469,
+                353,
+                594
+            ],
+            "contents": "「二人ひとりが",
+            "direction": "vertical",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                780,
+                359,
+                818
+            ],
+            "contents": "1. 経済物価対策",
+            "direction": "horizontal",
+            "order": 9,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                369,
+                469,
+                430,
+                741
+            ],
+            "contents": "「生活·将来·仕事の安心を\nすべての世代に!」",
+            "direction": "vertical",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                446,
+                467,
+                807,
+                748
+            ],
+            "contents": "京都市役所勤務の時代、ま\nた学生の学外学習でも、京都\nの皆様にはたいへんお世話に\nなり、ありがとうございまし\nた。私は京都に生まれ、育ち、\n京都で学び、働いてきました。\n大学教員として学生とか\nかわり、若者が希望を持てる\n社会の実現のため働きたいと、\n改めて強く願い、再度の立候\n補を決断しました。",
+            "direction": "vertical",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                114,
+                823,
+                472,
+                848
+            ],
+            "contents": "~分厚い中間層の復活、家計·賃上げ支援~",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                858,
+                295,
+                877
+            ],
+            "contents": "●食品の消費税をゼロに",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                882,
+                422,
+                903
+            ],
+            "contents": "●物価高騰を上回る賃上げ、所得増の実現",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                116,
+                908,
+                471,
+                928
+            ],
+            "contents": "●付加価値の高い製品を生み出す産業への重点投資",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                114,
+                933,
+                444,
+                952
+            ],
+            "contents": "●希望すれば正社員になれる雇用制度の確立",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                112,
+                971,
+                437,
+                1042
+            ],
+            "contents": "2. 将来世代への投資と\n将来負担軽減",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                1050,
+                470,
+                1070
+            ],
+            "contents": "●学費の値下げにつながる大学運営交付金、私学助成の拡充",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                116,
+                1075,
+                424,
+                1094
+            ],
+            "contents": "●奨学金返済の支援、給付型奨学金の拡充",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                1100,
+                416,
+                1119
+            ],
+            "contents": "●18歳まで月15000円の児童手当を支給",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                1125,
+                469,
+                1145
+            ],
+            "contents": "●将来世代へのつけを減らす持続可能な財政運営の実現",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                112,
+                1163,
+                470,
+                1231
+            ],
+            "contents": "3. 地域の持続的経済発展\n~特色ある自然や文化から産業を~",
+            "direction": "horizontal",
+            "order": 22,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                115,
+                1241,
+                393,
+                1262
+            ],
+            "contents": "●文化予算(約1000億円)の大幅増額",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                116,
+                1267,
+                451,
+                1287
+            ],
+            "contents": "●伝統産業振興予算(約10億円)の一桁アップ",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                115,
+                1292,
+                446,
+                1312
+            ],
+            "contents": "●地域の実情に応じた観光対策への国の支援",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                822,
+                465,
+                851,
+                600
+            ],
+            "contents": "ごあいさつ",
+            "direction": "vertical",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                494,
+                779,
+                859,
+                851
+            ],
+            "contents": "4. 一人ひとりが\n大切にされる社会の実現",
+            "direction": "horizontal",
+            "order": 27,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                499,
+                858,
+                715,
+                877
+            ],
+            "contents": "●選択的夫婦別姓制度の実現",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                499,
+                883,
+                815,
+                903
+            ],
+            "contents": "●地震、火災などの被災地の1日も早い復興",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                499,
+                908,
+                856,
+                928
+            ],
+            "contents": "●老朽化したインフラの更新への国の積極的な関与",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                498,
+                933,
+                762,
+                953
+            ],
+            "contents": "●北朝鮮による拉致問題の早期解決",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                494,
+                971,
+                802,
+                1040
+            ],
+            "contents": "5. 政治改革\n~クリーンな政治で信頼回復~",
+            "direction": "horizontal",
+            "order": 32,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                498,
+                1050,
+                844,
+                1069
+            ],
+            "contents": "●政治資金を徹底的に透明化し、裏金·脱税NO!",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                500,
+                1075,
+                836,
+                1094
+            ],
+            "contents": "●金権政治の温床となる企業·団体献金を禁止",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                499,
+                1100,
+                855,
+                1120
+            ],
+            "contents": "●国民感覚とかけ離れた政治家の脱法行為を禁止",
+            "direction": "horizontal",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                499,
+                1125,
+                806,
+                1145
+            ],
+            "contents": "●税金の使い方を徹底的に透明化、効率化",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                495,
+                1163,
+                800,
+                1202
+            ],
+            "contents": "6. 京都のために働く",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                498,
+                1212,
+                857,
+                1232
+            ],
+            "contents": "●オーバーツーリズム問題解決へ国の積極的な関与",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                498,
+                1237,
+                858,
+                1257
+            ],
+            "contents": "●京都市の地下を通らない北陸新幹線のルート誘導",
+            "direction": "horizontal",
+            "order": 39,
+            "role": null
+        },
+        {
+            "box": [
+                499,
+                1263,
+                682,
+                1282
+            ],
+            "contents": "●国立歴史博物館の誘致",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                888,
+                540,
+                1100,
+                566
+            ],
+            "contents": "ひらたけこうぞう 平竹耕三",
+            "direction": "horizontal",
+            "order": 43,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                886,
+                581,
+                1101,
+                897
+            ],
+            "contents": "●1959年中京区生まれ 身長\n188cm ●京都市立竹間小、\n初音中、堀川高校を経て京都大\n学法学部卒、経済学博士(龍谷\n大学)●京都市文化市民局長、\n文化芸術政策監、京都市交響楽\n団副楽団長、ロームシアター京\n都館長などを歴任 ●現·京都産\n業大学客員教授 ●母、妻、3男\n1女、愛猫2匹 ●趣味:書道、旅\n行、ジョギング(フルマラソン完\n走2回)、剣道(初段)、音楽鑑賞\n(京響友の会)、スポーツ観戦.\nドラマ(サスペンス、歴史など)",
+            "direction": "horizontal",
+            "order": 44,
+            "role": null
+        },
+        {
+            "box": [
+                897,
+                927,
+                1091,
+                946
+            ],
+            "contents": "私たちも応援しています!",
+            "direction": "horizontal",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                887,
+                971,
+                1100,
+                1002
+            ],
+            "contents": "野田 佳彦\n共同代表\n中道改革連合",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        },
+        {
+            "box": [
+                886,
+                1015,
+                1099,
+                1046
+            ],
+            "contents": "斉藤 鉄夫\n共同代表\n中道改革連合",
+            "direction": "horizontal",
+            "order": 47,
+            "role": null
+        },
+        {
+            "box": [
+                886,
+                1059,
+                1100,
+                1090
+            ],
+            "contents": "松井 珍男子\n元:京都市副市長",
+            "direction": "horizontal",
+            "order": 48,
+            "role": null
+        },
+        {
+            "box": [
+                887,
+                1103,
+                1100,
+                1135
+            ],
+            "contents": "星川茂一\n元京都市副市長",
+            "direction": "horizontal",
+            "order": 49,
+            "role": null
+        },
+        {
+            "box": [
+                887,
+                1148,
+                1100,
+                1179
+            ],
+            "contents": "原 敏之\n連合京都会長",
+            "direction": "horizontal",
+            "order": 50,
+            "role": null
+        },
+        {
+            "box": [
+                886,
+                1191,
+                1101,
+                1224
+            ],
+            "contents": "羽溪 了\nこども教育学科教授\n龍谷大学短期大学部",
+            "direction": "horizontal",
+            "order": 51,
+            "role": null
+        },
+        {
+            "box": [
+                887,
+                1237,
+                1100,
+                1267
+            ],
+            "contents": "田中けんじ\n京都府議会議員",
+            "direction": "horizontal",
+            "order": 52,
+            "role": null
+        },
+        {
+            "box": [
+                886,
+                1280,
+                1101,
+                1312
+            ],
+            "contents": "福山 哲郎\n参議院議員",
+            "direction": "horizontal",
+            "order": 53,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "●地域の実情に応じた観光対策への国の支援",
+            "det_score": 0.8182386518237383,
+            "direction": "horizontal",
+            "points": [
+                [
+                    117,
+                    1293
+                ],
+                [
+                    444,
+                    1293
+                ],
+                [
+                    444,
+                    1310
+                ],
+                [
+                    117,
+                    1310
+                ]
+            ],
+            "rec_score": 0.9982378482818604
+        },
+        {
+            "content": "参議院議員",
+            "det_score": 0.8340388478053266,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1287
+                ],
+                [
+                    1102,
+                    1287
+                ],
+                [
+                    1102,
+                    1304
+                ],
+                [
+                    1018,
+                    1304
+                ]
+            ],
+            "rec_score": 0.9998300075531006
+        },
+        {
+            "content": "福山 哲郎",
+            "det_score": 0.9230497651489349,
+            "direction": "horizontal",
+            "points": [
+                [
+                    886,
+                    1281
+                ],
+                [
+                    1009,
+                    1281
+                ],
+                [
+                    1009,
+                    1311
+                ],
+                [
+                    886,
+                    1311
+                ]
+            ],
+            "rec_score": 0.9992973804473877
+        },
+        {
+            "content": "●伝統産業振興予算(約10億円)の一桁アップ",
+            "det_score": 0.8540627832829604,
+            "direction": "horizontal",
+            "points": [
+                [
+                    117,
+                    1268
+                ],
+                [
+                    449,
+                    1268
+                ],
+                [
+                    449,
+                    1284
+                ],
+                [
+                    117,
+                    1284
+                ]
+            ],
+            "rec_score": 0.9703125357627869
+        },
+        {
+            "content": "●国立歴史博物館の誘致",
+            "det_score": 0.8945307479800007,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    1264
+                ],
+                [
+                    681,
+                    1264
+                ],
+                [
+                    681,
+                    1281
+                ],
+                [
+                    500,
+                    1281
+                ]
+            ],
+            "rec_score": 0.997667670249939
+        },
+        {
+            "content": "京都府議会議員",
+            "det_score": 0.8141708412469494,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1243
+                ],
+                [
+                    1102,
+                    1243
+                ],
+                [
+                    1102,
+                    1260
+                ],
+                [
+                    1018,
+                    1260
+                ]
+            ],
+            "rec_score": 0.9970831871032715
+        },
+        {
+            "content": "●文化予算(約1000億円)の大幅増額",
+            "det_score": 0.8435625292559669,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    1242
+                ],
+                [
+                    392,
+                    1242
+                ],
+                [
+                    392,
+                    1259
+                ],
+                [
+                    116,
+                    1259
+                ]
+            ],
+            "rec_score": 0.9960678815841675
+        },
+        {
+            "content": "田中けんじ",
+            "det_score": 0.8741990183937598,
+            "direction": "horizontal",
+            "points": [
+                [
+                    887,
+                    1235
+                ],
+                [
+                    1008,
+                    1235
+                ],
+                [
+                    1008,
+                    1266
+                ],
+                [
+                    887,
+                    1266
+                ]
+            ],
+            "rec_score": 0.9992373585700989
+        },
+        {
+            "content": "●京都市の地下を通らない北陸新幹線のルート誘導",
+            "det_score": 0.8347922389420043,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    1239
+                ],
+                [
+                    857,
+                    1239
+                ],
+                [
+                    857,
+                    1255
+                ],
+                [
+                    500,
+                    1255
+                ]
+            ],
+            "rec_score": 0.9964235424995422
+        },
+        {
+            "content": "●オーバーツーリズム問題解決へ国の積極的な関与",
+            "det_score": 0.8649509296598148,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    1213
+                ],
+                [
+                    856,
+                    1213
+                ],
+                [
+                    856,
+                    1230
+                ],
+                [
+                    500,
+                    1230
+                ]
+            ],
+            "rec_score": 0.7851803302764893
+        },
+        {
+            "content": "~特色ある自然や文化から産業を~",
+            "det_score": 0.9093585734988208,
+            "direction": "horizontal",
+            "points": [
+                [
+                    115,
+                    1208
+                ],
+                [
+                    457,
+                    1208
+                ],
+                [
+                    457,
+                    1230
+                ],
+                [
+                    115,
+                    1230
+                ]
+            ],
+            "rec_score": 0.9559902548789978
+        },
+        {
+            "content": "こども教育学科教授",
+            "det_score": 0.8836228640973568,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1017,
+                    1207
+                ],
+                [
+                    1101,
+                    1205
+                ],
+                [
+                    1102,
+                    1222
+                ],
+                [
+                    1017,
+                    1224
+                ]
+            ],
+            "rec_score": 0.7825632095336914
+        },
+        {
+            "content": "羽溪 了",
+            "det_score": 0.8839819732626958,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    1191
+                ],
+                [
+                    1008,
+                    1191
+                ],
+                [
+                    1008,
+                    1224
+                ],
+                [
+                    885,
+                    1224
+                ]
+            ],
+            "rec_score": 0.9668625593185425
+        },
+        {
+            "content": "龍谷大学短期大学部",
+            "det_score": 0.7917080150998157,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1192
+                ],
+                [
+                    1102,
+                    1192
+                ],
+                [
+                    1102,
+                    1208
+                ],
+                [
+                    1018,
+                    1208
+                ]
+            ],
+            "rec_score": 0.8441151976585388
+        },
+        {
+            "content": "6. 京都のために働く",
+            "det_score": 0.8815623004956173,
+            "direction": "horizontal",
+            "points": [
+                [
+                    497,
+                    1164
+                ],
+                [
+                    799,
+                    1167
+                ],
+                [
+                    799,
+                    1201
+                ],
+                [
+                    496,
+                    1198
+                ]
+            ],
+            "rec_score": 0.9990397691726685
+        },
+        {
+            "content": "3. 地域の持続的経済発展",
+            "det_score": 0.8949340287933704,
+            "direction": "horizontal",
+            "points": [
+                [
+                    114,
+                    1164
+                ],
+                [
+                    470,
+                    1166
+                ],
+                [
+                    470,
+                    1199
+                ],
+                [
+                    114,
+                    1197
+                ]
+            ],
+            "rec_score": 0.9992581009864807
+        },
+        {
+            "content": "連合京都会長",
+            "det_score": 0.8806271527885298,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1154
+                ],
+                [
+                    1101,
+                    1154
+                ],
+                [
+                    1101,
+                    1171
+                ],
+                [
+                    1018,
+                    1171
+                ]
+            ],
+            "rec_score": 0.999480664730072
+        },
+        {
+            "content": "原 敏之",
+            "det_score": 0.8922240260978592,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    1145
+                ],
+                [
+                    1011,
+                    1145
+                ],
+                [
+                    1011,
+                    1179
+                ],
+                [
+                    885,
+                    1179
+                ]
+            ],
+            "rec_score": 0.9895815849304199
+        },
+        {
+            "content": "●税金の使い方を徹底的に透明化、効率化",
+            "det_score": 0.8600055185129599,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    1126
+                ],
+                [
+                    805,
+                    1126
+                ],
+                [
+                    805,
+                    1143
+                ],
+                [
+                    500,
+                    1143
+                ]
+            ],
+            "rec_score": 0.9976562857627869
+        },
+        {
+            "content": "●将来世代へのつけを減らす持続可能な財政運営の実現",
+            "det_score": 0.8551925284006402,
+            "direction": "horizontal",
+            "points": [
+                [
+                    117,
+                    1126
+                ],
+                [
+                    468,
+                    1126
+                ],
+                [
+                    468,
+                    1143
+                ],
+                [
+                    117,
+                    1143
+                ]
+            ],
+            "rec_score": 0.9932223558425903
+        },
+        {
+            "content": "元京都市副市長",
+            "det_score": 0.8646331608350224,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1110
+                ],
+                [
+                    1101,
+                    1110
+                ],
+                [
+                    1101,
+                    1126
+                ],
+                [
+                    1018,
+                    1126
+                ]
+            ],
+            "rec_score": 0.9861288070678711
+        },
+        {
+            "content": "星川茂一",
+            "det_score": 0.8969068895521578,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    1102
+                ],
+                [
+                    1009,
+                    1102
+                ],
+                [
+                    1009,
+                    1135
+                ],
+                [
+                    885,
+                    1135
+                ]
+            ],
+            "rec_score": 0.9923873543739319
+        },
+        {
+            "content": "●国民感覚とかけ離れた政治家の脱法行為を禁止",
+            "det_score": 0.886508679855935,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    1102
+                ],
+                [
+                    853,
+                    1102
+                ],
+                [
+                    853,
+                    1118
+                ],
+                [
+                    500,
+                    1118
+                ]
+            ],
+            "rec_score": 0.9897159337997437
+        },
+        {
+            "content": "●18歳まで月15000円の児童手当を支給",
+            "det_score": 0.9057859246972767,
+            "direction": "horizontal",
+            "points": [
+                [
+                    115,
+                    1099
+                ],
+                [
+                    416,
+                    1100
+                ],
+                [
+                    416,
+                    1119
+                ],
+                [
+                    115,
+                    1118
+                ]
+            ],
+            "rec_score": 0.999139666557312
+        },
+        {
+            "content": "●金権政治の温床となる企業·団体献金を禁止",
+            "det_score": 0.8198964609239334,
+            "direction": "horizontal",
+            "points": [
+                [
+                    501,
+                    1076
+                ],
+                [
+                    834,
+                    1076
+                ],
+                [
+                    834,
+                    1093
+                ],
+                [
+                    501,
+                    1093
+                ]
+            ],
+            "rec_score": 0.9090005159378052
+        },
+        {
+            "content": "●奨学金返済の支援、給付型奨学金の拡充",
+            "det_score": 0.8135954360414561,
+            "direction": "horizontal",
+            "points": [
+                [
+                    117,
+                    1076
+                ],
+                [
+                    423,
+                    1076
+                ],
+                [
+                    423,
+                    1093
+                ],
+                [
+                    117,
+                    1093
+                ]
+            ],
+            "rec_score": 0.9961307048797607
+        },
+        {
+            "content": "元:京都市副市長",
+            "det_score": 0.9064365011512064,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1065
+                ],
+                [
+                    1102,
+                    1065
+                ],
+                [
+                    1102,
+                    1083
+                ],
+                [
+                    1018,
+                    1083
+                ]
+            ],
+            "rec_score": 0.9835246801376343
+        },
+        {
+            "content": "松井 珍男子",
+            "det_score": 0.9113425351430641,
+            "direction": "horizontal",
+            "points": [
+                [
+                    886,
+                    1059
+                ],
+                [
+                    1009,
+                    1059
+                ],
+                [
+                    1009,
+                    1090
+                ],
+                [
+                    886,
+                    1090
+                ]
+            ],
+            "rec_score": 0.9925327897071838
+        },
+        {
+            "content": "●政治資金を徹底的に透明化し、裏金·脱税NO!",
+            "det_score": 0.8450638422632736,
+            "direction": "horizontal",
+            "points": [
+                [
+                    499,
+                    1050
+                ],
+                [
+                    844,
+                    1050
+                ],
+                [
+                    844,
+                    1069
+                ],
+                [
+                    499,
+                    1069
+                ]
+            ],
+            "rec_score": 0.842017650604248
+        },
+        {
+            "content": "●学費の値下げにつながる大学運営交付金、私学助成の拡充",
+            "det_score": 0.8832790268786389,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    1051
+                ],
+                [
+                    469,
+                    1050
+                ],
+                [
+                    469,
+                    1067
+                ],
+                [
+                    116,
+                    1068
+                ]
+            ],
+            "rec_score": 0.9626147747039795
+        },
+        {
+            "content": "共同代表",
+            "det_score": 0.8750463918499325,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1029
+                ],
+                [
+                    1075,
+                    1029
+                ],
+                [
+                    1075,
+                    1046
+                ],
+                [
+                    1018,
+                    1046
+                ]
+            ],
+            "rec_score": 0.9997285008430481
+        },
+        {
+            "content": "斉藤 鉄夫",
+            "det_score": 0.9065246514911582,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    1014
+                ],
+                [
+                    1009,
+                    1014
+                ],
+                [
+                    1009,
+                    1047
+                ],
+                [
+                    885,
+                    1047
+                ]
+            ],
+            "rec_score": 0.9817748069763184
+        },
+        {
+            "content": "~クリーンな政治で信頼回復~",
+            "det_score": 0.8643457451503571,
+            "direction": "horizontal",
+            "points": [
+                [
+                    498,
+                    1015
+                ],
+                [
+                    800,
+                    1015
+                ],
+                [
+                    800,
+                    1036
+                ],
+                [
+                    498,
+                    1036
+                ]
+            ],
+            "rec_score": 0.9948652982711792
+        },
+        {
+            "content": "中道改革連合",
+            "det_score": 0.8723599026600519,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    1015
+                ],
+                [
+                    1101,
+                    1015
+                ],
+                [
+                    1101,
+                    1031
+                ],
+                [
+                    1018,
+                    1031
+                ]
+            ],
+            "rec_score": 0.9891853332519531
+        },
+        {
+            "content": "将来負担軽減",
+            "det_score": 0.9068095804076065,
+            "direction": "horizontal",
+            "points": [
+                [
+                    158,
+                    1010
+                ],
+                [
+                    346,
+                    1010
+                ],
+                [
+                    346,
+                    1041
+                ],
+                [
+                    158,
+                    1041
+                ]
+            ],
+            "rec_score": 0.9997307062149048
+        },
+        {
+            "content": "共同代表",
+            "det_score": 0.8485487719882909,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1017,
+                    986
+                ],
+                [
+                    1075,
+                    986
+                ],
+                [
+                    1075,
+                    1003
+                ],
+                [
+                    1017,
+                    1003
+                ]
+            ],
+            "rec_score": 0.9999256134033203
+        },
+        {
+            "content": "2. 将来世代への投資と",
+            "det_score": 0.8993270460945478,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    975
+                ],
+                [
+                    436,
+                    975
+                ],
+                [
+                    436,
+                    1005
+                ],
+                [
+                    116,
+                    1005
+                ]
+            ],
+            "rec_score": 0.9946473836898804
+        },
+        {
+            "content": "5. 政治改革",
+            "det_score": 0.9098509324103714,
+            "direction": "horizontal",
+            "points": [
+                [
+                    497,
+                    972
+                ],
+                [
+                    675,
+                    972
+                ],
+                [
+                    675,
+                    1008
+                ],
+                [
+                    497,
+                    1008
+                ]
+            ],
+            "rec_score": 0.9997413158416748
+        },
+        {
+            "content": "野田 佳彦",
+            "det_score": 0.9037151630266063,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    969
+                ],
+                [
+                    1009,
+                    969
+                ],
+                [
+                    1009,
+                    1003
+                ],
+                [
+                    885,
+                    1003
+                ]
+            ],
+            "rec_score": 0.9925450086593628
+        },
+        {
+            "content": "中道改革連合",
+            "det_score": 0.8110151762149359,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1018,
+                    970
+                ],
+                [
+                    1101,
+                    970
+                ],
+                [
+                    1101,
+                    987
+                ],
+                [
+                    1018,
+                    987
+                ]
+            ],
+            "rec_score": 0.9984756112098694
+        },
+        {
+            "content": "6つの約束",
+            "det_score": 0.8763806113294991,
+            "direction": "vertical",
+            "points": [
+                [
+                    42,
+                    938
+                ],
+                [
+                    85,
+                    938
+                ],
+                [
+                    85,
+                    1138
+                ],
+                [
+                    42,
+                    1138
+                ]
+            ],
+            "rec_score": 0.9985734820365906
+        },
+        {
+            "content": "●希望すれば正社員になれる雇用制度の確立",
+            "det_score": 0.8799470040228587,
+            "direction": "horizontal",
+            "points": [
+                [
+                    117,
+                    935
+                ],
+                [
+                    443,
+                    935
+                ],
+                [
+                    443,
+                    951
+                ],
+                [
+                    117,
+                    951
+                ]
+            ],
+            "rec_score": 0.9987030029296875
+        },
+        {
+            "content": "●北朝鮮による拉致問題の早期解決",
+            "det_score": 0.865751722607687,
+            "direction": "horizontal",
+            "points": [
+                [
+                    499,
+                    933
+                ],
+                [
+                    762,
+                    933
+                ],
+                [
+                    762,
+                    952
+                ],
+                [
+                    499,
+                    952
+                ]
+            ],
+            "rec_score": 0.9983471035957336
+        },
+        {
+            "content": "私たちも応援しています!",
+            "det_score": 0.9030246790987622,
+            "direction": "horizontal",
+            "points": [
+                [
+                    898,
+                    928
+                ],
+                [
+                    1089,
+                    928
+                ],
+                [
+                    1089,
+                    944
+                ],
+                [
+                    898,
+                    944
+                ]
+            ],
+            "rec_score": 0.9899591207504272
+        },
+        {
+            "content": "●老朽化したインフラの更新への国の積極的な関与",
+            "det_score": 0.8312864878356481,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    909
+                ],
+                [
+                    855,
+                    909
+                ],
+                [
+                    855,
+                    926
+                ],
+                [
+                    500,
+                    926
+                ]
+            ],
+            "rec_score": 0.9964764714241028
+        },
+        {
+            "content": "●付加価値の高い製品を生み出す産業への重点投資",
+            "det_score": 0.8255083746426177,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    909
+                ],
+                [
+                    470,
+                    909
+                ],
+                [
+                    470,
+                    926
+                ],
+                [
+                    116,
+                    926
+                ]
+            ],
+            "rec_score": 0.9949208498001099
+        },
+        {
+            "content": "●地震、火災などの被災地の1日も早い復興",
+            "det_score": 0.8969699115468985,
+            "direction": "horizontal",
+            "points": [
+                [
+                    500,
+                    885
+                ],
+                [
+                    814,
+                    885
+                ],
+                [
+                    814,
+                    901
+                ],
+                [
+                    500,
+                    901
+                ]
+            ],
+            "rec_score": 0.9989105463027954
+        },
+        {
+            "content": "●物価高騰を上回る賃上げ、所得増の実現",
+            "det_score": 0.8908404380536852,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    884
+                ],
+                [
+                    421,
+                    883
+                ],
+                [
+                    421,
+                    900
+                ],
+                [
+                    116,
+                    901
+                ]
+            ],
+            "rec_score": 0.9824090003967285
+        },
+        {
+            "content": "ドラマ(サスペンス、歴史など)",
+            "det_score": 0.895756518784346,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    879
+                ],
+                [
+                    1086,
+                    879
+                ],
+                [
+                    1086,
+                    896
+                ],
+                [
+                    888,
+                    896
+                ]
+            ],
+            "rec_score": 0.9992212057113647
+        },
+        {
+            "content": "●選択的夫婦別姓制度の実現",
+            "det_score": 0.8572682967017418,
+            "direction": "horizontal",
+            "points": [
+                [
+                    501,
+                    859
+                ],
+                [
+                    714,
+                    859
+                ],
+                [
+                    714,
+                    876
+                ],
+                [
+                    501,
+                    876
+                ]
+            ],
+            "rec_score": 0.7158738970756531
+        },
+        {
+            "content": "●食品の消費税をゼロに",
+            "det_score": 0.8603618279155695,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    859
+                ],
+                [
+                    295,
+                    859
+                ],
+                [
+                    295,
+                    878
+                ],
+                [
+                    116,
+                    878
+                ]
+            ],
+            "rec_score": 0.9890827536582947
+        },
+        {
+            "content": "(京響友の会)、スポーツ観戦.",
+            "det_score": 0.846781439799879,
+            "direction": "horizontal",
+            "points": [
+                [
+                    890,
+                    857
+                ],
+                [
+                    1096,
+                    857
+                ],
+                [
+                    1096,
+                    873
+                ],
+                [
+                    890,
+                    873
+                ]
+            ],
+            "rec_score": 0.5894282460212708
+        },
+        {
+            "content": "走2回)、剣道(初段)、音楽鑑賞",
+            "det_score": 0.8159426674918011,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    834
+                ],
+                [
+                    1099,
+                    834
+                ],
+                [
+                    1099,
+                    850
+                ],
+                [
+                    888,
+                    850
+                ]
+            ],
+            "rec_score": 0.9886902570724487
+        },
+        {
+            "content": "~分厚い中間層の復活、家計·賃上げ支援~",
+            "det_score": 0.9085441375851001,
+            "direction": "horizontal",
+            "points": [
+                [
+                    115,
+                    824
+                ],
+                [
+                    471,
+                    824
+                ],
+                [
+                    471,
+                    846
+                ],
+                [
+                    115,
+                    846
+                ]
+            ],
+            "rec_score": 0.9976973533630371
+        },
+        {
+            "content": "大切にされる社会の実現",
+            "det_score": 0.8766392246536938,
+            "direction": "horizontal",
+            "points": [
+                [
+                    542,
+                    819
+                ],
+                [
+                    857,
+                    819
+                ],
+                [
+                    857,
+                    849
+                ],
+                [
+                    542,
+                    849
+                ]
+            ],
+            "rec_score": 0.9999152421951294
+        },
+        {
+            "content": "行、ジョギング(フルマラソン完",
+            "det_score": 0.8737654602656921,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    811
+                ],
+                [
+                    1100,
+                    811
+                ],
+                [
+                    1100,
+                    828
+                ],
+                [
+                    888,
+                    828
+                ]
+            ],
+            "rec_score": 0.6126392483711243
+        },
+        {
+            "content": "1女、愛猫2匹 ●趣味:書道、旅",
+            "det_score": 0.7878867963605123,
+            "direction": "horizontal",
+            "points": [
+                [
+                    889,
+                    787
+                ],
+                [
+                    1101,
+                    787
+                ],
+                [
+                    1101,
+                    806
+                ],
+                [
+                    889,
+                    806
+                ]
+            ],
+            "rec_score": 0.7731801271438599
+        },
+        {
+            "content": "1. 経済物価対策",
+            "det_score": 0.9009605052168407,
+            "direction": "horizontal",
+            "points": [
+                [
+                    116,
+                    781
+                ],
+                [
+                    357,
+                    781
+                ],
+                [
+                    357,
+                    815
+                ],
+                [
+                    116,
+                    815
+                ]
+            ],
+            "rec_score": 0.9890262484550476
+        },
+        {
+            "content": "4. 一人ひとりが",
+            "det_score": 0.8937649694944345,
+            "direction": "horizontal",
+            "points": [
+                [
+                    499,
+                    781
+                ],
+                [
+                    708,
+                    781
+                ],
+                [
+                    708,
+                    814
+                ],
+                [
+                    499,
+                    814
+                ]
+            ],
+            "rec_score": 0.9802336692810059
+        },
+        {
+            "content": "業大学客員教授 ●母、妻、3男",
+            "det_score": 0.7803014449687238,
+            "direction": "horizontal",
+            "points": [
+                [
+                    886,
+                    764
+                ],
+                [
+                    1101,
+                    764
+                ],
+                [
+                    1101,
+                    783
+                ],
+                [
+                    886,
+                    783
+                ]
+            ],
+            "rec_score": 0.9780757427215576
+        },
+        {
+            "content": "都館長などを歴任 ●現·京都産",
+            "det_score": 0.7866039040503162,
+            "direction": "horizontal",
+            "points": [
+                [
+                    887,
+                    741
+                ],
+                [
+                    1101,
+                    741
+                ],
+                [
+                    1101,
+                    761
+                ],
+                [
+                    887,
+                    761
+                ]
+            ],
+            "rec_score": 0.9975746273994446
+        },
+        {
+            "content": "団副楽団長、ロームシアター京",
+            "det_score": 0.8033966775119458,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    720
+                ],
+                [
+                    1100,
+                    720
+                ],
+                [
+                    1100,
+                    736
+                ],
+                [
+                    888,
+                    736
+                ]
+            ],
+            "rec_score": 0.9949115514755249
+        },
+        {
+            "content": "文化芸術政策監、京都市交響楽",
+            "det_score": 0.8643536392586454,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    697
+                ],
+                [
+                    1100,
+                    697
+                ],
+                [
+                    1100,
+                    713
+                ],
+                [
+                    888,
+                    713
+                ]
+            ],
+            "rec_score": 0.9953353404998779
+        },
+        {
+            "content": "大学)●京都市文化市民局長、",
+            "det_score": 0.8390406856744406,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    673
+                ],
+                [
+                    1098,
+                    673
+                ],
+                [
+                    1098,
+                    692
+                ],
+                [
+                    885,
+                    692
+                ]
+            ],
+            "rec_score": 0.9963029026985168
+        },
+        {
+            "content": "学法学部卒、経済学博士(龍谷",
+            "det_score": 0.8219763206251282,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    651
+                ],
+                [
+                    1100,
+                    651
+                ],
+                [
+                    1100,
+                    667
+                ],
+                [
+                    888,
+                    667
+                ]
+            ],
+            "rec_score": 0.9960489273071289
+        },
+        {
+            "content": "初音中、堀川高校を経て京都大",
+            "det_score": 0.812077909525951,
+            "direction": "horizontal",
+            "points": [
+                [
+                    888,
+                    628
+                ],
+                [
+                    1100,
+                    628
+                ],
+                [
+                    1100,
+                    644
+                ],
+                [
+                    888,
+                    644
+                ]
+            ],
+            "rec_score": 0.9996098875999451
+        },
+        {
+            "content": "188cm ●京都市立竹間小、",
+            "det_score": 0.786957432503435,
+            "direction": "horizontal",
+            "points": [
+                [
+                    889,
+                    604
+                ],
+                [
+                    1098,
+                    604
+                ],
+                [
+                    1098,
+                    623
+                ],
+                [
+                    889,
+                    623
+                ]
+            ],
+            "rec_score": 0.9026992321014404
+        },
+        {
+            "content": "●1959年中京区生まれ 身長",
+            "det_score": 0.8902049345884755,
+            "direction": "horizontal",
+            "points": [
+                [
+                    887,
+                    581
+                ],
+                [
+                    1101,
+                    580
+                ],
+                [
+                    1101,
+                    599
+                ],
+                [
+                    887,
+                    600
+                ]
+            ],
+            "rec_score": 0.997244119644165
+        },
+        {
+            "content": "すべての世代に!」",
+            "det_score": 0.8765713427444085,
+            "direction": "vertical",
+            "points": [
+                [
+                    372,
+                    564
+                ],
+                [
+                    397,
+                    565
+                ],
+                [
+                    395,
+                    740
+                ],
+                [
+                    370,
+                    739
+                ]
+            ],
+            "rec_score": 0.9958531260490417
+        },
+        {
+            "content": "ひらたけこうぞう 平竹耕三",
+            "det_score": 0.7911474272937239,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    539
+                ],
+                [
+                    1100,
+                    539
+                ],
+                [
+                    1100,
+                    566
+                ],
+                [
+                    885,
+                    566
+                ]
+            ],
+            "rec_score": 0.9811837077140808
+        },
+        {
+            "content": "ためになる政治を!」",
+            "det_score": 0.8474906509694919,
+            "direction": "vertical",
+            "points": [
+                [
+                    216,
+                    535
+                ],
+                [
+                    240,
+                    535
+                ],
+                [
+                    240,
+                    739
+                ],
+                [
+                    216,
+                    739
+                ]
+            ],
+            "rec_score": 0.9864503145217896
+        },
+        {
+            "content": "大切にされる社会を!」",
+            "det_score": 0.8632380264761793,
+            "direction": "vertical",
+            "points": [
+                [
+                    295,
+                    514
+                ],
+                [
+                    319,
+                    514
+                ],
+                [
+                    319,
+                    739
+                ],
+                [
+                    295,
+                    739
+                ]
+            ],
+            "rec_score": 0.990468442440033
+        },
+        {
+            "content": "大学教員として学生とか",
+            "det_score": 0.8883107883092772,
+            "direction": "vertical",
+            "points": [
+                [
+                    581,
+                    491
+                ],
+                [
+                    605,
+                    491
+                ],
+                [
+                    605,
+                    740
+                ],
+                [
+                    581,
+                    740
+                ]
+            ],
+            "rec_score": 0.9874815940856934
+        },
+        {
+            "content": "数えきれないたくさんの",
+            "det_score": 0.8679015262280366,
+            "direction": "vertical",
+            "points": [
+                [
+                    174,
+                    492
+                ],
+                [
+                    198,
+                    492
+                ],
+                [
+                    198,
+                    741
+                ],
+                [
+                    174,
+                    741
+                ]
+            ],
+            "rec_score": 0.4416029453277588
+        },
+        {
+            "content": "京都市役所勤務の時代、ま",
+            "det_score": 0.848463371726303,
+            "direction": "vertical",
+            "points": [
+                [
+                    782,
+                    489
+                ],
+                [
+                    806,
+                    489
+                ],
+                [
+                    806,
+                    742
+                ],
+                [
+                    782,
+                    742
+                ]
+            ],
+            "rec_score": 0.9994843006134033
+        },
+        {
+            "content": "ご支援をよろしくお願い",
+            "det_score": 0.85499116102731,
+            "direction": "vertical",
+            "points": [
+                [
+                    75,
+                    489
+                ],
+                [
+                    97,
+                    489
+                ],
+                [
+                    96,
+                    741
+                ],
+                [
+                    74,
+                    741
+                ]
+            ],
+            "rec_score": 0.9989660382270813
+        },
+        {
+            "content": "Centith Boform Alionce",
+            "det_score": 0.7703124947233118,
+            "direction": "horizontal",
+            "points": [
+                [
+                    942,
+                    493
+                ],
+                [
+                    1042,
+                    493
+                ],
+                [
+                    1042,
+                    504
+                ],
+                [
+                    942,
+                    504
+                ]
+            ],
+            "rec_score": 0.029461396858096123
+        },
+        {
+            "content": "「生活·将来·仕事の安心を",
+            "det_score": 0.8501603774733334,
+            "direction": "vertical",
+            "points": [
+                [
+                    405,
+                    469
+                ],
+                [
+                    429,
+                    469
+                ],
+                [
+                    429,
+                    712
+                ],
+                [
+                    405,
+                    712
+                ]
+            ],
+            "rec_score": 0.986963152885437
+        },
+        {
+            "content": "「二人ひとりが",
+            "det_score": 0.8351310685221999,
+            "direction": "vertical",
+            "points": [
+                [
+                    327,
+                    468
+                ],
+                [
+                    354,
+                    468
+                ],
+                [
+                    354,
+                    597
+                ],
+                [
+                    327,
+                    597
+                ]
+            ],
+            "rec_score": 0.9893628358840942
+        },
+        {
+            "content": "「まっとうな政治、国民の",
+            "det_score": 0.8733190254821424,
+            "direction": "vertical",
+            "points": [
+                [
+                    252,
+                    469
+                ],
+                [
+                    274,
+                    469
+                ],
+                [
+                    273,
+                    700
+                ],
+                [
+                    251,
+                    700
+                ]
+            ],
+            "rec_score": 0.9829904437065125
+        },
+        {
+            "content": "の皆様にはたいへんお世話に",
+            "det_score": 0.8795881981975782,
+            "direction": "vertical",
+            "points": [
+                [
+                    715,
+                    468
+                ],
+                [
+                    739,
+                    468
+                ],
+                [
+                    739,
+                    741
+                ],
+                [
+                    715,
+                    741
+                ]
+            ],
+            "rec_score": 0.9286291003227234
+        },
+        {
+            "content": "かわり、若者が希望を持てる",
+            "det_score": 0.8374415456461228,
+            "direction": "vertical",
+            "points": [
+                [
+                    547,
+                    467
+                ],
+                [
+                    574,
+                    467
+                ],
+                [
+                    574,
+                    742
+                ],
+                [
+                    547,
+                    742
+                ]
+            ],
+            "rec_score": 0.9522315859794617
+        },
+        {
+            "content": "た学生の学外学習でも、京都",
+            "det_score": 0.8612203856832104,
+            "direction": "vertical",
+            "points": [
+                [
+                    748,
+                    467
+                ],
+                [
+                    772,
+                    467
+                ],
+                [
+                    772,
+                    741
+                ],
+                [
+                    748,
+                    741
+                ]
+            ],
+            "rec_score": 0.9936210513114929
+        },
+        {
+            "content": "なり、ありがとうございまし",
+            "det_score": 0.850308802684032,
+            "direction": "vertical",
+            "points": [
+                [
+                    683,
+                    468
+                ],
+                [
+                    705,
+                    468
+                ],
+                [
+                    705,
+                    741
+                ],
+                [
+                    683,
+                    741
+                ]
+            ],
+            "rec_score": 0.996965765953064
+        },
+        {
+            "content": "た。私は京都に生まれ、育ち、",
+            "det_score": 0.8618730481324387,
+            "direction": "vertical",
+            "points": [
+                [
+                    649,
+                    467
+                ],
+                [
+                    673,
+                    467
+                ],
+                [
+                    673,
+                    738
+                ],
+                [
+                    649,
+                    738
+                ]
+            ],
+            "rec_score": 0.9984378814697266
+        },
+        {
+            "content": "社会の実現のため働きたいと、",
+            "det_score": 0.8687060998128308,
+            "direction": "vertical",
+            "points": [
+                [
+                    514,
+                    466
+                ],
+                [
+                    541,
+                    466
+                ],
+                [
+                    541,
+                    750
+                ],
+                [
+                    514,
+                    750
+                ]
+            ],
+            "rec_score": 0.9997904300689697
+        },
+        {
+            "content": "改めて強く願い、再度の立候",
+            "det_score": 0.8623600824464182,
+            "direction": "vertical",
+            "points": [
+                [
+                    482,
+                    467
+                ],
+                [
+                    506,
+                    467
+                ],
+                [
+                    506,
+                    741
+                ],
+                [
+                    482,
+                    741
+                ]
+            ],
+            "rec_score": 0.99837327003479
+        },
+        {
+            "content": "補を決断しました。",
+            "det_score": 0.8515550093456673,
+            "direction": "vertical",
+            "points": [
+                [
+                    448,
+                    467
+                ],
+                [
+                    473,
+                    467
+                ],
+                [
+                    473,
+                    655
+                ],
+                [
+                    448,
+                    655
+                ]
+            ],
+            "rec_score": 0.9718002080917358
+        },
+        {
+            "content": "方々への感謝と恩返しの思い",
+            "det_score": 0.8409497253866949,
+            "direction": "vertical",
+            "points": [
+                [
+                    141,
+                    468
+                ],
+                [
+                    163,
+                    468
+                ],
+                [
+                    163,
+                    740
+                ],
+                [
+                    141,
+                    740
+                ]
+            ],
+            "rec_score": 0.9594413042068481
+        },
+        {
+            "content": "京都で学び、働いてきました。",
+            "det_score": 0.853330083484582,
+            "direction": "vertical",
+            "points": [
+                [
+                    616,
+                    466
+                ],
+                [
+                    640,
+                    466
+                ],
+                [
+                    640,
+                    742
+                ],
+                [
+                    616,
+                    742
+                ]
+            ],
+            "rec_score": 0.9989118576049805
+        },
+        {
+            "content": "でがんばります。",
+            "det_score": 0.8574648628198339,
+            "direction": "vertical",
+            "points": [
+                [
+                    107,
+                    466
+                ],
+                [
+                    132,
+                    466
+                ],
+                [
+                    132,
+                    630
+                ],
+                [
+                    107,
+                    630
+                ]
+            ],
+            "rec_score": 0.980625331401825
+        },
+        {
+            "content": "ごあいさつ",
+            "det_score": 0.8716358509593117,
+            "direction": "vertical",
+            "points": [
+                [
+                    821,
+                    462
+                ],
+                [
+                    854,
+                    462
+                ],
+                [
+                    851,
+                    600
+                ],
+                [
+                    818,
+                    600
+                ]
+            ],
+            "rec_score": 0.9936268925666809
+        },
+        {
+            "content": "します。",
+            "det_score": 0.8337568944405177,
+            "direction": "vertical",
+            "points": [
+                [
+                    37,
+                    463
+                ],
+                [
+                    66,
+                    463
+                ],
+                [
+                    68,
+                    549
+                ],
+                [
+                    39,
+                    549
+                ]
+            ],
+            "rec_score": 0.9997886419296265
+        },
+        {
+            "content": "中道市",
+            "det_score": 0.837561935418969,
+            "direction": "horizontal",
+            "points": [
+                [
+                    904,
+                    420
+                ],
+                [
+                    1034,
+                    422
+                ],
+                [
+                    1033,
+                    499
+                ],
+                [
+                    903,
+                    496
+                ]
+            ],
+            "rec_score": 0.34823015332221985
+        },
+        {
+            "content": "合資会",
+            "det_score": 0.5261957746736061,
+            "direction": "horizontal",
+            "points": [
+                [
+                    990,
+                    419
+                ],
+                [
+                    1091,
+                    419
+                ],
+                [
+                    1091,
+                    506
+                ],
+                [
+                    990,
+                    506
+                ]
+            ],
+            "rec_score": 0.33835843205451965
+        },
+        {
+            "content": "比例区も",
+            "det_score": 0.8419197740053738,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1020,
+                    415
+                ],
+                [
+                    1075,
+                    415
+                ],
+                [
+                    1075,
+                    435
+                ],
+                [
+                    1020,
+                    435
+                ]
+            ],
+            "rec_score": 0.9979962110519409
+        },
+        {
+            "content": "若者たち、一緒に変えよう!",
+            "det_score": 0.9033218664101479,
+            "direction": "horizontal",
+            "points": [
+                [
+                    180,
+                    383
+                ],
+                [
+                    820,
+                    383
+                ],
+                [
+                    820,
+                    444
+                ],
+                [
+                    180,
+                    444
+                ]
+            ],
+            "rec_score": 0.9895182847976685
+        },
+        {
+            "content": "生活·将来·仕事の安心を。",
+            "det_score": 0.9058291477793967,
+            "direction": "horizontal",
+            "points": [
+                [
+                    68,
+                    315
+                ],
+                [
+                    722,
+                    315
+                ],
+                [
+                    722,
+                    376
+                ],
+                [
+                    68,
+                    376
+                ]
+            ],
+            "rec_score": 0.9993413686752319
+        },
+        {
+            "content": "こうぞう",
+            "det_score": 0.7000334141811649,
+            "direction": "vertical",
+            "points": [
+                [
+                    713,
+                    189
+                ],
+                [
+                    741,
+                    189
+                ],
+                [
+                    741,
+                    277
+                ],
+                [
+                    713,
+                    277
+                ]
+            ],
+            "rec_score": 0.9804089069366455
+        },
+        {
+            "content": "ひらたげ!",
+            "det_score": 0.8352228811275115,
+            "direction": "horizontal",
+            "points": [
+                [
+                    10,
+                    55
+                ],
+                [
+                    779,
+                    55
+                ],
+                [
+                    779,
+                    316
+                ],
+                [
+                    10,
+                    316
+                ]
+            ],
+            "rec_score": 0.04416505992412567
+        },
+        {
+            "content": "耕三",
+            "det_score": 0.6521308485881789,
+            "direction": "horizontal",
+            "points": [
+                [
+                    736,
+                    94
+                ],
+                [
+                    836,
+                    96
+                ],
+                [
+                    832,
+                    282
+                ],
+                [
+                    732,
+                    280
+                ]
+            ],
+            "rec_score": 0.9355835318565369
+        },
+        {
+            "content": "京都産業大学客員教授、元·京都市文化市民局長",
+            "det_score": 0.8939992248040346,
+            "direction": "horizontal",
+            "points": [
+                [
+                    38,
+                    29
+                ],
+                [
+                    855,
+                    29
+                ],
+                [
+                    855,
+                    67
+                ],
+                [
+                    38,
+                    67
+                ]
+            ],
+            "rec_score": 0.9936907291412354
+        }
+    ]
+}

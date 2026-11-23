@@ -1,0 +1,1699 @@
+{
+    "figures": [
+        {
+            "box": [
+                42,
+                845,
+                224,
+                908
+            ],
+            "direction": "horizontal",
+            "order": 6,
+            "paragraphs": [
+                {
+                    "box": [
+                        105,
+                        848,
+                        222,
+                        897
+                    ],
+                    "contents": "中道路",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        122,
+                        893,
+                        199,
+                        910
+                    ],
+                    "contents": "-crente thon bline",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                771,
+                415,
+                1117,
+                833
+            ],
+            "direction": "horizontal",
+            "order": 11,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1922,
+                28,
+                2143,
+                333
+            ],
+            "direction": "horizontal",
+            "order": 24,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1885,
+                354,
+                2188,
+                924
+            ],
+            "direction": "horizontal",
+            "order": 25,
+            "paragraphs": [
+                {
+                    "box": [
+                        1886,
+                        354,
+                        2186,
+                        923
+                    ],
+                    "contents": "13",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": "section_headings"
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                48,
+                34,
+                358,
+                181
+            ],
+            "contents": "現実的な\n外交·防衛",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                160,
+                180,
+                270,
+                237
+            ],
+            "contents": "政策",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                70,
+                256,
+                337,
+                426
+            ],
+            "contents": "国際法を重視し、隣国関\n係を安定させ、経済も含\nめた安全保障を確立し\nます。自律的な安保体制\nを議論します。",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                41,
+                464,
+                435,
+                570
+            ],
+            "contents": "あなたのための",
+            "direction": "horizontal",
+            "order": 3,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                140,
+                569,
+                353,
+                640
+            ],
+            "contents": "政治に!",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                90,
+                651,
+                407,
+                786
+            ],
+            "contents": "政治資金や選挙制度改革\nで、政治とカネの問題に終止\n符を打ち、あなたのための政\n治を取り戻します。",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                391,
+                31,
+                1495,
+                173
+            ],
+            "contents": "稼げる手元に残せる!!",
+            "direction": "horizontal",
+            "order": 7,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                466,
+                190,
+                1429,
+                262
+            ],
+            "contents": "「もっと稼げて、もっと手元に残せる」生活者ファースト",
+            "direction": "horizontal",
+            "order": 8,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                541,
+                302,
+                1374,
+                352
+            ],
+            "contents": "成長を促し、税制 を変え、負担 を減らします。",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                1108,
+                411,
+                1383,
+                470
+            ],
+            "contents": "社会保険料",
+            "direction": "horizontal",
+            "order": 10,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                486,
+                432,
+                801,
+                503
+            ],
+            "contents": "本気の減税",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                488,
+                541,
+                799,
+                711
+            ],
+            "contents": "食料品消費税ゼロを実現し、\n使えるお金を増やします。\nNISAの掛金を所得税の減\n税対象とし、投資を促し\nます。",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                1148,
+                489,
+                1346,
+                553
+            ],
+            "contents": "負担減",
+            "direction": "horizontal",
+            "order": 14,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                1098,
+                569,
+                1404,
+                739
+            ],
+            "contents": "社会保険料負担を減免し、\n子どもの数に応じ将来の年\n金給付を増額する仕組み\nを作り、将来不安を解消\nします。",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                1128,
+                816,
+                1189,
+                827
+            ],
+            "contents": "@tery_ithsar",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                248,
+                848,
+                1467,
+                873
+            ],
+            "contents": "奈良選挙事務所:奈良市学園北 1-11-10 森田ビル6F ■ 生駒選挙事務所:生駒市元町 1-8-10\ninfo@mabuchisumio.com",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                249,
+                880,
+                1432,
+                908
+            ],
+            "contents": "x.com/mabuchi sumio\ninstaaram.com/sumio mabuchi/\nmabuti.net/\ntiktok.com/@mabuchi sumio",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                1514,
+                129,
+                1848,
+                220
+            ],
+            "contents": "新たな財源!",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                1549,
+                240,
+                1819,
+                409
+            ],
+            "contents": "無駄削減だけではなく、\n新たな財源創出のため\n政府保有金融資産を効\n率的に投資運用し、財政\nにも配慮します。",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                1486,
+                459,
+                1820,
+                632
+            ],
+            "contents": "経済成長に\n果敢に挑む",
+            "direction": "horizontal",
+            "order": 21,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                1485,
+                646,
+                1803,
+                780
+            ],
+            "contents": "新技術やアイデアに対応し\nた規制のアップデートで、新\nビジネスを育てます。地方で\n働ける環境を整備します。",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                1523,
+                850,
+                1760,
+                905
+            ],
+            "contents": "まぶちすみお\n検索\nN\nhttp://www.mabuti.net/",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "-crente thon bline",
+            "det_score": 0.623538600534878,
+            "direction": "horizontal",
+            "points": [
+                [
+                    122,
+                    893
+                ],
+                [
+                    199,
+                    893
+                ],
+                [
+                    199,
+                    910
+                ],
+                [
+                    122,
+                    910
+                ]
+            ],
+            "rec_score": 7.154473860282451e-05
+        },
+        {
+            "content": "http://www.mabuti.net/",
+            "det_score": 0.8308572588075834,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1525,
+                    885
+                ],
+                [
+                    1756,
+                    885
+                ],
+                [
+                    1756,
+                    901
+                ],
+                [
+                    1525,
+                    901
+                ]
+            ],
+            "rec_score": 0.7820770740509033
+        },
+        {
+            "content": "tiktok.com/@mabuchi sumio",
+            "det_score": 0.8198002009756035,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1132,
+                    883
+                ],
+                [
+                    1429,
+                    883
+                ],
+                [
+                    1429,
+                    904
+                ],
+                [
+                    1132,
+                    904
+                ]
+            ],
+            "rec_score": 0.9966153502464294
+        },
+        {
+            "content": "mabuti.net/",
+            "det_score": 0.8789556924605844,
+            "direction": "horizontal",
+            "points": [
+                [
+                    954,
+                    883
+                ],
+                [
+                    1077,
+                    882
+                ],
+                [
+                    1078,
+                    904
+                ],
+                [
+                    954,
+                    906
+                ]
+            ],
+            "rec_score": 0.9997475147247314
+        },
+        {
+            "content": "instaaram.com/sumio mabuchi/",
+            "det_score": 0.8526055831332794,
+            "direction": "horizontal",
+            "points": [
+                [
+                    565,
+                    882
+                ],
+                [
+                    895,
+                    882
+                ],
+                [
+                    895,
+                    903
+                ],
+                [
+                    565,
+                    903
+                ]
+            ],
+            "rec_score": 0.7805554270744324
+        },
+        {
+            "content": "x.com/mabuchi sumio",
+            "det_score": 0.8306090872472917,
+            "direction": "horizontal",
+            "points": [
+                [
+                    280,
+                    883
+                ],
+                [
+                    511,
+                    883
+                ],
+                [
+                    511,
+                    904
+                ],
+                [
+                    280,
+                    904
+                ]
+            ],
+            "rec_score": 0.9971013069152832
+        },
+        {
+            "content": "N",
+            "det_score": 0.5409321333422805,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1722,
+                    866
+                ],
+                [
+                    1738,
+                    866
+                ],
+                [
+                    1738,
+                    882
+                ],
+                [
+                    1722,
+                    882
+                ]
+            ],
+            "rec_score": 0.020303379744291306
+        },
+        {
+            "content": "中道路",
+            "det_score": 0.8372404758642981,
+            "direction": "horizontal",
+            "points": [
+                [
+                    97,
+                    839
+                ],
+                [
+                    234,
+                    839
+                ],
+                [
+                    234,
+                    908
+                ],
+                [
+                    97,
+                    908
+                ]
+            ],
+            "rec_score": 0.2957354187965393
+        },
+        {
+            "content": "まぶちすみお",
+            "det_score": 0.8485580688124305,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1539,
+                    851
+                ],
+                [
+                    1654,
+                    851
+                ],
+                [
+                    1654,
+                    872
+                ],
+                [
+                    1539,
+                    872
+                ]
+            ],
+            "rec_score": 0.9978795647621155
+        },
+        {
+            "content": "info@mabuchisumio.com",
+            "det_score": 0.779154319162453,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1216,
+                    851
+                ],
+                [
+                    1465,
+                    851
+                ],
+                [
+                    1465,
+                    872
+                ],
+                [
+                    1216,
+                    872
+                ]
+            ],
+            "rec_score": 0.9944605231285095
+        },
+        {
+            "content": "検索",
+            "det_score": 0.8348648053023123,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1676,
+                    848
+                ],
+                [
+                    1724,
+                    848
+                ],
+                [
+                    1724,
+                    877
+                ],
+                [
+                    1676,
+                    877
+                ]
+            ],
+            "rec_score": 0.9989184141159058
+        },
+        {
+            "content": "奈良選挙事務所:奈良市学園北 1-11-10 森田ビル6F ■ 生駒選挙事務所:生駒市元町 1-8-10",
+            "det_score": 0.7916089552255227,
+            "direction": "horizontal",
+            "points": [
+                [
+                    273,
+                    849
+                ],
+                [
+                    1165,
+                    849
+                ],
+                [
+                    1165,
+                    870
+                ],
+                [
+                    273,
+                    870
+                ]
+            ],
+            "rec_score": 0.9396902322769165
+        },
+        {
+            "content": "@tery_ithsar",
+            "det_score": 0.7409132121095232,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1126,
+                    813
+                ],
+                [
+                    1191,
+                    813
+                ],
+                [
+                    1191,
+                    830
+                ],
+                [
+                    1126,
+                    830
+                ]
+            ],
+            "rec_score": 0.03648962453007698
+        },
+        {
+            "content": "治を取り戻します。",
+            "det_score": 0.9110181431678226,
+            "direction": "horizontal",
+            "points": [
+                [
+                    90,
+                    756
+                ],
+                [
+                    291,
+                    756
+                ],
+                [
+                    291,
+                    786
+                ],
+                [
+                    90,
+                    786
+                ]
+            ],
+            "rec_score": 0.9962332248687744
+        },
+        {
+            "content": "働ける環境を整備します。",
+            "det_score": 0.8155355289728257,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1487,
+                    753
+                ],
+                [
+                    1760,
+                    753
+                ],
+                [
+                    1760,
+                    779
+                ],
+                [
+                    1487,
+                    779
+                ]
+            ],
+            "rec_score": 0.9998026490211487
+        },
+        {
+            "content": "符を打ち、あなたのための政",
+            "det_score": 0.9296760840380647,
+            "direction": "horizontal",
+            "points": [
+                [
+                    93,
+                    721
+                ],
+                [
+                    406,
+                    721
+                ],
+                [
+                    406,
+                    750
+                ],
+                [
+                    93,
+                    750
+                ]
+            ],
+            "rec_score": 0.9947061538696289
+        },
+        {
+            "content": "ビジネスを育てます。地方で",
+            "det_score": 0.9264026160041492,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1489,
+                    718
+                ],
+                [
+                    1798,
+                    718
+                ],
+                [
+                    1798,
+                    743
+                ],
+                [
+                    1489,
+                    743
+                ]
+            ],
+            "rec_score": 0.9996339678764343
+        },
+        {
+            "content": "します。",
+            "det_score": 0.8917251419369343,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1141,
+                    708
+                ],
+                [
+                    1228,
+                    708
+                ],
+                [
+                    1228,
+                    743
+                ],
+                [
+                    1141,
+                    743
+                ]
+            ],
+            "rec_score": 0.9999916553497314
+        },
+        {
+            "content": "で、政治とカネの問題に終止",
+            "det_score": 0.9303209898279925,
+            "direction": "horizontal",
+            "points": [
+                [
+                    97,
+                    687
+                ],
+                [
+                    403,
+                    687
+                ],
+                [
+                    403,
+                    712
+                ],
+                [
+                    97,
+                    712
+                ]
+            ],
+            "rec_score": 0.9867758750915527
+        },
+        {
+            "content": "た規制のアップデートで、新",
+            "det_score": 0.8917052583695346,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1487,
+                    683
+                ],
+                [
+                    1799,
+                    683
+                ],
+                [
+                    1799,
+                    708
+                ],
+                [
+                    1487,
+                    708
+                ]
+            ],
+            "rec_score": 0.9997782707214355
+        },
+        {
+            "content": "ます。",
+            "det_score": 0.8656313436172554,
+            "direction": "horizontal",
+            "points": [
+                [
+                    486,
+                    679
+                ],
+                [
+                    554,
+                    679
+                ],
+                [
+                    554,
+                    715
+                ],
+                [
+                    486,
+                    715
+                ]
+            ],
+            "rec_score": 0.9999849796295166
+        },
+        {
+            "content": "を作り、将来不安を解消",
+            "det_score": 0.8671958541647387,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1137,
+                    677
+                ],
+                [
+                    1400,
+                    677
+                ],
+                [
+                    1400,
+                    703
+                ],
+                [
+                    1137,
+                    703
+                ]
+            ],
+            "rec_score": 0.9998894929885864
+        },
+        {
+            "content": "政治資金や選挙制度改革",
+            "det_score": 0.8542185638245591,
+            "direction": "horizontal",
+            "points": [
+                [
+                    91,
+                    652
+                ],
+                [
+                    402,
+                    652
+                ],
+                [
+                    402,
+                    677
+                ],
+                [
+                    91,
+                    677
+                ]
+            ],
+            "rec_score": 0.9994595646858215
+        },
+        {
+            "content": "新技術やアイデアに対応し",
+            "det_score": 0.8757861052136654,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1487,
+                    648
+                ],
+                [
+                    1796,
+                    648
+                ],
+                [
+                    1796,
+                    673
+                ],
+                [
+                    1487,
+                    673
+                ]
+            ],
+            "rec_score": 0.9998037815093994
+        },
+        {
+            "content": "税対象とし、投資を促し",
+            "det_score": 0.9000611934770418,
+            "direction": "horizontal",
+            "points": [
+                [
+                    490,
+                    646
+                ],
+                [
+                    760,
+                    648
+                ],
+                [
+                    760,
+                    674
+                ],
+                [
+                    490,
+                    673
+                ]
+            ],
+            "rec_score": 0.9998589754104614
+        },
+        {
+            "content": "金給付を増額する仕組み",
+            "det_score": 0.9119647452009373,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1116,
+                    641
+                ],
+                [
+                    1399,
+                    639
+                ],
+                [
+                    1399,
+                    666
+                ],
+                [
+                    1116,
+                    667
+                ]
+            ],
+            "rec_score": 0.9996852874755859
+        },
+        {
+            "content": "NISAの掛金を所得税の減",
+            "det_score": 0.8656544277065478,
+            "direction": "horizontal",
+            "points": [
+                [
+                    490,
+                    612
+                ],
+                [
+                    785,
+                    612
+                ],
+                [
+                    785,
+                    638
+                ],
+                [
+                    490,
+                    638
+                ]
+            ],
+            "rec_score": 0.9961660504341125
+        },
+        {
+            "content": "子どもの数に応じ将来の年",
+            "det_score": 0.9008884968897494,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1098,
+                    605
+                ],
+                [
+                    1399,
+                    604
+                ],
+                [
+                    1399,
+                    631
+                ],
+                [
+                    1098,
+                    632
+                ]
+            ],
+            "rec_score": 0.999824047088623
+        },
+        {
+            "content": "政治に!",
+            "det_score": 0.8951826130761544,
+            "direction": "horizontal",
+            "points": [
+                [
+                    141,
+                    569
+                ],
+                [
+                    353,
+                    562
+                ],
+                [
+                    355,
+                    634
+                ],
+                [
+                    143,
+                    641
+                ]
+            ],
+            "rec_score": 0.9990564584732056
+        },
+        {
+            "content": "使えるお金を増やします。",
+            "det_score": 0.8564882464205265,
+            "direction": "horizontal",
+            "points": [
+                [
+                    492,
+                    576
+                ],
+                [
+                    799,
+                    576
+                ],
+                [
+                    799,
+                    605
+                ],
+                [
+                    492,
+                    605
+                ]
+            ],
+            "rec_score": 0.9998576641082764
+        },
+        {
+            "content": "社会保険料負担を減免し、",
+            "det_score": 0.9071781471302018,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1098,
+                    569
+                ],
+                [
+                    1395,
+                    569
+                ],
+                [
+                    1395,
+                    598
+                ],
+                [
+                    1098,
+                    598
+                ]
+            ],
+            "rec_score": 0.9986476302146912
+        },
+        {
+            "content": "果敢に挑む",
+            "det_score": 0.8736863238037932,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1503,
+                    544
+                ],
+                [
+                    1793,
+                    563
+                ],
+                [
+                    1788,
+                    638
+                ],
+                [
+                    1498,
+                    619
+                ]
+            ],
+            "rec_score": 0.9827414155006409
+        },
+        {
+            "content": "食料品消費税ゼロを実現し、",
+            "det_score": 0.8453412505414248,
+            "direction": "horizontal",
+            "points": [
+                [
+                    492,
+                    542
+                ],
+                [
+                    794,
+                    542
+                ],
+                [
+                    794,
+                    567
+                ],
+                [
+                    492,
+                    567
+                ]
+            ],
+            "rec_score": 0.9745216965675354
+        },
+        {
+            "content": "負担減",
+            "det_score": 0.9213194133002977,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1148,
+                    487
+                ],
+                [
+                    1349,
+                    487
+                ],
+                [
+                    1349,
+                    553
+                ],
+                [
+                    1148,
+                    553
+                ]
+            ],
+            "rec_score": 0.9958110451698303
+        },
+        {
+            "content": "あなたのための",
+            "det_score": 0.8572224000284384,
+            "direction": "horizontal",
+            "points": [
+                [
+                    41,
+                    493
+                ],
+                [
+                    435,
+                    468
+                ],
+                [
+                    440,
+                    550
+                ],
+                [
+                    46,
+                    574
+                ]
+            ],
+            "rec_score": 0.9929822087287903
+        },
+        {
+            "content": "経済成長に",
+            "det_score": 0.8749694789372958,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1491,
+                    460
+                ],
+                [
+                    1817,
+                    475
+                ],
+                [
+                    1813,
+                    560
+                ],
+                [
+                    1488,
+                    545
+                ]
+            ],
+            "rec_score": 0.9967251420021057
+        },
+        {
+            "content": "本気の減税",
+            "det_score": 0.8941800878343419,
+            "direction": "horizontal",
+            "points": [
+                [
+                    493,
+                    433
+                ],
+                [
+                    799,
+                    433
+                ],
+                [
+                    799,
+                    502
+                ],
+                [
+                    493,
+                    502
+                ]
+            ],
+            "rec_score": 0.9958536624908447
+        },
+        {
+            "content": "社会保険料",
+            "det_score": 0.896441268743627,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1109,
+                    409
+                ],
+                [
+                    1385,
+                    409
+                ],
+                [
+                    1385,
+                    470
+                ],
+                [
+                    1109,
+                    470
+                ]
+            ],
+            "rec_score": 0.9673325419425964
+        },
+        {
+            "content": "を議論します。",
+            "det_score": 0.8638104016904707,
+            "direction": "horizontal",
+            "points": [
+                [
+                    71,
+                    398
+                ],
+                [
+                    224,
+                    398
+                ],
+                [
+                    224,
+                    427
+                ],
+                [
+                    71,
+                    427
+                ]
+            ],
+            "rec_score": 0.9997077584266663
+        },
+        {
+            "content": "13",
+            "det_score": 0.6684344335150648,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1778,
+                    244
+                ],
+                [
+                    2216,
+                    252
+                ],
+                [
+                    2216,
+                    948
+                ],
+                [
+                    1766,
+                    948
+                ]
+            ],
+            "rec_score": 0.009190657176077366
+        },
+        {
+            "content": "にも配慮します。",
+            "det_score": 0.868141222509189,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1553,
+                    381
+                ],
+                [
+                    1730,
+                    381
+                ],
+                [
+                    1730,
+                    411
+                ],
+                [
+                    1553,
+                    411
+                ]
+            ],
+            "rec_score": 0.9999537467956543
+        },
+        {
+            "content": "ます。自律的な安保体制",
+            "det_score": 0.8890627051553418,
+            "direction": "horizontal",
+            "points": [
+                [
+                    69,
+                    361
+                ],
+                [
+                    334,
+                    360
+                ],
+                [
+                    334,
+                    391
+                ],
+                [
+                    69,
+                    392
+                ]
+            ],
+            "rec_score": 0.9461456537246704
+        },
+        {
+            "content": "率的に投資運用し、財政",
+            "det_score": 0.852482840527144,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1553,
+                    347
+                ],
+                [
+                    1816,
+                    347
+                ],
+                [
+                    1816,
+                    372
+                ],
+                [
+                    1553,
+                    372
+                ]
+            ],
+            "rec_score": 0.9997749328613281
+        },
+        {
+            "content": "めた安全保障を確立し",
+            "det_score": 0.8769347617901514,
+            "direction": "horizontal",
+            "points": [
+                [
+                    71,
+                    326
+                ],
+                [
+                    334,
+                    326
+                ],
+                [
+                    334,
+                    356
+                ],
+                [
+                    71,
+                    356
+                ]
+            ],
+            "rec_score": 0.9998018741607666
+        },
+        {
+            "content": "政府保有金融資産を効",
+            "det_score": 0.8540388214357624,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1553,
+                    312
+                ],
+                [
+                    1814,
+                    312
+                ],
+                [
+                    1814,
+                    337
+                ],
+                [
+                    1553,
+                    337
+                ]
+            ],
+            "rec_score": 0.7195860743522644
+        },
+        {
+            "content": "成長を促し、税制 を変え、負担 を減らします。",
+            "det_score": 0.8378405705919144,
+            "direction": "horizontal",
+            "points": [
+                [
+                    543,
+                    306
+                ],
+                [
+                    1371,
+                    306
+                ],
+                [
+                    1371,
+                    348
+                ],
+                [
+                    543,
+                    348
+                ]
+            ],
+            "rec_score": 0.5447705388069153
+        },
+        {
+            "content": "係を安定させ、経済も含",
+            "det_score": 0.8660454871613505,
+            "direction": "horizontal",
+            "points": [
+                [
+                    73,
+                    293
+                ],
+                [
+                    332,
+                    293
+                ],
+                [
+                    332,
+                    319
+                ],
+                [
+                    73,
+                    319
+                ]
+            ],
+            "rec_score": 0.9995171427726746
+        },
+        {
+            "content": "新たな財源創出のため",
+            "det_score": 0.8484163775327045,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1553,
+                    276
+                ],
+                [
+                    1814,
+                    276
+                ],
+                [
+                    1814,
+                    302
+                ],
+                [
+                    1553,
+                    302
+                ]
+            ],
+            "rec_score": 0.9998153448104858
+        },
+        {
+            "content": "国際法を重視し、隣国関",
+            "det_score": 0.8658030005566266,
+            "direction": "horizontal",
+            "points": [
+                [
+                    72,
+                    255
+                ],
+                [
+                    334,
+                    255
+                ],
+                [
+                    334,
+                    285
+                ],
+                [
+                    72,
+                    285
+                ]
+            ],
+            "rec_score": 0.9988997578620911
+        },
+        {
+            "content": "無駄削減だけではなく、",
+            "det_score": 0.8741326338124624,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1551,
+                    238
+                ],
+                [
+                    1813,
+                    238
+                ],
+                [
+                    1813,
+                    268
+                ],
+                [
+                    1551,
+                    268
+                ]
+            ],
+            "rec_score": 0.9994202256202698
+        },
+        {
+            "content": "「もっと稼げて、もっと手元に残せる」生活者ファースト",
+            "det_score": 0.8372244143688841,
+            "direction": "horizontal",
+            "points": [
+                [
+                    456,
+                    178
+                ],
+                [
+                    1436,
+                    181
+                ],
+                [
+                    1436,
+                    271
+                ],
+                [
+                    456,
+                    268
+                ]
+            ],
+            "rec_score": 0.9376152753829956
+        },
+        {
+            "content": "政策",
+            "det_score": 0.9084151605613359,
+            "direction": "horizontal",
+            "points": [
+                [
+                    154,
+                    177
+                ],
+                [
+                    274,
+                    173
+                ],
+                [
+                    276,
+                    238
+                ],
+                [
+                    157,
+                    242
+                ]
+            ],
+            "rec_score": 0.9998061656951904
+        },
+        {
+            "content": "新たな財源!",
+            "det_score": 0.8266765622089018,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1516,
+                    124
+                ],
+                [
+                    1849,
+                    141
+                ],
+                [
+                    1845,
+                    224
+                ],
+                [
+                    1512,
+                    207
+                ]
+            ],
+            "rec_score": 0.9743408560752869
+        },
+        {
+            "content": "外交·防衛",
+            "det_score": 0.8843828842343964,
+            "direction": "horizontal",
+            "points": [
+                [
+                    60,
+                    103
+                ],
+                [
+                    353,
+                    84
+                ],
+                [
+                    358,
+                    163
+                ],
+                [
+                    65,
+                    182
+                ]
+            ],
+            "rec_score": 0.889194667339325
+        },
+        {
+            "content": "稼げる手元に残せる!!",
+            "det_score": 0.9028263913547386,
+            "direction": "horizontal",
+            "points": [
+                [
+                    379,
+                    23
+                ],
+                [
+                    1511,
+                    20
+                ],
+                [
+                    1511,
+                    183
+                ],
+                [
+                    380,
+                    186
+                ]
+            ],
+            "rec_score": 0.412415087223053
+        },
+        {
+            "content": "現実的な",
+            "det_score": 0.8650234733713015,
+            "direction": "horizontal",
+            "points": [
+                [
+                    86,
+                    48
+                ],
+                [
+                    321,
+                    36
+                ],
+                [
+                    324,
+                    101
+                ],
+                [
+                    89,
+                    113
+                ]
+            ],
+            "rec_score": 0.9934812188148499
+        }
+    ]
+}

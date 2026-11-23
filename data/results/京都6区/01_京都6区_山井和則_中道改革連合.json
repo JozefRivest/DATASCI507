@@ -1,0 +1,3452 @@
+{
+    "figures": [
+        {
+            "box": [
+                27,
+                86,
+                871,
+                280
+            ],
+            "direction": "vertical",
+            "order": 1,
+            "paragraphs": [
+                {
+                    "box": [
+                        27,
+                        84,
+                        873,
+                        281
+                    ],
+                    "contents": "かず のり\nやものし",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": "section_headings"
+                }
+            ]
+        },
+        {
+            "box": [
+                792,
+                726,
+                872,
+                814
+            ],
+            "direction": "horizontal",
+            "order": 17,
+            "paragraphs": [
+                {
+                    "box": [
+                        804,
+                        735,
+                        860,
+                        809
+                    ],
+                    "contents": "実現",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                41,
+                1127,
+                454,
+                1226
+            ],
+            "direction": "horizontal",
+            "order": 31,
+            "paragraphs": [
+                {
+                    "box": [
+                        44,
+                        1127,
+                        454,
+                        1225
+                    ],
+                    "contents": "国民の暮らしを守る!",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                912,
+                54,
+                1109,
+                369
+            ],
+            "direction": "horizontal",
+            "order": 43,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                889,
+                1181,
+                1107,
+                1315
+            ],
+            "direction": "horizontal",
+            "order": 68,
+            "paragraphs": [
+                {
+                    "box": [
+                        897,
+                        1253,
+                        950,
+                        1264
+                    ],
+                    "contents": "ホームページ",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        983,
+                        1253,
+                        1015,
+                        1264
+                    ],
+                    "contents": "YouThe",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1054,
+                        1253,
+                        1092,
+                        1264
+                    ],
+                    "contents": "Indamramam",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        933,
+                        1277,
+                        1104,
+                        1305
+                    ],
+                    "contents": "中道改革連合",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                },
+                {
+                    "box": [
+                        983,
+                        1307,
+                        1056,
+                        1315
+                    ],
+                    "contents": "Cantion Allom Allinse",
+                    "direction": "horizontal",
+                    "order": 4,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                28,
+                31,
+                864,
+                73
+            ],
+            "contents": "衆議院議員9期 松下政経塾出身 元厚生労働大臣政務官",
+            "direction": "horizontal",
+            "order": 0,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                42,
+                297,
+                854,
+                324
+            ],
+            "contents": "福祉のやまのい 社会のぞうきんになって、社会をきれいにしたい! https://yamanoi.net",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                344,
+                531,
+                416
+            ],
+            "contents": "京都南部のために",
+            "direction": "horizontal",
+            "order": 3,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                553,
+                353,
+                859,
+                375
+            ],
+            "contents": "京都南部のため、人生を賭けて働きます!",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                547,
+                385,
+                868,
+                409
+            ],
+            "contents": "~政治活動31年、衆議院議員26年~",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                31,
+                424,
+                867,
+                500
+            ],
+            "contents": "私の原点は、学生時代に児童福祉施設で6年間、ボランティアをし、また、私の祖母が長年の\n寝たきりの末に亡くなり、貧困や虐待で苦しむ子どもたちや高齢者、介護者の方々の声なき声\nを政治に届けねば!と痛感したことです。",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                502,
+                867,
+                578
+            ],
+            "contents": "ますます深刻化する物価高に苦しむご家庭、原材料高や人手不足で倒産や廃業の不安を抱\nえる中小企業やお店が増えています。医療、介護、福祉、子育て支援の現場も厳しいです。物価\n高対策、処遇改善、実質賃金の引き上げ、教育無償化は待ったなしです。",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                579,
+                866,
+                638
+            ],
+            "contents": "9期26年、お育て頂いた愛する地元、京都南部のため、物価高で苦しむ国民や事業者のた\nめ、人生を賭けて働きます!私、山井和則を、再び国会で働かせて下さい!\n山井和則拝",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                41,
+                657,
+                431,
+                685
+            ],
+            "contents": "京都南部を日本一暮らしやすい地域に!",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                78,
+                711,
+                391,
+                769
+            ],
+            "contents": "京都南部の活性化のため、\n新名神の1日も早い開通を!",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                33,
+                787,
+                443,
+                900
+            ],
+            "contents": "●民主党政権時(2012年)に山井が主導して、\n新名神の全線着工が決定。『建設工事がスタート』。\n(小泉政権により2005年以降 7年間、建設がストップ\n『3年後(2028年度)の開通を今年中に確定するように」と\nネクスコ西日本と国交省に要望しています。",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                33,
+                904,
+                377,
+                925
+            ],
+            "contents": "●『城陽井手木津川バイバス』の早期開通を!",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                38,
+                948,
+                434,
+                978
+            ],
+            "contents": "宇治茶·京野菜·中小企業·観光の振興を!",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                33,
+                994,
+                312,
+                1062
+            ],
+            "contents": "●民主党政権時(2011年)に\n「お茶振興法」を成立させました。\n山井は「お茶振興議員連盟」の会長",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                478,
+                649,
+                859,
+                712
+            ],
+            "contents": "京都6区の皆さんの応援のおかげで、\n日本の社会保障が大きく前進しました!",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                492,
+                729,
+                740,
+                754
+            ],
+            "contents": "1年3ヶ月で実現したこと",
+            "direction": "horizontal",
+            "order": 16,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                483,
+                766,
+                785,
+                787
+            ],
+            "contents": "●ガソリン暫定税率の廃止(野党で協力、昨年12月から)",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                484,
+                787,
+                699,
+                805
+            ],
+            "contents": "●小学校給食無償化(今年4月から)",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                807,
+                774,
+                825
+            ],
+            "contents": "●高校授業料無償化の所得制限撤廃(昨年から)",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                826,
+                849,
+                845
+            ],
+            "contents": "●私立高校授業料への就学支援金(年45万円、今年4月から)",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                484,
+                846,
+                804,
+                865
+            ],
+            "contents": "●若者·現役世代や障がい者の年金底上げ(最大3割)",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                865,
+                741,
+                884
+            ],
+            "contents": "●介護、障がい福祉職員の処遇改善の実現",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                885,
+                665,
+                903
+            ],
+            "contents": "●自衛隊員の処遇改善が実現",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                605,
+                907,
+                730,
+                923
+            ],
+            "contents": "以下は公約以外で実現",
+            "direction": "horizontal",
+            "order": 25,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                926,
+                850,
+                945
+            ],
+            "contents": "● がん患者等の高額療養者の負担増の凍結(粘り強く、予算委員会で要望)",
+            "direction": "horizontal",
+            "order": 26,
+            "role": null
+        },
+        {
+            "box": [
+                484,
+                947,
+                851,
+                965
+            ],
+            "contents": "● 外国人の不動産取得を透明化、「不動産取得実態調査法案」を提出",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                459,
+                969,
+                517,
+                1001
+            ],
+            "contents": "これを",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                443,
+                985,
+                844,
+                1018
+            ],
+            "contents": "実現したい!日本を世界一、安心して暮らせる国に!",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                32,
+                1072,
+                455,
+                1116
+            ],
+            "contents": "●地産地消を実践し、食育を推進!\n(議員宿舎や国会では、宇治茶を飲み、地元のお米や京野菜で自炊)",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                484,
+                1023,
+                744,
+                1040
+            ],
+            "contents": "●食料品の消費税を恒久的にゼロに!",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1042,
+                834,
+                1060
+            ],
+            "contents": "●がん患者等の高額療養費負担引上げストップを!",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1061,
+                851,
+                1080
+            ],
+            "contents": "●介護職員·障がい福祉職員·医療従事者の処遇改善を!",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1081,
+                851,
+                1098
+            ],
+            "contents": "●保育士·幼稚園教諭·学童保育指導員·放課後デイ職員の処遇改善を!",
+            "direction": "horizontal",
+            "order": 35,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1101,
+                770,
+                1118
+            ],
+            "contents": "●教育の無償化を!(大学授業料の軽減)",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1119,
+                844,
+                1139
+            ],
+            "contents": "●障がいのあるお子さんや大人の方々への支援を!",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1140,
+                635,
+                1157
+            ],
+            "contents": "●年金の引き上げを!",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1159,
+                666,
+                1177
+            ],
+            "contents": "●自衛隊員の処遇改善を!",
+            "direction": "horizontal",
+            "order": 39,
+            "role": null
+        },
+        {
+            "box": [
+                485,
+                1178,
+                853,
+                1197
+            ],
+            "contents": "●食料自給率の引き上げと農家への所得補償の充実を!",
+            "direction": "horizontal",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                483,
+                1199,
+                651,
+                1217
+            ],
+            "contents": "●子どもの貧困の根絶を!",
+            "direction": "horizontal",
+            "order": 41,
+            "role": null
+        },
+        {
+            "box": [
+                42,
+                1233,
+                853,
+                1310
+            ],
+            "contents": "批判や追及だけでなく、提案し、実現させます!\nNo.1\n議員立法 158本を作成、提出\n衆議院議員",
+            "direction": "horizontal",
+            "order": 42,
+            "role": null
+        },
+        {
+            "box": [
+                891,
+                411,
+                1028,
+                436
+            ],
+            "contents": "【プロフィール】",
+            "direction": "horizontal",
+            "order": 44,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                892,
+                442,
+                1049,
+                459
+            ],
+            "contents": "●1962年1月6日生まれ",
+            "direction": "horizontal",
+            "order": 45,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                462,
+                1023,
+                478
+            ],
+            "contents": "●洛南高等学校卒業",
+            "direction": "horizontal",
+            "order": 46,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                481,
+                1106,
+                498
+            ],
+            "contents": "●京都大学工学部工学化学科卒業",
+            "direction": "horizontal",
+            "order": 47,
+            "role": null
+        },
+        {
+            "box": [
+                892,
+                501,
+                1106,
+                578
+            ],
+            "contents": "●同大学院工学研究科修了。在学\n中、児童福祉施設でボランティ\nア活動に執中。福祉に人生を賭\nけようと決意。",
+            "direction": "horizontal",
+            "order": 48,
+            "role": null
+        },
+        {
+            "box": [
+                892,
+                580,
+                1107,
+                656
+            ],
+            "contents": "●1986年(財)松下政経験入数\n5年間在籍。世界の老人ホーム\nなどで実習。日本や世界の老人\nホームを訪問。",
+            "direction": "horizontal",
+            "order": 49,
+            "role": null
+        },
+        {
+            "box": [
+                892,
+                660,
+                1107,
+                696
+            ],
+            "contents": "●1991年2年間スウェーデンで福祉\nや政治を学ぶ",
+            "direction": "horizontal",
+            "order": 50,
+            "role": null
+        },
+        {
+            "box": [
+                892,
+                699,
+                1069,
+                736
+            ],
+            "contents": "●1997年立命館大学大学院\n政策科学研究科 講師",
+            "direction": "horizontal",
+            "order": 51,
+            "role": null
+        },
+        {
+            "box": [
+                892,
+                739,
+                1072,
+                756
+            ],
+            "contents": "●2000年衆議院議員初当選",
+            "direction": "horizontal",
+            "order": 52,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                759,
+                1105,
+                776
+            ],
+            "contents": "●2003·05·09年2·3·4期目当選",
+            "direction": "horizontal",
+            "order": 53,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                778,
+                1089,
+                795
+            ],
+            "contents": "●2009年厚生労働大臣政務官",
+            "direction": "horizontal",
+            "order": 54,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                798,
+                1071,
+                815
+            ],
+            "contents": "●2012·14年5·6期目当選",
+            "direction": "horizontal",
+            "order": 55,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                818,
+                1106,
+                835
+            ],
+            "contents": "●2012·16·17年国会対策委員長",
+            "direction": "horizontal",
+            "order": 56,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                838,
+                1105,
+                854
+            ],
+            "contents": "●2017·21·24年7·8·9期目当選",
+            "direction": "horizontal",
+            "order": 57,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                858,
+                1105,
+                894
+            ],
+            "contents": "●2024年予算委員会筆頭理事·\n厚生労働部門座長",
+            "direction": "horizontal",
+            "order": 58,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                897,
+                1050,
+                914
+            ],
+            "contents": "●2025年~幹事長代理",
+            "direction": "horizontal",
+            "order": 59,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                917,
+                1107,
+                974
+            ],
+            "contents": "◆座右の銘/社会の雑巾(ぞうき\nん)になって、社会をきれいにし\nなさい。(高校時代の恩師の言葉)",
+            "direction": "horizontal",
+            "order": 60,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                977,
+                1056,
+                993
+            ],
+            "contents": "◆趣味/卓球、ネコの世話",
+            "direction": "horizontal",
+            "order": 61,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                996,
+                1107,
+                1033
+            ],
+            "contents": "◆好物/ぎょうざ、ラーメン、唐揚\nげ、煎茶、玉露、抹茶、抹茶スイーツ",
+            "direction": "horizontal",
+            "order": 62,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                1046,
+                1104,
+                1073
+            ],
+            "contents": "【全力で応援します】",
+            "direction": "horizontal",
+            "order": 63,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                1077,
+                1103,
+                1096
+            ],
+            "contents": "参議院議員\n福山哲郎",
+            "direction": "horizontal",
+            "order": 64,
+            "role": null
+        },
+        {
+            "box": [
+                893,
+                1102,
+                1103,
+                1117
+            ],
+            "contents": "連合京都 会長\n連合南山城地協議長",
+            "direction": "horizontal",
+            "order": 65,
+            "role": null
+        },
+        {
+            "box": [
+                894,
+                1119,
+                1104,
+                1139
+            ],
+            "contents": "原 敏之 鵜ノ口 悟",
+            "direction": "horizontal",
+            "order": 66,
+            "role": null
+        },
+        {
+            "box": [
+                927,
+                1151,
+                1066,
+                1172
+            ],
+            "contents": "活動報告 発信中!",
+            "direction": "horizontal",
+            "order": 67,
+            "role": "section_headings"
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "Cantion Allom Allinse",
+            "det_score": 0.6465828702802515,
+            "direction": "horizontal",
+            "points": [
+                [
+                    981,
+                    1305
+                ],
+                [
+                    1058,
+                    1306
+                ],
+                [
+                    1058,
+                    1316
+                ],
+                [
+                    981,
+                    1315
+                ]
+            ],
+            "rec_score": 3.911251769750379e-05
+        },
+        {
+            "content": "中道改革連合",
+            "det_score": 0.8523292582226037,
+            "direction": "horizontal",
+            "points": [
+                [
+                    933,
+                    1279
+                ],
+                [
+                    1105,
+                    1279
+                ],
+                [
+                    1105,
+                    1304
+                ],
+                [
+                    933,
+                    1304
+                ]
+            ],
+            "rec_score": 0.9980342984199524
+        },
+        {
+            "content": "衆議院議員",
+            "det_score": 0.8852719511385723,
+            "direction": "horizontal",
+            "points": [
+                [
+                    520,
+                    1274
+                ],
+                [
+                    671,
+                    1274
+                ],
+                [
+                    671,
+                    1307
+                ],
+                [
+                    520,
+                    1307
+                ]
+            ],
+            "rec_score": 0.9999735355377197
+        },
+        {
+            "content": "議員立法 158本を作成、提出",
+            "det_score": 0.8824201435929627,
+            "direction": "horizontal",
+            "points": [
+                [
+                    42,
+                    1271
+                ],
+                [
+                    455,
+                    1271
+                ],
+                [
+                    455,
+                    1308
+                ],
+                [
+                    42,
+                    1308
+                ]
+            ],
+            "rec_score": 0.370811402797699
+        },
+        {
+            "content": "Indamramam",
+            "det_score": 0.8492260764208797,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1053,
+                    1253
+                ],
+                [
+                    1095,
+                    1253
+                ],
+                [
+                    1095,
+                    1264
+                ],
+                [
+                    1053,
+                    1264
+                ]
+            ],
+            "rec_score": 0.14436431229114532
+        },
+        {
+            "content": "ホームページ",
+            "det_score": 0.8156648134062817,
+            "direction": "horizontal",
+            "points": [
+                [
+                    895,
+                    1252
+                ],
+                [
+                    952,
+                    1252
+                ],
+                [
+                    952,
+                    1265
+                ],
+                [
+                    895,
+                    1265
+                ]
+            ],
+            "rec_score": 0.8830100893974304
+        },
+        {
+            "content": "YouThe",
+            "det_score": 0.8103647032711241,
+            "direction": "horizontal",
+            "points": [
+                [
+                    980,
+                    1250
+                ],
+                [
+                    1018,
+                    1250
+                ],
+                [
+                    1018,
+                    1267
+                ],
+                [
+                    980,
+                    1267
+                ]
+            ],
+            "rec_score": 0.5604889392852783
+        },
+        {
+            "content": "No.1",
+            "det_score": 0.895198070638659,
+            "direction": "horizontal",
+            "points": [
+                [
+                    669,
+                    1231
+                ],
+                [
+                    834,
+                    1231
+                ],
+                [
+                    834,
+                    1313
+                ],
+                [
+                    669,
+                    1313
+                ]
+            ],
+            "rec_score": 0.9225031733512878
+        },
+        {
+            "content": "批判や追及だけでなく、提案し、実現させます!",
+            "det_score": 0.8788083527572602,
+            "direction": "horizontal",
+            "points": [
+                [
+                    45,
+                    1234
+                ],
+                [
+                    621,
+                    1235
+                ],
+                [
+                    621,
+                    1264
+                ],
+                [
+                    44,
+                    1264
+                ]
+            ],
+            "rec_score": 0.9894353747367859
+        },
+        {
+            "content": "●子どもの貧困の根絶を!",
+            "det_score": 0.8174974511857848,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    1199
+                ],
+                [
+                    650,
+                    1199
+                ],
+                [
+                    650,
+                    1215
+                ],
+                [
+                    484,
+                    1215
+                ]
+            ],
+            "rec_score": 0.988329291343689
+        },
+        {
+            "content": "●食料自給率の引き上げと農家への所得補償の充実を!",
+            "det_score": 0.8092826036430172,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    1180
+                ],
+                [
+                    852,
+                    1180
+                ],
+                [
+                    852,
+                    1196
+                ],
+                [
+                    484,
+                    1196
+                ]
+            ],
+            "rec_score": 0.8958843350410461
+        },
+        {
+            "content": "●自衛隊員の処遇改善を!",
+            "det_score": 0.8346342411682461,
+            "direction": "horizontal",
+            "points": [
+                [
+                    482,
+                    1159
+                ],
+                [
+                    666,
+                    1158
+                ],
+                [
+                    666,
+                    1177
+                ],
+                [
+                    482,
+                    1178
+                ]
+            ],
+            "rec_score": 0.9987574815750122
+        },
+        {
+            "content": "活動報告 発信中!",
+            "det_score": 0.8738568014625382,
+            "direction": "horizontal",
+            "points": [
+                [
+                    927,
+                    1151
+                ],
+                [
+                    1066,
+                    1151
+                ],
+                [
+                    1066,
+                    1172
+                ],
+                [
+                    927,
+                    1172
+                ]
+            ],
+            "rec_score": 0.7964377403259277
+        },
+        {
+            "content": "国民の暮らしを守る!",
+            "det_score": 0.8960688508812926,
+            "direction": "horizontal",
+            "points": [
+                [
+                    30,
+                    1119
+                ],
+                [
+                    467,
+                    1116
+                ],
+                [
+                    467,
+                    1230
+                ],
+                [
+                    31,
+                    1233
+                ]
+            ],
+            "rec_score": 0.9967653751373291
+        },
+        {
+            "content": "●年金の引き上げを!",
+            "det_score": 0.8441531974328077,
+            "direction": "horizontal",
+            "points": [
+                [
+                    482,
+                    1138
+                ],
+                [
+                    634,
+                    1138
+                ],
+                [
+                    634,
+                    1157
+                ],
+                [
+                    482,
+                    1157
+                ]
+            ],
+            "rec_score": 0.9943808913230896
+        },
+        {
+            "content": "●障がいのあるお子さんや大人の方々への支援を!",
+            "det_score": 0.85655078297612,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    1121
+                ],
+                [
+                    842,
+                    1121
+                ],
+                [
+                    842,
+                    1138
+                ],
+                [
+                    484,
+                    1138
+                ]
+            ],
+            "rec_score": 0.9963769316673279
+        },
+        {
+            "content": "原 敏之 鵜ノ口 悟",
+            "det_score": 0.7491737861262544,
+            "direction": "horizontal",
+            "points": [
+                [
+                    892,
+                    1117
+                ],
+                [
+                    1106,
+                    1117
+                ],
+                [
+                    1106,
+                    1141
+                ],
+                [
+                    892,
+                    1141
+                ]
+            ],
+            "rec_score": 0.9411625862121582
+        },
+        {
+            "content": "連合南山城地協議長",
+            "det_score": 0.7858439490041682,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1011,
+                    1104
+                ],
+                [
+                    1103,
+                    1104
+                ],
+                [
+                    1103,
+                    1117
+                ],
+                [
+                    1011,
+                    1117
+                ]
+            ],
+            "rec_score": 0.6937312483787537
+        },
+        {
+            "content": "連合京都 会長",
+            "det_score": 0.8397819570862838,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    1104
+                ],
+                [
+                    957,
+                    1104
+                ],
+                [
+                    957,
+                    1118
+                ],
+                [
+                    893,
+                    1118
+                ]
+            ],
+            "rec_score": 0.9336916208267212
+        },
+        {
+            "content": "●教育の無償化を!(大学授業料の軽減)",
+            "det_score": 0.861210019980422,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    1102
+                ],
+                [
+                    770,
+                    1102
+                ],
+                [
+                    770,
+                    1118
+                ],
+                [
+                    484,
+                    1118
+                ]
+            ],
+            "rec_score": 0.997878909111023
+        },
+        {
+            "content": "(議員宿舎や国会では、宇治茶を飲み、地元のお米や京野菜で自炊)",
+            "det_score": 0.8223942962142634,
+            "direction": "horizontal",
+            "points": [
+                [
+                    55,
+                    1096
+                ],
+                [
+                    453,
+                    1096
+                ],
+                [
+                    453,
+                    1114
+                ],
+                [
+                    55,
+                    1114
+                ]
+            ],
+            "rec_score": 0.9488976001739502
+        },
+        {
+            "content": "●保育士·幼稚園教諭·学童保育指導員·放課後デイ職員の処遇改善を!",
+            "det_score": 0.8463553187014801,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    1082
+                ],
+                [
+                    851,
+                    1082
+                ],
+                [
+                    851,
+                    1098
+                ],
+                [
+                    484,
+                    1098
+                ]
+            ],
+            "rec_score": 0.9612850546836853
+        },
+        {
+            "content": "参議院議員",
+            "det_score": 0.8010497105190123,
+            "direction": "horizontal",
+            "points": [
+                [
+                    892,
+                    1078
+                ],
+                [
+                    975,
+                    1078
+                ],
+                [
+                    975,
+                    1095
+                ],
+                [
+                    892,
+                    1095
+                ]
+            ],
+            "rec_score": 0.999292254447937
+        },
+        {
+            "content": "福山哲郎",
+            "det_score": 0.8165630114132955,
+            "direction": "horizontal",
+            "points": [
+                [
+                    990,
+                    1075
+                ],
+                [
+                    1103,
+                    1075
+                ],
+                [
+                    1103,
+                    1097
+                ],
+                [
+                    990,
+                    1097
+                ]
+            ],
+            "rec_score": 0.9939132928848267
+        },
+        {
+            "content": "●地産地消を実践し、食育を推進!",
+            "det_score": 0.8498008186070025,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    1073
+                ],
+                [
+                    296,
+                    1073
+                ],
+                [
+                    296,
+                    1092
+                ],
+                [
+                    34,
+                    1092
+                ]
+            ],
+            "rec_score": 0.9890469312667847
+        },
+        {
+            "content": "●介護職員·障がい福祉職員·医療従事者の処遇改善を!",
+            "det_score": 0.8505855849669682,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    1063
+                ],
+                [
+                    850,
+                    1063
+                ],
+                [
+                    850,
+                    1079
+                ],
+                [
+                    484,
+                    1079
+                ]
+            ],
+            "rec_score": 0.9937989115715027
+        },
+        {
+            "content": "【全力で応援します】",
+            "det_score": 0.8845615149905839,
+            "direction": "horizontal",
+            "points": [
+                [
+                    894,
+                    1049
+                ],
+                [
+                    1103,
+                    1049
+                ],
+                [
+                    1103,
+                    1071
+                ],
+                [
+                    894,
+                    1071
+                ]
+            ],
+            "rec_score": 0.9924322366714478
+        },
+        {
+            "content": "山井は「お茶振興議員連盟」の会長",
+            "det_score": 0.8462247593547608,
+            "direction": "horizontal",
+            "points": [
+                [
+                    61,
+                    1044
+                ],
+                [
+                    311,
+                    1044
+                ],
+                [
+                    311,
+                    1060
+                ],
+                [
+                    61,
+                    1060
+                ]
+            ],
+            "rec_score": 0.9841748476028442
+        },
+        {
+            "content": "●がん患者等の高額療養費負担引上げストップを!",
+            "det_score": 0.8516208069955541,
+            "direction": "horizontal",
+            "points": [
+                [
+                    485,
+                    1043
+                ],
+                [
+                    833,
+                    1043
+                ],
+                [
+                    833,
+                    1059
+                ],
+                [
+                    485,
+                    1059
+                ]
+            ],
+            "rec_score": 0.9975085258483887
+        },
+        {
+            "content": "●食料品の消費税を恒久的にゼロに!",
+            "det_score": 0.8436217992230034,
+            "direction": "horizontal",
+            "points": [
+                [
+                    485,
+                    1023
+                ],
+                [
+                    743,
+                    1023
+                ],
+                [
+                    743,
+                    1039
+                ],
+                [
+                    485,
+                    1039
+                ]
+            ],
+            "rec_score": 0.9699024558067322
+        },
+        {
+            "content": "「お茶振興法」を成立させました。",
+            "det_score": 0.8450679090033231,
+            "direction": "horizontal",
+            "points": [
+                [
+                    53,
+                    1018
+                ],
+                [
+                    304,
+                    1018
+                ],
+                [
+                    304,
+                    1037
+                ],
+                [
+                    53,
+                    1037
+                ]
+            ],
+            "rec_score": 0.9988782405853271
+        },
+        {
+            "content": "げ、煎茶、玉露、抹茶、抹茶スイーツ",
+            "det_score": 0.8133371842669332,
+            "direction": "horizontal",
+            "points": [
+                [
+                    907,
+                    1015
+                ],
+                [
+                    1104,
+                    1015
+                ],
+                [
+                    1104,
+                    1031
+                ],
+                [
+                    907,
+                    1031
+                ]
+            ],
+            "rec_score": 0.9706546664237976
+        },
+        {
+            "content": "◆好物/ぎょうざ、ラーメン、唐揚",
+            "det_score": 0.8101348126439726,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    996
+                ],
+                [
+                    1106,
+                    996
+                ],
+                [
+                    1106,
+                    1012
+                ],
+                [
+                    893,
+                    1012
+                ]
+            ],
+            "rec_score": 0.916878879070282
+        },
+        {
+            "content": "●民主党政権時(2011年)に",
+            "det_score": 0.8333415213845679,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    995
+                ],
+                [
+                    258,
+                    995
+                ],
+                [
+                    258,
+                    1013
+                ],
+                [
+                    35,
+                    1013
+                ]
+            ],
+            "rec_score": 0.994105339050293
+        },
+        {
+            "content": "実現したい!日本を世界一、安心して暮らせる国に!",
+            "det_score": 0.8138430648248453,
+            "direction": "horizontal",
+            "points": [
+                [
+                    437,
+                    984
+                ],
+                [
+                    849,
+                    976
+                ],
+                [
+                    850,
+                    1014
+                ],
+                [
+                    437,
+                    1023
+                ]
+            ],
+            "rec_score": 0.6191662549972534
+        },
+        {
+            "content": "◆趣味/卓球、ネコの世話",
+            "det_score": 0.8249817218503047,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    977
+                ],
+                [
+                    1055,
+                    977
+                ],
+                [
+                    1055,
+                    993
+                ],
+                [
+                    893,
+                    993
+                ]
+            ],
+            "rec_score": 0.9888554215431213
+        },
+        {
+            "content": "これを",
+            "det_score": 0.7597474214495722,
+            "direction": "horizontal",
+            "points": [
+                [
+                    459,
+                    975
+                ],
+                [
+                    514,
+                    969
+                ],
+                [
+                    517,
+                    995
+                ],
+                [
+                    462,
+                    1001
+                ]
+            ],
+            "rec_score": 0.8770719766616821
+        },
+        {
+            "content": "なさい。(高校時代の恩師の言葉)",
+            "det_score": 0.8911754521515199,
+            "direction": "horizontal",
+            "points": [
+                [
+                    908,
+                    957
+                ],
+                [
+                    1103,
+                    957
+                ],
+                [
+                    1103,
+                    973
+                ],
+                [
+                    908,
+                    973
+                ]
+            ],
+            "rec_score": 0.9939911961555481
+        },
+        {
+            "content": "宇治茶·京野菜·中小企業·観光の振興を!",
+            "det_score": 0.8869706655437974,
+            "direction": "horizontal",
+            "points": [
+                [
+                    40,
+                    949
+                ],
+                [
+                    433,
+                    949
+                ],
+                [
+                    433,
+                    976
+                ],
+                [
+                    40,
+                    976
+                ]
+            ],
+            "rec_score": 0.9796726703643799
+        },
+        {
+            "content": "● 外国人の不動産取得を透明化、「不動産取得実態調査法案」を提出",
+            "det_score": 0.837703753340175,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    947
+                ],
+                [
+                    851,
+                    947
+                ],
+                [
+                    851,
+                    963
+                ],
+                [
+                    483,
+                    963
+                ]
+            ],
+            "rec_score": 0.6223408579826355
+        },
+        {
+            "content": "ん)になって、社会をきれいにし",
+            "det_score": 0.8781164552839029,
+            "direction": "horizontal",
+            "points": [
+                [
+                    908,
+                    937
+                ],
+                [
+                    1104,
+                    937
+                ],
+                [
+                    1104,
+                    951
+                ],
+                [
+                    908,
+                    951
+                ]
+            ],
+            "rec_score": 0.9934552311897278
+        },
+        {
+            "content": "● がん患者等の高額療養者の負担増の凍結(粘り強く、予算委員会で要望)",
+            "det_score": 0.8656804301766771,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    927
+                ],
+                [
+                    849,
+                    927
+                ],
+                [
+                    849,
+                    943
+                ],
+                [
+                    483,
+                    943
+                ]
+            ],
+            "rec_score": 0.2473290115594864
+        },
+        {
+            "content": "◆座右の銘/社会の雑巾(ぞうき",
+            "det_score": 0.8771158057811306,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    917
+                ],
+                [
+                    1106,
+                    917
+                ],
+                [
+                    1106,
+                    933
+                ],
+                [
+                    893,
+                    933
+                ]
+            ],
+            "rec_score": 0.6497898101806641
+        },
+        {
+            "content": "以下は公約以外で実現",
+            "det_score": 0.8812073797282189,
+            "direction": "horizontal",
+            "points": [
+                [
+                    606,
+                    907
+                ],
+                [
+                    730,
+                    907
+                ],
+                [
+                    730,
+                    923
+                ],
+                [
+                    606,
+                    923
+                ]
+            ],
+            "rec_score": 0.9924891591072083
+        },
+        {
+            "content": "●『城陽井手木津川バイバス』の早期開通を!",
+            "det_score": 0.8295292701388214,
+            "direction": "horizontal",
+            "points": [
+                [
+                    36,
+                    906
+                ],
+                [
+                    376,
+                    906
+                ],
+                [
+                    376,
+                    922
+                ],
+                [
+                    36,
+                    922
+                ]
+            ],
+            "rec_score": 0.8473727107048035
+        },
+        {
+            "content": "●2025年~幹事長代理",
+            "det_score": 0.885812199274123,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    897
+                ],
+                [
+                    1050,
+                    897
+                ],
+                [
+                    1050,
+                    913
+                ],
+                [
+                    893,
+                    913
+                ]
+            ],
+            "rec_score": 0.9907838106155396
+        },
+        {
+            "content": "●自衛隊員の処遇改善が実現",
+            "det_score": 0.841106766277177,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    885
+                ],
+                [
+                    665,
+                    885
+                ],
+                [
+                    665,
+                    903
+                ],
+                [
+                    483,
+                    903
+                ]
+            ],
+            "rec_score": 0.9964525699615479
+        },
+        {
+            "content": "ネクスコ西日本と国交省に要望しています。",
+            "det_score": 0.8553439239308331,
+            "direction": "horizontal",
+            "points": [
+                [
+                    53,
+                    879
+                ],
+                [
+                    390,
+                    879
+                ],
+                [
+                    390,
+                    898
+                ],
+                [
+                    53,
+                    898
+                ]
+            ],
+            "rec_score": 0.9982597231864929
+        },
+        {
+            "content": "厚生労働部門座長",
+            "det_score": 0.8550811401948439,
+            "direction": "horizontal",
+            "points": [
+                [
+                    907,
+                    878
+                ],
+                [
+                    1023,
+                    878
+                ],
+                [
+                    1023,
+                    894
+                ],
+                [
+                    907,
+                    894
+                ]
+            ],
+            "rec_score": 0.9998742341995239
+        },
+        {
+            "content": "●介護、障がい福祉職員の処遇改善の実現",
+            "det_score": 0.8211674423942016,
+            "direction": "horizontal",
+            "points": [
+                [
+                    481,
+                    865
+                ],
+                [
+                    741,
+                    864
+                ],
+                [
+                    741,
+                    883
+                ],
+                [
+                    481,
+                    884
+                ]
+            ],
+            "rec_score": 0.9909377694129944
+        },
+        {
+            "content": "●2024年予算委員会筆頭理事·",
+            "det_score": 0.8457303214052045,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    858
+                ],
+                [
+                    1104,
+                    858
+                ],
+                [
+                    1104,
+                    874
+                ],
+                [
+                    893,
+                    874
+                ]
+            ],
+            "rec_score": 0.9537840485572815
+        },
+        {
+            "content": "『3年後(2028年度)の開通を今年中に確定するように」と",
+            "det_score": 0.8455564526505576,
+            "direction": "horizontal",
+            "points": [
+                [
+                    54,
+                    858
+                ],
+                [
+                    441,
+                    858
+                ],
+                [
+                    441,
+                    874
+                ],
+                [
+                    54,
+                    874
+                ]
+            ],
+            "rec_score": 0.3108886182308197
+        },
+        {
+            "content": "●若者·現役世代や障がい者の年金底上げ(最大3割)",
+            "det_score": 0.8574264185102743,
+            "direction": "horizontal",
+            "points": [
+                [
+                    482,
+                    845
+                ],
+                [
+                    804,
+                    845
+                ],
+                [
+                    804,
+                    864
+                ],
+                [
+                    482,
+                    864
+                ]
+            ],
+            "rec_score": 0.9433205723762512
+        },
+        {
+            "content": "●2017·21·24年7·8·9期目当選",
+            "det_score": 0.8388103686554356,
+            "direction": "horizontal",
+            "points": [
+                [
+                    892,
+                    838
+                ],
+                [
+                    1105,
+                    837
+                ],
+                [
+                    1105,
+                    853
+                ],
+                [
+                    892,
+                    854
+                ]
+            ],
+            "rec_score": 0.9271095395088196
+        },
+        {
+            "content": "(小泉政権により2005年以降 7年間、建設がストップ",
+            "det_score": 0.8967251715770725,
+            "direction": "horizontal",
+            "points": [
+                [
+                    55,
+                    834
+                ],
+                [
+                    440,
+                    834
+                ],
+                [
+                    440,
+                    850
+                ],
+                [
+                    55,
+                    850
+                ]
+            ],
+            "rec_score": 0.5842680931091309
+        },
+        {
+            "content": "●私立高校授業料への就学支援金(年45万円、今年4月から)",
+            "det_score": 0.8131936541991309,
+            "direction": "horizontal",
+            "points": [
+                [
+                    484,
+                    827
+                ],
+                [
+                    850,
+                    827
+                ],
+                [
+                    850,
+                    844
+                ],
+                [
+                    484,
+                    844
+                ]
+            ],
+            "rec_score": 0.9852199554443359
+        },
+        {
+            "content": "●2012·16·17年国会対策委員長",
+            "det_score": 0.8544176577511116,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    819
+                ],
+                [
+                    1105,
+                    819
+                ],
+                [
+                    1105,
+                    835
+                ],
+                [
+                    893,
+                    835
+                ]
+            ],
+            "rec_score": 0.9478147625923157
+        },
+        {
+            "content": "新名神の全線着工が決定。『建設工事がスタート』。",
+            "det_score": 0.9000661533345802,
+            "direction": "horizontal",
+            "points": [
+                [
+                    52,
+                    811
+                ],
+                [
+                    437,
+                    811
+                ],
+                [
+                    437,
+                    829
+                ],
+                [
+                    52,
+                    829
+                ]
+            ],
+            "rec_score": 0.8506352305412292
+        },
+        {
+            "content": "●高校授業料無償化の所得制限撤廃(昨年から)",
+            "det_score": 0.8248245284863304,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    806
+                ],
+                [
+                    774,
+                    806
+                ],
+                [
+                    774,
+                    825
+                ],
+                [
+                    483,
+                    825
+                ]
+            ],
+            "rec_score": 0.9315305948257446
+        },
+        {
+            "content": "●2012·14年5·6期目当選",
+            "det_score": 0.8597416144732454,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    799
+                ],
+                [
+                    1070,
+                    799
+                ],
+                [
+                    1070,
+                    815
+                ],
+                [
+                    893,
+                    815
+                ]
+            ],
+            "rec_score": 0.9462741017341614
+        },
+        {
+            "content": "●小学校給食無償化(今年4月から)",
+            "det_score": 0.8216970843274023,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    788
+                ],
+                [
+                    699,
+                    788
+                ],
+                [
+                    699,
+                    804
+                ],
+                [
+                    483,
+                    804
+                ]
+            ],
+            "rec_score": 0.9946923851966858
+        },
+        {
+            "content": "●民主党政権時(2012年)に山井が主導して、",
+            "det_score": 0.8308479055807583,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    787
+                ],
+                [
+                    384,
+                    787
+                ],
+                [
+                    384,
+                    806
+                ],
+                [
+                    35,
+                    806
+                ]
+            ],
+            "rec_score": 0.9663674235343933
+        },
+        {
+            "content": "●2009年厚生労働大臣政務官",
+            "det_score": 0.8837159949179274,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    780
+                ],
+                [
+                    1087,
+                    780
+                ],
+                [
+                    1087,
+                    794
+                ],
+                [
+                    893,
+                    794
+                ]
+            ],
+            "rec_score": 0.9969804883003235
+        },
+        {
+            "content": "●ガソリン暫定税率の廃止(野党で協力、昨年12月から)",
+            "det_score": 0.8495472502291368,
+            "direction": "horizontal",
+            "points": [
+                [
+                    483,
+                    767
+                ],
+                [
+                    785,
+                    767
+                ],
+                [
+                    785,
+                    785
+                ],
+                [
+                    483,
+                    785
+                ]
+            ],
+            "rec_score": 0.9508343935012817
+        },
+        {
+            "content": "●2003·05·09年2·3·4期目当選",
+            "det_score": 0.853682474888486,
+            "direction": "horizontal",
+            "points": [
+                [
+                    892,
+                    760
+                ],
+                [
+                    1104,
+                    760
+                ],
+                [
+                    1104,
+                    776
+                ],
+                [
+                    892,
+                    776
+                ]
+            ],
+            "rec_score": 0.8221590518951416
+        },
+        {
+            "content": "新名神の1日も早い開通を!",
+            "det_score": 0.8900921556835022,
+            "direction": "horizontal",
+            "points": [
+                [
+                    81,
+                    743
+                ],
+                [
+                    388,
+                    743
+                ],
+                [
+                    388,
+                    767
+                ],
+                [
+                    81,
+                    767
+                ]
+            ],
+            "rec_score": 0.8431175947189331
+        },
+        {
+            "content": "実現",
+            "det_score": 0.8260353006075084,
+            "direction": "horizontal",
+            "points": [
+                [
+                    791,
+                    728
+                ],
+                [
+                    866,
+                    725
+                ],
+                [
+                    870,
+                    817
+                ],
+                [
+                    796,
+                    821
+                ]
+            ],
+            "rec_score": 0.935515820980072
+        },
+        {
+            "content": "●2000年衆議院議員初当選",
+            "det_score": 0.8400399900007486,
+            "direction": "horizontal",
+            "points": [
+                [
+                    892,
+                    739
+                ],
+                [
+                    1073,
+                    739
+                ],
+                [
+                    1073,
+                    755
+                ],
+                [
+                    892,
+                    755
+                ]
+            ],
+            "rec_score": 0.9994062781333923
+        },
+        {
+            "content": "1年3ヶ月で実現したこと",
+            "det_score": 0.9236909424701346,
+            "direction": "horizontal",
+            "points": [
+                [
+                    492,
+                    731
+                ],
+                [
+                    739,
+                    731
+                ],
+                [
+                    739,
+                    752
+                ],
+                [
+                    492,
+                    752
+                ]
+            ],
+            "rec_score": 0.9998743534088135
+        },
+        {
+            "content": "政策科学研究科 講師",
+            "det_score": 0.8427460926209446,
+            "direction": "horizontal",
+            "points": [
+                [
+                    905,
+                    719
+                ],
+                [
+                    1038,
+                    719
+                ],
+                [
+                    1038,
+                    735
+                ],
+                [
+                    905,
+                    735
+                ]
+            ],
+            "rec_score": 0.9995160102844238
+        },
+        {
+            "content": "京都南部の活性化のため、",
+            "det_score": 0.8622741208037906,
+            "direction": "horizontal",
+            "points": [
+                [
+                    84,
+                    713
+                ],
+                [
+                    381,
+                    713
+                ],
+                [
+                    381,
+                    737
+                ],
+                [
+                    84,
+                    737
+                ]
+            ],
+            "rec_score": 0.9992031455039978
+        },
+        {
+            "content": "●1997年立命館大学大学院",
+            "det_score": 0.8300149838703905,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    700
+                ],
+                [
+                    1070,
+                    700
+                ],
+                [
+                    1070,
+                    716
+                ],
+                [
+                    893,
+                    716
+                ]
+            ],
+            "rec_score": 0.9929059743881226
+        },
+        {
+            "content": "日本の社会保障が大きく前進しました!",
+            "det_score": 0.8804371441226851,
+            "direction": "horizontal",
+            "points": [
+                [
+                    481,
+                    685
+                ],
+                [
+                    857,
+                    685
+                ],
+                [
+                    857,
+                    709
+                ],
+                [
+                    481,
+                    709
+                ]
+            ],
+            "rec_score": 0.968417227268219
+        },
+        {
+            "content": "や政治を学ぶ",
+            "det_score": 0.8248106614447231,
+            "direction": "horizontal",
+            "points": [
+                [
+                    906,
+                    679
+                ],
+                [
+                    989,
+                    679
+                ],
+                [
+                    989,
+                    696
+                ],
+                [
+                    906,
+                    696
+                ]
+            ],
+            "rec_score": 0.9934459924697876
+        },
+        {
+            "content": "京都南部を日本一暮らしやすい地域に!",
+            "det_score": 0.8800972104786874,
+            "direction": "horizontal",
+            "points": [
+                [
+                    44,
+                    659
+                ],
+                [
+                    430,
+                    659
+                ],
+                [
+                    430,
+                    683
+                ],
+                [
+                    44,
+                    683
+                ]
+            ],
+            "rec_score": 0.9713418483734131
+        },
+        {
+            "content": "●1991年2年間スウェーデンで福祉",
+            "det_score": 0.8627801768171064,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    661
+                ],
+                [
+                    1105,
+                    661
+                ],
+                [
+                    1105,
+                    675
+                ],
+                [
+                    893,
+                    675
+                ]
+            ],
+            "rec_score": 0.9944553971290588
+        },
+        {
+            "content": "京都6区の皆さんの応援のおかげで、",
+            "det_score": 0.8657318050680444,
+            "direction": "horizontal",
+            "points": [
+                [
+                    481,
+                    651
+                ],
+                [
+                    851,
+                    651
+                ],
+                [
+                    851,
+                    678
+                ],
+                [
+                    481,
+                    678
+                ]
+            ],
+            "rec_score": 0.9989851713180542
+        },
+        {
+            "content": "ホームを訪問。",
+            "det_score": 0.8139413038875846,
+            "direction": "horizontal",
+            "points": [
+                [
+                    907,
+                    640
+                ],
+                [
+                    999,
+                    640
+                ],
+                [
+                    999,
+                    658
+                ],
+                [
+                    907,
+                    658
+                ]
+            ],
+            "rec_score": 0.9981815814971924
+        },
+        {
+            "content": "などで実習。日本や世界の老人",
+            "det_score": 0.8009909100766326,
+            "direction": "horizontal",
+            "points": [
+                [
+                    908,
+                    620
+                ],
+                [
+                    1105,
+                    620
+                ],
+                [
+                    1105,
+                    636
+                ],
+                [
+                    908,
+                    636
+                ]
+            ],
+            "rec_score": 0.9995868802070618
+        },
+        {
+            "content": "山井和則拝",
+            "det_score": 0.8794857682784398,
+            "direction": "horizontal",
+            "points": [
+                [
+                    690,
+                    610
+                ],
+                [
+                    866,
+                    612
+                ],
+                [
+                    866,
+                    640
+                ],
+                [
+                    690,
+                    638
+                ]
+            ],
+            "rec_score": 0.5279396772384644
+        },
+        {
+            "content": "め、人生を賭けて働きます!私、山井和則を、再び国会で働かせて下さい!",
+            "det_score": 0.8501345015213668,
+            "direction": "horizontal",
+            "points": [
+                [
+                    33,
+                    605
+                ],
+                [
+                    681,
+                    607
+                ],
+                [
+                    681,
+                    631
+                ],
+                [
+                    33,
+                    629
+                ]
+            ],
+            "rec_score": 0.977648138999939
+        },
+        {
+            "content": "5年間在籍。世界の老人ホーム",
+            "det_score": 0.8300124380241398,
+            "direction": "horizontal",
+            "points": [
+                [
+                    908,
+                    601
+                ],
+                [
+                    1105,
+                    601
+                ],
+                [
+                    1105,
+                    617
+                ],
+                [
+                    908,
+                    617
+                ]
+            ],
+            "rec_score": 0.9994490742683411
+        },
+        {
+            "content": "9期26年、お育て頂いた愛する地元、京都南部のため、物価高で苦しむ国民や事業者のた",
+            "det_score": 0.8544972521176032,
+            "direction": "horizontal",
+            "points": [
+                [
+                    53,
+                    581
+                ],
+                [
+                    866,
+                    582
+                ],
+                [
+                    866,
+                    601
+                ],
+                [
+                    53,
+                    601
+                ]
+            ],
+            "rec_score": 0.9837761521339417
+        },
+        {
+            "content": "●1986年(財)松下政経験入数",
+            "det_score": 0.8379567435974308,
+            "direction": "horizontal",
+            "points": [
+                [
+                    894,
+                    581
+                ],
+                [
+                    1101,
+                    581
+                ],
+                [
+                    1101,
+                    594
+                ],
+                [
+                    894,
+                    594
+                ]
+            ],
+            "rec_score": 0.23109427094459534
+        },
+        {
+            "content": "けようと決意。",
+            "det_score": 0.8766811709128209,
+            "direction": "horizontal",
+            "points": [
+                [
+                    907,
+                    560
+                ],
+                [
+                    998,
+                    560
+                ],
+                [
+                    998,
+                    577
+                ],
+                [
+                    907,
+                    577
+                ]
+            ],
+            "rec_score": 0.9994855523109436
+        },
+        {
+            "content": "高対策、処遇改善、実質賃金の引き上げ、教育無償化は待ったなしです。",
+            "det_score": 0.8786363770648533,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    557
+                ],
+                [
+                    656,
+                    557
+                ],
+                [
+                    656,
+                    575
+                ],
+                [
+                    35,
+                    575
+                ]
+            ],
+            "rec_score": 0.989630937576294
+        },
+        {
+            "content": "ア活動に執中。福祉に人生を賭",
+            "det_score": 0.8725391867222895,
+            "direction": "horizontal",
+            "points": [
+                [
+                    908,
+                    542
+                ],
+                [
+                    1104,
+                    542
+                ],
+                [
+                    1104,
+                    555
+                ],
+                [
+                    908,
+                    555
+                ]
+            ],
+            "rec_score": 0.12958520650863647
+        },
+        {
+            "content": "える中小企業やお店が増えています。医療、介護、福祉、子育て支援の現場も厳しいです。物価",
+            "det_score": 0.8814738164227105,
+            "direction": "horizontal",
+            "points": [
+                [
+                    35,
+                    531
+                ],
+                [
+                    866,
+                    531
+                ],
+                [
+                    866,
+                    550
+                ],
+                [
+                    35,
+                    550
+                ]
+            ],
+            "rec_score": 0.9993310570716858
+        },
+        {
+            "content": "中、児童福祉施設でボランティ",
+            "det_score": 0.8625372894822088,
+            "direction": "horizontal",
+            "points": [
+                [
+                    909,
+                    523
+                ],
+                [
+                    1104,
+                    523
+                ],
+                [
+                    1104,
+                    536
+                ],
+                [
+                    909,
+                    536
+                ]
+            ],
+            "rec_score": 0.9958236813545227
+        },
+        {
+            "content": "ますます深刻化する物価高に苦しむご家庭、原材料高や人手不足で倒産や廃業の不安を抱",
+            "det_score": 0.8866854924732154,
+            "direction": "horizontal",
+            "points": [
+                [
+                    55,
+                    504
+                ],
+                [
+                    866,
+                    504
+                ],
+                [
+                    866,
+                    523
+                ],
+                [
+                    55,
+                    523
+                ]
+            ],
+            "rec_score": 0.9727520942687988
+        },
+        {
+            "content": "●同大学院工学研究科修了。在学",
+            "det_score": 0.8553438771237916,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    501
+                ],
+                [
+                    1106,
+                    501
+                ],
+                [
+                    1106,
+                    517
+                ],
+                [
+                    893,
+                    517
+                ]
+            ],
+            "rec_score": 0.9962549805641174
+        },
+        {
+            "content": "●京都大学工学部工学化学科卒業",
+            "det_score": 0.8478897449915476,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    482
+                ],
+                [
+                    1105,
+                    482
+                ],
+                [
+                    1105,
+                    498
+                ],
+                [
+                    893,
+                    498
+                ]
+            ],
+            "rec_score": 0.991740882396698
+        },
+        {
+            "content": "を政治に届けねば!と痛感したことです。",
+            "det_score": 0.8861728680338452,
+            "direction": "horizontal",
+            "points": [
+                [
+                    33,
+                    477
+                ],
+                [
+                    387,
+                    478
+                ],
+                [
+                    387,
+                    498
+                ],
+                [
+                    33,
+                    497
+                ]
+            ],
+            "rec_score": 0.9948455095291138
+        },
+        {
+            "content": "●洛南高等学校卒業",
+            "det_score": 0.8519860558943197,
+            "direction": "horizontal",
+            "points": [
+                [
+                    893,
+                    462
+                ],
+                [
+                    1022,
+                    462
+                ],
+                [
+                    1022,
+                    478
+                ],
+                [
+                    893,
+                    478
+                ]
+            ],
+            "rec_score": 0.8996506333351135
+        },
+        {
+            "content": "寝たきりの末に亡くなり、貧困や虐待で苦しむ子どもたちや高齢者、介護者の方々の声なき声",
+            "det_score": 0.8494495565083691,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    451
+                ],
+                [
+                    865,
+                    451
+                ],
+                [
+                    865,
+                    470
+                ],
+                [
+                    34,
+                    470
+                ]
+            ],
+            "rec_score": 0.9769517779350281
+        },
+        {
+            "content": "●1962年1月6日生まれ",
+            "det_score": 0.8348130843374465,
+            "direction": "horizontal",
+            "points": [
+                [
+                    892,
+                    441
+                ],
+                [
+                    1050,
+                    441
+                ],
+                [
+                    1050,
+                    459
+                ],
+                [
+                    892,
+                    459
+                ]
+            ],
+            "rec_score": 0.9993348121643066
+        },
+        {
+            "content": "私の原点は、学生時代に児童福祉施設で6年間、ボランティアをし、また、私の祖母が長年の",
+            "det_score": 0.8693610113662128,
+            "direction": "horizontal",
+            "points": [
+                [
+                    54,
+                    426
+                ],
+                [
+                    865,
+                    426
+                ],
+                [
+                    865,
+                    445
+                ],
+                [
+                    54,
+                    445
+                ]
+            ],
+            "rec_score": 0.9921311140060425
+        },
+        {
+            "content": "【プロフィール】",
+            "det_score": 0.8785711344458104,
+            "direction": "horizontal",
+            "points": [
+                [
+                    890,
+                    411
+                ],
+                [
+                    1028,
+                    411
+                ],
+                [
+                    1028,
+                    436
+                ],
+                [
+                    890,
+                    436
+                ]
+            ],
+            "rec_score": 0.9996344447135925
+        },
+        {
+            "content": "~政治活動31年、衆議院議員26年~",
+            "det_score": 0.865969744248555,
+            "direction": "horizontal",
+            "points": [
+                [
+                    550,
+                    388
+                ],
+                [
+                    865,
+                    388
+                ],
+                [
+                    865,
+                    407
+                ],
+                [
+                    550,
+                    407
+                ]
+            ],
+            "rec_score": 0.9986971020698547
+        },
+        {
+            "content": "京都南部のために",
+            "det_score": 0.9105041901791195,
+            "direction": "horizontal",
+            "points": [
+                [
+                    29,
+                    343
+                ],
+                [
+                    538,
+                    343
+                ],
+                [
+                    538,
+                    416
+                ],
+                [
+                    29,
+                    416
+                ]
+            ],
+            "rec_score": 0.9997086524963379
+        },
+        {
+            "content": "京都南部のため、人生を賭けて働きます!",
+            "det_score": 0.8567275162321196,
+            "direction": "horizontal",
+            "points": [
+                [
+                    555,
+                    356
+                ],
+                [
+                    856,
+                    356
+                ],
+                [
+                    856,
+                    372
+                ],
+                [
+                    555,
+                    372
+                ]
+            ],
+            "rec_score": 0.9863317608833313
+        },
+        {
+            "content": "福祉のやまのい 社会のぞうきんになって、社会をきれいにしたい! https://yamanoi.net",
+            "det_score": 0.8549459881777978,
+            "direction": "horizontal",
+            "points": [
+                [
+                    42,
+                    298
+                ],
+                [
+                    853,
+                    298
+                ],
+                [
+                    853,
+                    323
+                ],
+                [
+                    42,
+                    323
+                ]
+            ],
+            "rec_score": 0.3962584435939789
+        },
+        {
+            "content": "やものし",
+            "det_score": 0.7874241951731316,
+            "direction": "horizontal",
+            "points": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    928,
+                    4
+                ],
+                [
+                    928,
+                    350
+                ],
+                [
+                    0,
+                    350
+                ]
+            ],
+            "rec_score": 0.01696058362722397
+        },
+        {
+            "content": "かず のり",
+            "det_score": 0.6989045657612291,
+            "direction": "vertical",
+            "points": [
+                [
+                    834,
+                    98
+                ],
+                [
+                    873,
+                    98
+                ],
+                [
+                    873,
+                    255
+                ],
+                [
+                    834,
+                    255
+                ]
+            ],
+            "rec_score": 0.9988440275192261
+        },
+        {
+            "content": "衆議院議員9期 松下政経塾出身 元厚生労働大臣政務官",
+            "det_score": 0.8371309961351516,
+            "direction": "horizontal",
+            "points": [
+                [
+                    31,
+                    32
+                ],
+                [
+                    866,
+                    32
+                ],
+                [
+                    866,
+                    72
+                ],
+                [
+                    31,
+                    72
+                ]
+            ],
+            "rec_score": 0.9926876425743103
+        }
+    ]
+}

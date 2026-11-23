@@ -1,0 +1,1075 @@
+{
+    "figures": [
+        {
+            "box": [
+                708,
+                178,
+                809,
+                472
+            ],
+            "direction": "horizontal",
+            "order": 7,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                53,
+                536,
+                299,
+                652
+            ],
+            "direction": "horizontal",
+            "order": 9,
+            "paragraphs": [
+                {
+                    "box": [
+                        53,
+                        564,
+                        81,
+                        629
+                    ],
+                    "contents": "推薦",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        158,
+                        551,
+                        296,
+                        588
+                    ],
+                    "contents": "連合広島",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        114,
+                        600,
+                        289,
+                        641
+                    ],
+                    "contents": "みんなのカラをひとつに\n結集 ひろしま",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1662,
+                199,
+                1890,
+                503
+            ],
+            "direction": "horizontal",
+            "order": 20,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1942,
+                49,
+                2165,
+                656
+            ],
+            "direction": "vertical",
+            "order": 21,
+            "paragraphs": [
+                {
+                    "box": [
+                        2129,
+                        50,
+                        2166,
+                        271
+                    ],
+                    "contents": "衆議院議員候補",
+                    "direction": "vertical",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        2131,
+                        312,
+                        2162,
+                        639
+                    ],
+                    "contents": "中道改革連合公認 広島3区",
+                    "direction": "vertical",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1917,
+                        17,
+                        2147,
+                        658
+                    ],
+                    "contents": "あずまだ",
+                    "direction": "vertical",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1936,
+                        555,
+                        2123,
+                        660
+                    ],
+                    "contents": "かつや",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                80,
+                52,
+                746,
+                163
+            ],
+            "contents": "あずま かつや ○",
+            "direction": "horizontal",
+            "order": 0,
+            "role": null
+        },
+        {
+            "box": [
+                57,
+                238,
+                82,
+                508
+            ],
+            "contents": "あずまかつやプロフィール",
+            "direction": "vertical",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                234,
+                174,
+                716,
+                226
+            ],
+            "contents": "繋ぐ!未来へ!より添う政治",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                96,
+                244,
+                612,
+                316
+            ],
+            "contents": "1981年9月30日生まれ 小3から高3まで野球部\n家族 妻と4人の子ども",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                96,
+                336,
+                650,
+                362
+            ],
+            "contents": "広島県立保健福祉大学 理学療法学科 卒業 理学療法十",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                99,
+                382,
+                599,
+                408
+            ],
+            "contents": "広島大学大学院 保健学研究科 修了 修士(保健学)",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                98,
+                428,
+                675,
+                454
+            ],
+            "contents": "2023年 立憲民主党広島県第3区総支部 支部長に就任",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                93,
+                473,
+                771,
+                500
+            ],
+            "contents": "2024年10月 第50回衆議院議員総選挙 初当選(衆議院議員1期)",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                631,
+                570,
+                704,
+                616
+            ],
+            "contents": "Oss",
+            "direction": "horizontal",
+            "order": 10,
+            "role": null
+        },
+        {
+            "box": [
+                409,
+                577,
+                563,
+                603
+            ],
+            "contents": "あずまかつや",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                916,
+                43,
+                1177,
+                164
+            ],
+            "contents": "中道路(",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                971,
+                144,
+                1094,
+                160
+            ],
+            "contents": "Centris Reform Allionce",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                1143,
+                78,
+                1601,
+                140
+            ],
+            "contents": "(ちゅうどう)公認",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                846,
+                189,
+                1606,
+                257
+            ],
+            "contents": "誰にもやさしい社会保障",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                844,
+                284,
+                1611,
+                354
+            ],
+            "contents": "人への投資と経済の再生",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                843,
+                383,
+                1413,
+                450
+            ],
+            "contents": "3\n生活の基盤を守る",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                842,
+                480,
+                1342,
+                551
+            ],
+            "contents": "4\n平和主義を貫く",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                844,
+                578,
+                1418,
+                646
+            ],
+            "contents": "5\n政治とカネの問題",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "結集 ひろしま",
+            "det_score": 0.8338719650331962,
+            "direction": "horizontal",
+            "points": [
+                [
+                    113,
+                    612
+                ],
+                [
+                    290,
+                    612
+                ],
+                [
+                    290,
+                    642
+                ],
+                [
+                    113,
+                    642
+                ]
+            ],
+            "rec_score": 0.324202299118042
+        },
+        {
+            "content": "みんなのカラをひとつに",
+            "det_score": 0.7087275445687049,
+            "direction": "horizontal",
+            "points": [
+                [
+                    150,
+                    597
+                ],
+                [
+                    251,
+                    597
+                ],
+                [
+                    251,
+                    615
+                ],
+                [
+                    150,
+                    615
+                ]
+            ],
+            "rec_score": 0.17384693026542664
+        },
+        {
+            "content": "政治とカネの問題",
+            "det_score": 0.9101864095552433,
+            "direction": "horizontal",
+            "points": [
+                [
+                    928,
+                    584
+                ],
+                [
+                    1410,
+                    584
+                ],
+                [
+                    1410,
+                    638
+                ],
+                [
+                    928,
+                    638
+                ]
+            ],
+            "rec_score": 0.997183084487915
+        },
+        {
+            "content": "かつや",
+            "det_score": 0.7481072631309207,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1936,
+                    561
+                ],
+                [
+                    2119,
+                    555
+                ],
+                [
+                    2123,
+                    654
+                ],
+                [
+                    1939,
+                    660
+                ]
+            ],
+            "rec_score": 0.9987901449203491
+        },
+        {
+            "content": "5",
+            "det_score": 0.7607406780376272,
+            "direction": "horizontal",
+            "points": [
+                [
+                    840,
+                    568
+                ],
+                [
+                    886,
+                    573
+                ],
+                [
+                    881,
+                    629
+                ],
+                [
+                    835,
+                    624
+                ]
+            ],
+            "rec_score": 0.9732620120048523
+        },
+        {
+            "content": "Oss",
+            "det_score": 0.5432600226513176,
+            "direction": "horizontal",
+            "points": [
+                [
+                    634,
+                    570
+                ],
+                [
+                    704,
+                    577
+                ],
+                [
+                    701,
+                    616
+                ],
+                [
+                    631,
+                    609
+                ]
+            ],
+            "rec_score": 0.01175981480628252
+        },
+        {
+            "content": "あずまかつや",
+            "det_score": 0.8620698083874812,
+            "direction": "horizontal",
+            "points": [
+                [
+                    410,
+                    574
+                ],
+                [
+                    564,
+                    574
+                ],
+                [
+                    564,
+                    605
+                ],
+                [
+                    410,
+                    605
+                ]
+            ],
+            "rec_score": 0.9984773397445679
+        },
+        {
+            "content": "推薦",
+            "det_score": 0.7088989399191811,
+            "direction": "vertical",
+            "points": [
+                [
+                    53,
+                    564
+                ],
+                [
+                    81,
+                    564
+                ],
+                [
+                    81,
+                    629
+                ],
+                [
+                    53,
+                    629
+                ]
+            ],
+            "rec_score": 0.9895967841148376
+        },
+        {
+            "content": "連合広島",
+            "det_score": 0.8970743060423161,
+            "direction": "horizontal",
+            "points": [
+                [
+                    154,
+                    548
+                ],
+                [
+                    296,
+                    548
+                ],
+                [
+                    296,
+                    589
+                ],
+                [
+                    154,
+                    589
+                ]
+            ],
+            "rec_score": 0.9998902082443237
+        },
+        {
+            "content": "平和主義を貫く",
+            "det_score": 0.8913371056683431,
+            "direction": "horizontal",
+            "points": [
+                [
+                    923,
+                    487
+                ],
+                [
+                    1335,
+                    487
+                ],
+                [
+                    1335,
+                    544
+                ],
+                [
+                    923,
+                    544
+                ]
+            ],
+            "rec_score": 0.9786638617515564
+        },
+        {
+            "content": "4",
+            "det_score": 0.6652292364455284,
+            "direction": "horizontal",
+            "points": [
+                [
+                    842,
+                    478
+                ],
+                [
+                    884,
+                    478
+                ],
+                [
+                    884,
+                    527
+                ],
+                [
+                    842,
+                    527
+                ]
+            ],
+            "rec_score": 0.5796259045600891
+        },
+        {
+            "content": "2024年10月 第50回衆議院議員総選挙 初当選(衆議院議員1期)",
+            "det_score": 0.8579006983529007,
+            "direction": "horizontal",
+            "points": [
+                [
+                    97,
+                    474
+                ],
+                [
+                    768,
+                    475
+                ],
+                [
+                    768,
+                    498
+                ],
+                [
+                    97,
+                    497
+                ]
+            ],
+            "rec_score": 0.9828194975852966
+        },
+        {
+            "content": "2023年 立憲民主党広島県第3区総支部 支部長に就任",
+            "det_score": 0.854725734675648,
+            "direction": "horizontal",
+            "points": [
+                [
+                    97,
+                    428
+                ],
+                [
+                    672,
+                    429
+                ],
+                [
+                    672,
+                    452
+                ],
+                [
+                    97,
+                    451
+                ]
+            ],
+            "rec_score": 0.9991613626480103
+        },
+        {
+            "content": "生活の基盤を守る",
+            "det_score": 0.8858027864246705,
+            "direction": "horizontal",
+            "points": [
+                [
+                    931,
+                    390
+                ],
+                [
+                    1410,
+                    390
+                ],
+                [
+                    1410,
+                    443
+                ],
+                [
+                    931,
+                    443
+                ]
+            ],
+            "rec_score": 0.9890142679214478
+        },
+        {
+            "content": "3",
+            "det_score": 0.8024246510181386,
+            "direction": "horizontal",
+            "points": [
+                [
+                    839,
+                    380
+                ],
+                [
+                    881,
+                    380
+                ],
+                [
+                    881,
+                    429
+                ],
+                [
+                    839,
+                    429
+                ]
+            ],
+            "rec_score": 0.9974501729011536
+        },
+        {
+            "content": "広島大学大学院 保健学研究科 修了 修士(保健学)",
+            "det_score": 0.8882126901887618,
+            "direction": "horizontal",
+            "points": [
+                [
+                    99,
+                    381
+                ],
+                [
+                    599,
+                    383
+                ],
+                [
+                    599,
+                    406
+                ],
+                [
+                    99,
+                    405
+                ]
+            ],
+            "rec_score": 0.9959703683853149
+        },
+        {
+            "content": "広島県立保健福祉大学 理学療法学科 卒業 理学療法十",
+            "det_score": 0.8888935926184636,
+            "direction": "horizontal",
+            "points": [
+                [
+                    100,
+                    337
+                ],
+                [
+                    647,
+                    337
+                ],
+                [
+                    647,
+                    358
+                ],
+                [
+                    100,
+                    358
+                ]
+            ],
+            "rec_score": 0.5021551847457886
+        },
+        {
+            "content": "中道改革連合公認 広島3区",
+            "det_score": 0.7511500386292473,
+            "direction": "vertical",
+            "points": [
+                [
+                    2133,
+                    315
+                ],
+                [
+                    2162,
+                    315
+                ],
+                [
+                    2162,
+                    638
+                ],
+                [
+                    2133,
+                    638
+                ]
+            ],
+            "rec_score": 0.9900718331336975
+        },
+        {
+            "content": "人への投資と経済の再生",
+            "det_score": 0.8972159150384769,
+            "direction": "horizontal",
+            "points": [
+                [
+                    924,
+                    289
+                ],
+                [
+                    1608,
+                    289
+                ],
+                [
+                    1608,
+                    350
+                ],
+                [
+                    924,
+                    350
+                ]
+            ],
+            "rec_score": 0.9995090961456299
+        },
+        {
+            "content": "家族 妻と4人の子ども",
+            "det_score": 0.8579346080405793,
+            "direction": "horizontal",
+            "points": [
+                [
+                    96,
+                    289
+                ],
+                [
+                    336,
+                    289
+                ],
+                [
+                    336,
+                    315
+                ],
+                [
+                    96,
+                    315
+                ]
+            ],
+            "rec_score": 0.9997686147689819
+        },
+        {
+            "content": "1981年9月30日生まれ 小3から高3まで野球部",
+            "det_score": 0.8521226248764879,
+            "direction": "horizontal",
+            "points": [
+                [
+                    103,
+                    246
+                ],
+                [
+                    609,
+                    246
+                ],
+                [
+                    609,
+                    268
+                ],
+                [
+                    103,
+                    268
+                ]
+            ],
+            "rec_score": 0.9944139719009399
+        },
+        {
+            "content": "あずまかつやプロフィール",
+            "det_score": 0.8020925888028809,
+            "direction": "vertical",
+            "points": [
+                [
+                    53,
+                    242
+                ],
+                [
+                    82,
+                    242
+                ],
+                [
+                    82,
+                    508
+                ],
+                [
+                    53,
+                    508
+                ]
+            ],
+            "rec_score": 0.9920494556427002
+        },
+        {
+            "content": "誰にもやさしい社会保障",
+            "det_score": 0.8813882716223645,
+            "direction": "horizontal",
+            "points": [
+                [
+                    927,
+                    193
+                ],
+                [
+                    1603,
+                    193
+                ],
+                [
+                    1603,
+                    253
+                ],
+                [
+                    927,
+                    253
+                ]
+            ],
+            "rec_score": 0.9992222189903259
+        },
+        {
+            "content": "繋ぐ!未来へ!より添う政治",
+            "det_score": 0.8892178038516099,
+            "direction": "horizontal",
+            "points": [
+                [
+                    236,
+                    180
+                ],
+                [
+                    716,
+                    180
+                ],
+                [
+                    716,
+                    223
+                ],
+                [
+                    236,
+                    223
+                ]
+            ],
+            "rec_score": 0.9697694182395935
+        },
+        {
+            "content": "Centris Reform Allionce",
+            "det_score": 0.6738067087139527,
+            "direction": "horizontal",
+            "points": [
+                [
+                    971,
+                    144
+                ],
+                [
+                    1094,
+                    145
+                ],
+                [
+                    1093,
+                    160
+                ],
+                [
+                    971,
+                    158
+                ]
+            ],
+            "rec_score": 0.8886057734489441
+        },
+        {
+            "content": "(ちゅうどう)公認",
+            "det_score": 0.8746160177445887,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1143,
+                    78
+                ],
+                [
+                    1601,
+                    78
+                ],
+                [
+                    1601,
+                    140
+                ],
+                [
+                    1143,
+                    140
+                ]
+            ],
+            "rec_score": 0.7740626335144043
+        },
+        {
+            "content": "あずまだ",
+            "det_score": 0.8467131318886956,
+            "direction": "vertical",
+            "points": [
+                [
+                    1930,
+                    17
+                ],
+                [
+                    2147,
+                    22
+                ],
+                [
+                    2134,
+                    658
+                ],
+                [
+                    1917,
+                    654
+                ]
+            ],
+            "rec_score": 0.52564936876297
+        },
+        {
+            "content": "中道路(",
+            "det_score": 0.6382400273031452,
+            "direction": "horizontal",
+            "points": [
+                [
+                    916,
+                    43
+                ],
+                [
+                    1177,
+                    43
+                ],
+                [
+                    1177,
+                    164
+                ],
+                [
+                    916,
+                    164
+                ]
+            ],
+            "rec_score": 0.19871030747890472
+        },
+        {
+            "content": "あずま かつや ○",
+            "det_score": 0.8319587830251105,
+            "direction": "horizontal",
+            "points": [
+                [
+                    66,
+                    34
+                ],
+                [
+                    948,
+                    38
+                ],
+                [
+                    947,
+                    170
+                ],
+                [
+                    65,
+                    167
+                ]
+            ],
+            "rec_score": 0.45430871844291687
+        },
+        {
+            "content": "衆議院議員候補",
+            "det_score": 0.8238697898681454,
+            "direction": "vertical",
+            "points": [
+                [
+                    2131,
+                    50
+                ],
+                [
+                    2166,
+                    50
+                ],
+                [
+                    2166,
+                    274
+                ],
+                [
+                    2131,
+                    274
+                ]
+            ],
+            "rec_score": 0.9996396899223328
+        }
+    ]
+}

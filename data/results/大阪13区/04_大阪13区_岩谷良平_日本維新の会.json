@@ -1,0 +1,2011 @@
+{
+    "figures": [
+        {
+            "box": [
+                1228,
+                37,
+                2009,
+                122
+            ],
+            "direction": "horizontal",
+            "order": 25,
+            "paragraphs": [
+                {
+                    "box": [
+                        1246,
+                        52,
+                        1277,
+                        78
+                    ],
+                    "contents": "You",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1241,
+                        75,
+                        1284,
+                        103
+                    ],
+                    "contents": "Thie",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1295,
+                        38,
+                        1344,
+                        60
+                    ],
+                    "contents": "回路分",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1559,
+                        49,
+                        1605,
+                        117
+                    ],
+                    "contents": "(1",
+                    "direction": "horizontal",
+                    "order": 3,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1872,
+                        67,
+                        1914,
+                        95
+                    ],
+                    "contents": "UNE",
+                    "direction": "horizontal",
+                    "order": 4,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1649,
+                200,
+                1836,
+                484
+            ],
+            "direction": "horizontal",
+            "order": 35,
+            "paragraphs": []
+        },
+        {
+            "box": [
+                1716,
+                555,
+                1870,
+                694
+            ],
+            "direction": "horizontal",
+            "order": 39,
+            "paragraphs": [
+                {
+                    "box": [
+                        1753,
+                        574,
+                        1827,
+                        594
+                    ],
+                    "contents": "209.210 金",
+                    "direction": "horizontal",
+                    "order": 0,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1738,
+                        599,
+                        1843,
+                        656
+                    ],
+                    "contents": "★★★\n三ツ星国会議員",
+                    "direction": "horizontal",
+                    "order": 1,
+                    "role": null
+                },
+                {
+                    "box": [
+                        1739,
+                        654,
+                        1837,
+                        678
+                    ],
+                    "contents": "Avard det met mer",
+                    "direction": "horizontal",
+                    "order": 2,
+                    "role": null
+                }
+            ]
+        },
+        {
+            "box": [
+                1900,
+                635,
+                2047,
+                701
+            ],
+            "direction": "horizontal",
+            "order": 41,
+            "paragraphs": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "box": [
+                29,
+                21,
+                1155,
+                95
+            ],
+            "contents": "高市総理と維新の連立に賛成なら岩谷に投票を。",
+            "direction": "horizontal",
+            "order": 0,
+            "role": null
+        },
+        {
+            "box": [
+                57,
+                114,
+                660,
+                169
+            ],
+            "contents": "維新·岩谷は大阪で有言実行!",
+            "direction": "horizontal",
+            "order": 1,
+            "role": null
+        },
+        {
+            "box": [
+                42,
+                190,
+                494,
+                222
+            ],
+            "contents": "1 万博、大成功!(2013年に岩谷が発案)",
+            "direction": "horizontal",
+            "order": 2,
+            "role": null
+        },
+        {
+            "box": [
+                42,
+                243,
+                548,
+                309
+            ],
+            "contents": "2 10年連続赤字だった財政を、\n改革により15年連続の黒字に",
+            "direction": "horizontal",
+            "order": 3,
+            "role": null
+        },
+        {
+            "box": [
+                43,
+                332,
+                670,
+                364
+            ],
+            "contents": "3 教育無償化や成長戦略を実行し、経済成長を実現",
+            "direction": "horizontal",
+            "order": 4,
+            "role": null
+        },
+        {
+            "box": [
+                44,
+                383,
+                594,
+                449
+            ],
+            "contents": "4 夢洲に世界トップレベルの\nIR(統合型リゾート)の誘致に成功",
+            "direction": "horizontal",
+            "order": 5,
+            "role": null
+        },
+        {
+            "box": [
+                37,
+                497,
+                300,
+                546
+            ],
+            "contents": "副首都·大阪",
+            "direction": "horizontal",
+            "order": 6,
+            "role": null
+        },
+        {
+            "box": [
+                25,
+                563,
+                312,
+                599
+            ],
+            "contents": "大阪から経済成長を。",
+            "direction": "horizontal",
+            "order": 7,
+            "role": null
+        },
+        {
+            "box": [
+                24,
+                616,
+                66,
+                639
+            ],
+            "contents": "など·",
+            "direction": "horizontal",
+            "order": 8,
+            "role": null
+        },
+        {
+            "box": [
+                649,
+                438,
+                687,
+                467
+            ],
+            "contents": "など",
+            "direction": "horizontal",
+            "order": 9,
+            "role": null
+        },
+        {
+            "box": [
+                753,
+                111,
+                1154,
+                210
+            ],
+            "contents": "与党となって3ヶ月、\n国でも有言実行!",
+            "direction": "horizontal",
+            "order": 10,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                742,
+                219,
+                1099,
+                249
+            ],
+            "contents": "2「年収の壁」を178万円に!",
+            "direction": "horizontal",
+            "order": 11,
+            "role": null
+        },
+        {
+            "box": [
+                741,
+                258,
+                1078,
+                288
+            ],
+            "contents": "マガソリン暫定税率を廃止!",
+            "direction": "horizontal",
+            "order": 12,
+            "role": null
+        },
+        {
+            "box": [
+                742,
+                297,
+                1071,
+                327
+            ],
+            "contents": "マ電気·ガス代の徹底補助",
+            "direction": "horizontal",
+            "order": 13,
+            "role": null
+        },
+        {
+            "box": [
+                742,
+                336,
+                1089,
+                366
+            ],
+            "contents": "※社会保険料の軽減に着手!",
+            "direction": "horizontal",
+            "order": 14,
+            "role": null
+        },
+        {
+            "box": [
+                741,
+                375,
+                1107,
+                406
+            ],
+            "contents": "マ 所得制限なしの教育無化!",
+            "direction": "horizontal",
+            "order": 15,
+            "role": null
+        },
+        {
+            "box": [
+                742,
+                414,
+                1164,
+                463
+            ],
+            "contents": "▼介護·障害福祉従事者の処遇改善\nなど",
+            "direction": "horizontal",
+            "order": 16,
+            "role": null
+        },
+        {
+            "box": [
+                346,
+                498,
+                765,
+                545
+            ],
+            "contents": "社会保険料下げる改革",
+            "direction": "horizontal",
+            "order": 17,
+            "role": null
+        },
+        {
+            "box": [
+                444,
+                564,
+                667,
+                597
+            ],
+            "contents": "手取りを上げる!",
+            "direction": "horizontal",
+            "order": 18,
+            "role": null
+        },
+        {
+            "box": [
+                816,
+                473,
+                1167,
+                564
+            ],
+            "contents": "食品消費税O(%)",
+            "direction": "horizontal",
+            "order": 19,
+            "role": null
+        },
+        {
+            "box": [
+                847,
+                564,
+                1112,
+                598
+            ],
+            "contents": "物価高に打ち勝つ。",
+            "direction": "horizontal",
+            "order": 20,
+            "role": null
+        },
+        {
+            "box": [
+                18,
+                639,
+                872,
+                684
+            ],
+            "contents": "約50項目の連立合意を実行し、日本の再生と成長を。",
+            "direction": "horizontal",
+            "order": 21,
+            "role": null
+        },
+        {
+            "box": [
+                886,
+                644,
+                1101,
+                675
+            ],
+            "contents": "連立合意の全容·",
+            "direction": "horizontal",
+            "order": 22,
+            "role": null
+        },
+        {
+            "box": [
+                1221,
+                11,
+                1391,
+                36
+            ],
+            "contents": "\\ 毎日配信中  !!",
+            "direction": "horizontal",
+            "order": 23,
+            "role": null
+        },
+        {
+            "box": [
+                1831,
+                14,
+                2036,
+                35
+            ],
+            "contents": "\\ご質問·ご意見募集中//",
+            "direction": "horizontal",
+            "order": 24,
+            "role": null
+        },
+        {
+            "box": [
+                1227,
+                132,
+                1660,
+                195
+            ],
+            "contents": "「高市総理と維新」",
+            "direction": "horizontal",
+            "order": 26,
+            "role": "section_headings"
+        },
+        {
+            "box": [
+                1261,
+                212,
+                1601,
+                270
+            ],
+            "contents": "の有言実行力!",
+            "direction": "horizontal",
+            "order": 27,
+            "role": null
+        },
+        {
+            "box": [
+                1215,
+                297,
+                1359,
+                328
+            ],
+            "contents": "1980年生",
+            "direction": "horizontal",
+            "order": 28,
+            "role": null
+        },
+        {
+            "box": [
+                1214,
+                334,
+                1513,
+                367
+            ],
+            "contents": "家族:妻·息子(5歳)",
+            "direction": "horizontal",
+            "order": 29,
+            "role": null
+        },
+        {
+            "box": [
+                1214,
+                373,
+                1606,
+                403
+            ],
+            "contents": "22歳\n· 早稲田大学 法学部 卒業",
+            "direction": "horizontal",
+            "order": 30,
+            "role": null
+        },
+        {
+            "box": [
+                1213,
+                410,
+                1609,
+                475
+            ],
+            "contents": "26歳 京都産業大学 大学院 修了\n(法務博士)",
+            "direction": "horizontal",
+            "order": 31,
+            "role": null
+        },
+        {
+            "box": [
+                1213,
+                482,
+                1419,
+                512
+            ],
+            "contents": "28歳~ 行政書士",
+            "direction": "horizontal",
+            "order": 32,
+            "role": null
+        },
+        {
+            "box": [
+                1214,
+                519,
+                1501,
+                548
+            ],
+            "contents": "30歳~大阪府議会議員",
+            "direction": "horizontal",
+            "order": 33,
+            "role": null
+        },
+        {
+            "box": [
+                1213,
+                555,
+                1632,
+                585
+            ],
+            "contents": "33歳 2025大阪·関西万博を発案",
+            "direction": "horizontal",
+            "order": 34,
+            "role": null
+        },
+        {
+            "box": [
+                1213,
+                591,
+                1711,
+                621
+            ],
+            "contents": "34歳~ 米国カフェチェーン日本本部社長等",
+            "direction": "horizontal",
+            "order": 36,
+            "role": null
+        },
+        {
+            "box": [
+                1213,
+                628,
+                1446,
+                657
+            ],
+            "contents": "41歳~衆議院議員",
+            "direction": "horizontal",
+            "order": 37,
+            "role": null
+        },
+        {
+            "box": [
+                1307,
+                664,
+                1666,
+                694
+            ],
+            "contents": "日本維新の会 幹事長等を歴任",
+            "direction": "horizontal",
+            "order": 38,
+            "role": null
+        },
+        {
+            "box": [
+                1876,
+                143,
+                2038,
+                696
+            ],
+            "contents": "岩谷良平\n45歳\nりょうへい\nいわたに",
+            "direction": "vertical",
+            "order": 40,
+            "role": null
+        },
+        {
+            "box": [
+                2062,
+                17,
+                2165,
+                698
+            ],
+            "contents": "日本維新の会(東大阪市)\n前幹事長",
+            "direction": "vertical",
+            "order": 42,
+            "role": null
+        }
+    ],
+    "tables": [],
+    "words": [
+        {
+            "content": "日本維新の会 幹事長等を歴任",
+            "det_score": 0.8690215981115207,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1310,
+                    667
+                ],
+                [
+                    1663,
+                    667
+                ],
+                [
+                    1663,
+                    692
+                ],
+                [
+                    1310,
+                    692
+                ]
+            ],
+            "rec_score": 0.9941968321800232
+        },
+        {
+            "content": "Avard det met mer",
+            "det_score": 0.6508506019802197,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1739,
+                    657
+                ],
+                [
+                    1836,
+                    654
+                ],
+                [
+                    1837,
+                    675
+                ],
+                [
+                    1739,
+                    678
+                ]
+            ],
+            "rec_score": 0.0007500727660953999
+        },
+        {
+            "content": "45歳",
+            "det_score": 0.822800329543258,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1899,
+                    631
+                ],
+                [
+                    2042,
+                    635
+                ],
+                [
+                    2040,
+                    703
+                ],
+                [
+                    1897,
+                    699
+                ]
+            ],
+            "rec_score": 0.9961137175559998
+        },
+        {
+            "content": "約50項目の連立合意を実行し、日本の再生と成長を。",
+            "det_score": 0.8729246374737858,
+            "direction": "horizontal",
+            "points": [
+                [
+                    20,
+                    643
+                ],
+                [
+                    866,
+                    643
+                ],
+                [
+                    866,
+                    681
+                ],
+                [
+                    20,
+                    681
+                ]
+            ],
+            "rec_score": 0.6935701370239258
+        },
+        {
+            "content": "連立合意の全容·",
+            "det_score": 0.8616532581808646,
+            "direction": "horizontal",
+            "points": [
+                [
+                    885,
+                    643
+                ],
+                [
+                    1105,
+                    643
+                ],
+                [
+                    1105,
+                    676
+                ],
+                [
+                    885,
+                    676
+                ]
+            ],
+            "rec_score": 0.47306856513023376
+        },
+        {
+            "content": "三ツ星国会議員",
+            "det_score": 0.7826064597739248,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1738,
+                    636
+                ],
+                [
+                    1842,
+                    636
+                ],
+                [
+                    1842,
+                    660
+                ],
+                [
+                    1738,
+                    660
+                ]
+            ],
+            "rec_score": 0.9618641138076782
+        },
+        {
+            "content": "41歳~衆議院議員",
+            "det_score": 0.9177982187363403,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1215,
+                    630
+                ],
+                [
+                    1443,
+                    630
+                ],
+                [
+                    1443,
+                    655
+                ],
+                [
+                    1215,
+                    655
+                ]
+            ],
+            "rec_score": 0.9992206692695618
+        },
+        {
+            "content": "など·",
+            "det_score": 0.8035976861357155,
+            "direction": "horizontal",
+            "points": [
+                [
+                    19,
+                    612
+                ],
+                [
+                    73,
+                    612
+                ],
+                [
+                    73,
+                    640
+                ],
+                [
+                    19,
+                    640
+                ]
+            ],
+            "rec_score": 0.9867527484893799
+        },
+        {
+            "content": "★★★",
+            "det_score": 0.7942535582544795,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1732,
+                    593
+                ],
+                [
+                    1845,
+                    593
+                ],
+                [
+                    1845,
+                    643
+                ],
+                [
+                    1732,
+                    643
+                ]
+            ],
+            "rec_score": 0.9938043355941772
+        },
+        {
+            "content": "34歳~ 米国カフェチェーン日本本部社長等",
+            "det_score": 0.8832154065879518,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1216,
+                    595
+                ],
+                [
+                    1706,
+                    595
+                ],
+                [
+                    1706,
+                    616
+                ],
+                [
+                    1216,
+                    616
+                ]
+            ],
+            "rec_score": 0.7563859224319458
+        },
+        {
+            "content": "209.210 金",
+            "det_score": 0.7996581482483928,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1750,
+                    575
+                ],
+                [
+                    1830,
+                    575
+                ],
+                [
+                    1830,
+                    597
+                ],
+                [
+                    1750,
+                    597
+                ]
+            ],
+            "rec_score": 0.1035880520939827
+        },
+        {
+            "content": "物価高に打ち勝つ。",
+            "det_score": 0.9033208457033404,
+            "direction": "horizontal",
+            "points": [
+                [
+                    850,
+                    566
+                ],
+                [
+                    1108,
+                    566
+                ],
+                [
+                    1108,
+                    595
+                ],
+                [
+                    850,
+                    595
+                ]
+            ],
+            "rec_score": 0.9319839477539062
+        },
+        {
+            "content": "大阪から経済成長を。",
+            "det_score": 0.8921691846884905,
+            "direction": "horizontal",
+            "points": [
+                [
+                    24,
+                    565
+                ],
+                [
+                    312,
+                    565
+                ],
+                [
+                    312,
+                    598
+                ],
+                [
+                    24,
+                    598
+                ]
+            ],
+            "rec_score": 0.9987133741378784
+        },
+        {
+            "content": "手取りを上げる!",
+            "det_score": 0.8544363783027854,
+            "direction": "horizontal",
+            "points": [
+                [
+                    444,
+                    563
+                ],
+                [
+                    667,
+                    563
+                ],
+                [
+                    667,
+                    597
+                ],
+                [
+                    444,
+                    597
+                ]
+            ],
+            "rec_score": 0.9803550839424133
+        },
+        {
+            "content": "33歳 2025大阪·関西万博を発案",
+            "det_score": 0.8845655142208156,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1214,
+                    555
+                ],
+                [
+                    1630,
+                    555
+                ],
+                [
+                    1630,
+                    584
+                ],
+                [
+                    1214,
+                    584
+                ]
+            ],
+            "rec_score": 0.9960670471191406
+        },
+        {
+            "content": "30歳~大阪府議会議員",
+            "det_score": 0.8652857621739358,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1214,
+                    519
+                ],
+                [
+                    1499,
+                    519
+                ],
+                [
+                    1499,
+                    548
+                ],
+                [
+                    1214,
+                    548
+                ]
+            ],
+            "rec_score": 0.9995200037956238
+        },
+        {
+            "content": "社会保険料下げる改革",
+            "det_score": 0.8915497536607718,
+            "direction": "horizontal",
+            "points": [
+                [
+                    348,
+                    501
+                ],
+                [
+                    762,
+                    501
+                ],
+                [
+                    762,
+                    542
+                ],
+                [
+                    348,
+                    542
+                ]
+            ],
+            "rec_score": 0.9956458210945129
+        },
+        {
+            "content": "副首都·大阪",
+            "det_score": 0.9057553053945303,
+            "direction": "horizontal",
+            "points": [
+                [
+                    37,
+                    498
+                ],
+                [
+                    299,
+                    498
+                ],
+                [
+                    299,
+                    545
+                ],
+                [
+                    37,
+                    545
+                ]
+            ],
+            "rec_score": 0.9932995438575745
+        },
+        {
+            "content": "食品消費税O(%)",
+            "det_score": 0.8055303584227032,
+            "direction": "horizontal",
+            "points": [
+                [
+                    819,
+                    473
+                ],
+                [
+                    1167,
+                    486
+                ],
+                [
+                    1164,
+                    564
+                ],
+                [
+                    816,
+                    551
+                ]
+            ],
+            "rec_score": 0.06255346536636353
+        },
+        {
+            "content": "28歳~ 行政書士",
+            "det_score": 0.8581724455166382,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1212,
+                    481
+                ],
+                [
+                    1421,
+                    481
+                ],
+                [
+                    1421,
+                    515
+                ],
+                [
+                    1212,
+                    515
+                ]
+            ],
+            "rec_score": 0.9997087717056274
+        },
+        {
+            "content": "りょうへい",
+            "det_score": 0.7971865052338875,
+            "direction": "vertical",
+            "points": [
+                [
+                    1871,
+                    476
+                ],
+                [
+                    1896,
+                    476
+                ],
+                [
+                    1896,
+                    591
+                ],
+                [
+                    1871,
+                    591
+                ]
+            ],
+            "rec_score": 0.9672784209251404
+        },
+        {
+            "content": "(法務博士)",
+            "det_score": 0.8745696998221126,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1310,
+                    443
+                ],
+                [
+                    1442,
+                    443
+                ],
+                [
+                    1442,
+                    474
+                ],
+                [
+                    1310,
+                    474
+                ]
+            ],
+            "rec_score": 0.997930109500885
+        },
+        {
+            "content": "など",
+            "det_score": 0.7267043123058244,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1134,
+                    443
+                ],
+                [
+                    1163,
+                    443
+                ],
+                [
+                    1163,
+                    463
+                ],
+                [
+                    1134,
+                    463
+                ]
+            ],
+            "rec_score": 0.9999697208404541
+        },
+        {
+            "content": "など",
+            "det_score": 0.6940561716860913,
+            "direction": "horizontal",
+            "points": [
+                [
+                    649,
+                    438
+                ],
+                [
+                    687,
+                    438
+                ],
+                [
+                    687,
+                    467
+                ],
+                [
+                    649,
+                    467
+                ]
+            ],
+            "rec_score": 0.9726287126541138
+        },
+        {
+            "content": "IR(統合型リゾート)の誘致に成功",
+            "det_score": 0.8371665735696424,
+            "direction": "horizontal",
+            "points": [
+                [
+                    168,
+                    420
+                ],
+                [
+                    592,
+                    420
+                ],
+                [
+                    592,
+                    445
+                ],
+                [
+                    168,
+                    445
+                ]
+            ],
+            "rec_score": 0.9927265644073486
+        },
+        {
+            "content": "▼介護·障害福祉従事者の処遇改善",
+            "det_score": 0.8431393006992265,
+            "direction": "horizontal",
+            "points": [
+                [
+                    744,
+                    417
+                ],
+                [
+                    1155,
+                    417
+                ],
+                [
+                    1155,
+                    442
+                ],
+                [
+                    744,
+                    442
+                ]
+            ],
+            "rec_score": 0.32043829560279846
+        },
+        {
+            "content": "26歳 京都産業大学 大学院 修了",
+            "det_score": 0.809555242628512,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1211,
+                    407
+                ],
+                [
+                    1611,
+                    407
+                ],
+                [
+                    1611,
+                    441
+                ],
+                [
+                    1211,
+                    441
+                ]
+            ],
+            "rec_score": 0.9995237588882446
+        },
+        {
+            "content": "4 夢洲に世界トップレベルの",
+            "det_score": 0.8039456347785494,
+            "direction": "horizontal",
+            "points": [
+                [
+                    38,
+                    381
+                ],
+                [
+                    413,
+                    381
+                ],
+                [
+                    413,
+                    418
+                ],
+                [
+                    38,
+                    418
+                ]
+            ],
+            "rec_score": 0.981450080871582
+        },
+        {
+            "content": "マ 所得制限なしの教育無化!",
+            "det_score": 0.8736485573715471,
+            "direction": "horizontal",
+            "points": [
+                [
+                    744,
+                    378
+                ],
+                [
+                    1104,
+                    378
+                ],
+                [
+                    1104,
+                    403
+                ],
+                [
+                    744,
+                    403
+                ]
+            ],
+            "rec_score": 0.5783069729804993
+        },
+        {
+            "content": "· 早稲田大学 法学部 卒業",
+            "det_score": 0.8077398537278251,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1262,
+                    374
+                ],
+                [
+                    1602,
+                    374
+                ],
+                [
+                    1602,
+                    399
+                ],
+                [
+                    1262,
+                    399
+                ]
+            ],
+            "rec_score": 0.07103725522756577
+        },
+        {
+            "content": "22歳",
+            "det_score": 0.7662323165225655,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1214,
+                    374
+                ],
+                [
+                    1276,
+                    374
+                ],
+                [
+                    1276,
+                    402
+                ],
+                [
+                    1214,
+                    402
+                ]
+            ],
+            "rec_score": 0.9999575614929199
+        },
+        {
+            "content": "※社会保険料の軽減に着手!",
+            "det_score": 0.8574406193170083,
+            "direction": "horizontal",
+            "points": [
+                [
+                    741,
+                    336
+                ],
+                [
+                    1086,
+                    336
+                ],
+                [
+                    1086,
+                    365
+                ],
+                [
+                    741,
+                    365
+                ]
+            ],
+            "rec_score": 0.1016150563955307
+        },
+        {
+            "content": "家族:妻·息子(5歳)",
+            "det_score": 0.8801333450466928,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1215,
+                    335
+                ],
+                [
+                    1512,
+                    335
+                ],
+                [
+                    1512,
+                    364
+                ],
+                [
+                    1215,
+                    364
+                ]
+            ],
+            "rec_score": 0.9936367869377136
+        },
+        {
+            "content": "3 教育無償化や成長戦略を実行し、経済成長を実現",
+            "det_score": 0.8088998569835764,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    324
+                ],
+                [
+                    673,
+                    324
+                ],
+                [
+                    673,
+                    370
+                ],
+                [
+                    34,
+                    370
+                ]
+            ],
+            "rec_score": 0.9927754402160645
+        },
+        {
+            "content": "マ電気·ガス代の徹底補助",
+            "det_score": 0.8472390785341776,
+            "direction": "horizontal",
+            "points": [
+                [
+                    744,
+                    300
+                ],
+                [
+                    1067,
+                    300
+                ],
+                [
+                    1067,
+                    325
+                ],
+                [
+                    744,
+                    325
+                ]
+            ],
+            "rec_score": 0.4011005461215973
+        },
+        {
+            "content": "1980年生",
+            "det_score": 0.8801421882876431,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1214,
+                    297
+                ],
+                [
+                    1358,
+                    297
+                ],
+                [
+                    1358,
+                    328
+                ],
+                [
+                    1214,
+                    328
+                ]
+            ],
+            "rec_score": 0.9999678134918213
+        },
+        {
+            "content": "改革により15年連続の黒字に",
+            "det_score": 0.8279763003441994,
+            "direction": "horizontal",
+            "points": [
+                [
+                    168,
+                    280
+                ],
+                [
+                    544,
+                    280
+                ],
+                [
+                    544,
+                    305
+                ],
+                [
+                    168,
+                    305
+                ]
+            ],
+            "rec_score": 0.9900280237197876
+        },
+        {
+            "content": "マガソリン暫定税率を廃止!",
+            "det_score": 0.8486670322516874,
+            "direction": "horizontal",
+            "points": [
+                [
+                    743,
+                    257
+                ],
+                [
+                    1075,
+                    257
+                ],
+                [
+                    1075,
+                    286
+                ],
+                [
+                    743,
+                    286
+                ]
+            ],
+            "rec_score": 0.47921451926231384
+        },
+        {
+            "content": "2 10年連続赤字だった財政を、",
+            "det_score": 0.8279813642293002,
+            "direction": "horizontal",
+            "points": [
+                [
+                    38,
+                    240
+                ],
+                [
+                    447,
+                    240
+                ],
+                [
+                    447,
+                    278
+                ],
+                [
+                    38,
+                    278
+                ]
+            ],
+            "rec_score": 0.9867754578590393
+        },
+        {
+            "content": "いわたに",
+            "det_score": 0.7371370129458341,
+            "direction": "vertical",
+            "points": [
+                [
+                    1869,
+                    229
+                ],
+                [
+                    1899,
+                    229
+                ],
+                [
+                    1899,
+                    342
+                ],
+                [
+                    1869,
+                    342
+                ]
+            ],
+            "rec_score": 0.9948517680168152
+        },
+        {
+            "content": "の有言実行力!",
+            "det_score": 0.9010767144284427,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1264,
+                    215
+                ],
+                [
+                    1599,
+                    215
+                ],
+                [
+                    1599,
+                    266
+                ],
+                [
+                    1264,
+                    266
+                ]
+            ],
+            "rec_score": 0.933916449546814
+        },
+        {
+            "content": "2「年収の壁」を178万円に!",
+            "det_score": 0.8383171856232466,
+            "direction": "horizontal",
+            "points": [
+                [
+                    743,
+                    219
+                ],
+                [
+                    1100,
+                    219
+                ],
+                [
+                    1100,
+                    248
+                ],
+                [
+                    743,
+                    248
+                ]
+            ],
+            "rec_score": 0.5005851984024048
+        },
+        {
+            "content": "1 万博、大成功!(2013年に岩谷が発案)",
+            "det_score": 0.8116484923984826,
+            "direction": "horizontal",
+            "points": [
+                [
+                    38,
+                    187
+                ],
+                [
+                    498,
+                    187
+                ],
+                [
+                    498,
+                    225
+                ],
+                [
+                    38,
+                    225
+                ]
+            ],
+            "rec_score": 0.9245505928993225
+        },
+        {
+            "content": "岩谷良平",
+            "det_score": 0.8494431178516184,
+            "direction": "vertical",
+            "points": [
+                [
+                    1895,
+                    130
+                ],
+                [
+                    2053,
+                    130
+                ],
+                [
+                    2053,
+                    646
+                ],
+                [
+                    1895,
+                    646
+                ]
+            ],
+            "rec_score": 0.9906529784202576
+        },
+        {
+            "content": "国でも有言実行!",
+            "det_score": 0.888613744602733,
+            "direction": "horizontal",
+            "points": [
+                [
+                    831,
+                    159
+                ],
+                [
+                    1152,
+                    156
+                ],
+                [
+                    1153,
+                    203
+                ],
+                [
+                    831,
+                    207
+                ]
+            ],
+            "rec_score": 0.8317256569862366
+        },
+        {
+            "content": "「高市総理と維新」",
+            "det_score": 0.8967299603875107,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1222,
+                    135
+                ],
+                [
+                    1655,
+                    135
+                ],
+                [
+                    1655,
+                    191
+                ],
+                [
+                    1222,
+                    191
+                ]
+            ],
+            "rec_score": 0.9697165489196777
+        },
+        {
+            "content": "維新·岩谷は大阪で有言実行!",
+            "det_score": 0.8896905378047899,
+            "direction": "horizontal",
+            "points": [
+                [
+                    57,
+                    114
+                ],
+                [
+                    660,
+                    114
+                ],
+                [
+                    660,
+                    169
+                ],
+                [
+                    57,
+                    169
+                ]
+            ],
+            "rec_score": 0.8995630741119385
+        },
+        {
+            "content": "与党となって3ヶ月、",
+            "det_score": 0.8667107516450923,
+            "direction": "horizontal",
+            "points": [
+                [
+                    752,
+                    113
+                ],
+                [
+                    1133,
+                    110
+                ],
+                [
+                    1134,
+                    157
+                ],
+                [
+                    752,
+                    160
+                ]
+            ],
+            "rec_score": 0.959409773349762
+        },
+        {
+            "content": "前幹事長",
+            "det_score": 0.8155441640357122,
+            "direction": "vertical",
+            "points": [
+                [
+                    2046,
+                    98
+                ],
+                [
+                    2084,
+                    98
+                ],
+                [
+                    2084,
+                    271
+                ],
+                [
+                    2046,
+                    271
+                ]
+            ],
+            "rec_score": 0.9995986223220825
+        },
+        {
+            "content": "Thie",
+            "det_score": 0.7994913323206848,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1241,
+                    75
+                ],
+                [
+                    1284,
+                    75
+                ],
+                [
+                    1284,
+                    103
+                ],
+                [
+                    1241,
+                    103
+                ]
+            ],
+            "rec_score": 0.06028445065021515
+        },
+        {
+            "content": "UNE",
+            "det_score": 0.7572391338439451,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1872,
+                    67
+                ],
+                [
+                    1914,
+                    67
+                ],
+                [
+                    1914,
+                    95
+                ],
+                [
+                    1872,
+                    95
+                ]
+            ],
+            "rec_score": 0.8903144001960754
+        },
+        {
+            "content": "(1",
+            "det_score": 0.7192583061289043,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1563,
+                    49
+                ],
+                [
+                    1605,
+                    52
+                ],
+                [
+                    1601,
+                    117
+                ],
+                [
+                    1559,
+                    114
+                ]
+            ],
+            "rec_score": 0.7385585904121399
+        },
+        {
+            "content": "You",
+            "det_score": 0.7888409187847918,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1246,
+                    52
+                ],
+                [
+                    1277,
+                    52
+                ],
+                [
+                    1277,
+                    78
+                ],
+                [
+                    1246,
+                    78
+                ]
+            ],
+            "rec_score": 0.9846853613853455
+        },
+        {
+            "content": "高市総理と維新の連立に賛成なら岩谷に投票を。",
+            "det_score": 0.8998695535904758,
+            "direction": "horizontal",
+            "points": [
+                [
+                    34,
+                    26
+                ],
+                [
+                    1153,
+                    26
+                ],
+                [
+                    1153,
+                    89
+                ],
+                [
+                    34,
+                    89
+                ]
+            ],
+            "rec_score": 0.8140059113502502
+        },
+        {
+            "content": "回路分",
+            "det_score": 0.5516561934103569,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1295,
+                    38
+                ],
+                [
+                    1344,
+                    38
+                ],
+                [
+                    1344,
+                    60
+                ],
+                [
+                    1295,
+                    60
+                ]
+            ],
+            "rec_score": 0.08459759503602982
+        },
+        {
+            "content": "日本維新の会(東大阪市)",
+            "det_score": 0.8670754549146614,
+            "direction": "vertical",
+            "points": [
+                [
+                    2089,
+                    9
+                ],
+                [
+                    2164,
+                    10
+                ],
+                [
+                    2157,
+                    707
+                ],
+                [
+                    2082,
+                    706
+                ]
+            ],
+            "rec_score": 0.909345269203186
+        },
+        {
+            "content": "\\ご質問·ご意見募集中//",
+            "det_score": 0.7742200738392019,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1831,
+                    14
+                ],
+                [
+                    2034,
+                    14
+                ],
+                [
+                    2034,
+                    35
+                ],
+                [
+                    1831,
+                    35
+                ]
+            ],
+            "rec_score": 0.6617324352264404
+        },
+        {
+            "content": "\\ 毎日配信中  !!",
+            "det_score": 0.8581207676374041,
+            "direction": "horizontal",
+            "points": [
+                [
+                    1201,
+                    11
+                ],
+                [
+                    1393,
+                    11
+                ],
+                [
+                    1393,
+                    36
+                ],
+                [
+                    1201,
+                    36
+                ]
+            ],
+            "rec_score": 0.12689650058746338
+        }
+    ]
+}
