@@ -92,6 +92,7 @@ party didn't loose another election after it won back in 2012.
 \end{itemize}
 ```
 
+<!-- 
 ## The case of Japan {#sec-context}
 
 Structure:
@@ -101,6 +102,7 @@ Structure:
   - Koenkai [@krauss_pekkanen11]
 
 Few 
+-->
 
 ## Model {#sec-model}
 
@@ -211,8 +213,8 @@ that can be made from the data generated.
 
 # Results {#sec-results}
 
-This section presents some preliminary results. From the pipeline highlighted
-above, we ran it on 
+This section presents some preliminary results. From the pipeline
+highlighted above, we ran it on the sample of electoral bulletins.
 
 # Deliverables {#sec-deliverable}
 
